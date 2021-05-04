@@ -1,21 +1,15 @@
 [
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-04 15:00:00",
-        "location": "Szpital Powiatowy",
-        "address": "Ko\u015bciuszki 201, W\u0119gr\u00f3w"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 07:00:00",
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:30:00",
         "location": "Punkt szczepie\u0144 (doro\u015bli i dzieci)",
         "address": "Mazowiecka 13B, Czerwin"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-11 13:45:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -229,21 +223,15 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-03 08:30:00",
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock"
+        "date": "2021-05-18 15:05:00",
+        "location": "Gabinet diagnostyczno-zabiegowy Nr 13 - MAZOWIECKI SZPITAL SPECJALISTYCZNY SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "ul. Juliana Aleksandrowicza 5, Radom"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-03 09:05:00",
-        "location": "Centrum Leczniczo-Us\u0142ugowe imienia \u015awi\u0119tej Anny Sp\u00f3\u0142ka z ograniczon\u0105 odpowiedzialno\u015bci\u0105",
-        "address": "Jana Kochanowskiego 22A, P\u0142ock"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-04 06:30:00",
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock"
+        "date": "2021-05-25 07:45:00",
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa"
     },
     {
         "vaccine": "Pfizer",
@@ -260,12 +248,6 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-08 09:55:00",
-        "location": "Poradnia Lekarza POZ Gr\u00f3jec",
-        "address": "Mszczonowska 35, Gr\u00f3jec"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-08 10:45:00",
         "location": "Poradnia Lekarza POZ Gr\u00f3jec",
         "address": "Mszczonowska 35, Gr\u00f3jec"
     },
@@ -506,6 +488,12 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-11 09:50:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-11 09:55:00",
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
     }
