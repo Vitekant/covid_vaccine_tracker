@@ -7,15 +7,27 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-08 09:45:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom"
+        "date": "2021-05-06 10:30:00",
+        "location": "Punkt szczepie\u0144 (doro\u015bli i dzieci)",
+        "address": "Mazowiecka 13B, Czerwin"
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-08 10:15:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom"
+        "date": "2021-05-06 14:45:00",
+        "location": "Centrum Medyczne LUX MED Warszawa Al. Jerozolimskie",
+        "address": "Al. Jerozolimskie 162, Warszawa"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-07 09:55:00",
+        "location": "E-KOSMEA PAWE\u0141 D\u0104BROWSKI",
+        "address": "Pow\u0105zkowska 44, Warszawa"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-08 11:05:00",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
+        "address": "Goworowska 39A, W\u0105sewo"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -28,12 +40,6 @@
         "date": "2021-05-08 15:45:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-10 07:45:00",
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -229,6 +235,12 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "date": "2021-05-14 07:45:00",
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "date": "2021-05-14 09:00:00",
         "location": "Gabinet diagnostyczno - zabiegowy dla lekarza POZ",
         "address": "3 Maja 5, Pu\u0142tusk"
@@ -286,24 +298,6 @@
         "date": "2021-06-05 13:45:00",
         "location": "Centrum Medyczne ZANMED",
         "address": "J\u00f3zefa Pi\u0142sudskiego 33, Halin\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-08 06:05:00",
-        "location": "Poradnia Lekarza POZ Gr\u00f3jec",
-        "address": "Mszczonowska 35, Gr\u00f3jec"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-08 09:20:00",
-        "location": "Poradnia Lekarza POZ Gr\u00f3jec",
-        "address": "Mszczonowska 35, Gr\u00f3jec"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-08 11:40:00",
-        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
-        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa"
     },
     {
         "vaccine": "Pfizer",
@@ -458,6 +452,36 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-11 08:20:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-11 08:25:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-11 08:45:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-11 09:10:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-11 09:15:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-11 09:20:00",
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
     }
