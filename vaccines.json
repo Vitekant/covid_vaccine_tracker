@@ -1,6 +1,26 @@
 [
     {
         "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-05 09:00:00",
+        "location": {
+            "id": "7dce97b1-9697-4f5e-96d7-f565c49139cd",
+            "name": "VITAL-MED MERITUM SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104 SP\u00d3\u0141KA KOMANDYTOWA - Punkt szczepie\u0144",
+            "addressText": "Spacerowa 2, Garbatka-Letnisko",
+            "mobility": "STATIONARY"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-05 10:00:00",
+        "location": {
+            "id": "cd632a24-d8f1-4d87-be3d-4f073b5faae1",
+            "name": "Punkt szczepie\u0144",
+            "addressText": "Wysockiego 12, Warka",
+            "mobility": "MOBILE"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
         "date": "2021-05-06 08:20:00",
         "location": {
             "id": "83110fb5-c1a8-401e-8bce-493e9d0bda08",
@@ -36,16 +56,6 @@
             "id": "7f05c713-e33a-4deb-84db-e1ad0ffb4f40",
             "name": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
             "addressText": "Piastowska  39, Sierpc",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-07 15:00:00",
-        "location": {
-            "id": "fd05ad4c-d160-4872-9e33-d0188adc59cc",
-            "name": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
-            "addressText": "Widok 1, WINNICA",
             "mobility": "STATIONARY"
         }
     },
@@ -471,11 +481,11 @@
     },
     {
         "vaccine": "cov19.pfizer",
-        "date": "2021-05-18 09:05:00",
+        "date": "2021-05-20 10:05:00",
         "location": {
-            "id": "6a37725f-c1fd-47f2-9782-550400d3b317",
-            "name": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \u0141OMIANKI",
-            "addressText": "Warszawska 31, \u0141omianki",
+            "id": "afca6f04-5378-4339-867f-4bbd461c4673",
+            "name": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+            "addressText": "Parkowa 14, Raci\u0105\u017c",
             "mobility": "STATIONARY"
         }
     }
