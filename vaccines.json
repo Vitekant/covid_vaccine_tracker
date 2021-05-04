@@ -1,9 +1,9 @@
 [
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 12:40:00",
-        "location": "NZOZ \"Zdrowie to My\"",
-        "address": "Urocza 14, J\u00f3zefos\u0142aw"
+        "date": "2021-05-05 09:00:00",
+        "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
+        "address": "Nowe \u0141ubki 5A"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -40,6 +40,36 @@
         "date": "2021-05-05 13:10:00",
         "location": "NZOZ \"Zdrowie to My\"",
         "address": "Urocza 14, J\u00f3zefos\u0142aw"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 13:15:00",
+        "location": "NZOZ \"Zdrowie to My\"",
+        "address": "Urocza 14, J\u00f3zefos\u0142aw"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 13:20:00",
+        "location": "NZOZ \"Zdrowie to My\"",
+        "address": "Urocza 14, J\u00f3zefos\u0142aw"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 13:25:00",
+        "location": "NZOZ \"Zdrowie to My\"",
+        "address": "Urocza 14, J\u00f3zefos\u0142aw"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 13:30:00",
+        "location": "NZOZ \"Zdrowie to My\"",
+        "address": "Urocza 14, J\u00f3zefos\u0142aw"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 14:45:00",
+        "location": "Poradnia lekarza POZ ",
+        "address": "Beliny Pra\u017cmowskiego 33a, Radom"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -247,12 +277,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 09:20:00",
-        "location": "Oddzia\u0142 pediatryczny - PCZ Otwock",
-        "address": "Armii Krajowej 3, Otwock"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 09:25:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
@@ -344,14 +368,14 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:30:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
+        "address": "Kredytowa 2, Radzanowo"
     },
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:30:00",
-        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
-        "address": "Kredytowa 2, Radzanowo"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -366,22 +390,22 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 10:45:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+        "vaccine": "Pfizer",
+        "date": "2021-06-01 12:15:00",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
+        "address": "Goworowska 39A, W\u0105sewo"
     },
     {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 10:45:00",
-        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
-        "address": "Kredytowa 2, Radzanowo"
+        "vaccine": "Pfizer",
+        "date": "2021-06-01 12:30:00",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
+        "address": "Goworowska 39A, W\u0105sewo"
     },
     {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 10:50:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+        "vaccine": "Pfizer",
+        "date": "2021-06-09 08:00:00",
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki"
     },
     {
         "vaccine": "Pfizer",
@@ -478,6 +502,12 @@
         "date": "2021-06-09 09:55:00",
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 09:45:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
     },
     {
         "vaccine": "Pfizer",
@@ -766,23 +796,5 @@
         "date": "2021-06-11 09:55:00",
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-11 12:15:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-12 15:30:00",
-        "location": "Centrum Medyczne ZANMED",
-        "address": "J\u00f3zefa Pi\u0142sudskiego 33, Halin\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-13 06:00:00",
-        "location": "O\u015brodek Zdrowia",
-        "address": "Po\u0142udniowa 11B, Miszewo Murowane"
     }
 ]
