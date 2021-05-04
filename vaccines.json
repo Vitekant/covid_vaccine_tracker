@@ -114,16 +114,9 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 2,
+        "count": 1,
         "location": "TER-MED",
         "address": "Szymanowska 17, Teresin"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-10",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
-        "address": "Jana Paw\u0142a II  20, Radzymin"
     },
     {
         "vaccine": "Pfizer",
