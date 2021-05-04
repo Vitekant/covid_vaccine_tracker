@@ -91,6 +91,13 @@
         "address": "Goworowska 39A, W\u0105sewo"
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-06-02",
+        "count": 1,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki"
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
         "count": 11,
@@ -128,13 +135,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 5,
-        "location": "TER-MED",
-        "address": "Szymanowska 17, Teresin"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-10",
         "count": 2,
         "location": "Filia Nr 1 Niepubliczny Zak\u0142ad Opieki Zdrowotnej Eskulap",
         "address": "DZIER\u017bENIN 101, DZIER\u017bENIN"
@@ -145,5 +145,12 @@
         "count": 15,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-10",
+        "count": 4,
+        "location": "TER-MED",
+        "address": "Szymanowska 17, Teresin"
     }
 ]
