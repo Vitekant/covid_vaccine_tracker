@@ -17,7 +17,10 @@
 <script>
 $(document).ready( function () {
      $('#vaccine_table').DataTable( {
-        "ajax": "./vaccines.json",
+        "ajax": {
+          "url": "vaccines.json",
+          "dataSrc": ""
+        } ,
         "columns": [
             { "data": "day" },
             { "data": "count" },
