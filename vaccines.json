@@ -49,6 +49,13 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-22",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew"
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-25",
         "count": 1,
@@ -79,7 +86,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-31",
-        "count": 97,
+        "count": 96,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
@@ -93,7 +100,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-03",
-        "count": 3,
+        "count": 5,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     },
@@ -128,7 +135,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 3,
+        "count": 2,
         "location": "TER-MED",
         "address": "Szymanowska 17, Teresin"
     },
@@ -149,7 +156,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 4,
+        "count": 3,
         "location": "TER-MED",
         "address": "Szymanowska 17, Teresin"
     }
