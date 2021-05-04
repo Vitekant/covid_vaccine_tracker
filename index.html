@@ -15,15 +15,16 @@
 </table>
 <script>
 $(document).ready( function () {
-        table = $('#vaccine_table').DataTable({
-          "ajax": "vaccines.json",
-          columns: [
-        { data: 'day' },        
-        { data: 'count' },     
-        { data: 'vaccine' },
-        { data: 'location' },
-        { data: 'address' }]
-    })
+     $('#vaccine_table').DataTable( {
+        "ajax": "vaccines.json",
+        "columns": [
+            { "data": "day" },
+            { "data": "count" },
+            { "data": "vaccine" },
+            { "data": "location" },
+            { "data": "address" },
+        ]
+    } );
 //     setInterval( function () {
 //           table.ajax.reload();
 //     }, 30000 );
