@@ -37,7 +37,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-08",
-        "count": 7,
+        "count": 6,
         "location": "\"MEDYK\" Sp. z o.o - NPZOZ",
         "address": "ul. Sportowa 17, \u0141askarzew"
     },
@@ -75,13 +75,6 @@
         "count": 10,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 1,
-        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
-        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa"
     },
     {
         "vaccine": "Pfizer",
