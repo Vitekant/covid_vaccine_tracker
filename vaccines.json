@@ -379,18 +379,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-05-10 14:50:00",
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-05-10 15:40:00",
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
-    },
-    {
-        "vaccine": "Pfizer",
         "date": "2021-05-10 16:10:00",
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
@@ -410,12 +398,6 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-05-11 09:40:00",
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-05-11 10:00:00",
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
     },
@@ -470,12 +452,6 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-05-11 11:50:00",
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-05-11 12:00:00",
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
     },
@@ -578,18 +554,6 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-05-11 14:50:00",
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-05-11 15:00:00",
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-05-11 15:20:00",
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
     },
@@ -834,16 +798,22 @@
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
     },
     {
-        "vaccine": "Moderna",
-        "date": "2021-05-27 10:28:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
+        "vaccine": "Pfizer",
+        "date": "2021-05-13 08:30:00",
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
     },
     {
-        "vaccine": "Moderna",
-        "date": "2021-05-27 10:43:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
+        "vaccine": "Pfizer",
+        "date": "2021-05-13 08:40:00",
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-05-13 08:50:00",
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
     },
     {
         "vaccine": "Moderna",
@@ -853,7 +823,7 @@
     },
     {
         "vaccine": "Moderna",
-        "date": "2021-05-27 16:10:00",
+        "date": "2021-05-27 10:48:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
@@ -1430,6 +1400,18 @@
     {
         "vaccine": "Moderna",
         "date": "2021-05-31 07:28:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
+    },
+    {
+        "vaccine": "Moderna",
+        "date": "2021-05-31 07:35:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
+    },
+    {
+        "vaccine": "Moderna",
+        "date": "2021-05-31 07:38:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     }
