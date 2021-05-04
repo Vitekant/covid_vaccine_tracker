@@ -6,9 +6,14 @@
 <script>
 $(document).ready( function () {
   $.getJSON("vaccines.json", function(json) {
-        alert(json);
         $('#vaccine_table').DataTable({
-          data: json
+          data: json,
+          columns: [
+        { data: 'date' },
+        { data: 'vaccine' },
+        { data: 'location.name' },
+        { data: 'location.addressText' }
+    ]
         });
 });
 } );
