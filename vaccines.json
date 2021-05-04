@@ -1,7 +1,19 @@
 [
     {
         "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 09:25:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "date": "2021-05-05 09:40:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 10:25:00",
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
     },
@@ -16,6 +28,18 @@
         "date": "2021-05-05 10:30:00",
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 11:25:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 17:05:00",
+        "location": "Przychodnia Rejonowa w Wy\u015bmierzycach",
+        "address": "ul. 1000-lecia Pa\u0144stwa Polskiego 8, Wy\u015bmierzyce"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -205,12 +229,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-07 09:15:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-07 09:30:00",
         "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
         "address": "Nowe \u0141ubki 5A"
@@ -236,18 +254,12 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-07 10:00:00",
-        "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
-        "address": "Nowe \u0141ubki 5A"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-07 10:00:00",
         "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
         "address": "Kredytowa 2, Radzanowo"
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-07 10:15:00",
+        "date": "2021-05-07 10:00:00",
         "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
         "address": "Nowe \u0141ubki 5A"
     },
@@ -256,6 +268,12 @@
         "date": "2021-05-07 10:15:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-07 10:15:00",
+        "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
+        "address": "Nowe \u0141ubki 5A"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -283,13 +301,25 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "date": "2021-05-07 16:15:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-08 09:50:00",
+        "location": "Centrum Medyczne RAJMEDICA",
+        "address": "ul. Warszawska 11, T\u0142uszcz"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "date": "2021-05-08 10:25:00",
         "location": "SZPITAL TYMCZASOWY - WOJEW\u00d3DZKI SZPITAL ZESPOLONY W P\u0141OCKU",
         "address": "Medyczna 19, P\u0141OCK"
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-10 10:50:00",
+        "date": "2021-05-10 11:10:00",
         "location": "Centrum Medyczne Fundamenti",
         "address": "Ks. I. Skorupki 37A, Z\u0105bki"
     },
@@ -304,6 +334,12 @@
         "date": "2021-05-10 12:00:00",
         "location": "Centrum Medyczne Fundamenti",
         "address": "Ks. I. Skorupki 37A, Z\u0105bki"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-10 15:50:00",
+        "location": "Przychodnia Lekarska - Poradnia Podstawowej Opieki Zdrowotnej",
+        "address": "ul. Grzybowska  34, Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -457,6 +493,12 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "date": "2021-05-13 08:00:00",
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "date": "2021-05-13 10:05:00",
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie"
@@ -468,32 +510,20 @@
         "address": "Pruszkowska 52, RASZYN"
     },
     {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-14 10:30:00",
-        "location": "Centrum Medyczne Petra Medica Filia nr 4",
-        "address": "Cisowa 7, Dr\u0119\u017cewo"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-14 11:35:00",
+        "vaccine": "Moderna",
+        "date": "2021-05-19 13:45:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew"
     },
     {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-14 11:40:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew"
+        "vaccine": "Pfizer",
+        "date": "2021-05-24 18:00:00",
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
     },
     {
         "vaccine": "Moderna",
-        "date": "2021-05-19 12:45:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew"
-    },
-    {
-        "vaccine": "Moderna",
-        "date": "2021-05-19 13:55:00",
+        "date": "2021-05-25 12:15:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew"
     },
@@ -518,12 +548,6 @@
     {
         "vaccine": "Moderna",
         "date": "2021-05-25 12:55:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew"
-    },
-    {
-        "vaccine": "Moderna",
-        "date": "2021-05-25 13:00:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew"
     },
@@ -589,31 +613,61 @@
     },
     {
         "vaccine": "Moderna",
+        "date": "2021-05-25 13:55:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-05-27 11:00:00",
+        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
+        "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA"
+    },
+    {
+        "vaccine": "Moderna",
         "date": "2021-05-29 13:40:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-01 11:15:00",
+        "date": "2021-06-01 09:25:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
         "address": "Andrzeja 23, Pruszk\u00f3w"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-02 09:25:00",
+        "date": "2021-06-01 11:45:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
         "address": "Andrzeja 23, Pruszk\u00f3w"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-02 09:30:00",
+        "date": "2021-06-01 12:40:00",
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-02 08:00:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
         "address": "Andrzeja 23, Pruszk\u00f3w"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-02 09:40:00",
+        "date": "2021-06-02 08:10:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
+        "address": "Andrzeja 23, Pruszk\u00f3w"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-02 08:40:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
+        "address": "Andrzeja 23, Pruszk\u00f3w"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-02 09:05:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
         "address": "Andrzeja 23, Pruszk\u00f3w"
     },
@@ -626,12 +680,6 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-02 09:50:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-02 09:55:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
         "address": "Andrzeja 23, Pruszk\u00f3w"
     },
@@ -709,13 +757,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-04 08:00:00",
+        "date": "2021-06-04 08:05:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
         "address": "Andrzeja 23, Pruszk\u00f3w"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-04 08:05:00",
+        "date": "2021-06-04 08:10:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
         "address": "Andrzeja 23, Pruszk\u00f3w"
     },
