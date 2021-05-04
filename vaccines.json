@@ -42,6 +42,13 @@
         "address": "Piastowska  39, Sierpc"
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "Kili\u0144skiego 4B, Sarnaki"
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 14,
@@ -106,6 +113,13 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-08",
+        "count": 1,
+        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
+        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-09",
         "count": 13,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
@@ -142,7 +156,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 13,
+        "count": 12,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
     },
