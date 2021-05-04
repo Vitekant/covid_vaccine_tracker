@@ -5,7 +5,8 @@
 <table id="vaccine_table" class="display">
           <thead>
             <tr>
-                <th>Date Time</th>
+                <th>Date</th>
+                <th>Count</th>
                 <th>Vaccine</th>
                 <th>Location</th>
               <th>Address</th>
@@ -18,7 +19,8 @@ $(document).ready( function () {
         $('#vaccine_table').DataTable({
           data: json,
           columns: [
-        { data: 'date' },
+        { data: 'day' },        
+        { data: 'count' },     
         { data: 'vaccine' },
         { data: 'location' },
         { data: 'address' }
