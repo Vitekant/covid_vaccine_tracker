@@ -19,24 +19,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 12:05:00",
-        "location": "ZAK\u0141AD OPIEKU\u0143CZO-LECZNICZY",
-        "address": "Mehoffera 72/74, Warszawa"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 12:10:00",
-        "location": "ZAK\u0141AD OPIEKU\u0143CZO-LECZNICZY",
-        "address": "Mehoffera 72/74, Warszawa"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 12:15:00",
-        "location": "ZAK\u0141AD OPIEKU\u0143CZO-LECZNICZY",
-        "address": "Mehoffera 72/74, Warszawa"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-05 12:20:00",
         "location": "ZAK\u0141AD OPIEKU\u0143CZO-LECZNICZY",
         "address": "Mehoffera 72/74, Warszawa"
@@ -49,13 +31,7 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 13:30:00",
-        "location": "CORTEN MEDIC TOMASZ SIKORA",
-        "address": "Pasa\u017c Ursynowski 9, Warszawa"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 13:45:00",
+        "date": "2021-05-05 14:45:00",
         "location": "CORTEN MEDIC TOMASZ SIKORA",
         "address": "Pasa\u017c Ursynowski 9, Warszawa"
     },
@@ -360,20 +336,38 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Pfizer",
-        "date": "2021-05-27 09:00:00",
-        "location": "Poradnia lekarza rodzinnego",
-        "address": "D\u0105br\u00f3wka 52, Lelis"
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 10:00:00",
+        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
+        "address": "Kredytowa 2, Radzanowo"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 10:05:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 10:10:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-05-27 11:00:00",
-        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
-        "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA"
+        "date": "2021-05-18 08:15:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-05-31 14:10:00",
+        "date": "2021-05-18 11:00:00",
+        "location": "PUNKT SZCZEPIE\u0143",
+        "address": "rtm. Witolda Pileckiego 14, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-05-31 13:50:00",
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
     },
@@ -428,6 +422,12 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-05 10:10:00",
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-05 10:15:00",
         "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
         "address": "Napoleona 20, Koby\u0142ka"
     },
@@ -568,17 +568,5 @@
         "date": "2021-06-06 09:55:00",
         "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
         "address": "Napoleona 20, Koby\u0142ka"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-06-15 08:25:00",
-        "location": "Przychodnia Zajezierze",
-        "address": "28 Pu\u0142ku Artylerii Lekkiej 7A, Zajezierze"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-06-29 07:40:00",
-        "location": "Przychodnia Zajezierze",
-        "address": "28 Pu\u0142ku Artylerii Lekkiej 7A, Zajezierze"
     }
 ]
