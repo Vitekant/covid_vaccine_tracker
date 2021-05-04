@@ -51,7 +51,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-18",
-        "count": 7,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w"
     },
@@ -64,10 +64,10 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-31",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno"
+        "day": "2021-05-29",
+        "count": 15,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
+        "address": "Kraszewskiego 8, Ciechan\u00f3w"
     },
     {
         "vaccine": "Moderna",
@@ -107,7 +107,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 7,
+        "count": 5,
         "location": "TER-MED",
         "address": "Szymanowska 17, Teresin"
     },
