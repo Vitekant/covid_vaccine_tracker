@@ -1,15 +1,15 @@
 [
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 08:00:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "11 listopada 28/30, Mordy"
+        "date": "2021-05-04 17:00:00",
+        "location": "Centrum Medyczne Vinea",
+        "address": "Jana Chryzostoma Paska 3, Warka"
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 08:15:00",
-        "location": "Centrum Medyczne LUX MED",
-        "address": "Al. Jerozolimskie 65/79, Warszawa"
+        "date": "2021-05-05 08:00:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "11 listopada 28/30, Mordy"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -272,14 +272,14 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 09:10:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
+        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
     },
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 09:10:00",
-        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
-        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -343,12 +343,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 10:00:00",
-        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
-        "address": "Kredytowa 2, Radzanowo"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:05:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
@@ -358,12 +352,6 @@
         "date": "2021-05-06 10:10:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-01 11:15:00",
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
-        "address": "Goworowska 39A, W\u0105sewo"
     },
     {
         "vaccine": "Pfizer",
@@ -523,13 +511,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-06 08:50:00",
+        "date": "2021-06-05 11:30:00",
         "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
         "address": "Napoleona 20, Koby\u0142ka"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-06 09:15:00",
+        "date": "2021-06-06 08:50:00",
         "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
         "address": "Napoleona 20, Koby\u0142ka"
     },
