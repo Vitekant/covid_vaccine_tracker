@@ -65,7 +65,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 10,
+        "count": 9,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
     },
@@ -79,7 +79,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 11,
+        "count": 12,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
     },
