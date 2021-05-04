@@ -15,8 +15,9 @@
 </table>
 <script>
 $(document).ready( function () {
+  $.getJSON("vaccines.json", function(json) {
      $('#vaccine_table').DataTable( {
-        "ajax": "vaccines.json",
+        "data": "vaccines.json",
         "columns": [
             { "data": "day" },
             { "data": "count" },
@@ -24,7 +25,8 @@ $(document).ready( function () {
             { "data": "location" },
             { "data": "address" },
         ]
-    } );
+    })
+  });
 //     setInterval( function () {
 //           table.ajax.reload();
 //     }, 30000 );
