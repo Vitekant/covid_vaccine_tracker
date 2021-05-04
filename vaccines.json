@@ -10,6 +10,13 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
+        "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
+        "address": "ul. Spacerowa 10, Bia\u0142obrzegi"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
     },
@@ -57,6 +64,13 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-05-13",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-05-20",
         "count": 1,
         "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
@@ -86,7 +100,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-28",
-        "count": 24,
+        "count": 23,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
@@ -100,7 +114,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-31",
-        "count": 72,
+        "count": 73,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
@@ -117,13 +131,6 @@
         "count": 1,
         "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
         "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-04",
-        "count": 1,
-        "location": "TER-MED",
-        "address": "Szymanowska 17, Teresin"
     },
     {
         "vaccine": "Pfizer",
@@ -152,6 +159,13 @@
         "count": 11,
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
+        "address": "Jana Paw\u0142a II  20, Radzymin"
     },
     {
         "vaccine": "Pfizer",
