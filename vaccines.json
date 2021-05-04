@@ -19,6 +19,12 @@
     },
     {
         "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-12 10:30:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
+        "address": "Karczewska 48, Otwock"
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
         "date": "2021-05-12 13:20:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
@@ -228,12 +234,6 @@
         "address": "Olimpijska 3, Sochaczew"
     },
     {
-        "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-14 12:00:00",
-        "location": "Centrum Medyczne Petra Medica Filia nr 4",
-        "address": "Cisowa 7, Dr\u0119\u017cewo"
-    },
-    {
         "vaccine": "cov19.pfizer",
         "date": "2021-06-02 07:30:00",
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
@@ -307,15 +307,15 @@
     },
     {
         "vaccine": "cov19.pfizer",
-        "date": "2021-06-04 08:25:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "S\u0142oneczna 1, \u0141osice"
+        "date": "2021-06-03 10:40:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "cov19.pfizer",
-        "date": "2021-06-05 06:30:00",
-        "location": "O\u015brodek Zdrowia",
-        "address": "Po\u0142udniowa 11B, Miszewo Murowane"
+        "date": "2021-06-04 08:25:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "S\u0142oneczna 1, \u0141osice"
     },
     {
         "vaccine": "cov19.pfizer",
