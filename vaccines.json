@@ -49,6 +49,13 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-18",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-24",
         "count": 1,
@@ -63,9 +70,16 @@
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno"
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-28",
-        "count": 9,
+        "count": 8,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
@@ -79,7 +93,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-31",
-        "count": 87,
+        "count": 88,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
@@ -128,7 +142,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 10,
+        "count": 9,
         "location": "TER-MED",
         "address": "Szymanowska 17, Teresin"
     },
