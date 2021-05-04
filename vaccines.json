@@ -7,6 +7,18 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 12:50:00",
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 13:55:00",
+        "location": "CENTRUM MEDYCZNE W JAKTOROWIE",
+        "address": "Warszawska 24, Chylice Kolonia"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 06:30:00",
         "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
@@ -290,6 +302,12 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:45:00",
+        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
+        "address": "Kredytowa 2, Radzanowo"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 10:45:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -354,16 +372,10 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-07 06:30:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
-    },
-    {
         "vaccine": "Pfizer",
-        "date": "2021-05-26 08:10:00",
-        "location": "Poradnia Lekarza POZ Kulig\u00f3w",
-        "address": "Warszawska 5, Kulig\u00f3w"
+        "date": "2021-06-04 13:40:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     },
     {
         "vaccine": "Pfizer",
@@ -529,12 +541,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-08 12:05:00",
-        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
-        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
         "date": "2021-06-09 06:00:00",
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
@@ -656,14 +662,14 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-09 09:40:00",
-        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
-        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
     },
     {
         "vaccine": "Pfizer",
         "date": "2021-06-09 09:40:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     },
     {
         "vaccine": "Pfizer",
@@ -680,14 +686,14 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-09 09:50:00",
-        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
-        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
     },
     {
         "vaccine": "Pfizer",
         "date": "2021-06-09 09:50:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     },
     {
         "vaccine": "Pfizer",
