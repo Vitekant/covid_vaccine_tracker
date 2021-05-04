@@ -7,18 +7,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 10:00:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "Wysockiego 12, Warka"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 13:10:00",
-        "location": "NZOZ \"Zdrowie to My\"",
-        "address": "Urocza 14, J\u00f3zefos\u0142aw"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 06:30:00",
         "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
@@ -82,12 +70,6 @@
         "date": "2021-05-06 07:30:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 07:30:00",
-        "location": "WOJSKOWY INSTYTUT MEDYCZNY Gabinet Lekarza Podstawowej Opieki Zdrowotnej",
-        "address": "Szaser\u00f3w 128, Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -361,6 +343,12 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 16:15:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 16:20:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
@@ -379,21 +367,21 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-05-26 11:00:00",
-        "location": "PRZYCHODNIA LEKARSKA JACEK KRUPSKI - PUNKT SZCZEPIE\u0143",
-        "address": "DR. ST. PAW\u0141OWSKIEGO 15, MYSZYNIEC"
-    },
-    {
-        "vaccine": "Moderna",
-        "date": "2021-05-31 10:55:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk"
+        "date": "2021-06-01 14:40:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-06 12:00:00",
-        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
-        "address": "Napoleona 20, Koby\u0142ka"
+        "date": "2021-06-01 14:45:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-01 14:50:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     },
     {
         "vaccine": "Pfizer",
@@ -427,13 +415,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-07 10:30:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
-        "address": "Jana Paw\u0142a II  20, Radzymin"
+        "date": "2021-06-06 12:30:00",
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-07 11:05:00",
+        "date": "2021-06-07 10:30:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
         "address": "Jana Paw\u0142a II  20, Radzymin"
     },
@@ -584,6 +572,12 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-10 12:50:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
+        "address": "Andrzeja 23, Pruszk\u00f3w"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 12:50:00",
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
     },
@@ -716,6 +710,18 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-11 09:40:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-11 09:45:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-11 09:50:00",
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
     }
