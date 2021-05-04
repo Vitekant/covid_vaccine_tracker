@@ -8,6 +8,12 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 06:30:00",
+        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
+        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 06:30:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -360,16 +366,16 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-07 06:15:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
-    },
-    {
         "vaccine": "Pfizer",
         "date": "2021-06-01 12:15:00",
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-01 14:10:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     },
     {
         "vaccine": "Pfizer",
@@ -421,51 +427,9 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-09 07:30:00",
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-09 07:40:00",
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-09 07:50:00",
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-09 08:00:00",
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-09 08:10:00",
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-09 08:20:00",
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-09 08:30:00",
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-09 08:40:00",
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
+        "date": "2021-06-04 13:40:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     },
     {
         "vaccine": "Pfizer",
@@ -481,27 +445,9 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-09 08:50:00",
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
         "date": "2021-06-09 08:55:00",
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-09 09:00:00",
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-09 09:10:00",
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
     },
     {
         "vaccine": "Pfizer",
@@ -517,12 +463,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-09 09:20:00",
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
         "date": "2021-06-09 09:25:00",
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
@@ -532,12 +472,6 @@
         "date": "2021-06-09 09:30:00",
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-09 09:30:00",
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
     },
     {
         "vaccine": "Pfizer",
@@ -553,12 +487,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-09 09:40:00",
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
         "date": "2021-06-09 09:45:00",
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
@@ -571,21 +499,9 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-09 09:50:00",
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
         "date": "2021-06-09 09:55:00",
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-09 10:00:00",
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
     },
     {
         "vaccine": "Pfizer",
@@ -608,12 +524,6 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-09 10:40:00",
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-09 10:50:00",
         "location": "Przychodnia Kochanowskiego ",
         "address": "ul. Jana Kochanowskiego 19, Warszawa"
     },
@@ -781,18 +691,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-10 10:10:00",
-        "location": "Przychodnia Rejonowa w Karczewie",
-        "address": "OTWOCKA 28, KARCZEW"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-10 10:55:00",
-        "location": "Poradnia lekarza POZ",
-        "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
         "date": "2021-06-10 11:35:00",
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
@@ -847,12 +745,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-10 12:30:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
         "date": "2021-06-10 12:35:00",
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
@@ -862,5 +754,101 @@
         "date": "2021-06-10 12:40:00",
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 12:45:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 12:50:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 12:55:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 13:00:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 13:05:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 13:10:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 13:15:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 13:20:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 13:35:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 13:40:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 13:45:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 13:50:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-11 06:00:00",
+        "location": "Przychodnia Kochanowskiego ",
+        "address": "ul. Jana Kochanowskiego 19, Warszawa"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-11 06:10:00",
+        "location": "Przychodnia Kochanowskiego ",
+        "address": "ul. Jana Kochanowskiego 19, Warszawa"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-11 06:20:00",
+        "location": "Przychodnia Kochanowskiego ",
+        "address": "ul. Jana Kochanowskiego 19, Warszawa"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-11 06:30:00",
+        "location": "Przychodnia Kochanowskiego ",
+        "address": "ul. Jana Kochanowskiego 19, Warszawa"
     }
 ]
