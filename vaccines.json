@@ -1,35 +1,5 @@
 [
     {
-        "vaccine": "cov19.pfizer",
-        "date": "2021-05-05 09:10:00",
-        "location": {
-            "id": "9d567778-16ee-4ad9-868e-bbd7bee655c1",
-            "name": "Punkt szczepie\u0144",
-            "addressText": "KO\u015aCIUSZKI 15, KADZID\u0141O",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.pfizer",
-        "date": "2021-05-05 09:35:00",
-        "location": {
-            "id": "9d567778-16ee-4ad9-868e-bbd7bee655c1",
-            "name": "Punkt szczepie\u0144",
-            "addressText": "KO\u015aCIUSZKI 15, KADZID\u0141O",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.pfizer",
-        "date": "2021-05-05 09:55:00",
-        "location": {
-            "id": "9d567778-16ee-4ad9-868e-bbd7bee655c1",
-            "name": "Punkt szczepie\u0144",
-            "addressText": "KO\u015aCIUSZKI 15, KADZID\u0141O",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
         "vaccine": "cov19.astra_zeneca",
         "date": "2021-05-06 10:30:00",
         "location": {
@@ -41,7 +11,7 @@
     },
     {
         "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-06 13:15:00",
+        "date": "2021-05-07 13:15:00",
         "location": {
             "id": "ccf7458b-2f2f-4467-b50b-6f9e9aea73c2",
             "name": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
@@ -51,7 +21,37 @@
     },
     {
         "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-08 13:30:00",
+        "date": "2021-05-07 14:00:00",
+        "location": {
+            "id": "fd05ad4c-d160-4872-9e33-d0188adc59cc",
+            "name": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
+            "addressText": "Widok 1, WINNICA",
+            "mobility": "STATIONARY"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-07 14:45:00",
+        "location": {
+            "id": "a5a8370b-c1ff-4971-a5ff-20fb38141999",
+            "name": "Poradnie (gabinety) lekarza podstawowej opieki zdrowotnej",
+            "addressText": "Ks. Bosko 5, Soko\u0142\u00f3w Podlaski",
+            "mobility": "STATIONARY"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-08 07:30:00",
+        "location": {
+            "id": "f3b8d4d2-7216-45e2-9284-8ec93a19d01a",
+            "name": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+            "addressText": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+            "mobility": "STATIONARY"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-08 14:30:00",
         "location": {
             "id": "ccf7458b-2f2f-4467-b50b-6f9e9aea73c2",
             "name": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
@@ -61,21 +61,21 @@
     },
     {
         "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-12 08:38:00",
+        "date": "2021-05-10 12:00:00",
         "location": {
-            "id": "964cc1fe-581b-4d3f-9609-30d99a0c2790",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-            "addressText": "plac Pi\u0142sudskiego 1, Piaseczno",
+            "id": "4a956555-2fc5-42f3-9ed2-f84b653959d6",
+            "name": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
+            "addressText": "UL. TOCHTERMANA  1, RADOM",
             "mobility": "STATIONARY"
         }
     },
     {
         "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-12 12:40:00",
+        "date": "2021-05-11 08:20:00",
         "location": {
-            "id": "5c326498-7df1-4854-afcb-f910440cd7e4",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-            "addressText": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+            "id": "6d79e18e-986e-446c-b3e1-ed8ef6a98bf9",
+            "name": "Poradnia lekarza podstawowej opieki zdrowotnej Szpital w Sochaczewie",
+            "addressText": "ul. Batalion\u00f3w Ch\u0142opskich 44015, Sochaczew",
             "mobility": "STATIONARY"
         }
     },
@@ -491,16 +491,6 @@
     },
     {
         "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-12 15:57:00",
-        "location": {
-            "id": "964cc1fe-581b-4d3f-9609-30d99a0c2790",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-            "addressText": "plac Pi\u0142sudskiego 1, Piaseczno",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.astra_zeneca",
         "date": "2021-05-12 16:05:00",
         "location": {
             "id": "5c326498-7df1-4854-afcb-f910440cd7e4",
@@ -651,16 +641,6 @@
     },
     {
         "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-12 17:10:00",
-        "location": {
-            "id": "964cc1fe-581b-4d3f-9609-30d99a0c2790",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-            "addressText": "plac Pi\u0142sudskiego 1, Piaseczno",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.astra_zeneca",
         "date": "2021-05-12 17:15:00",
         "location": {
             "id": "964cc1fe-581b-4d3f-9609-30d99a0c2790",
@@ -671,32 +651,32 @@
     },
     {
         "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-12 17:20:00",
+        "date": "2021-05-13 09:25:00",
         "location": {
-            "id": "964cc1fe-581b-4d3f-9609-30d99a0c2790",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-            "addressText": "plac Pi\u0142sudskiego 1, Piaseczno",
+            "id": "f8d4d44c-caca-43ac-bab2-d7b56478ca5a",
+            "name": "NZOZ Centrum Medyczne eMK-med punkt szczepie\u0144 Por. Jana Bia\u0142ka 3",
+            "addressText": "ul. por. Jana Bia\u0142ka 3, G\u00f3ra Kalwaria",
             "mobility": "STATIONARY"
         }
     },
     {
         "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-13 08:50:00",
-        "location": {
-            "id": "f4a9a2a6-aba1-4398-9678-f841158141ce",
-            "name": "Przychodnia Medicus J\u00f3zefk\u00f3w",
-            "addressText": "J\u00f3zefk\u00f3w 19B, J\u00f3zefk\u00f3w",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.pfizer",
-        "date": "2021-05-13 13:15:00",
+        "date": "2021-05-13 10:45:00",
         "location": {
             "id": "4a956555-2fc5-42f3-9ed2-f84b653959d6",
             "name": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
             "addressText": "UL. TOCHTERMANA  1, RADOM",
             "mobility": "STATIONARY"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-13 13:20:00",
+        "location": {
+            "id": "e1a637f2-acf8-48e7-a64b-1c9077fc61f2",
+            "name": "SPZOZ w Nasielsku, Filia w Cieksynie-Punkt szczepie\u0144",
+            "addressText": "Sportowa 5, Cieksyn",
+            "mobility": "MOBILE"
         }
     },
     {
