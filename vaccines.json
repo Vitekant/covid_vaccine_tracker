@@ -13,18 +13,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-05",
-        "count": 1,
-        "location": "Przyszpitalna Przychodnia Specjalistyczna",
-        "address": "Armii Krajowej 2/4, Pruszk\u00f3w",
-        "times": [
-            [
-                "08:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
         "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
@@ -139,6 +127,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+        "address": "Parkowa 14, Raci\u0105\u017c",
+        "times": [
+            [
+                "13:15:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 10,
@@ -161,21 +161,8 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-11",
-        "count": 2,
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "13:10:00",
-                "13:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 45,
+        "count": 40,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
@@ -184,15 +171,11 @@
                 "07:30:00",
                 "08:10:00",
                 "08:20:00",
-                "08:30:00",
-                "08:40:00",
                 "08:50:00",
                 "09:20:00",
                 "09:40:00",
                 "09:50:00",
-                "10:10:00",
                 "10:20:00",
-                "10:30:00",
                 "10:40:00",
                 "10:50:00",
                 "11:00:00",
@@ -213,7 +196,6 @@
                 "13:30:00",
                 "13:40:00",
                 "13:50:00",
-                "14:00:00",
                 "14:10:00",
                 "14:20:00",
                 "14:30:00",
@@ -231,26 +213,26 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 2,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno",
         "times": [
             [
                 "11:13:00",
-                "11:18:00"
+                "11:18:00",
+                "16:30:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-28",
-        "count": 55,
+        "count": 54,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno",
         "times": [
             [
                 "09:58:00",
-                "10:15:00",
                 "10:18:00",
                 "10:23:00",
                 "10:25:00",
@@ -274,6 +256,7 @@
                 "11:10:00",
                 "11:13:00",
                 "11:15:00",
+                "11:18:00",
                 "13:50:00",
                 "13:52:00",
                 "13:55:00",
@@ -302,7 +285,6 @@
                 "15:35:00",
                 "15:45:00",
                 "16:07:00",
-                "16:25:00",
                 "16:27:00"
             ]
         ]
