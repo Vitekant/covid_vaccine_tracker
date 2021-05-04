@@ -1,12 +1,6 @@
 [
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 07:30:00",
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Sp\u00f3\u0142ka Lekarska \"ZAM\u0141YNIE\"",
-        "address": "Klonowica 44175, Radom"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-05 09:00:00",
         "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
         "address": "Nowe \u0141ubki 5A"
@@ -16,12 +10,6 @@
         "date": "2021-05-05 10:35:00",
         "location": "NZOZ \"Zdrowie to My\"",
         "address": "Urocza 14, J\u00f3zefos\u0142aw"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 12:00:00",
-        "location": "TOLEK Przychodnia dla Dzieci Sp\u00f3\u0142ka z ograniczon\u0105 odpowiedzialno\u015bci\u0105",
-        "address": "Post\u0119pu 7, Nowa Wola"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -355,12 +343,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 11:30:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 16:15:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
@@ -378,16 +360,34 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-07 06:05:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-07 06:10:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+    },
+    {
         "vaccine": "Pfizer",
-        "date": "2021-05-19 14:10:00",
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
+        "date": "2021-05-27 06:25:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno"
     },
     {
         "vaccine": "Pfizer",
         "date": "2021-06-01 14:10:00",
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-01 14:10:00",
+        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
+        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa"
     },
     {
         "vaccine": "Pfizer",
@@ -436,12 +436,6 @@
         "date": "2021-06-01 14:50:00",
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-07 09:05:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
-        "address": "Jana Paw\u0142a II  20, Radzymin"
     },
     {
         "vaccine": "Pfizer",
@@ -514,6 +508,12 @@
         "date": "2021-06-09 09:55:00",
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 10:55:00",
+        "location": "Poradnia lekarza POZ",
+        "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
     },
     {
         "vaccine": "Pfizer",
