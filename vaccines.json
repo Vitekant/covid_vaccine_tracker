@@ -42,6 +42,13 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-06-01",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno"
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-06-01",
         "count": 1,
@@ -65,7 +72,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 3,
+        "count": 2,
         "location": "PUNKT SZCZEPIE\u0143 TARGOWA",
         "address": "UL. TARGOWA 24, WARSZAWA"
     },
