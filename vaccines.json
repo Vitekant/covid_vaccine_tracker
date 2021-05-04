@@ -9,7 +9,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 32,
+        "count": 31,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -37,21 +37,14 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 19,
+        "count": 20,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-29",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
-        "address": "Kraszewskiego 8, Ciechan\u00f3w"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
-        "count": 19,
+        "count": 20,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w"
     },
@@ -65,9 +58,23 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
         "count": 6,
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 2,
+        "location": "PUNKT SZCZEPIE\u0143",
+        "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
     },
     {
         "vaccine": "Pfizer",
@@ -86,7 +93,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 8,
+        "count": 6,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
     }
