@@ -7,9 +7,33 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 08:20:00",
+        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
+        "address": "UL. TOCHTERMANA  1, RADOM"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "date": "2021-05-05 09:00:00",
         "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
         "address": "Nowe \u0141ubki 5A"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 12:10:00",
+        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
+        "address": "UL. TOCHTERMANA  1, RADOM"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 13:20:00",
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 13:20:00",
+        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
+        "address": "Poniatowskiego 26, Siedlce"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -43,12 +67,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 06:00:00",
-        "location": "Ambulatorium Stomatologiczne - Che\u0142mska",
-        "address": "Che\u0142mska 12, Warszawa"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 06:20:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
@@ -58,6 +76,12 @@
         "date": "2021-05-06 06:25:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 06:30:00",
+        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
+        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -336,18 +360,6 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 10:10:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 10:15:00",
-        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
-        "address": "Kredytowa 2, Radzanowo"
-    },
-    {
         "vaccine": "Pfizer",
         "date": "2021-05-27 11:00:00",
         "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
@@ -355,9 +367,9 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-01 11:15:00",
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
-        "address": "Goworowska 39A, W\u0105sewo"
+        "date": "2021-05-27 14:00:00",
+        "location": "POWIATOWE CENTRUM MEDYCZNE W GR\u00d3JCU SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "Piotra Skargi 10, Gr\u00f3jec"
     },
     {
         "vaccine": "Pfizer",
@@ -374,12 +386,6 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-01 11:40:00",
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
-        "address": "Goworowska 39A, W\u0105sewo"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-01 11:45:00",
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
     },
@@ -469,18 +475,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-01 16:20:00",
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-04 08:00:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "Kunin 20, Kunin"
-    },
-    {
-        "vaccine": "Pfizer",
         "date": "2021-06-04 08:05:00",
         "location": "Punkt szczepie\u0144",
         "address": "Kunin 20, Kunin"
@@ -542,54 +536,6 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-04 08:55:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "Kunin 20, Kunin"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-04 09:00:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "Kunin 20, Kunin"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-04 09:05:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "Kunin 20, Kunin"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-04 09:10:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "Kunin 20, Kunin"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-04 09:15:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "Kunin 20, Kunin"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-04 09:20:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "Kunin 20, Kunin"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-04 09:25:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "Kunin 20, Kunin"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-04 09:30:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "Kunin 20, Kunin"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-04 09:35:00",
         "location": "Punkt szczepie\u0144",
         "address": "Kunin 20, Kunin"
     },
@@ -770,14 +716,14 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-04 12:05:00",
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
-        "address": "Goworowska 39A, W\u0105sewo"
+        "location": "Punkt szczepie\u0144",
+        "address": "Kunin 20, Kunin"
     },
     {
         "vaccine": "Pfizer",
         "date": "2021-06-04 12:05:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "Kunin 20, Kunin"
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
+        "address": "Goworowska 39A, W\u0105sewo"
     },
     {
         "vaccine": "Pfizer",
@@ -790,5 +736,65 @@
         "date": "2021-06-04 12:15:00",
         "location": "Punkt szczepie\u0144",
         "address": "Kunin 20, Kunin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-04 12:20:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "Kunin 20, Kunin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-04 12:25:00",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
+        "address": "Goworowska 39A, W\u0105sewo"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-04 12:25:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "Kunin 20, Kunin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-04 12:30:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "Kunin 20, Kunin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-04 12:35:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "Kunin 20, Kunin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-04 12:40:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "Kunin 20, Kunin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-04 12:45:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "Kunin 20, Kunin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-04 12:50:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "Kunin 20, Kunin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-04 12:55:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "Kunin 20, Kunin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-05 11:00:00",
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka"
     }
 ]
