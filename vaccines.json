@@ -50,8 +50,15 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
+        "address": "Andrzeja 23, Pruszk\u00f3w"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 13,
+        "count": 12,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -72,7 +79,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-28",
-        "count": 11,
+        "count": 10,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
@@ -86,7 +93,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-31",
-        "count": 85,
+        "count": 86,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
@@ -96,13 +103,6 @@
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-31",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
-        "address": "Jana Paw\u0142a II  20, Radzymin"
     },
     {
         "vaccine": "Pfizer",
@@ -128,6 +128,13 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
+        "address": "Jana Paw\u0142a II  20, Radzymin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
         "count": 11,
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
@@ -142,20 +149,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-10",
-        "count": 5,
-        "location": "TER-MED",
-        "address": "Szymanowska 17, Teresin"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-10",
         "count": 5,
         "location": "Filia Nr 1 Niepubliczny Zak\u0142ad Opieki Zdrowotnej Eskulap",
         "address": "DZIER\u017bENIN 101, DZIER\u017bENIN"
@@ -163,7 +156,14 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 8,
+        "count": 4,
+        "location": "TER-MED",
+        "address": "Szymanowska 17, Teresin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-10",
+        "count": 9,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
     }
