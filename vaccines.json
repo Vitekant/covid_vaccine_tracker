@@ -1,9 +1,9 @@
 [
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 09:00:00",
-        "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
-        "address": "Nowe \u0141ubki 5A"
+        "date": "2021-05-05 08:00:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "11 listopada 28/30, Mordy"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -16,6 +16,12 @@
         "date": "2021-05-05 14:30:00",
         "location": "Poradnia lekarza POZ ",
         "address": "Beliny Pra\u017cmowskiego 33a, Radom"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 14:30:00",
+        "location": "CORTEN MEDIC TOMASZ SIKORA",
+        "address": "Pasa\u017c Ursynowski 9, Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -43,9 +49,9 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 15:45:00",
-        "location": "Poradnia lekarza POZ ",
-        "address": "Beliny Pra\u017cmowskiego 33a, Radom"
+        "date": "2021-05-06 06:00:00",
+        "location": "Ambulatorium Stomatologiczne - Che\u0142mska",
+        "address": "Che\u0142mska 12, Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -260,14 +266,14 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 09:10:00",
-        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
-        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 09:10:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
+        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -348,32 +354,32 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-05-21 09:45:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
-        "address": "Parkowa 14, Raci\u0105\u017c"
+        "vaccine": "Pfizer",
+        "date": "2021-05-24 14:40:00",
+        "location": "Gabinet diagnostyczno-zabiegowy Nr 13 - MAZOWIECKI SZPITAL SPECJALISTYCZNY SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "ul. Juliana Aleksandrowicza 5, Radom"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-05-27 10:20:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
-        "address": "Parkowa 14, Raci\u0105\u017c"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-06-01 09:00:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
-        "address": "Parkowa 14, Raci\u0105\u017c"
+        "date": "2021-05-27 10:55:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-01 11:35:00",
+        "date": "2021-06-01 11:15:00",
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-01 11:40:00",
+        "date": "2021-06-01 11:30:00",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
+        "address": "Goworowska 39A, W\u0105sewo"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-01 11:35:00",
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
     },
@@ -469,12 +475,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-04 09:10:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
         "date": "2021-06-04 12:05:00",
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
@@ -488,6 +488,12 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-05 10:35:00",
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-05 10:50:00",
         "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
         "address": "Napoleona 20, Koby\u0142ka"
     },
@@ -580,11 +586,5 @@
         "date": "2021-06-06 10:15:00",
         "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
         "address": "Napoleona 20, Koby\u0142ka"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-06-29 07:40:00",
-        "location": "Przychodnia Zajezierze",
-        "address": "28 Pu\u0142ku Artylerii Lekkiej 7A, Zajezierze"
     }
 ]
