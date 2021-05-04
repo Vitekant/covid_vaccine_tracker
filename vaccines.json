@@ -50,6 +50,13 @@
     },
     {
         "vaccine": "Johnson & Johnson",
+        "day": "2021-05-13",
+        "count": 1,
+        "location": "\"MEDYK\" Sp. z o.o - NPZOZ",
+        "address": "ul. Sportowa 17, \u0141askarzew"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
         "count": 25,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
