@@ -42,11 +42,11 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-29",
+        "vaccine": "Pfizer",
+        "day": "2021-06-01",
         "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Omega\"",
-        "address": "ul. W\u0119growska 5a, Soko\u0142\u00f3w Podlaski"
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
+        "address": "Goworowska 39A, W\u0105sewo"
     },
     {
         "vaccine": "Johnson & Johnson",
@@ -65,9 +65,16 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 4,
+        "count": 3,
         "location": "PUNKT SZCZEPIE\u0143 TARGOWA",
         "address": "UL. TARGOWA 24, WARSZAWA"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-10",
+        "count": 1,
+        "location": "Filia Nr 1 Niepubliczny Zak\u0142ad Opieki Zdrowotnej Eskulap",
+        "address": "DZIER\u017bENIN 101, DZIER\u017bENIN"
     },
     {
         "vaccine": "Pfizer",
