@@ -1,27 +1,9 @@
 [
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-04 17:00:00",
-        "location": "Centrum Medyczne Vinea",
-        "address": "Jana Chryzostoma Paska 3, Warka"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-04 17:15:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 11:45:00",
-        "location": "NZOZ \"Zdrowie to My\"",
-        "address": "Urocza 14, J\u00f3zefos\u0142aw"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 11:50:00",
-        "location": "NZOZ \"Zdrowie to My\"",
-        "address": "Urocza 14, J\u00f3zefos\u0142aw"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -49,15 +31,9 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 12:25:00",
-        "location": "NZOZ \"Zdrowie to My\"",
-        "address": "Urocza 14, J\u00f3zefos\u0142aw"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 15:00:00",
-        "location": "Poradnia lekarza POZ ",
-        "address": "Beliny Pra\u017cmowskiego 33a, Radom"
+        "date": "2021-05-05 14:15:00",
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -158,14 +134,14 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 07:50:00",
-        "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
-        "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 07:50:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+        "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
+        "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -176,14 +152,14 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 08:00:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom"
     },
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 08:00:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -218,14 +194,14 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 08:30:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom"
     },
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 08:30:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -272,14 +248,14 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 09:10:00",
-        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
-        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 09:10:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
+        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -326,12 +302,6 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 09:45:00",
-        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
-        "address": "Kredytowa 2, Radzanowo"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 09:45:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -340,6 +310,12 @@
         "date": "2021-05-06 09:45:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 09:45:00",
+        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
+        "address": "Kredytowa 2, Radzanowo"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -356,14 +332,14 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:00:00",
-        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
-        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
+        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
+        "address": "Kredytowa 2, Radzanowo"
     },
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:00:00",
-        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
-        "address": "Kredytowa 2, Radzanowo"
+        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
+        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -390,28 +366,22 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Pfizer",
-        "date": "2021-05-20 08:05:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno"
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 10:25:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Pfizer",
-        "date": "2021-05-26 13:00:00",
-        "location": "PRZYCHODNIA LEKARSKA JACEK KRUPSKI - PUNKT SZCZEPIE\u0143",
-        "address": "DR. ST. PAW\u0141OWSKIEGO 15, MYSZYNIEC"
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 10:30:00",
+        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
+        "address": "Kredytowa 2, Radzanowo"
     },
     {
-        "vaccine": "Pfizer",
-        "date": "2021-05-28 13:30:00",
-        "location": "PRZYCHODNIA LEKARSKA JACEK KRUPSKI - PUNKT SZCZEPIE\u0143",
-        "address": "DR. ST. PAW\u0141OWSKIEGO 15, MYSZYNIEC"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-01 11:25:00",
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
-        "address": "Goworowska 39A, W\u0105sewo"
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 10:30:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Pfizer",
@@ -649,6 +619,12 @@
     },
     {
         "vaccine": "Pfizer",
+        "date": "2021-06-08 10:00:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
+        "address": "Andrzeja 23, Pruszk\u00f3w"
+    },
+    {
+        "vaccine": "Pfizer",
         "date": "2021-06-09 08:00:00",
         "location": "Poradnia lekarza rodzinnego",
         "address": "D\u0105br\u00f3wka 52, Lelis"
@@ -734,6 +710,18 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-09 09:50:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-09 09:50:00",
+        "location": "Poradnia lekarza POZ",
+        "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-09 09:55:00",
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
     }
