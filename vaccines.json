@@ -1,18 +1,6 @@
 [
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 08:00:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "11 listopada 28/30, Mordy"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 08:05:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "11 listopada 28/30, Mordy"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-05 08:20:00",
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
@@ -366,16 +354,34 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 09:45:00",
+        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
+        "address": "Kredytowa 2, Radzanowo"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 09:45:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-05-18 12:30:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
+        "address": "Kraszewskiego 8, Ciechan\u00f3w"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-05-20 09:05:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno"
+    },
+    {
         "vaccine": "Pfizer",
         "date": "2021-05-27 11:00:00",
         "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
         "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-05-31 13:10:00",
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
     },
     {
         "vaccine": "Pfizer",
@@ -535,12 +541,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-05 09:30:00",
-        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
-        "address": "Napoleona 20, Koby\u0142ka"
-    },
-    {
-        "vaccine": "Pfizer",
         "date": "2021-06-05 09:35:00",
         "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
         "address": "Napoleona 20, Koby\u0142ka"
@@ -625,14 +625,20 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-06 08:35:00",
-        "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
-        "address": "Wojska Polskiego 91, Zwole\u0144"
-    },
-    {
-        "vaccine": "Pfizer",
         "date": "2021-06-06 08:40:00",
         "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
         "address": "Napoleona 20, Koby\u0142ka"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-06 08:45:00",
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "date": "2021-06-29 07:40:00",
+        "location": "Przychodnia Zajezierze",
+        "address": "28 Pu\u0142ku Artylerii Lekkiej 7A, Zajezierze"
     }
 ]
