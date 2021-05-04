@@ -50,22 +50,8 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-06-01",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-04",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
-        "address": "Goworowska 39A, W\u0105sewo"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
-        "count": 25,
+        "count": 26,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w"
     },
@@ -79,16 +65,16 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 2,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
-        "address": "Goworowska 39A, W\u0105sewo"
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 TARGOWA",
+        "address": "UL. TARGOWA 24, WARSZAWA"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
         "count": 2,
-        "location": "PUNKT SZCZEPIE\u0143 TARGOWA",
-        "address": "UL. TARGOWA 24, WARSZAWA"
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
+        "address": "Goworowska 39A, W\u0105sewo"
     },
     {
         "vaccine": "Pfizer",
