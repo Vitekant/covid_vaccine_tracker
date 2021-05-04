@@ -9,13 +9,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
-        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
-        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
         "count": 2,
         "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
         "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze"
@@ -64,20 +57,6 @@
     },
     {
         "vaccine": "Moderna",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "Punkt szczepie\u0144 (doro\u015bli i dzieci)",
-        "address": "Mazowiecka 13B, Czerwin"
-    },
-    {
-        "vaccine": "Moderna",
         "day": "2021-05-28",
         "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
@@ -86,7 +65,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-31",
-        "count": 96,
+        "count": 97,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
@@ -100,7 +79,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-04",
-        "count": 2,
+        "count": 1,
         "location": "TER-MED",
         "address": "Szymanowska 17, Teresin"
     },
@@ -128,14 +107,14 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 9,
+        "count": 7,
         "location": "TER-MED",
         "address": "Szymanowska 17, Teresin"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 3,
+        "count": 4,
         "location": "TER-MED",
         "address": "Szymanowska 17, Teresin"
     },
@@ -149,7 +128,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 10,
+        "count": 11,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
     }
