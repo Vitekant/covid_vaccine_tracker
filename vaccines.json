@@ -57,8 +57,15 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-08",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 5,
+        "count": 4,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
     },
@@ -72,7 +79,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 9,
+        "count": 8,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
     },
@@ -121,7 +128,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-17",
-        "count": 7,
+        "count": 8,
         "location": "Poradnia lekarza POZ",
         "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
     }
