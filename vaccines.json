@@ -7,18 +7,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 10:00:00",
-        "location": "VITAL-MED MERITUM SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104 SP\u00d3\u0141KA KOMANDYTOWA - Punkt szczepie\u0144",
-        "address": "Spacerowa 2, Garbatka-Letnisko"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 15:45:00",
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 09:40:00",
         "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
@@ -34,6 +22,12 @@
         "date": "2021-05-07 10:45:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-07 12:00:00",
+        "location": "Centrum Medyczne Petra Medica Filia nr 4",
+        "address": "Cisowa 7, Dr\u0119\u017cewo"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -67,19 +61,19 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "date": "2021-05-08 11:30:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-10 12:00:00",
+        "location": "CENTRUM ZDROWIA MAZOWSZA ZACHODNIEGO SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "Boles\u0142awa Limanowskiego 30, \u017byrard\u00f3w"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "date": "2021-05-10 12:15:00",
-        "location": "CENTRUM ZDROWIA MAZOWSZA ZACHODNIEGO SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Boles\u0142awa Limanowskiego 30, \u017byrard\u00f3w"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-10 12:45:00",
-        "location": "CENTRUM ZDROWIA MAZOWSZA ZACHODNIEGO SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Boles\u0142awa Limanowskiego 30, \u017byrard\u00f3w"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-10 13:15:00",
         "location": "CENTRUM ZDROWIA MAZOWSZA ZACHODNIEGO SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "Boles\u0142awa Limanowskiego 30, \u017byrard\u00f3w"
     },
@@ -307,27 +301,21 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-02 07:45:00",
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin"
+        "date": "2021-06-04 09:40:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
+        "address": "Jana Paw\u0142a II  20, Radzymin"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-05 08:45:00",
-        "location": "CENTRUM MEDYCZNE STAY HEALTHY",
-        "address": "K\u0142obucka 8A lok. U4, Warszawa"
+        "date": "2021-06-08 11:55:00",
+        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
+        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-05 13:45:00",
-        "location": "Centrum Medyczne ZANMED",
-        "address": "J\u00f3zefa Pi\u0142sudskiego 33, Halin\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-09 06:30:00",
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki"
+        "date": "2021-06-09 08:10:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
     },
     {
         "vaccine": "Pfizer",
@@ -370,6 +358,12 @@
         "date": "2021-06-09 08:55:00",
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-09 09:00:00",
+        "location": "Poradnia lekarza rodzinnego",
+        "address": "D\u0105br\u00f3wka 52, Lelis"
     },
     {
         "vaccine": "Pfizer",
@@ -541,27 +535,9 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-11 15:30:00",
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-12 06:45:00",
-        "location": "Centrum Medyczne ZANMED",
-        "address": "J\u00f3zefa Pi\u0142sudskiego 33, Halin\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
         "date": "2021-06-12 07:00:00",
         "location": "Centrum Medyczne ZANMED",
         "address": "J\u00f3zefa Pi\u0142sudskiego 33, Halin\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-12 07:00:00",
-        "location": "CENTRUM MEDYCZNE MEDICENTER SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104 - Poradnia lekarza POZ",
-        "address": "Wo\u0142oska 88, Warszawa"
     },
     {
         "vaccine": "Pfizer",
@@ -572,6 +548,18 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-12 07:30:00",
+        "location": "Centrum Medyczne ZANMED",
+        "address": "J\u00f3zefa Pi\u0142sudskiego 33, Halin\u00f3w"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-12 07:35:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "Wiejska 19/21, \u017byrard\u00f3w"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-12 07:45:00",
         "location": "Centrum Medyczne ZANMED",
         "address": "J\u00f3zefa Pi\u0142sudskiego 33, Halin\u00f3w"
     }
