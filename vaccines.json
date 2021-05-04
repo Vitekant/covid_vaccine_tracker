@@ -57,10 +57,10 @@
     },
     {
         "vaccine": "Moderna",
-        "day": "2021-05-28",
+        "day": "2021-05-19",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew"
     },
     {
         "vaccine": "Johnson & Johnson",
@@ -128,7 +128,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 12,
+        "count": 13,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
     }
