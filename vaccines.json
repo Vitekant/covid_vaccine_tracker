@@ -7,6 +7,12 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 07:00:00",
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:30:00",
         "location": "Punkt szczepie\u0144 (doro\u015bli i dzieci)",
         "address": "Mazowiecka 13B, Czerwin"
@@ -223,21 +229,15 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-01 08:45:00",
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-01 11:25:00",
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna"
-    },
-    {
-        "vaccine": "Pfizer",
         "date": "2021-06-03 08:30:00",
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
         "address": "Hubalczyk\u00f3w 11, P\u0142ock"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-03 09:05:00",
+        "location": "Centrum Leczniczo-Us\u0142ugowe imienia \u015awi\u0119tej Anny Sp\u00f3\u0142ka z ograniczon\u0105 odpowiedzialno\u015bci\u0105",
+        "address": "Jana Kochanowskiego 22A, P\u0142ock"
     },
     {
         "vaccine": "Pfizer",
