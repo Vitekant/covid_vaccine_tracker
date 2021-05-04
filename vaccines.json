@@ -56,6 +56,13 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-29",
         "count": 8,
@@ -72,7 +79,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-31",
-        "count": 98,
+        "count": 97,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
@@ -114,7 +121,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 4,
+        "count": 3,
         "location": "TER-MED",
         "address": "Szymanowska 17, Teresin"
     },
@@ -135,7 +142,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 13,
+        "count": 14,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
     }
