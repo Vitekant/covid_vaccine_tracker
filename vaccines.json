@@ -65,7 +65,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 7,
+        "count": 6,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
     },
@@ -100,7 +100,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-17",
-        "count": 9,
+        "count": 10,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
     }
