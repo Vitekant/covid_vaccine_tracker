@@ -15,17 +15,15 @@
 </table>
 <script>
 $(document).ready( function () {
-  $.getJSON("vaccines.json", function(json) {
         $('#vaccine_table').DataTable({
-          data: json,
+          ajax: 'vaccines.json',
           columns: [
         { data: 'day' },        
         { data: 'count' },     
         { data: 'vaccine' },
         { data: 'location' },
         { data: 'address' }
-    ]
-        });
-});
+    ]})
+        
 } );
 </script>
