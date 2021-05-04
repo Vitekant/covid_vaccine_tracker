@@ -6,10 +6,10 @@
 <script>
 $(document).ready( function () {
   $.getJSON("vaccines.json", function(json) {
+        alert(json);
         $('#vaccine_table').DataTable({
           data: json
-        }
-          );
+        });
 });
 } );
 </script>
