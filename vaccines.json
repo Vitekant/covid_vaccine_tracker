@@ -1,22 +1,22 @@
 [
     {
         "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-05 09:00:00",
+        "date": "2021-05-05 11:55:00",
         "location": {
-            "id": "7dce97b1-9697-4f5e-96d7-f565c49139cd",
-            "name": "VITAL-MED MERITUM SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104 SP\u00d3\u0141KA KOMANDYTOWA - Punkt szczepie\u0144",
-            "addressText": "Spacerowa 2, Garbatka-Letnisko",
+            "id": "439cccc5-be6c-4fe7-a279-2da7490659c7",
+            "name": "Poradnia Lekarza POZ, ul. Lindleya 4",
+            "addressText": "Lindleya 4, Warszawa",
             "mobility": "STATIONARY"
         }
     },
     {
         "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-05 10:00:00",
+        "date": "2021-05-05 13:20:00",
         "location": {
-            "id": "cd632a24-d8f1-4d87-be3d-4f073b5faae1",
-            "name": "Punkt szczepie\u0144",
-            "addressText": "Wysockiego 12, Warka",
-            "mobility": "MOBILE"
+            "id": "c6358c3c-0446-4215-897e-a97253282234",
+            "name": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
+            "addressText": "Poniatowskiego 26, Siedlce",
+            "mobility": "STATIONARY"
         }
     },
     {
@@ -27,6 +27,16 @@
             "name": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
             "addressText": "J\u0119drzeja \u015aniadeckiego 2, Lipsko",
             "mobility": "STATIONARY"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-06 10:30:00",
+        "location": {
+            "id": "f3a4052c-eed0-46b2-8c15-c4f804c487a0",
+            "name": "Punkt szczepie\u0144 (doro\u015bli i dzieci)",
+            "addressText": "Mazowiecka 13B, Czerwin",
+            "mobility": "MOBILE"
         }
     },
     {
@@ -61,21 +71,21 @@
     },
     {
         "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-08 12:00:00",
-        "location": {
-            "id": "ccf7458b-2f2f-4467-b50b-6f9e9aea73c2",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-            "addressText": "Bluszczowa 4/8, Radom",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.astra_zeneca",
         "date": "2021-05-09 07:20:00",
         "location": {
             "id": "0d758299-461b-48b4-b219-6ade2437b0b5",
             "name": "SZPITAL TYMCZASOWY - WOJEW\u00d3DZKI SZPITAL ZESPOLONY W P\u0141OCKU",
             "addressText": "Medyczna 19, P\u0141OCK",
+            "mobility": "STATIONARY"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-09 13:20:00",
+        "location": {
+            "id": "c6358c3c-0446-4215-897e-a97253282234",
+            "name": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
+            "addressText": "Poniatowskiego 26, Siedlce",
             "mobility": "STATIONARY"
         }
     },
@@ -411,16 +421,6 @@
     },
     {
         "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-14 08:15:00",
-        "location": {
-            "id": "f53d808e-b6a4-4c54-94e1-b88d52b57c42",
-            "name": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
-            "addressText": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.astra_zeneca",
         "date": "2021-05-14 11:25:00",
         "location": {
             "id": "952d1f89-f7bb-42eb-a0e1-f246f830c7fb",
@@ -476,16 +476,6 @@
             "id": "952d1f89-f7bb-42eb-a0e1-f246f830c7fb",
             "name": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
             "addressText": "Olimpijska 3, Sochaczew",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.pfizer",
-        "date": "2021-05-20 10:05:00",
-        "location": {
-            "id": "afca6f04-5378-4339-867f-4bbd461c4673",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
-            "addressText": "Parkowa 14, Raci\u0105\u017c",
             "mobility": "STATIONARY"
         }
     }
