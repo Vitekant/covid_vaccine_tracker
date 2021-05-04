@@ -9,9 +9,9 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-05",
-        "count": 2,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin"
+        "count": 1,
+        "location": "Centrum Medyczne Solution",
+        "address": "Mi\u0144ska 25B lok U3, Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -51,9 +51,16 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 14,
+        "count": 15,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
     {
         "vaccine": "Johnson & Johnson",
@@ -79,28 +86,21 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-31",
-        "count": 96,
+        "count": 95,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-01",
-        "count": 1,
-        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
-        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-03",
-        "count": 2,
+        "count": 3,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
-        "count": 12,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w"
     },
