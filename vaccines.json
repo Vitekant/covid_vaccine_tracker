@@ -1,6 +1,30 @@
 [
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-05",
+        "count": 1,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin",
+        "times": [
+            [
+                "15:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
+        "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
+        "times": [
+            [
+                "06:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
@@ -27,7 +51,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 38,
+        "count": 37,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -35,7 +59,6 @@
                 "06:45:00",
                 "06:50:00",
                 "06:55:00",
-                "07:25:00",
                 "07:35:00",
                 "07:40:00",
                 "07:45:00",
@@ -148,18 +171,6 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
-        "times": [
-            [
-                "12:05:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-27",
         "count": 1,
@@ -179,7 +190,6 @@
         "address": "plac Pi\u0142sudskiego 1, Piaseczno",
         "times": [
             [
-                "11:05:00",
                 "11:23:00",
                 "11:28:00",
                 "11:33:00",
@@ -192,6 +202,8 @@
                 "11:53:00",
                 "11:55:00",
                 "12:00:00",
+                "12:05:00",
+                "12:10:00",
                 "13:50:00",
                 "13:57:00",
                 "14:15:00",
@@ -205,13 +217,24 @@
                 "14:52:00",
                 "15:10:00",
                 "15:12:00",
-                "15:17:00",
                 "15:22:00",
                 "15:27:00",
                 "16:42:00",
-                "17:00:00",
                 "17:05:00",
-                "17:10:00"
+                "17:10:00",
+                "17:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
+        "address": "Sienkiewicza 7, P\u0142o\u0144sk",
+        "times": [
+            [
+                "12:50:00"
             ]
         ]
     },
@@ -264,7 +287,6 @@
                 "09:03:00",
                 "09:05:00",
                 "09:08:00",
-                "09:10:00",
                 "09:13:00",
                 "09:15:00",
                 "09:20:00",
@@ -288,26 +310,27 @@
                 "10:05:00",
                 "10:08:00",
                 "10:10:00",
-                "10:13:00"
+                "10:13:00",
+                "10:15:00"
             ]
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-06-04",
+        "vaccine": "Moderna",
+        "day": "2021-05-31",
         "count": 1,
-        "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ",
-        "address": "Starowiejska 15, Siedlce",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
-                "06:00:00"
+                "10:15:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-04",
-        "count": 5,
+        "count": 4,
         "location": "TER-MED",
         "address": "Szymanowska 17, Teresin",
         "times": [
@@ -315,8 +338,7 @@
                 "13:15:00",
                 "13:45:00",
                 "14:30:00",
-                "14:45:00",
-                "15:00:00"
+                "14:45:00"
             ]
         ]
     },
@@ -405,7 +427,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 11,
+        "count": 12,
         "location": "TER-MED",
         "address": "Szymanowska 17, Teresin",
         "times": [
@@ -420,19 +442,8 @@
                 "13:30:00",
                 "13:45:00",
                 "14:15:00",
-                "14:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-10",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
-        "times": [
-            [
-                "11:05:00"
+                "14:45:00",
+                "15:00:00"
             ]
         ]
     },
@@ -479,12 +490,13 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 1,
+        "count": 2,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "08:00:00"
+                "08:00:00",
+                "08:10:00"
             ]
         ]
     },
