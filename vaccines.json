@@ -11,31 +11,11 @@
     },
     {
         "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-06 09:30:00",
+        "date": "2021-05-07 10:00:00",
         "location": {
-            "id": "ccf7458b-2f2f-4467-b50b-6f9e9aea73c2",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-            "addressText": "Bluszczowa 4/8, Radom",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-07 13:15:00",
-        "location": {
-            "id": "ccf7458b-2f2f-4467-b50b-6f9e9aea73c2",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-            "addressText": "Bluszczowa 4/8, Radom",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-08 07:30:00",
-        "location": {
-            "id": "2523c44b-ef69-4131-a212-3931f3f8038f",
-            "name": "Poradnia Chor\u00f3b Zaka\u017anych dla Dzieci - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141UBI\u0143SKIEGO",
-            "addressText": "ul. Adolfa Tochtermana 1, Radom",
+            "id": "294ff298-2952-43f8-81d6-336290184fd4",
+            "name": "Przychodnia Rejonowo Specjalistyczna",
+            "addressText": "Rembieli\u0144ska 8, WARSZAWA",
             "mobility": "STATIONARY"
         }
     },
@@ -51,51 +31,31 @@
     },
     {
         "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-09 07:10:00",
+        "location": {
+            "id": "c6358c3c-0446-4215-897e-a97253282234",
+            "name": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
+            "addressText": "Poniatowskiego 26, Siedlce",
+            "mobility": "STATIONARY"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-12 11:55:00",
+        "location": {
+            "id": "964cc1fe-581b-4d3f-9609-30d99a0c2790",
+            "name": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+            "addressText": "plac Pi\u0142sudskiego 1, Piaseczno",
+            "mobility": "STATIONARY"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
         "date": "2021-05-12 13:10:00",
         "location": {
             "id": "5c326498-7df1-4854-afcb-f910440cd7e4",
             "name": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
             "addressText": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-12 13:25:00",
-        "location": {
-            "id": "964cc1fe-581b-4d3f-9609-30d99a0c2790",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-            "addressText": "plac Pi\u0142sudskiego 1, Piaseczno",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-12 13:30:00",
-        "location": {
-            "id": "964cc1fe-581b-4d3f-9609-30d99a0c2790",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-            "addressText": "plac Pi\u0142sudskiego 1, Piaseczno",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-12 13:32:00",
-        "location": {
-            "id": "964cc1fe-581b-4d3f-9609-30d99a0c2790",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-            "addressText": "plac Pi\u0142sudskiego 1, Piaseczno",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-12 13:35:00",
-        "location": {
-            "id": "964cc1fe-581b-4d3f-9609-30d99a0c2790",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-            "addressText": "plac Pi\u0142sudskiego 1, Piaseczno",
             "mobility": "STATIONARY"
         }
     },
@@ -236,16 +196,6 @@
             "id": "964cc1fe-581b-4d3f-9609-30d99a0c2790",
             "name": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
             "addressText": "plac Pi\u0142sudskiego 1, Piaseczno",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-12 14:00:00",
-        "location": {
-            "id": "5c326498-7df1-4854-afcb-f910440cd7e4",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-            "addressText": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
             "mobility": "STATIONARY"
         }
     },
@@ -423,9 +373,9 @@
         "vaccine": "cov19.astra_zeneca",
         "date": "2021-05-12 14:50:00",
         "location": {
-            "id": "5c326498-7df1-4854-afcb-f910440cd7e4",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-            "addressText": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+            "id": "964cc1fe-581b-4d3f-9609-30d99a0c2790",
+            "name": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+            "addressText": "plac Pi\u0142sudskiego 1, Piaseczno",
             "mobility": "STATIONARY"
         }
     },
@@ -433,9 +383,9 @@
         "vaccine": "cov19.astra_zeneca",
         "date": "2021-05-12 14:50:00",
         "location": {
-            "id": "964cc1fe-581b-4d3f-9609-30d99a0c2790",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-            "addressText": "plac Pi\u0142sudskiego 1, Piaseczno",
+            "id": "5c326498-7df1-4854-afcb-f910440cd7e4",
+            "name": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+            "addressText": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
             "mobility": "STATIONARY"
         }
     },
@@ -523,9 +473,9 @@
         "vaccine": "cov19.astra_zeneca",
         "date": "2021-05-12 15:25:00",
         "location": {
-            "id": "964cc1fe-581b-4d3f-9609-30d99a0c2790",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-            "addressText": "plac Pi\u0142sudskiego 1, Piaseczno",
+            "id": "5c326498-7df1-4854-afcb-f910440cd7e4",
+            "name": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+            "addressText": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
             "mobility": "STATIONARY"
         }
     },
@@ -533,9 +483,9 @@
         "vaccine": "cov19.astra_zeneca",
         "date": "2021-05-12 15:25:00",
         "location": {
-            "id": "5c326498-7df1-4854-afcb-f910440cd7e4",
-            "name": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-            "addressText": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+            "id": "964cc1fe-581b-4d3f-9609-30d99a0c2790",
+            "name": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+            "addressText": "plac Pi\u0142sudskiego 1, Piaseczno",
             "mobility": "STATIONARY"
         }
     },
@@ -846,6 +796,66 @@
             "id": "964cc1fe-581b-4d3f-9609-30d99a0c2790",
             "name": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
             "addressText": "plac Pi\u0142sudskiego 1, Piaseczno",
+            "mobility": "STATIONARY"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-12 17:35:00",
+        "location": {
+            "id": "964cc1fe-581b-4d3f-9609-30d99a0c2790",
+            "name": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+            "addressText": "plac Pi\u0142sudskiego 1, Piaseczno",
+            "mobility": "STATIONARY"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-13 08:15:00",
+        "location": {
+            "id": "f3b8d4d2-7216-45e2-9284-8ec93a19d01a",
+            "name": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+            "addressText": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+            "mobility": "STATIONARY"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-13 12:40:00",
+        "location": {
+            "id": "00b7ae2a-b449-4848-a878-1413ca02f7ad",
+            "name": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ SP\u00d3\u0141KA CYWILNA \"MAGMEDIC\" MARZENA STYSIAK,W\u0141ODZIMIERZ STYSIAK",
+            "addressText": "Klonowa 16, Magnuszew",
+            "mobility": "MOBILE"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-14 06:55:00",
+        "location": {
+            "id": "f53d808e-b6a4-4c54-94e1-b88d52b57c42",
+            "name": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+            "addressText": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
+            "mobility": "STATIONARY"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-14 11:30:00",
+        "location": {
+            "id": "952d1f89-f7bb-42eb-a0e1-f246f830c7fb",
+            "name": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+            "addressText": "Olimpijska 3, Sochaczew",
+            "mobility": "STATIONARY"
+        }
+    },
+    {
+        "vaccine": "cov19.pfizer",
+        "date": "2021-05-19 12:00:00",
+        "location": {
+            "id": "2a428f57-8974-4e2a-8654-c80591546a08",
+            "name": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
+            "addressText": "Kraszewskiego 8, Ciechan\u00f3w",
             "mobility": "STATIONARY"
         }
     }
