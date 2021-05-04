@@ -55,9 +55,9 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 14:45:00",
-        "location": "Poradnia lekarza POZ ",
-        "address": "Beliny Pra\u017cmowskiego 33a, Radom"
+        "date": "2021-05-05 12:25:00",
+        "location": "NZOZ \"Zdrowie to My\"",
+        "address": "Urocza 14, J\u00f3zefos\u0142aw"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -76,12 +76,6 @@
         "date": "2021-05-05 15:45:00",
         "location": "Poradnia lekarza POZ ",
         "address": "Beliny Pra\u017cmowskiego 33a, Radom"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 06:25:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -350,14 +344,14 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 09:45:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom"
     },
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 09:45:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -400,42 +394,6 @@
         "date": "2021-05-06 10:15:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-05-27 06:25:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-05-27 10:00:00",
-        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
-        "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-05-27 11:00:00",
-        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
-        "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-05-28 13:30:00",
-        "location": "PRZYCHODNIA LEKARSKA JACEK KRUPSKI - PUNKT SZCZEPIE\u0143",
-        "address": "DR. ST. PAW\u0141OWSKIEGO 15, MYSZYNIEC"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-05-28 13:45:00",
-        "location": "PRZYCHODNIA LEKARSKA JACEK KRUPSKI - PUNKT SZCZEPIE\u0143",
-        "address": "DR. ST. PAW\u0141OWSKIEGO 15, MYSZYNIEC"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-01 11:15:00",
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
-        "address": "Goworowska 39A, W\u0105sewo"
     },
     {
         "vaccine": "Pfizer",
@@ -517,6 +475,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "date": "2021-06-03 13:00:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-03 13:05:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
         "date": "2021-06-03 13:10:00",
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
@@ -577,9 +547,9 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-05 16:25:00",
-        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
-        "address": "Napoleona 20, Koby\u0142ka"
+        "date": "2021-06-05 07:00:00",
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane"
     },
     {
         "vaccine": "Pfizer",
@@ -608,6 +578,12 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-06 11:30:00",
+        "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
+        "address": "Wojska Polskiego 91, Zwole\u0144"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-06 11:35:00",
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
     },
@@ -676,6 +652,18 @@
         "date": "2021-06-06 12:35:00",
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-09 07:10:00",
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-09 08:00:00",
+        "location": "Poradnia lekarza rodzinnego",
+        "address": "D\u0105br\u00f3wka 52, Lelis"
     },
     {
         "vaccine": "Pfizer",
@@ -754,17 +742,5 @@
         "date": "2021-06-09 09:45:00",
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-09 09:50:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-06-29 07:40:00",
-        "location": "Przychodnia Zajezierze",
-        "address": "28 Pu\u0142ku Artylerii Lekkiej 7A, Zajezierze"
     }
 ]
