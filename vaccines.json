@@ -1,16 +1,6 @@
 [
     {
         "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-05 11:55:00",
-        "location": {
-            "id": "439cccc5-be6c-4fe7-a279-2da7490659c7",
-            "name": "Poradnia Lekarza POZ, ul. Lindleya 4",
-            "addressText": "Lindleya 4, Warszawa",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.astra_zeneca",
         "date": "2021-05-05 13:20:00",
         "location": {
             "id": "c6358c3c-0446-4215-897e-a97253282234",
@@ -41,6 +31,16 @@
     },
     {
         "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-06 12:50:00",
+        "location": {
+            "id": "4aed9399-5d50-42a3-8d2f-4477b8e0df4f",
+            "name": "Przychodnia Lekarska",
+            "addressText": "Stefana Grota-Roweckiego 2A, Sierpc",
+            "mobility": "STATIONARY"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
         "date": "2021-05-07 12:15:00",
         "location": {
             "id": "7f05c713-e33a-4deb-84db-e1ad0ffb4f40",
@@ -66,26 +66,6 @@
             "id": "7f05c713-e33a-4deb-84db-e1ad0ffb4f40",
             "name": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
             "addressText": "Piastowska  39, Sierpc",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-09 07:20:00",
-        "location": {
-            "id": "0d758299-461b-48b4-b219-6ade2437b0b5",
-            "name": "SZPITAL TYMCZASOWY - WOJEW\u00d3DZKI SZPITAL ZESPOLONY W P\u0141OCKU",
-            "addressText": "Medyczna 19, P\u0141OCK",
-            "mobility": "STATIONARY"
-        }
-    },
-    {
-        "vaccine": "cov19.astra_zeneca",
-        "date": "2021-05-09 13:20:00",
-        "location": {
-            "id": "c6358c3c-0446-4215-897e-a97253282234",
-            "name": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
-            "addressText": "Poniatowskiego 26, Siedlce",
             "mobility": "STATIONARY"
         }
     },
@@ -152,6 +132,16 @@
     {
         "vaccine": "cov19.astra_zeneca",
         "date": "2021-05-12 13:30:00",
+        "location": {
+            "id": "5c326498-7df1-4854-afcb-f910440cd7e4",
+            "name": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+            "addressText": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+            "mobility": "STATIONARY"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-12 13:35:00",
         "location": {
             "id": "5c326498-7df1-4854-afcb-f910440cd7e4",
             "name": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
@@ -416,6 +406,16 @@
             "id": "f53d808e-b6a4-4c54-94e1-b88d52b57c42",
             "name": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
             "addressText": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
+            "mobility": "STATIONARY"
+        }
+    },
+    {
+        "vaccine": "cov19.astra_zeneca",
+        "date": "2021-05-14 07:20:00",
+        "location": {
+            "id": "347be86c-d2e7-47f7-b7f5-9ded60750b9c",
+            "name": "Przychodnia Klaudyny ",
+            "addressText": "ul. Klaudyny 26B, Warszawa",
             "mobility": "STATIONARY"
         }
     },
