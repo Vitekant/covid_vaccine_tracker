@@ -1,15 +1,15 @@
 [
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 13:50:00",
-        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
-        "address": "Poniatowskiego 26, Siedlce"
+        "date": "2021-05-05 09:00:00",
+        "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
+        "address": "Nowe \u0141ubki 5A"
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 06:30:00",
-        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
-        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
+        "date": "2021-05-05 13:50:00",
+        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
+        "address": "Poniatowskiego 26, Siedlce"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -58,12 +58,6 @@
         "date": "2021-05-06 07:20:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 07:20:00",
-        "location": "Poradnia lekarza podstawowej opieki zdrowotnej Szpital w Sochaczewie",
-        "address": "ul. Batalion\u00f3w Ch\u0142opskich 44015, Sochaczew"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -366,46 +360,40 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Pfizer",
-        "date": "2021-05-26 11:00:00",
-        "location": "PRZYCHODNIA LEKARSKA JACEK KRUPSKI - PUNKT SZCZEPIE\u0143",
-        "address": "DR. ST. PAW\u0141OWSKIEGO 15, MYSZYNIEC"
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 12:05:00",
+        "location": "SPZOZ w Nasielsku, Filia w Cieksynie-Punkt szczepie\u0144",
+        "address": "Sportowa 5, Cieksyn"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-05-26 13:00:00",
-        "location": "PRZYCHODNIA LEKARSKA JACEK KRUPSKI - PUNKT SZCZEPIE\u0143",
-        "address": "DR. ST. PAW\u0141OWSKIEGO 15, MYSZYNIEC"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-05-26 17:05:00",
-        "location": "POWIATOWE CENTRUM MEDYCZNE W GR\u00d3JCU SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Piotra Skargi 10, Gr\u00f3jec"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-05-27 08:30:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "Kunin 20, Kunin"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-05-29 07:40:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
-        "address": "Parkowa 14, Raci\u0105\u017c"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-01 12:15:00",
+        "date": "2021-06-01 12:25:00",
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-02 08:35:00",
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin"
+        "date": "2021-06-01 12:30:00",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
+        "address": "Goworowska 39A, W\u0105sewo"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-03 13:20:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-03 13:50:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-08 11:55:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
+        "address": "Andrzeja 23, Pruszk\u00f3w"
     },
     {
         "vaccine": "Pfizer",
@@ -511,9 +499,9 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-10 09:20:00",
-        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
-        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+        "date": "2021-06-10 09:05:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Pfizer",
