@@ -85,6 +85,13 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 1,
+        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
+        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-16",
         "count": 11,
         "location": "PUNKT SZCZEPIE\u0143",
