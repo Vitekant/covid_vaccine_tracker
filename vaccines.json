@@ -7,18 +7,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 10:00:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "Wysockiego 12, Warka"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 10:35:00",
-        "location": "Centrum Medyczne LUX MED",
-        "address": "Al. Jerozolimskie 65/79, Warszawa"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 06:30:00",
         "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
@@ -356,8 +344,8 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 14:05:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w"
+        "location": "SPZOZ w Nasielsku, Filia w Cieksynie-Punkt szczepie\u0144",
+        "address": "Sportowa 5, Cieksyn"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -378,22 +366,28 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-07 06:05:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+    },
+    {
         "vaccine": "Pfizer",
-        "date": "2021-05-26 09:05:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno"
+        "date": "2021-05-20 15:35:00",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej VITAMED",
+        "address": "ul. W\u0142adys\u0142awa Jagie\u0142\u0142y 19, Czerwi\u0144sk nad Wis\u0142\u0105"
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-05-28 09:20:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno"
+        "vaccine": "Pfizer",
+        "date": "2021-06-01 14:20:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-05-31 07:30:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno"
+        "vaccine": "Pfizer",
+        "date": "2021-06-01 14:30:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     },
     {
         "vaccine": "Pfizer",
@@ -734,18 +728,6 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-11 09:35:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-11 09:40:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-11 09:45:00",
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
     },
