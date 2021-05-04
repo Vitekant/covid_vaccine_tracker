@@ -3,6 +3,13 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-05",
         "count": 1,
+        "location": "PRZYCHODNIA LEKARSKA - PORADNIA PODSTAWOWEJ OPIEKI ZDROWOTNEJ",
+        "address": "UL. CHMIELNA 14 14, WARSZAWA"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-05",
+        "count": 2,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin"
     },
@@ -51,16 +58,16 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 14,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-25",
+        "vaccine": "Moderna",
+        "day": "2021-05-15",
         "count": 1,
-        "location": "Punkt szczepie\u0144 (doro\u015bli i dzieci)",
-        "address": "Mazowiecka 13B, Czerwin"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI"
     },
     {
         "vaccine": "Johnson & Johnson",
@@ -79,16 +86,16 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-31",
-        "count": 97,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
+        "count": 4,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk"
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-31",
-        "count": 3,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk"
+        "count": 96,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
     {
         "vaccine": "Pfizer",
@@ -110,13 +117,6 @@
         "count": 12,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-08",
-        "count": 1,
-        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
-        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa"
     },
     {
         "vaccine": "Pfizer",
@@ -156,7 +156,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 12,
+        "count": 13,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
     },
