@@ -349,6 +349,12 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 11:10:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 11:15:00",
         "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
         "address": "Kredytowa 2, Radzanowo"
@@ -379,7 +385,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-03 12:00:00",
+        "date": "2021-06-03 12:05:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-03 12:15:00",
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     },
@@ -463,6 +475,24 @@
     },
     {
         "vaccine": "Pfizer",
+        "date": "2021-06-07 10:00:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-07 12:50:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-07 12:55:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
         "date": "2021-06-08 16:45:00",
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
         "address": "Hubalczyk\u00f3w 11, P\u0142ock"
@@ -541,18 +571,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-10 11:35:00",
-        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
-        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-10 12:10:00",
-        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
-        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
-    },
-    {
-        "vaccine": "Pfizer",
         "date": "2021-06-10 12:15:00",
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
@@ -598,12 +616,6 @@
         "date": "2021-06-10 13:00:00",
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-10 13:05:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w"
     },
     {
         "vaccine": "Pfizer",
@@ -730,17 +742,5 @@
         "date": "2021-06-11 09:55:00",
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-12 07:10:00",
-        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
-        "address": "Napoleona 20, Koby\u0142ka"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-12 12:05:00",
-        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
-        "address": "Napoleona 20, Koby\u0142ka"
     }
 ]
