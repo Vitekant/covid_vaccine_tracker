@@ -13,12 +13,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 12:50:00",
-        "location": "NZOZ \"Zdrowie to My\"",
-        "address": "Urocza 14, J\u00f3zefos\u0142aw"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-05 12:55:00",
         "location": "NZOZ \"Zdrowie to My\"",
         "address": "Urocza 14, J\u00f3zefos\u0142aw"
@@ -284,14 +278,14 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:00:00",
-        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
-        "address": "Kredytowa 2, Radzanowo"
+        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
+        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
     },
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:00:00",
-        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
-        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
+        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
+        "address": "Kredytowa 2, Radzanowo"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -378,28 +372,16 @@
         "address": "Kredytowa 2, Radzanowo"
     },
     {
-        "vaccine": "Pfizer",
-        "date": "2021-05-22 11:20:00",
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 11:15:00",
+        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
+        "address": "Kredytowa 2, Radzanowo"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-05 13:45:00",
-        "location": "Centrum Medyczne ZANMED",
-        "address": "J\u00f3zefa Pi\u0142sudskiego 33, Halin\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-06 10:05:00",
-        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
-        "address": "Napoleona 20, Koby\u0142ka"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-06 11:10:00",
-        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
-        "address": "Napoleona 20, Koby\u0142ka"
+        "date": "2021-05-26 11:00:00",
+        "location": "PRZYCHODNIA LEKARSKA JACEK KRUPSKI - PUNKT SZCZEPIE\u0143",
+        "address": "DR. ST. PAW\u0141OWSKIEGO 15, MYSZYNIEC"
     },
     {
         "vaccine": "Pfizer",
@@ -504,10 +486,10 @@
         "address": "Napoleona 20, Koby\u0142ka"
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-06-22 07:25:00",
-        "location": "Przychodnia Zajezierze",
-        "address": "28 Pu\u0142ku Artylerii Lekkiej 7A, Zajezierze"
+        "vaccine": "Pfizer",
+        "date": "2021-06-06 12:40:00",
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka"
     },
     {
         "vaccine": "Johnson & Johnson",
