@@ -2,13 +2,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-05",
-        "count": 1,
-        "location": "PRZYCHODNIA LEKARSKA - PORADNIA PODSTAWOWEJ OPIEKI ZDROWOTNEJ",
-        "address": "UL. CHMIELNA 14 14, WARSZAWA"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-05",
         "count": 2,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin"
@@ -23,7 +16,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 36,
+        "count": 35,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -51,21 +44,14 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 13,
+        "count": 14,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-28",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
-        "address": "Sienkiewicza 7, P\u0142o\u0144sk"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
         "day": "2021-05-29",
-        "count": 3,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w"
     },
@@ -122,13 +108,6 @@
         "vaccine": "Pfizer",
         "day": "2021-06-09",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 1,
         "location": "Poradnia lekarza rodzinnego",
         "address": "D\u0105br\u00f3wka 52, Lelis"
     },
@@ -150,20 +129,27 @@
         "vaccine": "Pfizer",
         "day": "2021-06-10",
         "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
+        "address": "Jana Paw\u0142a II  20, Radzymin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-10",
+        "count": 1,
         "location": "Filia Nr 1 Niepubliczny Zak\u0142ad Opieki Zdrowotnej Eskulap",
         "address": "DZIER\u017bENIN 101, DZIER\u017bENIN"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 14,
+        "count": 15,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 3,
+        "count": 1,
         "location": "TER-MED",
         "address": "Szymanowska 17, Teresin"
     }
