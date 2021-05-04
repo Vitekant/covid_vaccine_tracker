@@ -1,12 +1,6 @@
 [
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 08:00:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "11 listopada 28/30, Mordy"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-05 08:05:00",
         "location": "Punkt szczepie\u0144",
         "address": "11 listopada 28/30, Mordy"
@@ -16,12 +10,6 @@
         "date": "2021-05-05 09:00:00",
         "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
         "address": "Nowe \u0141ubki 5A"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 10:45:00",
-        "location": "NZOZ \"Zdrowie to My\"",
-        "address": "Urocza 14, J\u00f3zefos\u0142aw"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -46,18 +34,6 @@
         "date": "2021-05-05 14:00:00",
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
         "address": "Poniatowskiego 26, Siedlce"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 17:05:00",
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 06:05:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -349,6 +325,12 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 09:45:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 09:50:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
@@ -360,26 +342,26 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Pfizer",
-        "date": "2021-05-11 14:00:00",
-        "location": "Punkt szczepie\u0144 (doro\u015bli i dzieci)",
-        "address": "Mazowiecka 13B, Czerwin"
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 10:00:00",
+        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
+        "address": "Kredytowa 2, Radzanowo"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 10:05:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-05-14 11:15:00",
-        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
-        "address": "UL. TOCHTERMANA  1, RADOM"
+        "date": "2021-05-29 14:00:00",
+        "location": "CENTRUM ZDROWIA MAZOWSZA ZACHODNIEGO SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "Boles\u0142awa Limanowskiego 30, \u017byrard\u00f3w"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-05-19 07:55:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
-        "address": "Parkowa 14, Raci\u0105\u017c"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-05-31 16:20:00",
+        "date": "2021-05-31 13:50:00",
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
     },
@@ -444,16 +426,16 @@
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-06-01 06:40:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
-        "address": "Parkowa 14, Raci\u0105\u017c"
-    },
-    {
         "vaccine": "Pfizer",
         "date": "2021-06-02 10:25:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-02 11:25:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
+        "address": "Jana Paw\u0142a II  20, Radzymin"
     },
     {
         "vaccine": "Pfizer",
@@ -469,13 +451,19 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-05 06:30:00",
-        "location": "O\u015brodek Zdrowia",
-        "address": "Po\u0142udniowa 11B, Miszewo Murowane"
+        "date": "2021-06-05 09:20:00",
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka"
     },
     {
         "vaccine": "Pfizer",
         "date": "2021-06-05 09:50:00",
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-05 09:55:00",
         "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
         "address": "Napoleona 20, Koby\u0142ka"
     },
@@ -588,14 +576,14 @@
         "address": "Napoleona 20, Koby\u0142ka"
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-06-15 08:25:00",
-        "location": "Przychodnia Zajezierze",
-        "address": "28 Pu\u0142ku Artylerii Lekkiej 7A, Zajezierze"
+        "vaccine": "Pfizer",
+        "date": "2021-06-06 09:30:00",
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka"
     },
     {
         "vaccine": "Johnson & Johnson",
-        "date": "2021-06-29 07:40:00",
+        "date": "2021-06-15 09:05:00",
         "location": "Przychodnia Zajezierze",
         "address": "28 Pu\u0142ku Artylerii Lekkiej 7A, Zajezierze"
     }
