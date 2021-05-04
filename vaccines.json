@@ -1,18 +1,6 @@
 [
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-05",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "15:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
@@ -114,7 +102,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 12,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -130,32 +118,44 @@
                 "06:40:00",
                 "06:45:00",
                 "06:50:00",
-                "06:55:00"
+                "06:55:00",
+                "07:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
+        "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA",
+        "times": [
+            [
+                "11:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-25",
+        "count": 1,
+        "location": "Punkt szczepie\u0144 (doro\u015bli i dzieci)",
+        "address": "Mazowiecka 13B, Czerwin",
+        "times": [
+            [
+                "10:45:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno",
         "times": [
             [
-                "12:00:00",
-                "16:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
-        "times": [
-            [
-                "06:10:00"
+                "12:05:00"
             ]
         ]
     },
@@ -174,32 +174,30 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-28",
-        "count": 35,
+        "count": 33,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno",
         "times": [
             [
-                "11:03:00",
-                "11:20:00",
+                "11:05:00",
                 "11:23:00",
                 "11:28:00",
                 "11:33:00",
                 "11:35:00",
                 "11:38:00",
-                "11:40:00",
                 "11:43:00",
                 "11:45:00",
                 "11:48:00",
                 "11:50:00",
                 "11:53:00",
                 "11:55:00",
+                "12:00:00",
                 "13:50:00",
                 "13:57:00",
                 "14:15:00",
                 "14:17:00",
                 "14:22:00",
                 "14:25:00",
-                "14:32:00",
                 "14:37:00",
                 "14:40:00",
                 "14:42:00",
@@ -207,20 +205,20 @@
                 "14:52:00",
                 "15:10:00",
                 "15:12:00",
-                "15:15:00",
                 "15:17:00",
                 "15:22:00",
                 "15:27:00",
                 "16:42:00",
-                "16:45:00",
-                "16:55:00"
+                "17:00:00",
+                "17:05:00",
+                "17:10:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-31",
-        "count": 63,
+        "count": 66,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno",
         "times": [
@@ -232,14 +230,12 @@
                 "06:53:00",
                 "06:55:00",
                 "06:58:00",
-                "07:00:00",
                 "07:03:00",
                 "07:13:00",
                 "07:18:00",
                 "07:23:00",
                 "07:25:00",
                 "07:28:00",
-                "07:35:00",
                 "07:38:00",
                 "07:40:00",
                 "07:43:00",
@@ -287,7 +283,12 @@
                 "09:53:00",
                 "09:55:00",
                 "09:58:00",
-                "10:00:00"
+                "10:00:00",
+                "10:03:00",
+                "10:05:00",
+                "10:08:00",
+                "10:10:00",
+                "10:13:00"
             ]
         ]
     },
@@ -322,12 +323,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-08",
-        "count": 3,
+        "count": 2,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "06:05:00",
                 "06:10:00",
                 "09:05:00"
             ]
@@ -387,6 +387,18 @@
                 "09:40:00",
                 "09:45:00",
                 "09:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
+        "address": "Jana Paw\u0142a II  20, Radzymin",
+        "times": [
+            [
+                "10:45:00"
             ]
         ]
     },
