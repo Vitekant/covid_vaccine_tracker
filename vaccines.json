@@ -42,6 +42,13 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew"
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
         "count": 25,
@@ -86,7 +93,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 12,
+        "count": 11,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
     },
@@ -114,7 +121,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-17",
-        "count": 5,
+        "count": 6,
         "location": "Poradnia lekarza POZ",
         "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
     }
