@@ -42,13 +42,6 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-06-01",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
-        "address": "Goworowska 39A, W\u0105sewo"
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
         "count": 26,
@@ -68,13 +61,6 @@
         "count": 1,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-10",
-        "count": 1,
-        "location": "Filia Nr 1 Niepubliczny Zak\u0142ad Opieki Zdrowotnej Eskulap",
-        "address": "DZIER\u017bENIN 101, DZIER\u017bENIN"
     },
     {
         "vaccine": "Pfizer",
@@ -149,6 +135,13 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-19",
+        "count": 1,
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-20",
         "count": 1,
         "location": "O\u015brodek Zdrowia",
         "address": "Po\u0142udniowa 11B, Miszewo Murowane"
