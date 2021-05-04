@@ -3,11 +3,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-05",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Sp\u00f3\u0142ka Lekarska \"ZAM\u0141YNIE\"",
+        "address": "Klonowica 44175, Radom",
         "times": [
             [
-                "08:05:00"
+                "07:00:00"
             ]
         ]
     },
@@ -32,6 +32,18 @@
         "times": [
             [
                 "06:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc",
+        "times": [
+            [
+                "06:30:00"
             ]
         ]
     },
@@ -149,21 +161,57 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "15:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-11",
+        "count": 3,
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "09:00:00",
+                "13:10:00",
+                "13:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "08:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 47,
+        "count": 45,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
             [
                 "07:20:00",
                 "07:30:00",
-                "07:50:00",
                 "08:10:00",
                 "08:20:00",
                 "08:30:00",
                 "08:40:00",
                 "08:50:00",
-                "09:00:00",
                 "09:20:00",
                 "09:40:00",
                 "09:50:00",
@@ -219,13 +267,25 @@
     },
     {
         "vaccine": "Moderna",
-        "day": "2021-05-27",
+        "day": "2021-05-24",
         "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno",
         "times": [
             [
-                "10:10:00",
+                "10:30:00",
+                "16:22:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
+        "times": [
+            [
                 "11:13:00"
             ]
         ]
@@ -233,12 +293,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-28",
-        "count": 57,
+        "count": 56,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno",
         "times": [
             [
-                "09:40:00",
                 "09:43:00",
                 "09:58:00",
                 "10:15:00",
@@ -264,6 +323,7 @@
                 "11:08:00",
                 "11:10:00",
                 "11:13:00",
+                "11:15:00",
                 "13:50:00",
                 "13:52:00",
                 "13:55:00",
@@ -279,7 +339,6 @@
                 "14:47:00",
                 "14:50:00",
                 "14:52:00",
-                "15:05:00",
                 "15:07:00",
                 "15:10:00",
                 "15:12:00",
@@ -293,8 +352,8 @@
                 "15:35:00",
                 "15:45:00",
                 "16:07:00",
-                "16:22:00",
-                "16:25:00"
+                "16:25:00",
+                "16:27:00"
             ]
         ]
     },
