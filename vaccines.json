@@ -1,6 +1,30 @@
 [
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-05",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
+        "address": "Andrzeja 23, Pruszk\u00f3w",
+        "times": [
+            [
+                "08:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-05",
+        "count": 1,
+        "location": "Przyszpitalna Przychodnia Specjalistyczna",
+        "address": "Armii Krajowej 2/4, Pruszk\u00f3w",
+        "times": [
+            [
+                "08:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
         "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
@@ -105,7 +129,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 11,
+        "count": 10,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -119,40 +143,14 @@
                 "06:30:00",
                 "06:35:00",
                 "06:40:00",
-                "06:45:00",
-                "06:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-11",
-        "count": 2,
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "15:50:00",
-                "16:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "12:30:00"
+                "06:45:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 48,
+        "count": 47,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
@@ -169,7 +167,6 @@
                 "09:20:00",
                 "09:40:00",
                 "09:50:00",
-                "10:00:00",
                 "10:10:00",
                 "10:20:00",
                 "10:30:00",
@@ -325,7 +322,6 @@
                 "07:03:00",
                 "07:13:00",
                 "07:18:00",
-                "07:20:00",
                 "07:23:00",
                 "07:25:00",
                 "07:28:00",
@@ -349,7 +345,8 @@
                 "08:25:00",
                 "08:28:00",
                 "08:35:00",
-                "08:38:00"
+                "08:38:00",
+                "08:40:00"
             ]
         ]
     }
