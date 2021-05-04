@@ -301,6 +301,12 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 13:00:00",
+        "location": "Poradnia (gabinet) lekarza podstawowej opieki zdrowotnej ",
+        "address": "Kasprowicza 62, Warszawa"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 13:30:00",
         "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
         "address": "UL. TOCHTERMANA  1, RADOM"
@@ -360,50 +366,14 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-07 06:40:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
-    },
-    {
         "vaccine": "Moderna",
-        "date": "2021-05-24 07:10:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk"
-    },
-    {
-        "vaccine": "Moderna",
-        "date": "2021-05-24 15:22:00",
+        "date": "2021-05-27 08:55:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
     {
         "vaccine": "Moderna",
-        "date": "2021-05-27 13:47:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
-    },
-    {
-        "vaccine": "Moderna",
-        "date": "2021-05-27 13:52:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
-    },
-    {
-        "vaccine": "Moderna",
-        "date": "2021-05-27 13:55:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
-    },
-    {
-        "vaccine": "Moderna",
-        "date": "2021-05-27 13:57:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
-    },
-    {
-        "vaccine": "Moderna",
-        "date": "2021-05-27 14:05:00",
+        "date": "2021-05-27 10:08:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
@@ -451,13 +421,19 @@
     },
     {
         "vaccine": "Moderna",
-        "date": "2021-05-27 14:32:00",
+        "date": "2021-05-27 15:22:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
     {
         "vaccine": "Moderna",
-        "date": "2021-05-28 06:43:00",
+        "date": "2021-05-27 15:25:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
+    },
+    {
+        "vaccine": "Moderna",
+        "date": "2021-05-27 15:27:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
@@ -488,12 +464,6 @@
     {
         "vaccine": "Moderna",
         "date": "2021-05-28 06:58:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
-    },
-    {
-        "vaccine": "Moderna",
-        "date": "2021-05-28 07:03:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
@@ -919,12 +889,6 @@
     },
     {
         "vaccine": "Moderna",
-        "date": "2021-05-28 10:08:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
-    },
-    {
-        "vaccine": "Moderna",
         "date": "2021-05-28 13:35:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
@@ -962,6 +926,42 @@
     {
         "vaccine": "Moderna",
         "date": "2021-05-28 13:50:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
+    },
+    {
+        "vaccine": "Moderna",
+        "date": "2021-05-28 13:52:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
+    },
+    {
+        "vaccine": "Moderna",
+        "date": "2021-05-28 13:55:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
+    },
+    {
+        "vaccine": "Moderna",
+        "date": "2021-05-28 13:57:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
+    },
+    {
+        "vaccine": "Moderna",
+        "date": "2021-05-28 14:00:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
+    },
+    {
+        "vaccine": "Moderna",
+        "date": "2021-05-28 14:02:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
+    },
+    {
+        "vaccine": "Moderna",
+        "date": "2021-05-28 14:05:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
@@ -1222,5 +1222,23 @@
         "date": "2021-06-09 09:40:00",
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-09 09:40:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-09 09:45:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-09 09:45:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     }
 ]
