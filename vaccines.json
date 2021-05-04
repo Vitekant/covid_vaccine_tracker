@@ -63,13 +63,6 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
-        "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA"
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-24",
         "count": 1,
@@ -79,35 +72,28 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno"
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-28",
-        "count": 15,
+        "count": 14,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk"
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-31",
-        "count": 79,
+        "count": 82,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno"
     },
@@ -142,13 +128,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
-        "address": "Jana Paw\u0142a II  20, Radzymin"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-09",
         "count": 11,
         "location": "TER-MED",
         "address": "Szymanowska 17, Teresin"
@@ -163,21 +142,21 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 4,
+        "count": 5,
         "location": "TER-MED",
         "address": "Szymanowska 17, Teresin"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 7,
+        "count": 6,
         "location": "Filia Nr 1 Niepubliczny Zak\u0142ad Opieki Zdrowotnej Eskulap",
         "address": "DZIER\u017bENIN 101, DZIER\u017bENIN"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 7,
+        "count": 8,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
     }
