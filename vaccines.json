@@ -43,13 +43,6 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-13",
-        "count": 1,
-        "location": "\"MEDYK\" Sp. z o.o - NPZOZ",
-        "address": "ul. Sportowa 17, \u0141askarzew"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
         "count": 26,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
@@ -58,7 +51,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 1,
+        "count": 2,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
     },
@@ -82,13 +75,6 @@
         "count": 10,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 1,
-        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
-        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa"
     },
     {
         "vaccine": "Pfizer",
