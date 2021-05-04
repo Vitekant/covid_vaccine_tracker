@@ -13,9 +13,27 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 12:10:00",
+        "location": "NZOZ \"Zdrowie to My\"",
+        "address": "Urocza 14, J\u00f3zefos\u0142aw"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 12:25:00",
+        "location": "NZOZ \"Zdrowie to My\"",
+        "address": "Urocza 14, J\u00f3zefos\u0142aw"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "date": "2021-05-05 14:15:00",
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 14:55:00",
+        "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W NASIELSKU-Punkt szczepie\u0144",
+        "address": "Sportowa 2, Nasielsk"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -224,14 +242,14 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 09:30:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
+        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
     },
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 09:30:00",
-        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
-        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -266,14 +284,14 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:00:00",
-        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
-        "address": "Kredytowa 2, Radzanowo"
+        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
+        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
     },
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:00:00",
-        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
-        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
+        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
+        "address": "Kredytowa 2, Radzanowo"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -308,14 +326,14 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:30:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
+        "address": "Kredytowa 2, Radzanowo"
     },
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:30:00",
-        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
-        "address": "Kredytowa 2, Radzanowo"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -332,26 +350,14 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:45:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 10:45:00",
         "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
         "address": "Kredytowa 2, Radzanowo"
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 10:50:00",
+        "date": "2021-05-06 10:45:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-01 12:25:00",
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
-        "address": "Goworowska 39A, W\u0105sewo"
     },
     {
         "vaccine": "Pfizer",
@@ -361,9 +367,9 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-01 12:35:00",
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
-        "address": "Goworowska 39A, W\u0105sewo"
+        "date": "2021-06-02 07:50:00",
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin"
     },
     {
         "vaccine": "Pfizer",
@@ -394,18 +400,6 @@
         "date": "2021-06-03 13:50:00",
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-04 17:10:00",
-        "location": "Gabinet diagnostyczno-zabiegowyv OPRAMED",
-        "address": "Nike 29, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-05 16:25:00",
-        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
-        "address": "Napoleona 20, Koby\u0142ka"
     },
     {
         "vaccine": "Pfizer",
@@ -524,12 +518,6 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-10 09:45:00",
-        "location": "Poradnia lekarza POZ",
-        "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-10 09:45:00",
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
     },
@@ -538,12 +526,6 @@
         "date": "2021-06-10 09:50:00",
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-10 09:55:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "S\u0142oneczna 1, \u0141osice"
     },
     {
         "vaccine": "Pfizer",
@@ -610,6 +592,12 @@
         "date": "2021-06-10 10:35:00",
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 10:35:00",
+        "location": "Poradnia lekarza POZ",
+        "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
     },
     {
         "vaccine": "Pfizer",
@@ -814,5 +802,29 @@
         "date": "2021-06-10 13:45:00",
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 13:50:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 13:55:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 14:00:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-11 08:10:00",
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
     }
 ]
