@@ -19,27 +19,9 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-04 15:50:00",
-        "location": "Szpital Powiatowy",
-        "address": "Ko\u015bciuszki 201, W\u0119gr\u00f3w"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-04 18:45:00",
-        "location": "Przychodnia lekarska",
-        "address": "\u017beromskiego 41a, Sochaczew"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-05 08:15:00",
         "location": "Punkt szczepie\u0144",
         "address": "Wysockiego 12, Warka"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 08:35:00",
-        "location": "NZOZ \"Zdrowie to My\"",
-        "address": "Urocza 14, J\u00f3zefos\u0142aw"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -73,21 +55,39 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 09:25:00",
+        "location": "NZOZ \"Zdrowie to My\"",
+        "address": "Urocza 14, J\u00f3zefos\u0142aw"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 09:30:00",
+        "location": "NZOZ \"Zdrowie to My\"",
+        "address": "Urocza 14, J\u00f3zefos\u0142aw"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "date": "2021-05-05 10:00:00",
         "location": "Punkt szczepie\u0144",
         "address": "Wysockiego 12, Warka"
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 12:25:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w"
+        "date": "2021-05-05 12:30:00",
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin"
     },
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-05 12:30:00",
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Medycyny Rodzinnej  \"ZDROWIE\"",
         "address": "Wyszogrodzka 7, M\u0142odzieszyn"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 16:45:00",
+        "location": "CORTEN MEDIC TOMASZ SIKORA",
+        "address": "Etiudy Rewolucyjnej 48, Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -175,12 +175,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 10:30:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:40:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
@@ -208,6 +202,12 @@
         "date": "2021-05-06 10:55:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 11:00:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -253,13 +253,19 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 12:45:00",
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 12:55:00",
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin"
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 14:00:00",
+        "date": "2021-05-06 13:15:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom"
     },
@@ -277,15 +283,15 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 14:40:00",
-        "location": "SPZOZ w Nasielsku, Filia w Cieksynie-Punkt szczepie\u0144",
-        "address": "Sportowa 5, Cieksyn"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 15:35:00",
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 16:15:00",
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -310,12 +316,6 @@
         "date": "2021-05-07 07:45:00",
         "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
         "address": "Kredytowa 2, Radzanowo"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-07 08:00:00",
-        "location": "Przychodnia Klaudyny ",
-        "address": "ul. Klaudyny 26B, Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -487,15 +487,15 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-08 08:25:00",
-        "location": "Centrum Medyczne - Warszawa  Chmielna",
-        "address": "Chmielna 71, Warszawa"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-08 09:30:00",
         "location": "Poradnia Chor\u00f3b Zaka\u017anych dla Dzieci - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141UBI\u0143SKIEGO",
         "address": "ul. Adolfa Tochtermana 1, Radom"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-08 09:55:00",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
+        "address": "Szkolna 21, Rzeku\u0144"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -541,21 +541,21 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-10 09:15:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "Powsta\u0144c\u00f3w Wielkopolskich 2, Ciechan\u00f3w"
+        "date": "2021-05-09 11:00:00",
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-10 14:20:00",
+        "date": "2021-05-09 12:10:00",
         "location": "Przychodnia lekarska",
-        "address": "\u017beromskiego 41a, Sochaczew"
+        "address": "Madali\u0144skiego 13, Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-11 10:50:00",
-        "location": "Centrum Medyczne Warszawa",
-        "address": "Aleja Niepodleg\u0142o\u015bci 107/109, Warszawa"
+        "date": "2021-05-09 17:20:00",
+        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
+        "address": "Poniatowskiego 26, Siedlce"
     },
     {
         "vaccine": "Moderna",
@@ -565,21 +565,9 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "date": "2021-05-22 08:55:00",
+        "date": "2021-05-21 10:55:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
         "address": "Parkowa 14, Raci\u0105\u017c"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-05-24 08:30:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-05-25 06:20:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno"
     },
     {
         "vaccine": "Johnson & Johnson",
@@ -720,28 +708,22 @@
         "address": "Olimpijska 3, Sochaczew"
     },
     {
-        "vaccine": "Pfizer",
-        "date": "2021-05-27 11:00:00",
-        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
-        "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-05-27 12:50:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
-        "address": "Sienkiewicza 7, P\u0142o\u0144sk"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-05-27 13:00:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
-        "address": "Sienkiewicza 7, P\u0142o\u0144sk"
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "date": "2021-05-28 06:20:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
         "address": "Parkowa 14, Raci\u0105\u017c"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "date": "2021-05-28 09:10:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
+        "address": "Jana Chilickiego  2, Zakroczym"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "date": "2021-05-28 11:50:00",
+        "location": "SZPITAL MATKI BO\u017bEJ NIEUSTAJ\u0104CEJ POMOCY W WO\u0141OMINIE",
+        "address": "GDY\u0143SKA 1/3, WO\u0141OMIN"
     },
     {
         "vaccine": "Moderna",
@@ -766,12 +748,6 @@
         "date": "2021-05-31 06:30:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
         "address": "Szczytno 11a, Szczytno"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-05-31 06:30:00",
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
     },
     {
         "vaccine": "Pfizer",
@@ -979,12 +955,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-05-31 11:35:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
-        "address": "Jana Paw\u0142a II  20, Radzymin"
-    },
-    {
-        "vaccine": "Pfizer",
         "date": "2021-05-31 11:40:00",
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
@@ -1004,6 +974,12 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-05-31 12:10:00",
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-05-31 12:20:00",
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
     },
