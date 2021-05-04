@@ -373,9 +373,15 @@
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-01 11:40:00",
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
-        "address": "Goworowska 39A, W\u0105sewo"
+        "date": "2021-05-26 11:00:00",
+        "location": "PRZYCHODNIA LEKARSKA JACEK KRUPSKI - PUNKT SZCZEPIE\u0143",
+        "address": "DR. ST. PAW\u0141OWSKIEGO 15, MYSZYNIEC"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "date": "2021-05-31 09:10:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno"
     },
     {
         "vaccine": "Pfizer",
@@ -508,12 +514,6 @@
         "date": "2021-06-06 12:35:00",
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-06 12:50:00",
-        "location": "Gminny O\u015brodek Zdrowia - SAMODZIELNY ZESP\u00d3\u0141 PUBLICZNYCH ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W JAB\u0141ONNIE",
-        "address": "Parkowa 21, Jab\u0142onna"
     },
     {
         "vaccine": "Pfizer",
@@ -674,18 +674,12 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-10 09:40:00",
-        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
-        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+        "location": "Poradnia lekarza POZ",
+        "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
     },
     {
         "vaccine": "Pfizer",
         "date": "2021-06-10 09:40:00",
-        "location": "Poradnia lekarza POZ",
-        "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-10 09:45:00",
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
     },
@@ -694,6 +688,12 @@
         "date": "2021-06-10 09:45:00",
         "location": "Poradnia lekarza POZ",
         "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 09:45:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
     },
     {
         "vaccine": "Pfizer",
@@ -712,12 +712,6 @@
         "date": "2021-06-10 09:55:00",
         "location": "Poradnia lekarza POZ",
         "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-10 09:55:00",
-        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
-        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
     },
     {
         "vaccine": "Pfizer",
@@ -727,6 +721,12 @@
     },
     {
         "vaccine": "Pfizer",
+        "date": "2021-06-10 09:55:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
         "date": "2021-06-10 10:00:00",
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
@@ -760,5 +760,23 @@
         "date": "2021-06-10 10:10:00",
         "location": "Poradnia lekarza POZ",
         "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 10:15:00",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "date": "2021-06-15 09:40:00",
+        "location": "Przychodnia Zajezierze",
+        "address": "28 Pu\u0142ku Artylerii Lekkiej 7A, Zajezierze"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "date": "2021-06-29 07:40:00",
+        "location": "Przychodnia Zajezierze",
+        "address": "28 Pu\u0142ku Artylerii Lekkiej 7A, Zajezierze"
     }
 ]
