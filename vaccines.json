@@ -13,12 +13,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 10:00:00",
-        "location": "Punkt szczepie\u0144",
-        "address": "Wysockiego 12, Warka"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-05 12:30:00",
         "location": "NZOZ \"Zdrowie to My\"",
         "address": "Urocza 14, J\u00f3zefos\u0142aw"
@@ -380,14 +374,14 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:30:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
+        "address": "Kredytowa 2, Radzanowo"
     },
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:30:00",
-        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
-        "address": "Kredytowa 2, Radzanowo"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -396,16 +390,16 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Pfizer",
-        "date": "2021-06-01 11:45:00",
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
-        "address": "Goworowska 39A, W\u0105sewo"
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-06 10:40:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-03 13:20:00",
-        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
-        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+        "date": "2021-05-26 13:15:00",
+        "location": "Przychodnia Rodzinna Dr Zdzieblowskiej - Bemowo",
+        "address": "Roz\u0142ogi 18/4, Warszawa"
     },
     {
         "vaccine": "Pfizer",
@@ -580,12 +574,6 @@
         "date": "2021-06-10 12:20:00",
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-10 12:30:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w"
     },
     {
         "vaccine": "Pfizer",
@@ -775,21 +763,27 @@
     },
     {
         "vaccine": "Pfizer",
+        "date": "2021-06-11 12:30:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
+        "address": "Andrzeja 23, Pruszk\u00f3w"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-11 16:15:00",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
+        "address": "Hubalczyk\u00f3w 11, P\u0142ock"
+    },
+    {
+        "vaccine": "Pfizer",
         "date": "2021-06-12 15:45:00",
         "location": "Centrum Medyczne ZANMED",
         "address": "J\u00f3zefa Pi\u0142sudskiego 33, Halin\u00f3w"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-13 07:00:00",
-        "location": "O\u015brodek Zdrowia",
-        "address": "Po\u0142udniowa 11B, Miszewo Murowane"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-16 09:20:00",
-        "location": "Poradnia lekarza POZ",
-        "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
+        "date": "2021-06-15 12:30:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
+        "address": "Andrzeja 23, Pruszk\u00f3w"
     },
     {
         "vaccine": "Pfizer",
@@ -806,6 +800,12 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-16 09:40:00",
+        "location": "Poradnia lekarza POZ",
+        "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-16 09:45:00",
         "location": "Poradnia lekarza POZ",
         "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
     }
