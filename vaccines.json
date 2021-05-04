@@ -50,6 +50,13 @@
     },
     {
         "vaccine": "Johnson & Johnson",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
+        "address": "Jana Chilickiego  2, Zakroczym"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
