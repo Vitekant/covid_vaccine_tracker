@@ -1,6 +1,12 @@
 [
     {
         "vaccine": "Astra Zeneca",
+        "date": "2021-05-05 07:30:00",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Sp\u00f3\u0142ka Lekarska \"ZAM\u0141YNIE\"",
+        "address": "Klonowica 44175, Radom"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "date": "2021-05-05 09:00:00",
         "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
         "address": "Nowe \u0141ubki 5A"
@@ -188,14 +194,14 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 09:10:00",
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
+        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
     },
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 09:10:00",
-        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
-        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -326,12 +332,6 @@
     {
         "vaccine": "Astra Zeneca",
         "date": "2021-05-06 10:45:00",
-        "location": "Gabinet lekarza POZ - \"MEDICINES\" Radzanowo",
-        "address": "Kredytowa 2, Radzanowo"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 10:45:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -385,21 +385,21 @@
     },
     {
         "vaccine": "Johnson & Johnson",
+        "date": "2021-05-31 07:50:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
         "date": "2021-06-01 07:15:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
         "address": "Szczytno 11a, Szczytno"
     },
     {
         "vaccine": "Pfizer",
-        "date": "2021-06-06 11:20:00",
-        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
-        "address": "Napoleona 20, Koby\u0142ka"
-    },
-    {
-        "vaccine": "Pfizer",
-        "date": "2021-06-06 11:25:00",
-        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
-        "address": "Napoleona 20, Koby\u0142ka"
+        "date": "2021-06-01 12:10:00",
+        "location": "Poradnia Lekarza POZ Gr\u00f3jec",
+        "address": "Mszczonowska 35, Gr\u00f3jec"
     },
     {
         "vaccine": "Pfizer",
@@ -500,6 +500,24 @@
     {
         "vaccine": "Pfizer",
         "date": "2021-06-06 12:50:00",
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-06 12:55:00",
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-06 13:00:00",
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-06 13:05:00",
         "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
         "address": "Napoleona 20, Koby\u0142ka"
     }
