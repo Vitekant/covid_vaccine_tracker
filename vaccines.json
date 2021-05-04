@@ -86,7 +86,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-03",
-        "count": 2,
+        "count": 1,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     },
@@ -121,15 +121,15 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 18,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
-        "address": "Goworowska 39A, W\u0105sewo"
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "S\u0142oneczna 1, \u0141osice"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 1,
-        "location": "TER-MED",
-        "address": "Szymanowska 17, Teresin"
+        "count": 18,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
+        "address": "Goworowska 39A, W\u0105sewo"
     }
 ]
