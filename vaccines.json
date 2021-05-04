@@ -72,7 +72,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 3,
+        "count": 4,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
     },
@@ -93,7 +93,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 12,
+        "count": 11,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
     },
