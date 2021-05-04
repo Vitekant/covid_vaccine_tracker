@@ -1,18 +1,6 @@
 [
     {
         "vaccine": "Astra Zeneca",
-        "date": "2021-05-05 09:00:00",
-        "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
-        "address": "Nowe \u0141ubki 5A"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "date": "2021-05-06 06:30:00",
-        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
-        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "date": "2021-05-06 06:30:00",
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
@@ -378,10 +366,16 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "date": "2021-05-08 11:30:00",
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock"
+        "vaccine": "Astra Zeneca",
+        "date": "2021-05-07 06:10:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-01 14:05:00",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     },
     {
         "vaccine": "Pfizer",
@@ -628,6 +622,12 @@
         "date": "2021-06-10 13:00:00",
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "date": "2021-06-10 13:05:00",
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
+        "address": "Andrzeja 23, Pruszk\u00f3w"
     },
     {
         "vaccine": "Pfizer",
