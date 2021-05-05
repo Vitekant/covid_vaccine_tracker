@@ -1,13 +1,6 @@
 [
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-05",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
         "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
@@ -79,13 +72,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 3,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 10,
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc"
@@ -100,6 +86,13 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
+        "count": 3,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
         "count": 2,
         "location": "Przychodnia Rejonowa",
         "address": "Szybowcowa 4, Warszawa"
@@ -108,8 +101,8 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 2,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -120,24 +113,10 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
-        "address": "Poniatowskiego 26, Siedlce"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk"
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew"
     },
     {
         "vaccine": "Moderna",
@@ -148,57 +127,22 @@
     },
     {
         "vaccine": "Moderna",
-        "day": "2021-05-24",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk"
-    },
-    {
-        "vaccine": "Moderna",
         "day": "2021-05-25",
         "count": 24,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
-        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 27,
+        "count": 28,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
-        "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-28",
-        "count": 1,
-        "location": "GRUPA ZDROWIE Dzierz\u0105\u017cnia (filia zak\u0142adu)",
-        "address": "Dzierz\u0105\u017cnia 58, Dzierz\u0105\u017cnia"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-01",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "Wiejska 19/21, \u017byrard\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-02",
-        "count": 16,
+        "count": 15,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie"
     },
@@ -208,6 +152,13 @@
         "count": 2,
         "location": "Punkt szczepie\u0144",
         "address": "S\u0142oneczna 1, \u0141osice"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-04",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna"
     },
     {
         "vaccine": "Pfizer",
@@ -233,7 +184,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-08",
-        "count": 11,
+        "count": 9,
         "location": "Przychodnia przy KOT CENTER- punkt szczepie\u0144 ",
         "address": "Powsta\u0144c\u00f3w Warszawy  3, Otwock"
     },
@@ -275,7 +226,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 1,
+        "count": 2,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
     },
@@ -288,13 +239,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 2,
-        "location": "Przychodnia Rejonowa Nr 3",
-        "address": "Jana Paw\u0142a II 23, Warszawa Weso\u0142a"
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-10",
         "count": 3,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
@@ -303,7 +247,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 10,
+        "count": 19,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie"
     },
