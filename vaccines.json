@@ -181,18 +181,6 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Nowodworski O\u015brodek Sportu i Rekreacji w Nowym Dworze Mazowieckim",
-        "address": "Sportowa 66, Nowy Dw\u00f3r Mazowiecki",
-        "times": [
-            [
-                "08:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
         "count": 14,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
@@ -209,8 +197,8 @@
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
-                "09:10:00",
                 "09:15:00",
+                "10:05:00",
                 "10:10:00",
                 "10:15:00"
             ]
@@ -338,21 +326,9 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-28",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "10:10:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 16,
+        "count": 17,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
@@ -372,19 +348,8 @@
                 "09:45:00",
                 "10:00:00",
                 "10:15:00",
-                "10:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-29",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "11:50:00"
+                "10:30:00",
+                "10:45:00"
             ]
         ]
     },
@@ -539,7 +504,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 4,
+        "count": 5,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -547,7 +512,8 @@
                 "07:00:00",
                 "07:05:00",
                 "07:10:00",
-                "07:15:00"
+                "07:15:00",
+                "07:20:00"
             ]
         ]
     }
