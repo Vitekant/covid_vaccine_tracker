@@ -53,11 +53,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Ambulatorium Stomatologiczne - Che\u0142mska",
-        "address": "Che\u0142mska 12, Warszawa",
+        "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
+        "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
         "times": [
             [
-                "07:30:00"
+                "06:40:00"
             ]
         ]
     },
@@ -129,18 +129,6 @@
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
-        "times": [
-            [
-                "13:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
                 "13:00:00"
@@ -222,18 +210,6 @@
                 "12:25:00",
                 "13:15:00",
                 "14:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w",
-        "times": [
-            [
-                "10:30:00"
             ]
         ]
     },
@@ -332,7 +308,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 12,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
@@ -348,19 +324,8 @@
                 "15:00:00",
                 "15:15:00",
                 "15:30:00",
-                "15:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O",
-        "times": [
-            [
-                "09:45:00"
+                "15:45:00",
+                "16:00:00"
             ]
         ]
     },
@@ -427,7 +392,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 4,
+        "count": 5,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo",
         "times": [
@@ -435,19 +400,20 @@
                 "12:35:00",
                 "12:50:00",
                 "13:05:00",
-                "13:20:00"
+                "13:20:00",
+                "13:45:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-10",
+        "day": "2021-06-12",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
+        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
         "times": [
             [
-                "17:30:00"
+                "07:25:00"
             ]
         ]
     },
