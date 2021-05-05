@@ -14,13 +14,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
             [
-                "06:35:00",
-                "08:45:00"
+                "06:35:00"
             ]
         ]
     },
@@ -194,13 +193,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 18,
+        "count": 17,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
                 "07:45:00",
-                "07:50:00",
                 "07:55:00",
                 "08:05:00",
                 "08:10:00",
@@ -223,13 +221,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 51,
+        "count": 50,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
                 "05:35:00",
-                "05:40:00",
                 "05:50:00",
                 "05:55:00",
                 "06:00:00",
@@ -285,7 +282,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 7,
+        "count": 9,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -296,7 +293,9 @@
                 "06:20:00",
                 "06:25:00",
                 "06:30:00",
-                "06:35:00"
+                "06:35:00",
+                "06:40:00",
+                "06:45:00"
             ]
         ]
     },
