@@ -28,18 +28,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
-        "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
-        "times": [
-            [
-                "06:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
         "location": "Pogotowie Ratunkowe - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W ZWOLENIU",
         "address": "Ludowa 7a, Zwole\u0144",
         "times": [
@@ -149,7 +137,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 33,
+        "count": 34,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -186,7 +174,8 @@
                 "10:20:00",
                 "10:25:00",
                 "10:30:00",
-                "10:35:00"
+                "10:35:00",
+                "10:40:00"
             ]
         ]
     },
@@ -205,12 +194,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 19,
+        "count": 18,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "07:40:00",
                 "07:45:00",
                 "07:50:00",
                 "07:55:00",
@@ -298,7 +286,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 4,
+        "count": 5,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -306,7 +294,8 @@
                 "06:05:00",
                 "06:10:00",
                 "06:15:00",
-                "06:20:00"
+                "06:20:00",
+                "06:25:00"
             ]
         ]
     },
@@ -353,11 +342,12 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 16,
+        "count": 17,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
+                "06:00:00",
                 "06:15:00",
                 "06:30:00",
                 "06:45:00",
@@ -379,7 +369,7 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-07",
+        "day": "2021-06-09",
         "count": 1,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
@@ -437,6 +427,18 @@
             [
                 "12:10:00",
                 "13:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-11",
+        "count": 1,
+        "location": "Podstawowa Opieka Zdrowotna -Punkt szczepie\u0144,  ul. 3 Maja 57",
+        "address": "ul. 3 Maja 57, Grodzisk Mazowiecki",
+        "times": [
+            [
+                "09:00:00"
             ]
         ]
     },
@@ -541,7 +543,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 5,
+        "count": 4,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -549,8 +551,7 @@
                 "07:00:00",
                 "07:05:00",
                 "07:10:00",
-                "07:15:00",
-                "07:20:00"
+                "07:15:00"
             ]
         ]
     }
