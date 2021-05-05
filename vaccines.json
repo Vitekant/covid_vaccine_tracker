@@ -1,15 +1,15 @@
 [
     {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-05",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-06",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
-        "address": "UL. TOCHTERMANA  1, RADOM"
+        "location": "Punkt Szczepie\u0144",
+        "address": "Kili\u0144skiego 15/17, Radom"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 47,
+        "count": 48,
         "location": "Przychodnia Rejonowo Specjalistyczna",
         "address": "\u0141OJEWSKA 6, WARSZAWA"
     },
@@ -122,6 +122,13 @@
         "vaccine": "Pfizer",
         "day": "2021-06-19",
         "count": 1,
+        "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
+        "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-19",
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
         "address": "Elizy Orzeszkowej 3A, Koby\u0142ka"
     },
@@ -131,13 +138,6 @@
         "count": 1,
         "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
         "address": "Napoleona 20, Koby\u0142ka"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-19",
-        "count": 1,
-        "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
-        "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka"
     },
     {
         "vaccine": "Pfizer",
