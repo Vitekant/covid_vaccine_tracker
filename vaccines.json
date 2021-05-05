@@ -1,6 +1,13 @@
 [
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-05",
+        "count": 1,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 25,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
@@ -37,7 +44,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-08",
-        "count": 3,
+        "count": 2,
         "location": "\"MEDYK\" Sp. z o.o - NPZOZ",
         "address": "ul. Sportowa 17, \u0141askarzew"
     },
