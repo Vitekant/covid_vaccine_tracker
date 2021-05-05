@@ -9,16 +9,23 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 4,
-        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
-        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
+        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
-        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
+        "location": "Poradnia lekarza podstawowej opieki zdrowotnej Szpital w Sochaczewie",
+        "address": "ul. Batalion\u00f3w Ch\u0142opskich 44015, Sochaczew"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 3,
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -54,13 +61,6 @@
         "count": 1,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -120,52 +120,66 @@
     },
     {
         "vaccine": "Moderna",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc"
+    },
+    {
+        "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 24,
+        "count": 22,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 30,
+        "count": 29,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-28",
+        "day": "2021-05-27",
         "count": 1,
-        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
-        "address": "Poniatowskiego 26, Siedlce"
+        "location": "Poradnia lekarza rodzinnego",
+        "address": "D\u0105br\u00f3wka 52, Lelis"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-02",
-        "count": 8,
+        "count": 6,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie"
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-07",
+        "day": "2021-06-04",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
+        "address": "Hubalczyk\u00f3w 11, P\u0142ock"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-08",
+        "count": 6,
+        "location": "Przychodnia Podstawowej Opieki Zdrowotnej",
+        "address": "Plac Wolno\u015bci 35, Strzegowo"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-08",
         "count": 1,
         "location": "ZAK\u0141AD OPIEKU\u0143CZO-LECZNICZY",
         "address": "Mehoffera 72/74, Warszawa"
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-07",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
-        "address": "Jana Paw\u0142a II  20, Radzymin"
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-08",
-        "count": 5,
-        "location": "Przychodnia Podstawowej Opieki Zdrowotnej",
-        "address": "Plac Wolno\u015bci 35, Strzegowo"
+        "count": 1,
+        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
+        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa"
     },
     {
         "vaccine": "Pfizer",
@@ -205,7 +219,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 56,
+        "count": 57,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie"
     },
@@ -233,7 +247,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 2,
+        "count": 1,
         "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
         "address": "Spacerowa  29, Bia\u0142obrzegi"
     }
