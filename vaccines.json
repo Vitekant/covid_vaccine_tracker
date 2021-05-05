@@ -27,11 +27,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 2,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
             [
+                "06:30:00",
                 "06:35:00",
                 "08:45:00"
             ]
@@ -116,19 +117,20 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
+        "count": 2,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
-                "15:45:00"
+                "15:45:00",
+                "15:50:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 18,
+        "count": 17,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -149,8 +151,7 @@
                 "10:20:00",
                 "10:25:00",
                 "10:30:00",
-                "10:40:00",
-                "15:10:00"
+                "10:40:00"
             ]
         ]
     },
@@ -229,6 +230,18 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew",
+        "times": [
+            [
+                "12:20:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 12,
@@ -248,18 +261,6 @@
                 "09:30:00",
                 "09:35:00",
                 "09:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W CEG\u0141OWIE - Punkt szczepie\u0144",
-        "address": "Plac Anny Jagiellonki 17, Ceg\u0142\u00f3w",
-        "times": [
-            [
-                "09:10:00"
             ]
         ]
     },
@@ -298,9 +299,9 @@
             [
                 "06:25:00",
                 "07:05:00",
-                "07:10:00",
                 "07:15:00",
-                "07:20:00"
+                "07:20:00",
+                "07:25:00"
             ]
         ]
     },
@@ -324,7 +325,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-21",
-        "count": 7,
+        "count": 8,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
@@ -335,19 +336,8 @@
                 "14:00:00",
                 "14:15:00",
                 "14:30:00",
-                "15:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-02",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
-        "times": [
-            [
-                "06:00:00"
+                "15:00:00",
+                "15:15:00"
             ]
         ]
     },
@@ -360,6 +350,18 @@
         "times": [
             [
                 "09:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+        "times": [
+            [
+                "10:00:00"
             ]
         ]
     },
@@ -506,7 +508,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 5,
+        "count": 6,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -515,7 +517,8 @@
                 "10:20:00",
                 "10:25:00",
                 "10:30:00",
-                "10:35:00"
+                "10:35:00",
+                "10:40:00"
             ]
         ]
     }
