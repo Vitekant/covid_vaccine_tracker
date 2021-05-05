@@ -366,30 +366,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-01",
-        "count": 1,
-        "location": "\"DAGIS centrum medyczne\" Niepubliczny Zak\u0142ad Opieki Zdrowotnej-Poradnia lekarza POZ",
-        "address": "Odkryta 31 -, Warszawa",
-        "times": [
-            [
-                "12:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-03",
-        "count": 1,
-        "location": "\"DAGIS centrum medyczne\" Niepubliczny Zak\u0142ad Opieki Zdrowotnej-Poradnia lekarza POZ",
-        "address": "Odkryta 31 -, Warszawa",
-        "times": [
-            [
-                "09:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-03",
         "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
@@ -402,13 +378,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-09",
+        "day": "2021-06-03",
         "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "location": "\"DAGIS centrum medyczne\" Niepubliczny Zak\u0142ad Opieki Zdrowotnej-Poradnia lekarza POZ",
+        "address": "Odkryta 31 -, Warszawa",
         "times": [
             [
-                "13:15:00"
+                "09:45:00"
             ]
         ]
     },
@@ -465,18 +441,6 @@
                 "12:35:00",
                 "12:40:00",
                 "12:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-10",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "12:40:00"
             ]
         ]
     },
@@ -566,12 +530,13 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 3,
+        "count": 4,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
                 "12:30:00",
+                "12:35:00",
                 "13:10:00",
                 "13:15:00"
             ]
