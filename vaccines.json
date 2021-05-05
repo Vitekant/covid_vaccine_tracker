@@ -373,6 +373,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-01",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "08:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-09",
         "count": 1,
         "location": "Gabinet zabiegowo-diagnostyczny",
@@ -461,18 +473,6 @@
         "times": [
             [
                 "06:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-11",
-        "count": 1,
-        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
-        "address": "Spacerowa  29, Bia\u0142obrzegi",
-        "times": [
-            [
-                "09:35:00"
             ]
         ]
     },
@@ -567,6 +567,18 @@
         "times": [
             [
                 "14:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 1,
+        "location": "NZOZ BONUS",
+        "address": "LIPOWIEC KO\u015aCIELNY  26, LIPOWIEC KO\u015aCIELNY",
+        "times": [
+            [
+                "14:25:00"
             ]
         ]
     }
