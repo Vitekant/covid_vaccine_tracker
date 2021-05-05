@@ -30,7 +30,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 8,
+        "count": 5,
         "location": "Przychodnia Rejonowo Specjalistyczna",
         "address": "\u0141OJEWSKA 6, WARSZAWA"
     },
@@ -44,7 +44,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 29,
+        "count": 31,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -103,13 +103,6 @@
         "count": 1,
         "location": "O\u015brodek Zdrowia",
         "address": "Po\u0142udniowa 11B, Miszewo Murowane"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-19",
-        "count": 1,
-        "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
-        "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka"
     },
     {
         "vaccine": "Pfizer",
