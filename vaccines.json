@@ -243,14 +243,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
-        "count": 84,
+        "count": 81,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "08:15:00",
-                "08:20:00",
-                "08:25:00",
                 "08:35:00",
                 "08:40:00",
                 "08:45:00",
@@ -350,7 +347,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 8,
+        "count": 12,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -362,19 +359,11 @@
                 "06:20:00",
                 "06:25:00",
                 "06:30:00",
-                "06:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-15",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
-        "times": [
-            [
-                "10:15:00"
+                "06:35:00",
+                "06:40:00",
+                "06:45:00",
+                "06:50:00",
+                "06:55:00"
             ]
         ]
     },
