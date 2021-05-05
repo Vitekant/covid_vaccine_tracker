@@ -1,12 +1,5 @@
 [
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-05",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 18,
@@ -29,66 +22,38 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Przychodnia Lekarska \"ORLIK\"",
-        "address": "Ostrobramska 101, Warszawa"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 37,
+        "count": 38,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-15",
-        "count": 1,
-        "location": "Centrum Medyczne na Reymonta",
-        "address": "W\u0142adys\u0142awa Reymonta 12/125, RADZYMIN"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-15",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
-        "address": "UL. TOCHTERMANA  1, RADOM"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-02",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock"
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
-        "count": 17,
+        "count": 15,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w"
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-08",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 9,
+        "count": 8,
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-12",
+        "day": "2021-06-13",
         "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock"
+        "location": "Centrum Leczniczo-Us\u0142ugowe imienia \u015awi\u0119tej Anny Sp\u00f3\u0142ka z ograniczon\u0105 odpowiedzialno\u015bci\u0105",
+        "address": "Jana Kochanowskiego 22A, P\u0142ock"
     },
     {
         "vaccine": "Pfizer",
@@ -100,7 +65,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 12,
+        "count": 13,
         "location": "SP ZOZ - PORADNIA LEKARZA POZ",
         "address": "PI\u0141SUDSKIEGO 47, GIELNI\u00d3W"
     },
@@ -127,10 +92,10 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-17",
-        "count": 4,
-        "location": "TER-MED",
-        "address": "Szymanowska 17, Teresin"
+        "day": "2021-06-18",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
+        "address": "Hubalczyk\u00f3w 11, P\u0142ock"
     },
     {
         "vaccine": "Pfizer",
@@ -142,7 +107,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-20",
-        "count": 1,
+        "count": 6,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
     }
