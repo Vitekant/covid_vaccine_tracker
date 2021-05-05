@@ -2,14 +2,14 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-05",
-        "count": 2,
+        "count": 1,
         "location": "GRUPA ZDROWIE P\u0142o\u0144sk",
         "address": "Sienkiewicza 7, P\u0142o\u0144sk"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 10,
+        "count": 9,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -24,20 +24,13 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
-        "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 2,
         "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom"
     },
@@ -65,7 +58,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 40,
+        "count": 42,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -79,23 +72,23 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
+        "count": 2,
         "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
         "address": "Nowe \u0141ubki 5A"
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-31",
+        "vaccine": "Pfizer",
+        "day": "2021-05-13",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno"
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-06-05",
+        "vaccine": "Pfizer",
+        "day": "2021-05-15",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
-        "address": "Kraszewskiego 8, Ciechan\u00f3w"
+        "location": "Przychodnia Podstawowej Opieki Zdrowotnej",
+        "address": "Kondratowicza 8, Warszawa"
     },
     {
         "vaccine": "Pfizer",
@@ -107,9 +100,23 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 2,
+        "count": 1,
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
+        "address": "Jana Paw\u0142a II  20, Radzymin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 1,
+        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
+        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa"
     },
     {
         "vaccine": "Pfizer",
@@ -136,8 +143,8 @@
         "vaccine": "Pfizer",
         "day": "2021-06-17",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
-        "address": "Jana Paw\u0142a II  20, Radzymin"
+        "location": "Punkt szczepie\u0144",
+        "address": "Wiejska 19/21, \u017byrard\u00f3w"
     },
     {
         "vaccine": "Pfizer",
@@ -163,7 +170,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-21",
-        "count": 13,
+        "count": 11,
         "location": "SP ZOZ - PORADNIA LEKARZA POZ",
         "address": "PI\u0141SUDSKIEGO 47, GIELNI\u00d3W"
     },
