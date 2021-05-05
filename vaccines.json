@@ -1,17 +1,17 @@
 [
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 19,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+        "day": "2021-05-05",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
+        "address": "UL. TOCHTERMANA  1, RADOM"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
-        "location": "Przychodnia Rejonowo Specjalistyczna",
-        "address": "\u0141OJEWSKA 6, WARSZAWA"
+        "count": 19,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -36,13 +36,6 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Poradnia lekarza POZ dla doros\u0142ych i dzieci",
-        "address": "\u017beromskiego 41A, sochaczew"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
         "count": 20,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
@@ -61,6 +54,13 @@
         "count": 1,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 1,
+        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
+        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa"
     },
     {
         "vaccine": "Pfizer",
@@ -107,7 +107,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-20",
-        "count": 10,
+        "count": 9,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
     }
