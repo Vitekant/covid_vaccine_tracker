@@ -93,13 +93,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-16",
         "count": 2,
         "location": "Przychodnia Zajezierze",
         "address": "28 Pu\u0142ku Artylerii Lekkiej 7A, Zajezierze"
