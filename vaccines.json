@@ -61,6 +61,18 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ MAL MED - Punkt szczepie\u0144",
+        "address": "Powsta\u0144c\u00f3w 7/U1, Pruszk\u00f3w",
+        "times": [
+            [
+                "15:20:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 7,
@@ -180,21 +192,9 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-18",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "15:55:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 14,
+        "count": 13,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -209,7 +209,6 @@
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
-                "09:15:00",
                 "10:05:00",
                 "10:15:00",
                 "10:20:00"
@@ -219,7 +218,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 49,
+        "count": 50,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -272,6 +271,7 @@
                 "10:05:00",
                 "10:10:00",
                 "10:15:00",
+                "10:20:00",
                 "16:10:00"
             ]
         ]
@@ -418,18 +418,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-10",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "13:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-13",
         "count": 1,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
@@ -437,6 +425,18 @@
         "times": [
             [
                 "08:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-14",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "13:25:00"
             ]
         ]
     },
@@ -516,7 +516,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 5,
+        "count": 6,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -525,7 +525,8 @@
                 "07:05:00",
                 "07:10:00",
                 "07:15:00",
-                "07:20:00"
+                "07:20:00",
+                "07:25:00"
             ]
         ]
     }
