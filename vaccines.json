@@ -168,18 +168,6 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-15",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk",
-        "times": [
-            [
-                "06:30:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
         "count": 11,
@@ -400,6 +388,18 @@
             [
                 "12:10:00",
                 "13:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-10",
+        "count": 1,
+        "location": "Ma\u0142y Gabinet Lekarski",
+        "address": "Komorska 37, Warszawa",
+        "times": [
+            [
+                "15:40:00"
             ]
         ]
     },
