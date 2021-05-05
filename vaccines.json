@@ -168,6 +168,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143",
+        "address": "rtm. Witolda Pileckiego 14, OSTRO\u0141\u0118KA",
+        "times": [
+            [
+                "10:30:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
         "count": 9,
