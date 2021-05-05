@@ -1,25 +1,12 @@
 [
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "O\u015brodek Zdrowia w \u0141ysowie - Punkt szczepie\u0144",
-        "address": "\u0141ys\u00f3w 28, \u0141ys\u00f3w",
-        "times": [
-            [
-                "12:15:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 2,
+        "count": 1,
         "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
         "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze",
         "times": [
             [
-                "06:25:00",
                 "06:30:00"
             ]
         ]
@@ -90,15 +77,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 4,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Medycyny Rodzinnej  \"ZDROWIE\"",
+        "address": "Wyszogrodzka 7, M\u0142odzieszyn",
         "times": [
             [
-                "11:00:00",
-                "12:15:00",
-                "13:00:00",
-                "13:30:00"
+                "11:15:00"
             ]
         ]
     },
@@ -117,12 +101,14 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc",
+        "count": 3,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "13:00:00"
+                "12:15:00",
+                "13:00:00",
+                "13:30:00"
             ]
         ]
     },
@@ -130,11 +116,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "17:30:00"
+                "13:00:00"
             ]
         ]
     },
@@ -282,7 +268,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 4,
+        "count": 5,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -290,19 +276,21 @@
                 "06:15:00",
                 "06:25:00",
                 "07:05:00",
-                "07:10:00"
+                "07:10:00",
+                "07:15:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 13,
+        "count": 14,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "11:30:00",
+                "12:30:00",
+                "12:35:00",
                 "12:50:00",
                 "12:55:00",
                 "13:10:00",
@@ -352,14 +340,14 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-28",
+        "vaccine": "Pfizer",
+        "day": "2021-06-07",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
-        "address": "Karczewska 48, Otwock",
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "08:10:00"
+                "11:20:00"
             ]
         ]
     },
@@ -479,11 +467,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 6,
+        "count": 7,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
             [
+                "10:30:00",
                 "10:40:00",
                 "14:20:00",
                 "14:40:00",
