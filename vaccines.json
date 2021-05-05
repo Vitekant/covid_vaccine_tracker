@@ -305,11 +305,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 37,
+        "count": 36,
         "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W B\u0141\u0118DOWIE",
         "address": "Wilk\u00f3w Drugi 127 B, Wilk\u00f3w Drugi",
         "times": [
             [
+                "11:00:00",
                 "11:45:00",
                 "11:50:00",
                 "11:55:00",
@@ -344,9 +345,7 @@
                 "14:40:00",
                 "14:45:00",
                 "14:50:00",
-                "14:55:00",
-                "15:00:00",
-                "15:05:00"
+                "14:55:00"
             ]
         ]
     },
@@ -365,13 +364,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 17,
+        "count": 15,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "11:30:00",
-                "12:30:00",
                 "12:45:00",
                 "12:50:00",
                 "12:55:00",
@@ -387,6 +384,18 @@
                 "13:45:00",
                 "13:50:00",
                 "13:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Przychodnia Rodzinna STAR\u00d3WKA w Miedznie - Filia nr 3",
+        "address": "PL.WOLNO\u015aCI 8, MIEDZNA",
+        "times": [
+            [
+                "07:10:00"
             ]
         ]
     },
@@ -561,29 +570,16 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 6,
+        "count": 5,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo",
         "times": [
             [
-                "12:20:00",
                 "12:30:00",
                 "12:35:00",
                 "12:50:00",
                 "13:05:00",
                 "13:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-11",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "Wiejska 19/21, \u017byrard\u00f3w",
-        "times": [
-            [
-                "08:25:00"
             ]
         ]
     },
@@ -617,18 +613,6 @@
         "vaccine": "Pfizer",
         "day": "2021-06-13",
         "count": 1,
-        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
-        "address": "Napoleona 20, Koby\u0142ka",
-        "times": [
-            [
-                "07:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-13",
-        "count": 1,
         "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
         "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka",
         "times": [
@@ -639,20 +623,8 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-13",
-        "count": 1,
-        "location": "O\u015brodek Zdrowia",
-        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
-        "times": [
-            [
-                "07:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 7,
+        "count": 10,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -663,7 +635,10 @@
                 "10:40:00",
                 "14:00:00",
                 "14:20:00",
-                "16:50:00"
+                "16:50:00",
+                "17:00:00",
+                "17:10:00",
+                "17:20:00"
             ]
         ]
     },
