@@ -1,10 +1,10 @@
 [
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-05",
+        "day": "2021-05-06",
         "count": 1,
-        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
-        "address": "Poligonowa 32, Warszawa"
+        "location": "Przychodnia Rejonowo Specjalistyczna",
+        "address": "\u0141OJEWSKA 6, WARSZAWA"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -50,6 +50,13 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-08",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-11",
         "count": 10,
         "location": "Punkt szczepie\u0144",
@@ -58,16 +65,9 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 3,
+        "count": 2,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-13",
-        "count": 1,
-        "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
-        "address": "Wojska Polskiego 91, Zwole\u0144"
     },
     {
         "vaccine": "Pfizer",
@@ -92,17 +92,17 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-18",
+        "day": "2021-06-19",
         "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock"
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-19",
         "count": 1,
-        "location": "O\u015brodek Zdrowia",
-        "address": "Po\u0142udniowa 11B, Miszewo Murowane"
+        "location": "Poradnia Lekarza POZ Warszawa",
+        "address": "Wojciecha Chrzanowskiego 8a, Warszawa"
     },
     {
         "vaccine": "Pfizer",
