@@ -1,6 +1,13 @@
 [
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-05",
+        "count": 1,
+        "location": "NZOZ \"Zdrowie to My\"",
+        "address": "Urocza 14, J\u00f3zefos\u0142aw"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
@@ -8,24 +15,24 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 34,
+        "count": 36,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 3,
+        "count": 4,
         "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
         "address": "Nowe \u0141ubki 5A"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "Sitarskich 3, Nadarzyn"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -44,28 +51,14 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 19,
+        "count": 18,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk"
     },
     {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "GMINNE CENTRUM MEDYCZNO-REHABILITACYJNE W BROCHOWIE",
-        "address": "Broch\u00f3w 124, Broch\u00f3w"
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-18",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc"
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-20",
-        "count": 17,
+        "count": 16,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
     },
@@ -77,18 +70,18 @@
         "address": "Piastowska  39, Sierpc"
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "DETOKS FENIX SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Umiastowska 50A, Kaputy"
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 17,
+        "count": 18,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno"
     },
     {
         "vaccine": "Pfizer",
@@ -99,8 +92,29 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-01",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
+        "address": "Goworowska 39A, W\u0105sewo"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-02",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-03",
-        "count": 40,
+        "count": 80,
+        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
+        "address": "Spacerowa  29, Bia\u0142obrzegi"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-03",
+        "count": 9,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
     }
