@@ -30,11 +30,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
-        "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
+        "location": "Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Miejska w J\u00f3zefowie",
+        "address": "Sk\u0142odowskiej 5/7, J\u00f3zef\u00f3w",
         "times": [
             [
-                "06:45:00"
+                "06:40:00"
             ]
         ]
     },
@@ -256,19 +256,6 @@
     },
     {
         "vaccine": "Moderna",
-        "day": "2021-05-21",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
-        "address": "D\u0141UGA 75, BRAMKI",
-        "times": [
-            [
-                "18:00:00",
-                "18:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
         "day": "2021-05-25",
         "count": 10,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
@@ -347,30 +334,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-31",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
-        "times": [
-            [
-                "06:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-31",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
-        "address": "Jana Paw\u0142a II  20, Radzymin",
-        "times": [
-            [
-                "11:35:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-31",
         "count": 1,
@@ -384,13 +347,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-04",
+        "day": "2021-06-07",
         "count": 1,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "09:45:00"
+                "12:00:00"
             ]
         ]
     },
@@ -489,46 +452,63 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 12,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "count": 52,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
+                "06:00:00",
+                "06:05:00",
                 "06:10:00",
+                "06:15:00",
                 "06:20:00",
-                "10:20:00",
-                "10:30:00",
-                "10:40:00",
-                "10:50:00",
-                "14:00:00",
-                "14:10:00",
-                "14:20:00",
-                "14:30:00",
-                "14:40:00",
-                "16:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 12,
-        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
-        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
-        "times": [
-            [
-                "10:15:00",
-                "10:20:00",
-                "10:25:00",
-                "10:30:00",
-                "10:35:00",
-                "10:40:00",
-                "10:45:00",
-                "10:50:00",
-                "10:55:00",
-                "11:00:00",
-                "11:05:00",
-                "11:10:00"
+                "06:25:00",
+                "06:30:00",
+                "06:35:00",
+                "06:40:00",
+                "06:45:00",
+                "06:50:00",
+                "06:55:00",
+                "07:00:00",
+                "07:05:00",
+                "07:10:00",
+                "07:15:00",
+                "07:20:00",
+                "07:25:00",
+                "07:30:00",
+                "07:35:00",
+                "07:40:00",
+                "07:45:00",
+                "07:50:00",
+                "07:55:00",
+                "08:00:00",
+                "08:05:00",
+                "08:10:00",
+                "08:15:00",
+                "08:20:00",
+                "08:25:00",
+                "08:30:00",
+                "08:35:00",
+                "08:40:00",
+                "08:45:00",
+                "08:50:00",
+                "08:55:00",
+                "09:00:00",
+                "09:05:00",
+                "09:10:00",
+                "09:15:00",
+                "09:20:00",
+                "09:25:00",
+                "09:30:00",
+                "09:35:00",
+                "09:40:00",
+                "09:45:00",
+                "09:50:00",
+                "09:55:00",
+                "10:00:00",
+                "10:05:00",
+                "10:10:00",
+                "10:15:00"
             ]
         ]
     },
@@ -536,24 +516,12 @@
         "vaccine": "Pfizer",
         "day": "2021-06-15",
         "count": 2,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
             [
-                "12:05:00",
-                "13:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 1,
-        "location": "NZOZ BONUS",
-        "address": "LIPOWIEC KO\u015aCIELNY  26, LIPOWIEC KO\u015aCIELNY",
-        "times": [
-            [
-                "14:25:00"
+                "06:10:00",
+                "06:20:00"
             ]
         ]
     }
