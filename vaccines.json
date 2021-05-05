@@ -306,8 +306,20 @@
     },
     {
         "vaccine": "Moderna",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI",
+        "times": [
+            [
+                "13:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
         "day": "2021-05-21",
-        "count": 14,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
@@ -320,24 +332,11 @@
                 "15:15:00",
                 "15:30:00",
                 "15:45:00",
-                "16:00:00",
                 "16:15:00",
                 "16:30:00",
                 "16:45:00",
                 "17:00:00",
                 "17:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-31",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
-        "times": [
-            [
-                "10:10:00"
             ]
         ]
     },
@@ -382,19 +381,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "05:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-10",
-        "count": 33,
+        "count": 34,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
@@ -405,6 +392,7 @@
                 "09:45:00",
                 "09:50:00",
                 "09:55:00",
+                "10:05:00",
                 "10:10:00",
                 "10:15:00",
                 "10:20:00",
@@ -463,13 +451,24 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-12",
-        "count": 2,
+        "count": 1,
         "location": "PUNKT SZCZEPIE\u0143 WO\u0141OSKA",
         "address": "WO\u0141OSKA 16, WARSZAWA",
         "times": [
             [
-                "09:20:00",
-                "09:30:00"
+                "08:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-14",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "13:10:00"
             ]
         ]
     },
@@ -532,13 +531,14 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 2,
+        "count": 3,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
                 "12:30:00",
-                "12:35:00"
+                "12:35:00",
+                "12:55:00"
             ]
         ]
     }
