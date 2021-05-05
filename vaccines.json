@@ -36,15 +36,8 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-23",
-        "count": 1,
-        "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
-        "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
-        "count": 10,
+        "count": 8,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w"
     },
@@ -75,20 +68,6 @@
         "count": 12,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-18",
-        "count": 1,
-        "location": "Przychodnia Kochanowskiego ",
-        "address": "ul. Jana Kochanowskiego 19, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-18",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock"
     },
     {
         "vaccine": "Pfizer",
