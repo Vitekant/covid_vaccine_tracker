@@ -247,7 +247,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 11,
+        "count": 12,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -262,7 +262,8 @@
                 "07:50:00",
                 "07:55:00",
                 "08:00:00",
-                "08:05:00"
+                "08:05:00",
+                "08:10:00"
             ]
         ]
     },
@@ -361,6 +362,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-01",
+        "count": 1,
+        "location": "\"DAGIS centrum medyczne\" Niepubliczny Zak\u0142ad Opieki Zdrowotnej-Poradnia lekarza POZ",
+        "address": "Odkryta 31 -, Warszawa",
+        "times": [
+            [
+                "14:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-10",
         "count": 1,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
@@ -454,12 +467,25 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-14",
+        "day": "2021-06-11",
         "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+        "times": [
+            [
+                "10:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-14",
+        "count": 2,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
+                "11:45:00",
                 "12:05:00"
             ]
         ]
@@ -481,7 +507,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 9,
+        "count": 8,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -493,8 +519,7 @@
                 "10:40:00",
                 "10:50:00",
                 "14:00:00",
-                "14:10:00",
-                "14:20:00"
+                "14:10:00"
             ]
         ]
     },
