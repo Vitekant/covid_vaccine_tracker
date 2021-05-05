@@ -2,7 +2,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-05",
-        "count": 2,
+        "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
         "address": "Hubalczyk\u00f3w 11, P\u0142ock"
     },
@@ -19,13 +19,6 @@
         "count": 2,
         "location": "Gabinet Diagnostyczno Zabiegowy II  SPZZOZ Sierpc",
         "address": "Juliusza S\u0142owackiego 16, Sierpc"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -51,14 +44,14 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-07",
-        "count": 23,
+        "count": 21,
         "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
         "address": "Napoleona 20, Koby\u0142ka"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
+        "count": 1,
         "location": "Gabinet lekarza POZ - \"MEDICUS\" \u017bELECH\u00d3W",
         "address": "REYMONTA 36A, \u017bELECH\u00d3W"
     },
@@ -129,13 +122,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
-        "location": "Gabinet Pediatryczny \"Eskulapek\", El\u017cbieta Malinowska",
-        "address": "Sarmacka 1 b lok. 21, Warszawa"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
         "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W CEG\u0141OWIE - Punkt szczepie\u0144",
         "address": "Plac Anny Jagiellonki 17, Ceg\u0142\u00f3w"
     },
@@ -162,10 +148,24 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 4,
+        "count": 6,
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
         "address": "Poniatowskiego 26, Siedlce"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-09",
+        "count": 1,
+        "location": "Gminny O\u015brodek Zdrowia - SAMODZIELNY ZESP\u00d3\u0141 PUBLICZNYCH ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W JAB\u0141ONNIE",
+        "address": "Parkowa 21, Jab\u0142onna"
     },
     {
         "vaccine": "Moderna",
@@ -173,6 +173,20 @@
         "count": 54,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+        "address": "Parkowa 14, Raci\u0105\u017c"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
+        "address": "Spacerowa  29, Bia\u0142obrzegi"
     },
     {
         "vaccine": "Johnson & Johnson",
