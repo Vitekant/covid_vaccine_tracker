@@ -2,12 +2,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 2,
+        "count": 1,
         "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
         "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze",
         "times": [
             [
-                "06:25:00",
                 "06:30:00"
             ]
         ]
@@ -38,18 +37,6 @@
             [
                 "09:30:00",
                 "14:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
-        "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
-        "times": [
-            [
-                "09:45:00"
             ]
         ]
     },
@@ -207,13 +194,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
+        "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
         "address": "Widok 1, WINNICA",
         "times": [
             [
-                "14:10:00",
-                "14:20:00"
+                "14:10:00"
             ]
         ]
     },
@@ -266,7 +252,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 7,
+        "count": 9,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -277,7 +263,9 @@
                 "07:25:00",
                 "07:35:00",
                 "07:40:00",
-                "07:45:00"
+                "07:45:00",
+                "07:50:00",
+                "07:55:00"
             ]
         ]
     },
@@ -308,15 +296,14 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-06-04",
-        "count": 2,
-        "location": "Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej w \u0141askarzewie",
-        "address": "Du\u017cy Rynek 32, \u0141askarzew",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-24",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
         "times": [
             [
-                "13:40:00",
-                "13:50:00"
+                "06:10:00"
             ]
         ]
     },
@@ -461,13 +448,14 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 2,
+        "count": 3,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
                 "12:35:00",
-                "13:05:00"
+                "13:05:00",
+                "13:10:00"
             ]
         ]
     }
