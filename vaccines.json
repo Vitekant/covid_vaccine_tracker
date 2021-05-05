@@ -29,11 +29,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
+        "count": 2,
         "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko",
         "times": [
             [
+                "06:35:00",
                 "08:40:00"
             ]
         ]
@@ -241,9 +242,8 @@
         "address": "Napoleona 20, Koby\u0142ka",
         "times": [
             [
-                "15:15:00",
+                "15:00:00",
                 "15:55:00",
-                "16:00:00",
                 "16:05:00",
                 "16:10:00",
                 "16:15:00",
@@ -259,7 +259,8 @@
                 "17:05:00",
                 "17:10:00",
                 "17:15:00",
-                "17:20:00"
+                "17:20:00",
+                "17:25:00"
             ]
         ]
     },
@@ -324,46 +325,46 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-27",
+        "day": "2021-05-31",
         "count": 1,
-        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
-        "address": "Poniatowskiego 26, Siedlce",
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "06:40:00"
+                "11:40:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-01",
+        "day": "2021-06-06",
         "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka",
         "times": [
             [
-                "15:05:00"
+                "07:00:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-02",
+        "day": "2021-06-07",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "09:10:00"
+                "11:40:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-04",
+        "day": "2021-06-08",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
             [
                 "10:20:00"
@@ -374,11 +375,11 @@
         "vaccine": "Pfizer",
         "day": "2021-06-09",
         "count": 1,
-        "location": "Poradnia lekarza POZ",
-        "address": "Staszica 18, Garwolin",
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
-                "06:00:00"
+                "08:40:00"
             ]
         ]
     },
@@ -512,6 +513,18 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
+        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
+        "times": [
+            [
+                "08:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-11",
         "count": 3,
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O",
@@ -538,12 +551,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 6,
+        "count": 5,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
             [
-                "06:10:00",
                 "06:20:00",
                 "06:30:00",
                 "10:20:00",
