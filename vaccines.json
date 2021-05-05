@@ -15,24 +15,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
-        "location": "EMC PIASECZNO",
-        "address": "Szkolna 1, Piaseczno",
-        "times": [
-            [
-                "06:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 3,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
             [
-                "06:30:00",
                 "06:35:00",
                 "08:45:00"
             ]
@@ -48,6 +35,18 @@
             [
                 "09:30:00",
                 "14:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "NZOZ Centrum Medyczne eMK-med punkt szczepie\u0144 Por. Jana Bia\u0142ka 3",
+        "address": "ul. por. Jana Bia\u0142ka 3, G\u00f3ra Kalwaria",
+        "times": [
+            [
+                "09:50:00"
             ]
         ]
     },
@@ -308,12 +307,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 7,
+        "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "13:30:00",
                 "14:45:00",
                 "15:00:00",
                 "15:15:00",
@@ -326,7 +324,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-21",
-        "count": 8,
+        "count": 9,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
@@ -338,7 +336,8 @@
                 "14:15:00",
                 "14:30:00",
                 "15:00:00",
-                "15:15:00"
+                "15:15:00",
+                "15:30:00"
             ]
         ]
     },
@@ -357,12 +356,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 35,
+        "count": 34,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
             [
-                "09:15:00",
                 "09:35:00",
                 "09:40:00",
                 "09:45:00",
