@@ -22,13 +22,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 34,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
@@ -92,6 +85,13 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-19",
+        "count": 1,
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-20",
         "count": 3,
         "location": "O\u015brodek Zdrowia",
@@ -100,7 +100,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-20",
-        "count": 3,
+        "count": 2,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
     },
