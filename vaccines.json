@@ -61,18 +61,6 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ MAL MED - Punkt szczepie\u0144",
-        "address": "Powsta\u0144c\u00f3w 7/U1, Pruszk\u00f3w",
-        "times": [
-            [
-                "15:20:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 7,
