@@ -45,13 +45,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ SP\u00d3\u0141KA CYWILNA \"MAGMEDIC\" MARZENA STYSIAK,W\u0141ODZIMIERZ STYSIAK",
-        "address": "Klonowa 16, Magnuszew"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
     },
@@ -66,13 +59,13 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Poradnia lekarza POZ dla doros\u0142ych i dzieci",
-        "address": "\u017beromskiego 41A, sochaczew"
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 32,
+        "count": 31,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -82,13 +75,6 @@
         "count": 2,
         "location": "Gabinet lekarza POZ - \"MEDICUS\" \u017bELECH\u00d3W",
         "address": "REYMONTA 36A, \u017bELECH\u00d3W"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Centrum Medyczne LUX MED",
-        "address": "Post\u0119pu 21C, Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -121,7 +107,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 8,
+        "count": 10,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk"
     },
@@ -140,32 +126,11 @@
         "address": "Piastowska  39, Sierpc"
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "Przychodnia rejonowa dzieci\u0119ca",
-        "address": "18-Stycznia 4, M\u0142awa"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-26",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "S\u0142oneczna 1, \u0141osice"
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-27",
         "count": 30,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Poradnia lekarza rodzinnego",
-        "address": "D\u0105br\u00f3wka 52, Lelis"
     },
     {
         "vaccine": "Pfizer",
@@ -185,15 +150,29 @@
         "vaccine": "Pfizer",
         "day": "2021-06-07",
         "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna"
+        "location": "ZAK\u0141AD OPIEKU\u0143CZO-LECZNICZY",
+        "address": "Mehoffera 72/74, Warszawa"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-07",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
+        "address": "Jana Paw\u0142a II  20, Radzymin"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-08",
-        "count": 6,
+        "count": 5,
         "location": "Przychodnia Podstawowej Opieki Zdrowotnej",
         "address": "Plac Wolno\u015bci 35, Strzegowo"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-08",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka"
     },
     {
         "vaccine": "Pfizer",
@@ -218,17 +197,17 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-10",
-        "count": 55,
-        "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
-        "address": "S\u0142oneczna 1, Szulborze Wielkie"
+        "day": "2021-06-09",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna"
+        "count": 56,
+        "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
+        "address": "S\u0142oneczna 1, Szulborze Wielkie"
     },
     {
         "vaccine": "Pfizer",
@@ -254,7 +233,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 1,
+        "count": 2,
         "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
         "address": "Spacerowa  29, Bia\u0142obrzegi"
     }
