@@ -27,18 +27,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
-        "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
-        "times": [
-            [
-                "07:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
         "count": 2,
         "location": "Punkt szczepie\u0144 (doro\u015bli i dzieci)",
         "address": "Mazowiecka 13B, Czerwin",
@@ -52,25 +40,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 8,
-        "location": "MyMed",
-        "address": "Wolno\u015b\u0107 2, Warszawa",
-        "times": [
-            [
-                "10:05:00",
-                "10:10:00",
-                "10:15:00",
-                "10:20:00",
-                "10:25:00",
-                "10:30:00",
-                "10:35:00",
-                "10:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
         "count": 2,
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc",
@@ -78,6 +47,25 @@
             [
                 "10:10:00",
                 "10:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 8,
+        "location": "MyMed",
+        "address": "Wolno\u015b\u0107 2, Warszawa",
+        "times": [
+            [
+                "10:10:00",
+                "10:15:00",
+                "10:20:00",
+                "10:25:00",
+                "10:30:00",
+                "10:35:00",
+                "10:40:00",
+                "10:50:00"
             ]
         ]
     },
@@ -103,18 +91,6 @@
             [
                 "12:10:00",
                 "12:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "NZOZ Centrum Medyczne eMK-med punkt szczepie\u0144 Por. Jana Bia\u0142ka 3",
-        "address": "ul. por. Jana Bia\u0142ka 3, G\u00f3ra Kalwaria",
-        "times": [
-            [
-                "12:30:00"
             ]
         ]
     },
@@ -157,7 +133,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 25,
+        "count": 24,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -171,7 +147,6 @@
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
-                "09:00:00",
                 "09:05:00",
                 "09:10:00",
                 "09:20:00",
@@ -227,13 +202,14 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
                 "09:15:00",
-                "09:30:00"
+                "09:30:00",
+                "10:15:00"
             ]
         ]
     },
@@ -267,8 +243,20 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Centrum Medicover Pu\u0142awska",
+        "address": "Pu\u0142awska  278, Warszawa",
+        "times": [
+            [
+                "11:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 6,
+        "count": 7,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
@@ -278,7 +266,8 @@
                 "08:00:00",
                 "08:05:00",
                 "08:10:00",
-                "08:15:00"
+                "08:15:00",
+                "08:20:00"
             ]
         ]
     },
@@ -291,18 +280,6 @@
         "times": [
             [
                 "08:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-13",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "14:30:00"
             ]
         ]
     },
@@ -341,12 +318,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 26,
+        "count": 25,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "11:45:00",
                 "11:50:00",
                 "11:55:00",
                 "12:05:00",
@@ -377,13 +353,50 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-27",
+        "day": "2021-05-30",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
-        "address": "Parkowa 14, Raci\u0105\u017c",
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
             [
-                "12:05:00"
+                "07:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-08",
+        "count": 26,
+        "location": " Poradnia Medical Center - Poradnia lekarza podstawowej opieki zdrowotnej",
+        "address": "Belgradzka 42, Warszawa",
+        "times": [
+            [
+                "10:20:00",
+                "10:25:00",
+                "10:30:00",
+                "10:35:00",
+                "10:40:00",
+                "10:45:00",
+                "10:50:00",
+                "10:55:00",
+                "11:00:00",
+                "11:05:00",
+                "11:10:00",
+                "11:15:00",
+                "11:20:00",
+                "11:25:00",
+                "11:30:00",
+                "11:35:00",
+                "11:40:00",
+                "11:45:00",
+                "11:50:00",
+                "11:55:00",
+                "12:00:00",
+                "12:05:00",
+                "12:10:00",
+                "12:15:00",
+                "12:20:00",
+                "12:25:00"
             ]
         ]
     },
@@ -450,7 +463,19 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 41,
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "06:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-10",
+        "count": 19,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
@@ -473,41 +498,7 @@
                 "09:50:00",
                 "09:55:00",
                 "10:05:00",
-                "10:10:00",
-                "10:15:00",
-                "10:20:00",
-                "10:25:00",
-                "10:30:00",
-                "10:35:00",
-                "10:40:00",
-                "10:45:00",
-                "10:50:00",
-                "10:55:00",
-                "11:00:00",
-                "11:05:00",
-                "11:10:00",
-                "11:15:00",
-                "11:20:00",
-                "11:25:00",
-                "11:30:00",
-                "11:35:00",
-                "11:40:00",
-                "11:45:00",
-                "11:50:00",
-                "11:55:00",
-                "12:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-10",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "11:35:00"
+                "10:10:00"
             ]
         ]
     }
