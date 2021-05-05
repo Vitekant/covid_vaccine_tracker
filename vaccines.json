@@ -114,23 +114,23 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Przychodnia lekarska",
-        "address": "\u017beromskiego 41a, Sochaczew",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "18:50:00"
+                "13:30:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
+        "day": "2021-05-06",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
+        "location": "Przychodnia lekarska",
+        "address": "\u017beromskiego 41a, Sochaczew",
         "times": [
             [
-                "08:30:00"
+                "18:50:00"
             ]
         ]
     },
@@ -303,6 +303,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
         "count": 1,
+        "location": "Przychodnia lekarska",
+        "address": "Madali\u0144skiego 13, Warszawa",
+        "times": [
+            [
+                "11:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-09",
+        "count": 1,
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
         "address": "Poniatowskiego 26, Siedlce",
         "times": [
@@ -314,7 +326,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 5,
+        "count": 4,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -322,20 +334,31 @@
                 "06:15:00",
                 "06:25:00",
                 "07:05:00",
-                "07:10:00",
-                "07:15:00"
+                "07:10:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-11",
+        "day": "2021-05-14",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
             [
-                "18:00:00"
+                "13:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-15",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI",
+        "times": [
+            [
+                "17:00:00"
             ]
         ]
     },
@@ -347,7 +370,6 @@
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "13:30:00",
                 "13:45:00",
                 "14:00:00",
                 "14:15:00",
@@ -360,31 +382,21 @@
                 "16:00:00",
                 "16:15:00",
                 "17:45:00",
-                "18:00:00"
+                "18:00:00",
+                "18:15:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": " ARS MEDICA NZOZ ANDRZEJCZAK I ZAPART-B\u0104K SP\u00d3\u0141KA PARTNERSKA LEKARZY",
-        "address": "REYMONTA 11, LUTOCIN",
-        "times": [
-            [
-                "10:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-04",
-        "count": 1,
+        "day": "2021-06-07",
+        "count": 2,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "09:50:00"
+                "11:55:00",
+                "13:05:00"
             ]
         ]
     },
@@ -415,12 +427,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 36,
+        "count": 35,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
             [
-                "09:15:00",
                 "09:35:00",
                 "09:40:00",
                 "09:45:00",
