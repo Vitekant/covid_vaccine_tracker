@@ -21,13 +21,6 @@
         "address": "ul. Lubelska 50, Garwolin"
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych w Zespole Szk\u00f3\u0142 Powiatowych w Przasnyszu",
-        "address": "SADOWA 5, PRZASNYSZ"
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
@@ -79,7 +72,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-07",
-        "count": 21,
+        "count": 20,
         "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
         "address": "Napoleona 20, Koby\u0142ka"
     },
@@ -129,15 +122,15 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Poradnia chor\u00f3b wewn\u0119trznych",
-        "address": "Aleja Owocowa 30C, Tr\u0105bki"
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin"
+        "location": "Poradnia chor\u00f3b wewn\u0119trznych",
+        "address": "Aleja Owocowa 30C, Tr\u0105bki"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -171,8 +164,8 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
-        "location": "EMC PIASECZNO",
-        "address": "Szkolna 1, Piaseczno"
+        "location": "Przychodnia lekarska",
+        "address": "Madali\u0144skiego 13, Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -204,17 +197,24 @@
     },
     {
         "vaccine": "Moderna",
-        "day": "2021-05-13",
-        "count": 2,
+        "day": "2021-05-14",
+        "count": 50,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin"
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-14",
-        "count": 51,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin"
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-29",
+        "count": 1,
+        "location": "Poradnia lekarza POZ",
+        "address": "B\u0142o\u0144ska 62, Leszno"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-31",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno"
     },
     {
         "vaccine": "Johnson & Johnson",
