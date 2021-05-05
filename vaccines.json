@@ -170,14 +170,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 41,
+        "count": 37,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "05:45:00",
-                "06:15:00",
-                "06:20:00",
                 "06:25:00",
                 "06:35:00",
                 "06:40:00",
@@ -213,7 +210,6 @@
                 "09:30:00",
                 "09:35:00",
                 "09:40:00",
-                "09:50:00",
                 "16:10:00",
                 "16:15:00"
             ]
@@ -222,7 +218,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 30,
+        "count": 32,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -256,7 +252,9 @@
                 "07:45:00",
                 "07:50:00",
                 "07:55:00",
-                "08:00:00"
+                "08:00:00",
+                "08:05:00",
+                "08:10:00"
             ]
         ]
     },
@@ -302,18 +300,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Poradnia lekarza POZ",
-        "address": "Wojska Polskiego 78, Zwole\u0144",
-        "times": [
-            [
-                "14:15:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-29",
         "count": 15,
@@ -342,13 +328,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-29",
-        "count": 5,
+        "count": 3,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "14:55:00",
-                "15:35:00",
                 "15:40:00",
                 "15:45:00",
                 "15:50:00"
@@ -423,12 +407,13 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 4,
+        "count": 5,
         "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
         "address": "Spacerowa  29, Bia\u0142obrzegi",
         "times": [
             [
                 "09:45:00",
+                "10:30:00",
                 "10:50:00",
                 "10:55:00",
                 "11:20:00"
@@ -486,7 +471,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 13,
+        "count": 14,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -503,6 +488,7 @@
                 "14:40:00",
                 "16:50:00",
                 "17:00:00",
+                "17:10:00",
                 "17:20:00"
             ]
         ]
