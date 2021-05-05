@@ -292,18 +292,6 @@
     },
     {
         "vaccine": "Moderna",
-        "day": "2021-05-22",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
-        "times": [
-            [
-                "11:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
         "day": "2021-05-25",
         "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
@@ -341,7 +329,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 8,
+        "count": 10,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
@@ -353,19 +341,9 @@
                 "12:40:00",
                 "12:45:00",
                 "12:50:00",
-                "12:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-05",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
-        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
-        "times": [
-            [
-                "07:25:00"
+                "12:55:00",
+                "13:10:00",
+                "13:15:00"
             ]
         ]
     },
@@ -447,6 +425,18 @@
         "times": [
             [
                 "13:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-12",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 WO\u0141OSKA",
+        "address": "WO\u0141OSKA 16, WARSZAWA",
+        "times": [
+            [
+                "09:50:00"
             ]
         ]
     },
