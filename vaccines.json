@@ -1,12 +1,5 @@
 [
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-05",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "Kunin 20, Kunin"
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 25,
@@ -44,7 +37,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-08",
-        "count": 4,
+        "count": 3,
         "location": "\"MEDYK\" Sp. z o.o - NPZOZ",
         "address": "ul. Sportowa 17, \u0141askarzew"
     },
@@ -94,8 +87,8 @@
         "vaccine": "Pfizer",
         "day": "2021-06-16",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
-        "address": "Jana Paw\u0142a II  20, Radzymin"
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki"
     },
     {
         "vaccine": "Pfizer",
@@ -103,13 +96,6 @@
         "count": 2,
         "location": "Przychodnia Zajezierze",
         "address": "28 Pu\u0142ku Artylerii Lekkiej 7A, Zajezierze"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-16",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki"
     },
     {
         "vaccine": "Pfizer",
