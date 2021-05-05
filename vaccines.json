@@ -90,7 +90,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 10,
+        "count": 8,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -102,9 +102,7 @@
                 "09:35:00",
                 "09:50:00",
                 "10:05:00",
-                "10:15:00",
-                "10:20:00",
-                "10:25:00"
+                "10:20:00"
             ]
         ]
     },
@@ -143,12 +141,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 28,
+        "count": 29,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
-                "07:20:00",
                 "07:25:00",
                 "07:35:00",
                 "07:40:00",
@@ -175,19 +172,20 @@
                 "09:25:00",
                 "09:30:00",
                 "09:35:00",
-                "09:40:00"
+                "09:40:00",
+                "09:45:00",
+                "09:50:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 8,
+        "count": 7,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "12:55:00",
                 "13:15:00",
                 "13:20:00",
                 "13:25:00",
@@ -201,11 +199,12 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 14,
+        "count": 15,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
+                "11:05:00",
                 "12:35:00",
                 "12:40:00",
                 "12:45:00",
@@ -224,14 +223,25 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "10:45:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 13,
+        "count": 12,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "06:00:00",
                 "06:15:00",
                 "06:30:00",
                 "06:45:00",
@@ -250,15 +260,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-29",
-        "count": 75,
+        "count": 66,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "07:55:00",
-                "08:25:00",
-                "08:30:00",
-                "08:35:00",
                 "08:40:00",
                 "08:45:00",
                 "08:50:00",
@@ -269,12 +275,9 @@
                 "09:40:00",
                 "09:45:00",
                 "09:50:00",
-                "10:25:00",
-                "10:35:00",
                 "10:50:00",
                 "10:55:00",
                 "11:00:00",
-                "11:05:00",
                 "11:10:00",
                 "11:15:00",
                 "11:20:00",
@@ -316,11 +319,9 @@
                 "14:50:00",
                 "14:55:00",
                 "15:00:00",
-                "15:10:00",
                 "15:15:00",
                 "15:20:00",
                 "15:25:00",
-                "15:30:00",
                 "15:35:00",
                 "15:40:00",
                 "15:45:00",
@@ -360,13 +361,38 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 2,
+        "count": 12,
         "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
         "address": "Spacerowa  29, Bia\u0142obrzegi",
         "times": [
             [
                 "11:20:00",
-                "11:25:00"
+                "11:25:00",
+                "11:35:00",
+                "11:40:00",
+                "11:45:00",
+                "11:50:00",
+                "11:55:00",
+                "12:00:00",
+                "12:05:00",
+                "12:10:00",
+                "12:15:00",
+                "12:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-10",
+        "count": 4,
+        "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
+        "address": "S\u0142oneczna 1, Szulborze Wielkie",
+        "times": [
+            [
+                "09:50:00",
+                "09:55:00",
+                "10:05:00",
+                "10:10:00"
             ]
         ]
     }
