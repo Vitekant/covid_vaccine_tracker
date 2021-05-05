@@ -289,12 +289,13 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 1,
+        "count": 2,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "06:00:00"
+                "06:00:00",
+                "06:05:00"
             ]
         ]
     },
@@ -368,12 +369,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 28,
+        "count": 27,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
             [
-                "09:55:00",
                 "10:05:00",
                 "10:10:00",
                 "10:15:00",
@@ -414,6 +414,18 @@
             [
                 "12:10:00",
                 "13:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-11",
+        "count": 1,
+        "location": "Podstawowa Opieka Zdrowotna -Punkt szczepie\u0144,  ul. 3 Maja 57",
+        "address": "ul. 3 Maja 57, Grodzisk Mazowiecki",
+        "times": [
+            [
+                "09:00:00"
             ]
         ]
     },
