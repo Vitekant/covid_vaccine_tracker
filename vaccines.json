@@ -8,8 +8,15 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-05",
+        "count": 1,
+        "location": "GRUPA ZDROWIE P\u0142o\u0144sk",
+        "address": "Sienkiewicza 7, P\u0142o\u0144sk"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 5,
+        "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -24,15 +31,15 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 2,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Centrum Medyczne\" BMC - Przychodnia Lekarska w Wyszogrodzie",
-        "address": "P\u0142ocka 29, Wyszogr\u00f3d"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc"
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Centrum Medyczne\" BMC - Przychodnia Lekarska w Wyszogrodzie",
+        "address": "P\u0142ocka 29, Wyszogr\u00f3d"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -65,15 +72,8 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-08",
-        "count": 36,
+        "count": 37,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Poradnia lekarza POZ - Kleczewska",
-        "address": "ul. Kleczewska 56, Warszawa"
     }
 ]
