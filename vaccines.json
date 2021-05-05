@@ -233,7 +233,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 14,
+        "count": 13,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -250,20 +250,7 @@
                 "08:00:00",
                 "08:05:00",
                 "08:10:00",
-                "08:15:00",
-                "08:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-14",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "15:05:00"
+                "08:15:00"
             ]
         ]
     },
@@ -286,18 +273,6 @@
                 "13:40:00",
                 "13:45:00",
                 "13:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-26",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
-        "times": [
-            [
-                "08:10:00"
             ]
         ]
     },
@@ -344,6 +319,18 @@
                 "06:45:00",
                 "07:00:00",
                 "07:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-31",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
+        "times": [
+            [
+                "06:50:00"
             ]
         ]
     },
@@ -455,7 +442,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 12,
+        "count": 13,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -471,7 +458,8 @@
                 "14:20:00",
                 "14:30:00",
                 "14:40:00",
-                "16:50:00"
+                "16:50:00",
+                "17:00:00"
             ]
         ]
     },
