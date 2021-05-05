@@ -156,7 +156,6 @@
         "times": [
             [
                 "07:35:00",
-                "07:40:00",
                 "07:45:00",
                 "07:50:00",
                 "07:55:00",
@@ -185,7 +184,20 @@
                 "10:05:00",
                 "10:10:00",
                 "10:15:00",
-                "10:20:00"
+                "10:20:00",
+                "10:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-18",
+        "count": 1,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "10:40:00"
             ]
         ]
     },
@@ -259,17 +271,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-29",
-        "count": 39,
+        "count": 34,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "11:50:00",
-                "11:55:00",
-                "12:15:00",
                 "12:20:00",
-                "12:25:00",
-                "12:30:00",
                 "12:35:00",
                 "12:40:00",
                 "12:45:00",
@@ -308,8 +315,20 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-07",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "13:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 6,
+        "count": 7,
         "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
         "address": "Spacerowa  29, Bia\u0142obrzegi",
         "times": [
@@ -319,7 +338,8 @@
                 "11:40:00",
                 "11:45:00",
                 "11:50:00",
-                "11:55:00"
+                "11:55:00",
+                "12:00:00"
             ]
         ]
     },
@@ -379,12 +399,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 3,
+        "count": 2,
         "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
         "address": "Spacerowa  29, Bia\u0142obrzegi",
         "times": [
             [
-                "10:20:00",
                 "10:55:00",
                 "11:20:00"
             ]
@@ -440,27 +459,43 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 2,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "day": "2021-06-14",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "06:20:00",
-                "06:50:00"
+                "13:20:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 2,
+        "count": 4,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "06:20:00",
+                "06:50:00",
+                "10:30:00",
+                "10:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 4,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "10:20:00",
-                "10:25:00"
+                "10:25:00",
+                "10:30:00",
+                "10:35:00",
+                "10:40:00"
             ]
         ]
     }
