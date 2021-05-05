@@ -126,11 +126,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "06:45:00"
+                "08:30:00"
             ]
         ]
     },
@@ -289,6 +289,18 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
+        "address": "Poniatowskiego 26, Siedlce",
+        "times": [
+            [
+                "14:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
         "count": 1,
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
@@ -302,7 +314,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 6,
+        "count": 5,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -311,32 +323,30 @@
                 "06:25:00",
                 "07:05:00",
                 "07:10:00",
-                "07:15:00",
-                "07:20:00"
+                "07:15:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-14",
+        "day": "2021-05-11",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
             [
-                "13:10:00"
+                "18:00:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 15,
+        "count": 14,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "13:00:00",
                 "13:30:00",
                 "13:45:00",
                 "14:00:00",
@@ -349,32 +359,32 @@
                 "15:45:00",
                 "16:00:00",
                 "16:15:00",
-                "16:45:00",
-                "17:45:00"
+                "17:45:00",
+                "18:00:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-05",
+        "day": "2021-05-19",
         "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "Wiejska 19/21, \u017byrard\u00f3w",
+        "location": " ARS MEDICA NZOZ ANDRZEJCZAK I ZAPART-B\u0104K SP\u00d3\u0141KA PARTNERSKA LEKARZY",
+        "address": "REYMONTA 11, LUTOCIN",
         "times": [
             [
-                "11:45:00"
+                "10:35:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-07",
+        "day": "2021-06-04",
         "count": 1,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "11:55:00"
+                "09:50:00"
             ]
         ]
     },
@@ -392,8 +402,20 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "11:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 37,
+        "count": 36,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
@@ -412,7 +434,6 @@
                 "10:45:00",
                 "10:50:00",
                 "10:55:00",
-                "11:00:00",
                 "11:05:00",
                 "11:10:00",
                 "11:15:00",
@@ -522,7 +543,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 6,
+        "count": 7,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -532,7 +553,8 @@
                 "10:25:00",
                 "10:30:00",
                 "10:35:00",
-                "10:40:00"
+                "10:40:00",
+                "10:45:00"
             ]
         ]
     }
