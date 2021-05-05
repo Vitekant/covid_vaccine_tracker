@@ -2,11 +2,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
+        "count": 2,
         "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
         "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze",
         "times": [
             [
+                "06:25:00",
                 "06:30:00"
             ]
         ]
@@ -99,18 +100,6 @@
         "times": [
             [
                 "13:00:00",
-                "13:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Poradnia (gabinet) lekarza POZ",
-        "address": "Czajewicza 5/7 lok 49, Piaseczno",
-        "times": [
-            [
                 "13:10:00"
             ]
         ]
@@ -361,6 +350,19 @@
                 "12:35:00",
                 "12:40:00",
                 "12:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-10",
+        "count": 2,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "11:55:00",
+                "13:10:00"
             ]
         ]
     },
