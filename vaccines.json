@@ -123,18 +123,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
-        "address": "Poniatowskiego 26, Siedlce",
-        "times": [
-            [
-                "13:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
         "count": 35,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
@@ -181,14 +169,24 @@
     },
     {
         "vaccine": "Johnson & Johnson",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Nowodworski O\u015brodek Sportu i Rekreacji w Nowym Dworze Mazowieckim",
+        "address": "Sportowa 66, Nowy Dw\u00f3r Mazowiecki",
+        "times": [
+            [
+                "08:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 17,
+        "count": 14,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "07:45:00",
-                "08:05:00",
                 "08:10:00",
                 "08:15:00",
                 "08:20:00",
@@ -199,7 +197,6 @@
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
-                "09:05:00",
                 "09:10:00",
                 "09:15:00",
                 "10:10:00",
@@ -210,7 +207,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 50,
+        "count": 51,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -264,6 +261,7 @@
                 "10:00:00",
                 "10:05:00",
                 "10:10:00",
+                "10:15:00",
                 "16:10:00"
             ]
         ]
@@ -324,6 +322,18 @@
                 "13:45:00",
                 "13:50:00",
                 "13:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "10:10:00"
             ]
         ]
     },
@@ -530,15 +540,14 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 4,
+        "count": 3,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
             [
                 "07:00:00",
                 "07:05:00",
-                "07:10:00",
-                "07:15:00"
+                "07:10:00"
             ]
         ]
     }
