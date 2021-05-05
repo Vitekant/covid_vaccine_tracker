@@ -292,13 +292,81 @@
         ]
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-22",
+        "count": 44,
+        "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W B\u0141\u0118DOWIE",
+        "address": "Wilk\u00f3w Drugi 127 B, Wilk\u00f3w Drugi",
+        "times": [
+            [
+                "11:25:00",
+                "11:30:00",
+                "11:35:00",
+                "11:40:00",
+                "11:45:00",
+                "11:50:00",
+                "11:55:00",
+                "12:00:00",
+                "12:05:00",
+                "12:10:00",
+                "12:15:00",
+                "12:20:00",
+                "12:25:00",
+                "12:30:00",
+                "12:35:00",
+                "12:40:00",
+                "12:45:00",
+                "12:50:00",
+                "12:55:00",
+                "13:00:00",
+                "13:05:00",
+                "13:10:00",
+                "13:15:00",
+                "13:20:00",
+                "13:25:00",
+                "13:30:00",
+                "13:35:00",
+                "13:40:00",
+                "13:45:00",
+                "13:50:00",
+                "13:55:00",
+                "14:05:00",
+                "14:10:00",
+                "14:15:00",
+                "14:20:00",
+                "14:25:00",
+                "14:30:00",
+                "14:35:00",
+                "14:40:00",
+                "14:45:00",
+                "14:50:00",
+                "14:55:00",
+                "15:00:00",
+                "15:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-25",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+        "address": "Parkowa 14, Raci\u0105\u017c",
+        "times": [
+            [
+                "07:20:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 16,
+        "count": 17,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
+                "12:20:00",
                 "12:40:00",
                 "12:45:00",
                 "12:50:00",
@@ -315,18 +383,6 @@
                 "13:45:00",
                 "13:50:00",
                 "13:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
-        "times": [
-            [
-                "10:05:00"
             ]
         ]
     },
@@ -364,6 +420,42 @@
         ]
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-31",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
+        "times": [
+            [
+                "08:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-31",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "times": [
+            [
+                "11:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-06-01",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
+        "times": [
+            [
+                "06:25:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-06-08",
         "count": 1,
@@ -372,6 +464,18 @@
         "times": [
             [
                 "10:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
+        "times": [
+            [
+                "06:10:00"
             ]
         ]
     },
@@ -414,7 +518,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 41,
+        "count": 40,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
@@ -433,7 +537,6 @@
                 "10:20:00",
                 "10:25:00",
                 "10:30:00",
-                "10:35:00",
                 "10:45:00",
                 "10:50:00",
                 "10:55:00",
@@ -522,18 +625,6 @@
         "vaccine": "Pfizer",
         "day": "2021-06-13",
         "count": 1,
-        "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
-        "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka",
-        "times": [
-            [
-                "07:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-13",
-        "count": 1,
         "location": "O\u015brodek Zdrowia",
         "address": "Po\u0142udniowa 11B, Miszewo Murowane",
         "times": [
@@ -545,7 +636,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 7,
+        "count": 8,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -556,7 +647,8 @@
                 "10:40:00",
                 "14:00:00",
                 "14:20:00",
-                "16:50:00"
+                "16:50:00",
+                "17:00:00"
             ]
         ]
     },
