@@ -2,6 +2,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "06:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
         "count": 2,
         "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
         "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze",
@@ -223,18 +235,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "12:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-09",
         "count": 2,
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
         "address": "Poniatowskiego 26, Siedlce",
@@ -270,13 +270,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-21",
-        "count": 9,
+        "count": 7,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "16:15:00",
-                "17:15:00",
                 "17:30:00",
                 "17:45:00",
                 "18:00:00",
@@ -366,21 +364,26 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-03",
-        "count": 10,
+        "day": "2021-06-01",
+        "count": 1,
         "location": "\"DAGIS centrum medyczne\" Niepubliczny Zak\u0142ad Opieki Zdrowotnej-Poradnia lekarza POZ",
         "address": "Odkryta 31 -, Warszawa",
         "times": [
             [
-                "08:15:00",
-                "09:00:00",
-                "09:05:00",
-                "09:10:00",
-                "09:15:00",
+                "14:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-03",
+        "count": 3,
+        "location": "\"DAGIS centrum medyczne\" Niepubliczny Zak\u0142ad Opieki Zdrowotnej-Poradnia lekarza POZ",
+        "address": "Odkryta 31 -, Warszawa",
+        "times": [
+            [
                 "09:20:00",
-                "09:25:00",
                 "09:30:00",
-                "09:35:00",
                 "09:40:00"
             ]
         ]
@@ -492,6 +495,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-11",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "06:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-12",
         "count": 1,
         "location": "Punkt szczepie\u0144",
@@ -532,7 +547,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 6,
+        "count": 7,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -542,14 +557,15 @@
                 "10:20:00",
                 "10:30:00",
                 "10:40:00",
-                "10:50:00"
+                "10:50:00",
+                "14:00:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 9,
+        "count": 12,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -562,7 +578,23 @@
                 "10:40:00",
                 "10:45:00",
                 "10:50:00",
-                "10:55:00"
+                "10:55:00",
+                "11:00:00",
+                "11:05:00",
+                "11:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 2,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "13:10:00",
+                "13:15:00"
             ]
         ]
     }
