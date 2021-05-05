@@ -223,7 +223,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 52,
+        "count": 51,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -278,15 +278,14 @@
                 "10:00:00",
                 "10:05:00",
                 "10:10:00",
-                "16:15:00",
-                "16:20:00"
+                "16:15:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 5,
+        "count": 7,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -295,7 +294,9 @@
                 "06:10:00",
                 "06:15:00",
                 "06:20:00",
-                "06:25:00"
+                "06:25:00",
+                "06:30:00",
+                "06:35:00"
             ]
         ]
     },
@@ -342,12 +343,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 17,
+        "count": 16,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "06:00:00",
                 "06:15:00",
                 "06:30:00",
                 "06:45:00",
