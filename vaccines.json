@@ -1,5 +1,17 @@
 [
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "O\u015brodek Zdrowia w \u0141ysowie - Punkt szczepie\u0144",
+        "address": "\u0141ys\u00f3w 28, \u0141ys\u00f3w",
+        "times": [
+            [
+                "12:15:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 2,
@@ -45,6 +57,18 @@
         "times": [
             [
                 "06:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "Poradnia lekarza podstawowej opieki zdrowotnej Szpital w Sochaczewie",
+        "address": "ul. Batalion\u00f3w Ch\u0142opskich 44015, Sochaczew",
+        "times": [
+            [
+                "07:40:00"
             ]
         ]
     },
@@ -101,26 +125,25 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 3,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "12:15:00",
-                "13:00:00",
-                "13:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
                 "13:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 2,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "13:00:00",
+                "13:30:00"
             ]
         ]
     },
@@ -268,6 +291,18 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Przychodnia lekarska",
+        "address": "Madali\u0144skiego 13, Warszawa",
+        "times": [
+            [
+                "10:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
         "count": 4,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
@@ -282,15 +317,25 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Przychodnia Lekarska-Zdrowie\" Filia Nr 1-Poradnia Lekarza POZ",
+        "address": "TURKUSOWA 5, KOMOR\u00d3W",
+        "times": [
+            [
+                "12:40:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 14,
+        "count": 12,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "12:35:00",
-                "12:45:00",
                 "12:50:00",
                 "12:55:00",
                 "13:10:00",
@@ -303,6 +348,18 @@
                 "13:45:00",
                 "13:50:00",
                 "13:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-25",
+        "count": 1,
+        "location": "DETOKS FENIX SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "Umiastowska 50A, Kaputy",
+        "times": [
+            [
+                "16:50:00"
             ]
         ]
     },
@@ -350,11 +407,11 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-29",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-28",
         "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
         "times": [
             [
                 "07:00:00"
@@ -375,13 +432,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-01",
+        "day": "2021-06-09",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "10:20:00"
+                "06:10:00"
             ]
         ]
     },
@@ -464,15 +521,26 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-11",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "10:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 8,
+        "count": 7,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
             [
                 "10:30:00",
                 "10:40:00",
-                "10:50:00",
                 "14:20:00",
                 "14:40:00",
                 "16:50:00",
