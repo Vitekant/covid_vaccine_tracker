@@ -1,12 +1,5 @@
 [
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
-        "address": "Kraszewskiego 8, Ciechan\u00f3w"
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 25,
