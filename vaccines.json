@@ -15,18 +15,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
-        "location": "EMC PIASECZNO",
-        "address": "Szkolna 1, Piaseczno",
-        "times": [
-            [
-                "06:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
         "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
@@ -37,18 +25,6 @@
                 "08:45:00",
                 "10:45:00",
                 "15:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
-        "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
-        "times": [
-            [
-                "06:45:00"
             ]
         ]
     },
@@ -136,6 +112,18 @@
         "times": [
             [
                 "13:00:00",
+                "13:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "Poradnia (gabinet) lekarza POZ",
+        "address": "Czajewicza 5/7 lok 49, Piaseczno",
+        "times": [
+            [
                 "13:10:00"
             ]
         ]
@@ -253,13 +241,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "11:30:00",
-                "15:45:00"
+                "11:30:00"
             ]
         ]
     },
@@ -279,7 +266,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 6,
+        "count": 7,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -289,7 +276,8 @@
                 "07:20:00",
                 "07:25:00",
                 "07:35:00",
-                "07:40:00"
+                "07:40:00",
+                "07:45:00"
             ]
         ]
     },
@@ -301,7 +289,6 @@
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "13:30:00",
                 "14:00:00",
                 "14:15:00",
                 "14:30:00",
@@ -315,7 +302,8 @@
                 "16:45:00",
                 "17:00:00",
                 "17:15:00",
-                "17:30:00"
+                "17:30:00",
+                "17:45:00"
             ]
         ]
     },
@@ -386,18 +374,6 @@
                 "12:35:00",
                 "12:40:00",
                 "12:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-10",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "12:00:00"
             ]
         ]
     },
