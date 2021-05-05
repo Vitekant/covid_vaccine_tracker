@@ -180,6 +180,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-18",
+        "count": 1,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "15:55:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
         "count": 13,
@@ -333,6 +345,7 @@
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
+                "06:00:00",
                 "06:15:00",
                 "06:30:00",
                 "06:45:00",
@@ -348,8 +361,7 @@
                 "09:45:00",
                 "10:00:00",
                 "10:15:00",
-                "10:30:00",
-                "10:45:00"
+                "10:30:00"
             ]
         ]
     },
@@ -486,6 +498,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 1,
+        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
+        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa",
+        "times": [
+            [
+                "13:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-16",
         "count": 6,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
@@ -504,7 +528,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 6,
+        "count": 5,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -513,8 +537,7 @@
                 "07:05:00",
                 "07:10:00",
                 "07:15:00",
-                "07:20:00",
-                "07:25:00"
+                "07:20:00"
             ]
         ]
     }
