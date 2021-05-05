@@ -150,12 +150,13 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 31,
+        "count": 32,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
                 "07:35:00",
+                "07:40:00",
                 "07:45:00",
                 "07:50:00",
                 "07:55:00",
@@ -190,18 +191,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-18",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "10:40:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-25",
         "count": 6,
@@ -221,13 +210,12 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 15,
+        "count": 14,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
                 "11:05:00",
-                "12:35:00",
                 "12:40:00",
                 "12:45:00",
                 "12:50:00",
@@ -245,9 +233,21 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "10:50:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 13,
+        "count": 14,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
@@ -264,7 +264,8 @@
                 "08:30:00",
                 "08:45:00",
                 "09:00:00",
-                "09:15:00"
+                "09:15:00",
+                "09:30:00"
             ]
         ]
     },
@@ -276,7 +277,7 @@
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "12:20:00",
+                "08:35:00",
                 "12:35:00",
                 "12:40:00",
                 "12:45:00",
@@ -315,31 +316,18 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-07",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "13:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 7,
+        "count": 6,
         "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
         "address": "Spacerowa  29, Bia\u0142obrzegi",
         "times": [
             [
-                "11:25:00",
-                "11:35:00",
                 "11:40:00",
                 "11:45:00",
                 "11:50:00",
                 "11:55:00",
-                "12:00:00"
+                "12:00:00",
+                "12:05:00"
             ]
         ]
     },
@@ -425,8 +413,8 @@
         "vaccine": "Pfizer",
         "day": "2021-06-13",
         "count": 1,
-        "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
-        "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka",
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka",
         "times": [
             [
                 "07:30:00"
@@ -454,18 +442,6 @@
         "times": [
             [
                 "08:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-14",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "13:20:00"
             ]
         ]
     },
