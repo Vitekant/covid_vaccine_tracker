@@ -1,6 +1,13 @@
 [
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-05",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
+        "address": "UL. TOCHTERMANA  1, RADOM"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 20,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
@@ -22,8 +29,15 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "Przychodnia Rejonowo Specjalistyczna",
+        "address": "\u0141OJEWSKA 6, WARSZAWA"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 35,
+        "count": 34,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -36,15 +50,15 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-08",
+        "day": "2021-06-09",
         "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
-        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 9,
+        "count": 11,
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
     },
@@ -78,10 +92,10 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-18",
+        "day": "2021-06-19",
         "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock"
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane"
     },
     {
         "vaccine": "Pfizer",
@@ -93,7 +107,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-20",
-        "count": 6,
+        "count": 3,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
     },
