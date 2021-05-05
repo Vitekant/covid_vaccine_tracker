@@ -171,6 +171,19 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
+        "count": 2,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "09:30:00",
+                "10:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
         "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
@@ -187,11 +200,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
+        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
+        "address": "UL. TOCHTERMANA  1, RADOM",
         "times": [
             [
-                "10:15:00"
+                "12:30:00"
             ]
         ]
     },
@@ -204,7 +217,6 @@
         "times": [
             [
                 "14:30:00",
-                "14:35:00",
                 "14:40:00",
                 "14:45:00",
                 "14:50:00",
@@ -221,19 +233,19 @@
                 "15:45:00",
                 "15:50:00",
                 "15:55:00",
-                "16:00:00"
+                "16:00:00",
+                "16:05:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 14,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
-                "08:00:00",
                 "08:15:00",
                 "08:20:00",
                 "08:25:00",
@@ -263,18 +275,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-21",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
-        "address": "Jana Chilickiego  2, Zakroczym",
-        "times": [
-            [
-                "13:30:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-27",
         "count": 1,
@@ -294,7 +294,19 @@
         "address": "Szczytno 11a, Szczytno",
         "times": [
             [
-                "06:05:00"
+                "07:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-02",
+        "count": 1,
+        "location": "O\u015brodek Zdrowia w Wierzbicy - Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej w Wierzbicy",
+        "address": "ul. Sienkiewicza 37, Wierzbica",
+        "times": [
+            [
+                "11:50:00"
             ]
         ]
     },
@@ -338,7 +350,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 8,
+        "count": 7,
         "location": "Punkt Szczepie\u0144 \"\u015aR\u00d3DMIE\u015aCIE 3\"",
         "address": "ul. Andrzeja Struga 57 A, Radom",
         "times": [
@@ -349,8 +361,7 @@
                 "11:10:00",
                 "11:20:00",
                 "11:30:00",
-                "11:40:00",
-                "11:50:00"
+                "11:40:00"
             ]
         ]
     },
@@ -433,12 +444,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 3,
+        "count": 2,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "10:00:00",
                 "10:30:00",
                 "10:50:00"
             ]
@@ -471,13 +481,14 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 2,
+        "count": 3,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
             [
                 "06:10:00",
-                "06:20:00"
+                "06:20:00",
+                "06:30:00"
             ]
         ]
     }
