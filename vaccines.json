@@ -64,13 +64,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-12",
-        "count": 1,
-        "location": "Rodzinna Przychodnia",
-        "address": "Dereniowa  9 lok. 501, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-13",
         "count": 9,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
