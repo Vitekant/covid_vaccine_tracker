@@ -15,18 +15,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
-        "location": "EMC PIASECZNO",
-        "address": "Szkolna 1, Piaseczno",
-        "times": [
-            [
-                "06:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
         "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
@@ -130,12 +118,13 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 17,
+        "count": 18,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
             [
                 "08:25:00",
+                "08:35:00",
                 "08:50:00",
                 "08:55:00",
                 "09:05:00",
@@ -230,18 +219,6 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
-        "times": [
-            [
-                "12:20:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 12,
@@ -261,6 +238,18 @@
                 "09:30:00",
                 "09:35:00",
                 "09:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W CEG\u0141OWIE - Punkt szczepie\u0144",
+        "address": "Plac Anny Jagiellonki 17, Ceg\u0142\u00f3w",
+        "times": [
+            [
+                "09:10:00"
             ]
         ]
     },
@@ -292,7 +281,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 5,
+        "count": 4,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -300,24 +289,22 @@
                 "06:25:00",
                 "07:05:00",
                 "07:15:00",
-                "07:20:00",
-                "07:25:00"
+                "07:20:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 6,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "14:30:00",
                 "14:45:00",
                 "15:00:00",
                 "15:15:00",
-                "16:15:00",
+                "15:30:00",
                 "18:15:00"
             ]
         ]
@@ -342,14 +329,14 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-06-09",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-25",
         "count": 1,
-        "location": "Poradnia lekarza rodzinnego",
-        "address": "D\u0105br\u00f3wka 52, Lelis",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
+        "address": "Jana Chilickiego  2, Zakroczym",
         "times": [
             [
-                "09:00:00"
+                "11:30:00"
             ]
         ]
     },
@@ -471,12 +458,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 7,
+        "count": 6,
         "location": "Punkt szczepie\u0144",
         "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka",
         "times": [
             [
-                "16:25:00",
                 "16:30:00",
                 "16:35:00",
                 "16:40:00",
@@ -489,7 +475,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 8,
+        "count": 9,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -501,7 +487,8 @@
                 "06:40:00",
                 "10:10:00",
                 "10:20:00",
-                "10:30:00"
+                "10:30:00",
+                "10:40:00"
             ]
         ]
     },
