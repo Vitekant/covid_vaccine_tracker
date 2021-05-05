@@ -29,8 +29,15 @@
     },
     {
         "vaccine": "Johnson & Johnson",
+        "day": "2021-06-01",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+        "address": "Parkowa 14, Raci\u0105\u017c"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
-        "count": 14,
+        "count": 16,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w"
     },
@@ -50,17 +57,17 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-13",
+        "day": "2021-06-12",
         "count": 1,
-        "location": "Centrum Leczniczo-Us\u0142ugowe imienia \u015awi\u0119tej Anny Sp\u00f3\u0142ka z ograniczon\u0105 odpowiedzialno\u015bci\u0105",
-        "address": "Jana Kochanowskiego 22A, P\u0142ock"
+        "location": "Punkt szczepie\u0144",
+        "address": "Wiejska 19/21, \u017byrard\u00f3w"
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-13",
+        "day": "2021-06-16",
         "count": 1,
-        "location": "Poradnia Lekarza POZ",
-        "address": "Nowoursynowska 139L, Warszawa"
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
+        "address": "Hubalczyk\u00f3w 11, P\u0142ock"
     },
     {
         "vaccine": "Pfizer",
@@ -94,8 +101,8 @@
         "vaccine": "Pfizer",
         "day": "2021-06-17",
         "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "Wiejska 19/21, \u017byrard\u00f3w"
+        "location": "TER-MED",
+        "address": "Szymanowska 17, Teresin"
     },
     {
         "vaccine": "Pfizer",
