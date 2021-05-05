@@ -2,28 +2,28 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-05",
-        "count": 2,
-        "location": "GABINET ZABIEGOWY PIEL\u0118GNIARSKI",
-        "address": "P\u0142ocka 59, Bulkowo-Kolonia"
+        "count": 3,
+        "location": "Punkt szczepie\u0144",
+        "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-05",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
-        "address": "UL. TOCHTERMANA  1, RADOM"
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Sp\u00f3\u0142ka Lekarska \"ZAM\u0141YNIE\"",
+        "address": "Klonowica 44175, Radom"
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
+        "day": "2021-05-05",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w"
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 40,
+        "count": 39,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -37,7 +37,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
+        "count": 1,
         "location": "Poradnia lekarza POZ - SPZZLO",
         "address": "Szpitalna 6, \u0141omianki"
     },
@@ -51,7 +51,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
     },
@@ -72,16 +72,16 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 11,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk"
     },
     {
-        "vaccine": "Moderna",
+        "vaccine": "Pfizer",
         "day": "2021-05-18",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc"
+        "count": 1,
+        "location": "POWIATOWE CENTRUM MEDYCZNE W GR\u00d3JCU SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "Piotra Skargi 10, Gr\u00f3jec"
     },
     {
         "vaccine": "Moderna",
@@ -92,10 +92,17 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-25",
-        "count": 2,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock"
+        "day": "2021-05-22",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Centrum Medyczne\" BMC - Przychodnia Lekarska w Wyszogrodzie",
+        "address": "P\u0142ocka 29, Wyszogr\u00f3d"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-24",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Sp\u00f3\u0142ka Lekarska \"ZAM\u0141YNIE\"",
+        "address": "Klonowica 44175, Radom"
     },
     {
         "vaccine": "Moderna",
@@ -105,25 +112,25 @@
         "address": "Piastowska  39, Sierpc"
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-26",
-        "count": 1,
-        "location": "Poradnia lekarza podstawowej opieki zdrowotnej Szpital w Sochaczewie",
-        "address": "ul. Batalion\u00f3w Ch\u0142opskich 44015, Sochaczew"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-26",
-        "count": 1,
-        "location": "Szpital Powiatowy",
-        "address": "Ko\u015bciuszki 201, W\u0119gr\u00f3w"
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 16,
+        "count": 17,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "Przychodnia Podstawowej Opieki Zdrowotnej",
+        "address": "Kondratowicza 8, Warszawa"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-31",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
     },
     {
         "vaccine": "Pfizer",
