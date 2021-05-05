@@ -207,18 +207,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
-        "location": "Przychodnia Rejonowo Specjalistyczna",
-        "address": "Poborza\u0144ska 6, warszawa",
-        "times": [
-            [
-                "10:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 2,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
         "address": "Widok 1, WINNICA",
@@ -292,7 +280,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 5,
+        "count": 6,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -301,7 +289,8 @@
                 "07:05:00",
                 "07:15:00",
                 "07:20:00",
-                "07:25:00"
+                "07:25:00",
+                "07:35:00"
             ]
         ]
     },
@@ -320,7 +309,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-21",
-        "count": 12,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
@@ -336,19 +325,8 @@
                 "16:00:00",
                 "16:15:00",
                 "16:30:00",
-                "16:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-01",
-        "count": 1,
-        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
-        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa",
-        "times": [
-            [
-                "10:00:00"
+                "16:45:00",
+                "17:00:00"
             ]
         ]
     },
@@ -424,6 +402,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-10",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "13:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-11",
         "count": 1,
         "location": "Podstawowa Opieka Zdrowotna -Punkt szczepie\u0144,  ul. 3 Maja 57",
@@ -448,6 +438,20 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-12",
+        "count": 3,
+        "location": "PUNKT SZCZEPIE\u0143 WO\u0141OSKA",
+        "address": "WO\u0141OSKA 16, WARSZAWA",
+        "times": [
+            [
+                "07:15:00",
+                "07:20:00",
+                "07:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-14",
         "count": 4,
         "location": "Punkt szczepie\u0144",
@@ -464,7 +468,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 10,
+        "count": 9,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -473,7 +477,6 @@
                 "06:10:00",
                 "06:20:00",
                 "06:30:00",
-                "06:40:00",
                 "10:10:00",
                 "10:20:00",
                 "10:30:00",
@@ -508,14 +511,13 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 3,
+        "count": 2,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
                 "11:55:00",
-                "12:30:00",
-                "12:35:00"
+                "12:30:00"
             ]
         ]
     }
