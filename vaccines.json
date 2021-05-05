@@ -103,7 +103,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 18,
+        "count": 17,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -124,8 +124,7 @@
                 "10:15:00",
                 "10:20:00",
                 "10:25:00",
-                "10:30:00",
-                "10:40:00"
+                "10:30:00"
             ]
         ]
     },
@@ -231,7 +230,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 14,
+        "count": 15,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -249,20 +248,19 @@
                 "08:05:00",
                 "08:10:00",
                 "08:15:00",
-                "08:20:00"
+                "08:20:00",
+                "08:25:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
-        "count": 85,
+        "count": 88,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "08:00:00",
-                "08:05:00",
                 "08:10:00",
                 "08:15:00",
                 "08:20:00",
@@ -345,7 +343,12 @@
                 "15:20:00",
                 "15:25:00",
                 "15:30:00",
-                "15:35:00"
+                "15:35:00",
+                "15:40:00",
+                "15:45:00",
+                "15:50:00",
+                "15:55:00",
+                "16:00:00"
             ]
         ]
     },
