@@ -3,22 +3,23 @@
         "vaccine": "Pfizer",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej LEKARZ RODZINNY lek.med.Mariola \u017bo\u0142yniak - Jab\u0142o\u0144ska - Gabinet zabiegowy ",
-        "address": "Marii Konopnickiej 50, Wy\u015bmierzyce",
+        "location": "O\u015brodek Zdrowia w \u0141ysowie - Punkt szczepie\u0144",
+        "address": "\u0141ys\u00f3w 28, \u0141ys\u00f3w",
         "times": [
             [
-                "08:30:00"
+                "12:15:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
+        "count": 2,
         "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
         "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze",
         "times": [
             [
+                "06:25:00",
                 "06:30:00"
             ]
         ]
@@ -89,13 +90,14 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 3,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
                 "11:00:00",
                 "12:15:00",
+                "13:00:00",
                 "13:30:00"
             ]
         ]
@@ -121,6 +123,18 @@
         "times": [
             [
                 "13:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "17:30:00"
             ]
         ]
     },
@@ -176,12 +190,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 3,
+        "count": 2,
         "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
         "address": "Nowe \u0141ubki 5A",
         "times": [
             [
-                "09:30:00",
                 "09:45:00",
                 "10:00:00"
             ]
@@ -269,7 +282,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 5,
+        "count": 4,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -277,8 +290,7 @@
                 "06:15:00",
                 "06:25:00",
                 "07:05:00",
-                "07:10:00",
-                "07:15:00"
+                "07:10:00"
             ]
         ]
     },
@@ -290,9 +302,9 @@
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
+                "11:30:00",
                 "12:50:00",
                 "12:55:00",
-                "13:05:00",
                 "13:10:00",
                 "13:15:00",
                 "13:20:00",
@@ -309,11 +321,12 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 21,
+        "count": 22,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
+                "10:05:00",
                 "12:05:00",
                 "12:20:00",
                 "12:25:00",
@@ -335,6 +348,18 @@
                 "13:45:00",
                 "13:50:00",
                 "13:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
+        "address": "Karczewska 48, Otwock",
+        "times": [
+            [
+                "08:10:00"
             ]
         ]
     },
@@ -453,18 +478,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-13",
-        "count": 1,
-        "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
-        "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka",
-        "times": [
-            [
-                "07:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-14",
         "count": 6,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
@@ -483,24 +496,24 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 1,
+        "count": 2,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "11:50:00"
+                "11:50:00",
+                "13:00:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 8,
+        "count": 7,
         "location": "Punkt szczepie\u0144",
         "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka",
         "times": [
             [
-                "16:20:00",
                 "16:25:00",
                 "16:30:00",
                 "16:35:00",
