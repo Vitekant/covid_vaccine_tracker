@@ -35,32 +35,11 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno"
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
-        "count": 16,
+        "count": 17,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-08",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
     },
     {
         "vaccine": "Pfizer",
@@ -79,16 +58,9 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 9,
+        "count": 8,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-17",
-        "count": 9,
-        "location": "TER-MED",
-        "address": "Szymanowska 17, Teresin"
     },
     {
         "vaccine": "Pfizer",
@@ -103,6 +75,13 @@
         "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
         "address": "Hubalczyk\u00f3w 11, P\u0142ock"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-17",
+        "count": 7,
+        "location": "TER-MED",
+        "address": "Szymanowska 17, Teresin"
     },
     {
         "vaccine": "Pfizer",
@@ -128,7 +107,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-20",
-        "count": 4,
+        "count": 10,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
     }
