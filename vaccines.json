@@ -331,6 +331,18 @@
     },
     {
         "vaccine": "Moderna",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
+        "address": "Karczewska 48, Otwock",
+        "times": [
+            [
+                "10:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
         "day": "2021-05-29",
         "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
@@ -349,13 +361,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 33,
+        "count": 32,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
             [
                 "09:15:00",
-                "09:35:00",
                 "09:40:00",
                 "09:45:00",
                 "09:50:00",
@@ -456,7 +467,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 10,
+        "count": 11,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -470,7 +481,8 @@
                 "14:00:00",
                 "14:10:00",
                 "14:20:00",
-                "14:30:00"
+                "14:30:00",
+                "14:40:00"
             ]
         ]
     },
