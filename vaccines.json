@@ -1,22 +1,22 @@
 [
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-05",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych w Zespole Szk\u00f3\u0142 Powiatowych w Przasnyszu",
-        "address": "SADOWA 5, PRZASNYSZ"
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Pogotowie Ratunkowe - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W ZWOLENIU",
-        "address": "Ludowa 7a, Zwole\u0144"
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
+        "address": "Andrzeja 23, Pruszk\u00f3w"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 50,
+        "count": 39,
+        "location": "Przychodnia Rejonowo Specjalistyczna",
+        "address": "Poborza\u0144ska 6, warszawa"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 34,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -35,74 +35,18 @@
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     },
     {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 4,
-        "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
-        "address": "Nowe \u0141ubki 5A"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Centrum Medyczne Petra Medica Filia nr 4",
-        "address": "Cisowa 7, Dr\u0119\u017cewo"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
-        "address": "Widok 1, WINNICA"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 3,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
-        "address": "Szkolna 21, Rzeku\u0144"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 2,
-        "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
-        "address": "Wojska Polskiego 91, Zwole\u0144"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-15",
-        "count": 1,
-        "location": "Samodzielny Publiczny Zesp\u00f3\u0142 Opieki Zdrowotnej w Mi\u0144sku Mazowieckim - Szpital Powiatowy - ul. Szpitalna",
-        "address": "ul. Szpitalna 37, Mi\u0144sk Mazowiecki"
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-16",
-        "count": 41,
+        "count": 33,
         "location": "Samodzielny Publiczny Zesp\u00f3\u0142 Opieki Zdrowotnej w Mi\u0144sku Mazowieckim - Szpital Powiatowy - ul. Szpitalna",
         "address": "ul. Szpitalna 37, Mi\u0144sk Mazowiecki"
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-27",
+        "day": "2021-05-31",
         "count": 1,
-        "location": "CORTEN MEDIC TOMASZ SIKORA",
-        "address": "Kobyli\u0144skiego 21a, P\u0142ock"
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna"
     },
     {
         "vaccine": "Pfizer",
