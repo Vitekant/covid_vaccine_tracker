@@ -2,12 +2,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 2,
+        "count": 1,
         "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
         "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze",
         "times": [
             [
-                "06:25:00",
                 "06:30:00"
             ]
         ]
@@ -233,7 +232,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 13,
+        "count": 14,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -250,7 +249,8 @@
                 "08:00:00",
                 "08:05:00",
                 "08:10:00",
-                "08:15:00"
+                "08:15:00",
+                "08:20:00"
             ]
         ]
     },
@@ -318,6 +318,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Gabinet diagnostyczno-zabiegowy Nr 13 - MAZOWIECKI SZPITAL SPECJALISTYCZNY SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "ul. Juliana Aleksandrowicza 5, Radom",
+        "times": [
+            [
+                "17:35:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-29",
         "count": 6,
@@ -343,6 +355,30 @@
         "times": [
             [
                 "06:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-31",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
+        "address": "Jana Paw\u0142a II  20, Radzymin",
+        "times": [
+            [
+                "11:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-31",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "13:05:00"
             ]
         ]
     },
@@ -440,12 +476,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 3,
+        "count": 2,
         "location": "Punkt szczepie\u0144",
         "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka",
         "times": [
             [
-                "16:45:00",
                 "16:50:00",
                 "16:55:00"
             ]
@@ -494,18 +529,6 @@
                 "11:00:00",
                 "11:05:00",
                 "11:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 1,
-        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
-        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa",
-        "times": [
-            [
-                "11:05:00"
             ]
         ]
     },
