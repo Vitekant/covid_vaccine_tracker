@@ -1,22 +1,29 @@
 [
     {
-        "vaccine": "Astra Zeneca",
+        "vaccine": "Pfizer",
         "day": "2021-05-05",
         "count": 1,
-        "location": "GRUPA ZDROWIE P\u0142o\u0144sk",
-        "address": "Sienkiewicza 7, P\u0142o\u0144sk"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Nowodworski O\u015brodek Sportu i Rekreacji w Nowym Dworze Mazowieckim",
+        "address": "Sportowa 66, Nowy Dw\u00f3r Mazowiecki"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-05",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych w Zespole Szk\u00f3\u0142 Powiatowych w Przasnyszu",
+        "address": "SADOWA 5, PRZASNYSZ"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 51,
+        "count": 50,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -52,8 +59,8 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom"
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -70,32 +77,39 @@
         "address": "Wojska Polskiego 78, Zwole\u0144"
     },
     {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Poradnia Chor\u00f3b Zaka\u017anych dla Dzieci - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141UBI\u0143SKIEGO",
+        "address": "ul. Adolfa Tochtermana 1, Radom"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 2,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
+        "address": "Szkolna 21, Rzeku\u0144"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-09",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-14",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
+        "address": "UL. TOCHTERMANA  1, RADOM"
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-16",
-        "count": 85,
+        "count": 67,
         "location": "Samodzielny Publiczny Zesp\u00f3\u0142 Opieki Zdrowotnej w Mi\u0144sku Mazowieckim - Szpital Powiatowy - ul. Szpitalna",
         "address": "ul. Szpitalna 37, Mi\u0144sk Mazowiecki"
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
-        "address": "Jana Chilickiego  2, Zakroczym"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-28",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
-        "address": "Sienkiewicza 7, P\u0142o\u0144sk"
     },
     {
         "vaccine": "Pfizer",
@@ -110,5 +124,12 @@
         "count": 37,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-02",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     }
 ]
