@@ -37,7 +37,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
-        "count": 24,
+        "count": 25,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w"
     },
@@ -75,13 +75,6 @@
         "count": 5,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 1,
-        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
-        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa"
     },
     {
         "vaccine": "Pfizer",
