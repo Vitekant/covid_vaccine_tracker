@@ -28,13 +28,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 3,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
         "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
         "times": [
             [
                 "06:40:00",
-                "07:20:00",
                 "07:55:00"
             ]
         ]
@@ -110,18 +109,6 @@
         "times": [
             [
                 "13:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "RYNEK 10, STARE BABICE",
-        "times": [
-            [
-                "15:45:00"
             ]
         ]
     },
@@ -235,11 +222,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
+                "13:00:00",
                 "13:30:00"
             ]
         ]
@@ -247,14 +235,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-08",
-        "count": 10,
+        "count": 7,
         "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
         "address": "Napoleona 20, Koby\u0142ka",
         "times": [
             [
-                "18:10:00",
-                "18:15:00",
-                "18:20:00",
                 "18:25:00",
                 "18:30:00",
                 "18:35:00",
@@ -303,6 +288,18 @@
     },
     {
         "vaccine": "Moderna",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
+        "times": [
+            [
+                "16:02:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
         "day": "2021-05-12",
         "count": 1,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
@@ -338,14 +335,14 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-18",
+        "vaccine": "Moderna",
+        "day": "2021-05-22",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
-        "address": "Kraszewskiego 8, Ciechan\u00f3w",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
-                "16:35:00"
+                "09:45:00"
             ]
         ]
     },
@@ -430,6 +427,30 @@
                 "13:45:00",
                 "13:50:00",
                 "13:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O",
+        "times": [
+            [
+                "10:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+        "times": [
+            [
+                "09:05:00"
             ]
         ]
     },
@@ -531,6 +552,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "11:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-10",
         "count": 52,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
@@ -607,18 +640,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
-        "times": [
-            [
-                "06:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-11",
         "count": 3,
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O",
@@ -678,14 +699,16 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 3,
+        "count": 5,
         "location": "Punkt szczepie\u0144",
         "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka",
         "times": [
             [
                 "16:15:00",
                 "16:20:00",
-                "16:25:00"
+                "16:25:00",
+                "16:30:00",
+                "16:35:00"
             ]
         ]
     },
