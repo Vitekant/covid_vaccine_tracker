@@ -32,6 +32,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
+        "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
+        "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
+        "times": [
+            [
+                "06:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
         "location": "ELBIT MED",
         "address": "Stra\u017cacka 7, Ciechan\u00f3w",
         "times": [
@@ -211,18 +223,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "11:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
         "count": 2,
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
@@ -259,7 +259,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-21",
-        "count": 9,
+        "count": 10,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
@@ -272,7 +272,8 @@
                 "18:00:00",
                 "18:15:00",
                 "18:30:00",
-                "18:45:00"
+                "18:45:00",
+                "19:00:00"
             ]
         ]
     },
@@ -350,20 +351,6 @@
         "times": [
             [
                 "06:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-01",
-        "count": 3,
-        "location": "\"DAGIS centrum medyczne\" Niepubliczny Zak\u0142ad Opieki Zdrowotnej-Poradnia lekarza POZ",
-        "address": "Odkryta 31 -, Warszawa",
-        "times": [
-            [
-                "14:00:00",
-                "14:10:00",
-                "14:20:00"
             ]
         ]
     },
@@ -451,11 +438,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 3,
+        "count": 4,
         "location": "Punkt szczepie\u0144",
         "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka",
         "times": [
             [
+                "16:35:00",
                 "16:45:00",
                 "16:50:00",
                 "16:55:00"
@@ -508,12 +496,26 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 1,
+        "count": 2,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "13:10:00"
+                "13:10:00",
+                "13:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 2,
+        "location": "NZOZ BONUS",
+        "address": "LIPOWIEC KO\u015aCIELNY  26, LIPOWIEC KO\u015aCIELNY",
+        "times": [
+            [
+                "14:15:00",
+                "14:20:00"
             ]
         ]
     }
