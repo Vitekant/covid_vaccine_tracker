@@ -15,12 +15,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
         "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
         "times": [
             [
-                "06:40:00",
                 "07:20:00"
             ]
         ]
@@ -48,18 +47,6 @@
             [
                 "10:10:00",
                 "10:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "MyMed",
-        "address": "Wolno\u015b\u0107 2, Warszawa",
-        "times": [
-            [
-                "10:20:00"
             ]
         ]
     },
@@ -199,13 +186,12 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-08",
-        "count": 17,
+        "count": 19,
         "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
         "address": "Napoleona 20, Koby\u0142ka",
         "times": [
             [
-                "14:15:00",
-                "14:20:00",
+                "14:00:00",
                 "14:25:00",
                 "14:30:00",
                 "14:35:00",
@@ -220,7 +206,10 @@
                 "15:20:00",
                 "15:25:00",
                 "15:30:00",
-                "15:35:00"
+                "15:35:00",
+                "15:40:00",
+                "15:45:00",
+                "15:50:00"
             ]
         ]
     },
@@ -233,7 +222,6 @@
         "times": [
             [
                 "08:00:00",
-                "08:05:00",
                 "08:15:00",
                 "08:20:00",
                 "08:25:00",
@@ -245,7 +233,8 @@
                 "08:55:00",
                 "09:05:00",
                 "09:10:00",
-                "09:15:00"
+                "09:15:00",
+                "09:20:00"
             ]
         ]
     },
@@ -262,23 +251,11 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-18",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-15",
         "count": 1,
-        "location": "DETOKS FENIX SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Umiastowska 50A, Kaputy",
-        "times": [
-            [
-                "09:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-26",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
+        "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
+        "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka",
         "times": [
             [
                 "07:15:00"
@@ -287,25 +264,25 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-28",
+        "day": "2021-06-01",
         "count": 1,
-        "location": "SZPITAL MATKI BO\u017bEJ NIEUSTAJ\u0104CEJ POMOCY W WO\u0141OMINIE",
-        "address": "GDY\u0143SKA 1/3, WO\u0141OMIN",
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
         "times": [
             [
-                "13:35:00"
+                "06:05:00"
             ]
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-29",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-06-05",
         "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
+        "address": "Kraszewskiego 8, Ciechan\u00f3w",
         "times": [
             [
-                "07:30:00"
+                "08:20:00"
             ]
         ]
     },
@@ -337,12 +314,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 9,
+        "count": 8,
         "location": "Punkt Szczepie\u0144 \"\u015aR\u00d3DMIE\u015aCIE 3\"",
         "address": "ul. Andrzeja Struga 57 A, Radom",
         "times": [
             [
-                "10:30:00",
                 "10:40:00",
                 "10:50:00",
                 "11:00:00",
@@ -430,30 +406,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-10",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "14:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-11",
-        "count": 1,
-        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
-        "address": "Spacerowa  29, Bia\u0142obrzegi",
-        "times": [
-            [
-                "09:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-11",
         "count": 3,
         "location": "Punkt szczepie\u0144",
@@ -469,13 +421,51 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 2,
+        "count": 3,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA",
         "times": [
             [
                 "10:00:00",
-                "10:30:00"
+                "10:30:00",
+                "10:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-12",
+        "count": 1,
+        "location": "GMINNE CENTRUM MEDYCZNO-REHABILITACYJNE W BROCHOWIE",
+        "address": "Broch\u00f3w 124, Broch\u00f3w",
+        "times": [
+            [
+                "12:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-13",
+        "count": 1,
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
+        "times": [
+            [
+                "07:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-14",
+        "count": 2,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "06:10:00",
+                "06:20:00"
             ]
         ]
     }
