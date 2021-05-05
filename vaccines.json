@@ -3,6 +3,13 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
+        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
         "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
         "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze"
     },
@@ -15,15 +22,8 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 44,
+        "count": 45,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -33,13 +33,6 @@
         "count": 1,
         "location": "Gabinet diagnostyczno - zabiegowy dla lekarza POZ",
         "address": "3 Maja 5, Pu\u0142tusk"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -59,20 +52,48 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
+        "location": "Poradnia chor\u00f3b wewn\u0119trznych",
+        "address": "Aleja Owocowa 30C, Tr\u0105bki"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
         "address": "Widok 1, WINNICA"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 6,
+        "count": 7,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk"
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+        "address": "Parkowa 14, Raci\u0105\u017c"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Nowodworski O\u015brodek Sportu i Rekreacji w Nowym Dworze Mazowieckim",
+        "address": "Sportowa 66, Nowy Dw\u00f3r Mazowiecki"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-05-31",
-        "count": 2,
+        "count": 3,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-01",
+        "count": 3,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna"
     },
@@ -80,21 +101,42 @@
         "vaccine": "Pfizer",
         "day": "2021-06-01",
         "count": 1,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-02",
+        "count": 23,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-02",
-        "count": 26,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna"
+        "count": 1,
+        "location": "Przychodnia Rejonowa Nr 2 - Filia",
+        "address": "Pocztowa 6, Konstancin-Jeziorna"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-02",
-        "count": 19,
+        "count": 18,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-03",
+        "count": 3,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-06-05",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
+        "address": "Kraszewskiego 8, Ciechan\u00f3w"
     }
 ]
