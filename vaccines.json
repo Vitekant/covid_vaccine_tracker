@@ -262,7 +262,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 14,
+        "count": 15,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -280,7 +280,8 @@
                 "07:15:00",
                 "07:20:00",
                 "07:25:00",
-                "07:30:00"
+                "07:30:00",
+                "07:35:00"
             ]
         ]
     },
