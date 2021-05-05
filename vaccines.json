@@ -51,18 +51,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
-        "location": "Poradnia lekarza podstawowej opieki zdrowotnej Szpital w Sochaczewie",
-        "address": "ul. Batalion\u00f3w Ch\u0142opskich 44015, Sochaczew",
-        "times": [
-            [
-                "07:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
         "count": 2,
         "location": "Punkt szczepie\u0144 (doro\u015bli i dzieci)",
         "address": "Mazowiecka 13B, Czerwin",
@@ -280,20 +268,8 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "12:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 4,
+        "count": 5,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -301,7 +277,8 @@
                 "06:15:00",
                 "06:25:00",
                 "07:05:00",
-                "07:10:00"
+                "07:10:00",
+                "07:15:00"
             ]
         ]
     },
@@ -331,12 +308,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 20,
+        "count": 19,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "12:20:00",
                 "12:25:00",
                 "12:30:00",
                 "12:35:00",
@@ -360,51 +336,14 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-31",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
-        "times": [
-            [
-                "08:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-02",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "13:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-06-08",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Szko\u0142y G\u0142\u00f3wnej Gospodarstwa Wiejskiego w Warszawie",
-        "address": "Nowoursynowska 161, Warszawa",
-        "times": [
-            [
-                "12:00:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 2,
+        "count": 1,
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O",
         "times": [
             [
-                "09:35:00",
-                "09:45:00"
+                "09:35:00"
             ]
         ]
     },
@@ -494,18 +433,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "13:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-14",
         "count": 7,
         "location": "Punkt szczepie\u0144",
         "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka",
@@ -524,7 +451,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 7,
+        "count": 8,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -535,21 +462,24 @@
                 "06:30:00",
                 "06:40:00",
                 "10:10:00",
-                "10:20:00"
+                "10:20:00",
+                "10:30:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 3,
+        "count": 5,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
             [
                 "10:15:00",
                 "10:20:00",
-                "10:25:00"
+                "10:25:00",
+                "10:30:00",
+                "10:35:00"
             ]
         ]
     }
