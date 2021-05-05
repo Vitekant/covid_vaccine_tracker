@@ -195,12 +195,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
+        "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
         "address": "Widok 1, WINNICA",
         "times": [
             [
-                "14:10:00",
                 "14:20:00"
             ]
         ]
@@ -242,21 +241,20 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 3,
+        "count": 2,
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
         "address": "Poniatowskiego 26, Siedlce",
         "times": [
             [
                 "14:20:00",
-                "15:10:00",
-                "16:20:00"
+                "15:10:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 7,
+        "count": 8,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -267,7 +265,8 @@
                 "07:25:00",
                 "07:35:00",
                 "07:40:00",
-                "07:45:00"
+                "07:45:00",
+                "07:50:00"
             ]
         ]
     },
@@ -382,25 +381,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-14",
+        "day": "2021-06-13",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
-        "address": "Jana Paw\u0142a II  20, Radzymin",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
+        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
         "times": [
             [
-                "10:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-14",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "12:00:00"
+                "07:20:00"
             ]
         ]
     },
