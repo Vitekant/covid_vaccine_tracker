@@ -406,6 +406,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-10",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "13:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-13",
         "count": 1,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
@@ -413,18 +425,6 @@
         "times": [
             [
                 "08:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-14",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "13:25:00"
             ]
         ]
     },
