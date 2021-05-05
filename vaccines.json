@@ -110,20 +110,8 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
-        "address": "Poniatowskiego 26, Siedlce",
-        "times": [
-            [
-                "13:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 36,
+        "count": 37,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -163,7 +151,8 @@
                 "10:35:00",
                 "10:40:00",
                 "10:45:00",
-                "10:50:00"
+                "10:50:00",
+                "10:55:00"
             ]
         ]
     },
@@ -183,7 +172,7 @@
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
-                "09:15:00"
+                "10:35:00"
             ]
         ]
     },
@@ -389,12 +378,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 2,
+        "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo",
         "times": [
             [
-                "12:10:00",
                 "13:05:00"
             ]
         ]
@@ -474,7 +462,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 8,
+        "count": 9,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -486,7 +474,8 @@
                 "07:20:00",
                 "07:25:00",
                 "07:30:00",
-                "07:35:00"
+                "07:35:00",
+                "07:40:00"
             ]
         ]
     }
