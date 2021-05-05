@@ -8,13 +8,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-05",
-        "count": 1,
-        "location": "NZOZ \"Zdrowie to My\"",
-        "address": "Urocza 14, J\u00f3zefos\u0142aw"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
@@ -71,15 +64,43 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "Gabinet diagnostyczno-zabiegowy Nr 13 - MAZOWIECKI SZPITAL SPECJALISTYCZNY SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "ul. Juliana Aleksandrowicza 5, Radom"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-06",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
+        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-10",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 TARGOWA",
+        "address": "UL. TARGOWA 24, WARSZAWA"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 2,
+        "count": 3,
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 7,
+        "count": 1,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-16",
+        "count": 4,
         "location": "SP ZOZ - PORADNIA LEKARZA POZ",
         "address": "PI\u0141SUDSKIEGO 47, GIELNI\u00d3W"
     },
@@ -89,13 +110,6 @@
         "count": 10,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-18",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Pfizer",
@@ -114,7 +128,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-21",
-        "count": 19,
+        "count": 18,
         "location": "SP ZOZ - PORADNIA LEKARZA POZ",
         "address": "PI\u0141SUDSKIEGO 47, GIELNI\u00d3W"
     }
