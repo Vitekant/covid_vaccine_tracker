@@ -64,6 +64,13 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-12",
+        "count": 1,
+        "location": "Centrum Medyczne ZANMED",
+        "address": "J\u00f3zefa Pi\u0142sudskiego 33, Halin\u00f3w"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-13",
         "count": 7,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
