@@ -8,20 +8,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-05",
-        "count": 1,
-        "location": "Wojskowa Specjalistyczna Przychodnia Lekarska SPZOZ w Legionowie",
-        "address": "Zegrzy\u0144ska 8, Legionowo"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
         "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
@@ -37,7 +23,14 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 2,
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
+        "address": "UL. TOCHTERMANA  1, RADOM"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -54,6 +47,13 @@
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "SPZOZ w Nasielsku, Filia w Cieksynie-Punkt szczepie\u0144",
+        "address": "Sportowa 5, Cieksyn"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -85,50 +85,50 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-09",
+        "day": "2021-05-12",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-15",
-        "count": 11,
-        "location": "Samodzielny Publiczny Zesp\u00f3\u0142 Opieki Zdrowotnej w Mi\u0144sku Mazowieckim - Szpital Powiatowy - ul. Szpitalna",
-        "address": "ul. Szpitalna 37, Mi\u0144sk Mazowiecki"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+        "address": "Parkowa 14, Raci\u0105\u017c"
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-16",
-        "count": 89,
+        "count": 100,
         "location": "Samodzielny Publiczny Zesp\u00f3\u0142 Opieki Zdrowotnej w Mi\u0144sku Mazowieckim - Szpital Powiatowy - ul. Szpitalna",
         "address": "ul. Szpitalna 37, Mi\u0144sk Mazowiecki"
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-25",
-        "count": 80,
-        "location": "Samodzielny Publiczny Zesp\u00f3\u0142 Opieki Zdrowotnej w Mi\u0144sku Mazowieckim - Szpital Powiatowy - ul. Szpitalna",
-        "address": "ul. Szpitalna 37, Mi\u0144sk Mazowiecki"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-25",
+        "vaccine": "Moderna",
+        "day": "2021-05-17",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
+        "address": "Kraszewskiego 8, Ciechan\u00f3w"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-25",
+        "count": 61,
+        "location": "Samodzielny Publiczny Zesp\u00f3\u0142 Opieki Zdrowotnej w Mi\u0144sku Mazowieckim - Szpital Powiatowy - ul. Szpitalna",
+        "address": "ul. Szpitalna 37, Mi\u0144sk Mazowiecki"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-26",
-        "count": 8,
+        "count": 10,
         "location": "Punkt szczepie\u0144",
         "address": "Ko\u015bciuszki 9, Mi\u0144sk Mazowiecki"
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Centrum Medyczne Petra Medica Filia nr 4",
+        "address": "Cisowa 7, Dr\u0119\u017cewo"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-02",
-        "count": 7,
+        "count": 14,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
     },
@@ -136,7 +136,7 @@
         "vaccine": "Pfizer",
         "day": "2021-06-02",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w"
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki"
     }
 ]
