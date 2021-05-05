@@ -28,18 +28,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
-        "location": "Przychodnia Rejonowo Specjalistyczna",
-        "address": "\u0141OJEWSKA 6, WARSZAWA",
-        "times": [
-            [
-                "07:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
         "count": 2,
         "location": "Punkt szczepie\u0144 (doro\u015bli i dzieci)",
         "address": "Mazowiecka 13B, Czerwin",
@@ -177,19 +165,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
-        "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
-        "address": "Nowe \u0141ubki 5A",
-        "times": [
-            [
-                "09:45:00",
-                "10:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
@@ -266,18 +241,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "12:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
         "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
@@ -303,7 +266,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 4,
+        "count": 6,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -311,19 +274,20 @@
                 "06:25:00",
                 "07:05:00",
                 "07:15:00",
-                "07:20:00"
+                "07:20:00",
+                "07:25:00",
+                "07:35:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 6,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "14:45:00",
                 "15:00:00",
                 "15:15:00",
                 "15:30:00",
@@ -349,6 +313,18 @@
                 "15:00:00",
                 "15:15:00",
                 "15:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
+        "times": [
+            [
+                "08:55:00"
             ]
         ]
     },
@@ -441,12 +417,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 2,
+        "count": 1,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "11:55:00",
                 "13:05:00"
             ]
         ]
@@ -504,7 +479,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 8,
+        "count": 10,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -516,7 +491,9 @@
                 "10:35:00",
                 "10:40:00",
                 "10:45:00",
-                "10:50:00"
+                "10:50:00",
+                "10:55:00",
+                "11:00:00"
             ]
         ]
     }
