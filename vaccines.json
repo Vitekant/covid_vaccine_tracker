@@ -2,11 +2,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
+        "count": 2,
         "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
         "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze",
         "times": [
             [
+                "06:25:00",
                 "06:30:00"
             ]
         ]
@@ -106,18 +107,6 @@
         "times": [
             [
                 "13:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
-        "times": [
-            [
-                "13:40:00"
             ]
         ]
     },
@@ -273,35 +262,58 @@
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
+                "06:15:00",
                 "06:25:00",
                 "07:05:00",
-                "07:10:00",
-                "07:15:00"
+                "07:10:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-19",
+        "day": "2021-05-18",
         "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "location": "Gabinet diagnostyczno-zabiegowy Nr 13 - MAZOWIECKI SZPITAL SPECJALISTYCZNY SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "ul. Juliana Aleksandrowicza 5, Radom",
         "times": [
             [
-                "10:15:00"
+                "10:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Sp\u00f3\u0142ka Lekarska \"ZAM\u0141YNIE\"",
+        "address": "Klonowica 44175, Radom",
+        "times": [
+            [
+                "07:00:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 5,
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Omega\"",
+        "address": "ul. W\u0119growska 5a, Soko\u0142\u00f3w Podlaski",
+        "times": [
+            [
+                "08:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-22",
+        "count": 4,
         "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W B\u0141\u0118DOWIE",
         "address": "Wilk\u00f3w Drugi 127 B, Wilk\u00f3w Drugi",
         "times": [
             [
-                "13:45:00",
-                "13:50:00",
+                "13:35:00",
                 "13:55:00",
                 "14:15:00",
                 "14:25:00"
@@ -311,12 +323,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 16,
+        "count": 15,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "11:30:00",
                 "12:45:00",
                 "12:50:00",
                 "12:55:00",
@@ -332,6 +343,18 @@
                 "13:45:00",
                 "13:50:00",
                 "13:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Przychodnia Rodzinna STAR\u00d3WKA w Miedznie - Filia nr 3",
+        "address": "PL.WOLNO\u015aCI 8, MIEDZNA",
+        "times": [
+            [
+                "07:10:00"
             ]
         ]
     },
@@ -387,6 +410,30 @@
         "times": [
             [
                 "09:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-08",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
+        "times": [
+            [
+                "10:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
+        "times": [
+            [
+                "06:10:00"
             ]
         ]
     },
@@ -520,18 +567,43 @@
         "vaccine": "Pfizer",
         "day": "2021-06-11",
         "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
+        "address": "Andrzeja 23, Pruszk\u00f3w",
+        "times": [
+            [
+                "11:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-11",
+        "count": 2,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
             [
-                "14:10:00"
+                "14:10:00",
+                "14:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-13",
+        "count": 1,
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
+        "times": [
+            [
+                "07:30:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 9,
+        "count": 8,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -539,12 +611,23 @@
                 "06:40:00",
                 "10:30:00",
                 "10:40:00",
-                "14:00:00",
                 "14:20:00",
                 "16:50:00",
                 "17:00:00",
                 "17:10:00",
                 "17:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-14",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "11:45:00"
             ]
         ]
     },
@@ -569,7 +652,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 6,
+        "count": 4,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -577,21 +660,7 @@
                 "06:00:00",
                 "06:10:00",
                 "06:20:00",
-                "06:30:00",
-                "06:40:00",
-                "10:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
-        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
-        "times": [
-            [
-                "10:10:00"
+                "06:30:00"
             ]
         ]
     }
