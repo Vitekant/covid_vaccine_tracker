@@ -2,7 +2,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-05",
-        "count": 3,
+        "count": 1,
         "location": "Punkt szczepie\u0144",
         "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka"
     },
@@ -22,6 +22,13 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "Pogotowie Ratunkowe - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W ZWOLENIU",
+        "address": "Ludowa 7a, Zwole\u0144"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 39,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
@@ -33,13 +40,6 @@
         "count": 4,
         "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
         "address": "Nowe \u0141ubki 5A"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Poradnia lekarza POZ - SPZZLO",
-        "address": "Szpitalna 6, \u0141omianki"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -64,10 +64,10 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
+        "day": "2021-05-08",
         "count": 1,
-        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
-        "address": "Poniatowskiego 26, Siedlce"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -77,11 +77,11 @@
         "address": "Kopernika 3, P\u0142o\u0144sk"
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-18",
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
         "count": 1,
-        "location": "POWIATOWE CENTRUM MEDYCZNE W GR\u00d3JCU SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Piotra Skargi 10, Gr\u00f3jec"
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
+        "address": "Szkolna 21, Rzeku\u0144"
     },
     {
         "vaccine": "Moderna",
@@ -91,25 +91,18 @@
         "address": "Piastowska  39, Sierpc"
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-22",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Centrum Medyczne\" BMC - Przychodnia Lekarska w Wyszogrodzie",
-        "address": "P\u0142ocka 29, Wyszogr\u00f3d"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-24",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Sp\u00f3\u0142ka Lekarska \"ZAM\u0141YNIE\"",
-        "address": "Klonowica 44175, Radom"
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-25",
         "count": 17,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-25",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa"
     },
     {
         "vaccine": "Moderna",
@@ -119,18 +112,11 @@
         "address": "Piastowska  39, Sierpc"
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-28",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-29",
         "count": 1,
-        "location": "Przychodnia Podstawowej Opieki Zdrowotnej",
-        "address": "Kondratowicza 8, Warszawa"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-31",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
+        "location": "Pogotowie Ratunkowe - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W ZWOLENIU",
+        "address": "Ludowa 7a, Zwole\u0144"
     },
     {
         "vaccine": "Pfizer",
@@ -142,9 +128,23 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-03",
-        "count": 37,
+        "count": 38,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-06-05",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
+        "address": "Kraszewskiego 8, Ciechan\u00f3w"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-06-22",
+        "count": 1,
+        "location": "Przychodnia Zajezierze",
+        "address": "28 Pu\u0142ku Artylerii Lekkiej 7A, Zajezierze"
     },
     {
         "vaccine": "Johnson & Johnson",
