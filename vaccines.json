@@ -3,6 +3,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
+        "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
+        "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze",
+        "times": [
+            [
+                "06:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
         "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko",
         "times": [
@@ -102,18 +114,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
-        "times": [
-            [
-                "13:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -125,12 +125,23 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 20,
+        "count": 1,
+        "location": "Gabinet lekarza POZ - \"MEDICUS\" \u017bELECH\u00d3W",
+        "address": "REYMONTA 36A, \u017bELECH\u00d3W",
+        "times": [
+            [
+                "07:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 19,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
             [
-                "06:15:00",
                 "08:25:00",
                 "08:35:00",
                 "08:45:00",
@@ -150,30 +161,6 @@
                 "10:25:00",
                 "10:30:00",
                 "10:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Poradnia lekarza POZ",
-        "address": "Modzelewskiego 58, Warszawa",
-        "times": [
-            [
-                "07:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Gabinet lekarza POZ - \"MEDICUS\" \u017bELECH\u00d3W",
-        "address": "REYMONTA 36A, \u017bELECH\u00d3W",
-        "times": [
-            [
-                "07:35:00"
             ]
         ]
     },
@@ -292,30 +279,26 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 3,
+        "count": 4,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
                 "06:25:00",
                 "07:05:00",
-                "07:10:00"
+                "07:10:00",
+                "07:15:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 17,
+        "count": 12,
         "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W B\u0141\u0118DOWIE",
         "address": "Wilk\u00f3w Drugi 127 B, Wilk\u00f3w Drugi",
         "times": [
             [
-                "12:15:00",
-                "12:20:00",
-                "13:00:00",
-                "13:05:00",
-                "13:10:00",
                 "13:15:00",
                 "13:20:00",
                 "13:25:00",
@@ -328,18 +311,6 @@
                 "14:25:00",
                 "14:35:00",
                 "14:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
-        "address": "Parkowa 14, Raci\u0105\u017c",
-        "times": [
-            [
-                "07:20:00"
             ]
         ]
     },
@@ -403,6 +374,30 @@
     },
     {
         "vaccine": "Johnson & Johnson",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
+        "address": "Sienkiewicza 7, P\u0142o\u0144sk",
+        "times": [
+            [
+                "11:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-29",
+        "count": 1,
+        "location": "Przychodnia Podstawowej Opieki Zdrowotnej",
+        "address": "Kondratowicza 8, Warszawa",
+        "times": [
+            [
+                "10:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
         "day": "2021-05-31",
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
@@ -416,12 +411,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-01",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
         "address": "Szczytno 11a, Szczytno",
         "times": [
             [
-                "06:25:00",
                 "07:10:00"
             ]
         ]
@@ -480,30 +474,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "S\u0142oneczna 1, \u0141osice",
-        "times": [
-            [
-                "09:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-10",
-        "count": 1,
-        "location": "Przychodnia przy KOT CENTER- punkt szczepie\u0144 ",
-        "address": "Powsta\u0144c\u00f3w Warszawy  3, Otwock",
-        "times": [
-            [
-                "10:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-10",
         "count": 4,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo",
@@ -531,18 +501,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "Wiejska 19/21, \u017byrard\u00f3w",
-        "times": [
-            [
-                "08:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-11",
         "count": 3,
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O",
@@ -564,18 +522,6 @@
             [
                 "14:10:00",
                 "14:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-13",
-        "count": 1,
-        "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
-        "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka",
-        "times": [
-            [
-                "07:25:00"
             ]
         ]
     },
@@ -621,7 +567,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 5,
+        "count": 6,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -630,7 +576,20 @@
                 "06:10:00",
                 "06:20:00",
                 "06:30:00",
-                "06:40:00"
+                "06:40:00",
+                "10:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
+        "times": [
+            [
+                "10:10:00"
             ]
         ]
     }
