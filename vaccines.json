@@ -39,18 +39,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Centrum Medyczne\" BMC - Przychodnia Lekarska w Wyszogrodzie",
-        "address": "P\u0142ocka 29, Wyszogr\u00f3d",
-        "times": [
-            [
-                "12:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
         "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
@@ -168,9 +156,21 @@
         ]
     },
     {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
+        "times": [
+            [
+                "10:35:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 42,
+        "count": 41,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -215,8 +215,7 @@
                 "09:40:00",
                 "09:50:00",
                 "16:10:00",
-                "16:15:00",
-                "16:25:00"
+                "16:15:00"
             ]
         ]
     },
@@ -231,7 +230,6 @@
                 "05:30:00",
                 "05:35:00",
                 "05:40:00",
-                "05:45:00",
                 "05:50:00",
                 "05:55:00",
                 "06:00:00",
@@ -257,7 +255,8 @@
                 "07:40:00",
                 "07:45:00",
                 "07:50:00",
-                "07:55:00"
+                "07:55:00",
+                "08:00:00"
             ]
         ]
     },
@@ -343,13 +342,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-29",
-        "count": 7,
+        "count": 5,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "14:45:00",
-                "14:50:00",
                 "14:55:00",
                 "15:35:00",
                 "15:40:00",
@@ -426,13 +423,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 5,
+        "count": 4,
         "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
         "address": "Spacerowa  29, Bia\u0142obrzegi",
         "times": [
             [
                 "09:45:00",
-                "10:45:00",
                 "10:50:00",
                 "10:55:00",
                 "11:20:00"
@@ -441,10 +437,10 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-12",
+        "day": "2021-06-13",
         "count": 1,
-        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
-        "address": "Napoleona 20, Koby\u0142ka",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
+        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
         "times": [
             [
                 "07:30:00"
@@ -455,8 +451,8 @@
         "vaccine": "Pfizer",
         "day": "2021-06-13",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
-        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka",
         "times": [
             [
                 "07:30:00"
@@ -546,14 +542,15 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 3,
+        "count": 4,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
             [
                 "06:00:00",
                 "06:10:00",
-                "06:20:00"
+                "06:20:00",
+                "06:30:00"
             ]
         ]
     }
