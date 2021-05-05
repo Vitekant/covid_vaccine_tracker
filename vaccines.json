@@ -58,16 +58,9 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 3,
+        "count": 2,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-13",
-        "count": 1,
-        "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
-        "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka"
     },
     {
         "vaccine": "Pfizer",
