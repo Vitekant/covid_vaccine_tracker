@@ -1,5 +1,12 @@
 [
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-05",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "Kunin 20, Kunin"
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 25,
@@ -72,7 +79,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 10,
+        "count": 9,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
     },
