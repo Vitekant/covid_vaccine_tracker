@@ -35,6 +35,13 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-25",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew"
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
         "count": 25,
@@ -86,7 +93,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-17",
-        "count": 6,
+        "count": 5,
         "location": "Poradnia lekarza POZ",
         "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
     },
@@ -114,7 +121,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-20",
-        "count": 1,
+        "count": 2,
         "location": "O\u015brodek Zdrowia",
         "address": "Po\u0142udniowa 11B, Miszewo Murowane"
     }
