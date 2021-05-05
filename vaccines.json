@@ -124,6 +124,18 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin",
+        "times": [
+            [
+                "16:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 20,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
@@ -278,33 +290,50 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-09",
+        "count": 2,
+        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
+        "address": "Poniatowskiego 26, Siedlce",
+        "times": [
+            [
+                "09:10:00",
+                "11:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 4,
+        "count": 2,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
                 "06:25:00",
-                "07:05:00",
-                "07:10:00",
-                "07:15:00"
+                "07:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "SPECJALISTYCZNA PRZYCHODNIA LEKARSKA DLA PRACOWNIK\u00d3W WOJSKA SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W WARSZAWIE",
+        "address": "Nowowiejska 5, Warszawa",
+        "times": [
+            [
+                "07:50:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 27,
+        "count": 19,
         "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W B\u0141\u0118DOWIE",
         "address": "Wilk\u00f3w Drugi 127 B, Wilk\u00f3w Drugi",
         "times": [
             [
-                "12:10:00",
-                "12:15:00",
-                "12:20:00",
-                "12:25:00",
-                "12:30:00",
-                "12:35:00",
                 "12:40:00",
                 "12:45:00",
                 "12:50:00",
@@ -321,9 +350,7 @@
                 "13:50:00",
                 "13:55:00",
                 "14:15:00",
-                "14:20:00",
                 "14:25:00",
-                "14:30:00",
                 "14:35:00",
                 "14:40:00"
             ]
@@ -427,24 +454,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 \"\u015aR\u00d3DMIE\u015aCIE 3\"",
-        "address": "ul. Andrzeja Struga 57 A, Radom",
-        "times": [
-            [
-                "10:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 39,
+        "count": 40,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
             [
+                "09:15:00",
                 "09:20:00",
                 "09:25:00",
                 "09:35:00",
@@ -556,18 +572,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-13",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
-        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
-        "times": [
-            [
-                "07:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-14",
         "count": 9,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
@@ -608,7 +612,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 4,
+        "count": 5,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -616,7 +620,20 @@
                 "06:00:00",
                 "06:10:00",
                 "06:20:00",
-                "06:30:00"
+                "06:30:00",
+                "06:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
+        "times": [
+            [
+                "10:10:00"
             ]
         ]
     }
