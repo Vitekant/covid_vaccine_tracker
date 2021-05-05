@@ -93,7 +93,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-17",
-        "count": 4,
+        "count": 3,
         "location": "Poradnia lekarza POZ",
         "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
     },
@@ -103,13 +103,6 @@
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-17",
-        "count": 1,
-        "location": "PRZYCHODNIA LEKARSKA ORPEA  UL. KIJOWSKA 11 03-743 WARSZAWA",
-        "address": "KIJOWSKA 11, WARSZAWA"
     },
     {
         "vaccine": "Pfizer",
