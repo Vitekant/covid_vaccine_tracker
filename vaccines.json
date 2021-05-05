@@ -39,6 +39,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
+        "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
+        "times": [
+            [
+                "06:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
         "count": 2,
         "location": "Punkt szczepie\u0144 (doro\u015bli i dzieci)",
         "address": "Mazowiecka 13B, Czerwin",
@@ -94,18 +106,6 @@
         "times": [
             [
                 "13:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "13:30:00"
             ]
         ]
     },
@@ -263,32 +263,8 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "17:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-09",
-        "count": 1,
-        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
-        "address": "Poniatowskiego 26, Siedlce",
-        "times": [
-            [
-                "14:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 7,
+        "count": 8,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -299,18 +275,21 @@
                 "07:10:00",
                 "07:15:00",
                 "07:20:00",
-                "07:25:00"
+                "07:25:00",
+                "07:35:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 15,
+        "count": 17,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
+                "13:00:00",
+                "13:15:00",
                 "13:45:00",
                 "14:00:00",
                 "14:15:00",
@@ -338,6 +317,18 @@
         "times": [
             [
                 "13:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 1,
+        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
+        "address": "Spacerowa  29, Bia\u0142obrzegi",
+        "times": [
+            [
+                "06:40:00"
             ]
         ]
     },
@@ -380,11 +371,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 35,
+        "count": 36,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
             [
+                "09:15:00",
                 "09:35:00",
                 "09:40:00",
                 "09:45:00",
@@ -506,7 +498,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 8,
+        "count": 7,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -517,8 +509,7 @@
                 "10:30:00",
                 "10:35:00",
                 "10:40:00",
-                "10:45:00",
-                "10:50:00"
+                "10:45:00"
             ]
         ]
     }
