@@ -2,7 +2,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 18,
+        "count": 19,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -37,16 +37,9 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
-        "count": 12,
+        "count": 9,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin"
     },
     {
         "vaccine": "Pfizer",
@@ -54,6 +47,13 @@
         "count": 5,
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-12",
+        "count": 1,
+        "location": "Centrum Medyczne ZANMED",
+        "address": "J\u00f3zefa Pi\u0142sudskiego 33, Halin\u00f3w"
     },
     {
         "vaccine": "Pfizer",
@@ -65,7 +65,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 5,
+        "count": 6,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
     },
@@ -92,10 +92,24 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-17",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
+        "address": "Jana Paw\u0142a II  20, Radzymin"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-18",
         "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
         "address": "Hubalczyk\u00f3w 11, P\u0142ock"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-19",
+        "count": 1,
+        "location": "Centrum Medyczne ZANMED",
+        "address": "J\u00f3zefa Pi\u0142sudskiego 33, Halin\u00f3w"
     },
     {
         "vaccine": "Pfizer",
@@ -107,7 +121,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-20",
-        "count": 17,
+        "count": 15,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
     }
