@@ -266,18 +266,6 @@
     },
     {
         "vaccine": "Moderna",
-        "day": "2021-05-22",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
-        "times": [
-            [
-                "12:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
         "day": "2021-05-25",
         "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
@@ -342,25 +330,40 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-29",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI",
+        "times": [
+            [
+                "06:00:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-06-03",
-        "count": 12,
+        "count": 15,
         "location": "\"DAGIS centrum medyczne\" Niepubliczny Zak\u0142ad Opieki Zdrowotnej-Poradnia lekarza POZ",
         "address": "Odkryta 31 -, Warszawa",
         "times": [
             [
-                "08:00:00",
-                "08:05:00",
-                "08:10:00",
-                "08:15:00",
-                "08:20:00",
                 "08:25:00",
-                "08:30:00",
                 "08:35:00",
                 "08:40:00",
                 "08:45:00",
                 "08:50:00",
-                "08:55:00"
+                "08:55:00",
+                "09:00:00",
+                "09:05:00",
+                "09:10:00",
+                "09:15:00",
+                "09:20:00",
+                "09:25:00",
+                "09:30:00",
+                "09:35:00",
+                "09:40:00"
             ]
         ]
     },
@@ -447,6 +450,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-12",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "Wiejska 19/21, \u017byrard\u00f3w",
+        "times": [
+            [
+                "08:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-14",
         "count": 1,
         "location": "Gabinet zabiegowo-diagnostyczny",
@@ -475,24 +490,22 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 6,
+        "count": 4,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
             [
                 "06:10:00",
                 "06:20:00",
-                "10:10:00",
                 "10:20:00",
-                "10:30:00",
-                "10:40:00"
+                "10:30:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 8,
+        "count": 6,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -502,9 +515,7 @@
                 "10:25:00",
                 "10:30:00",
                 "10:35:00",
-                "10:40:00",
-                "10:45:00",
-                "10:50:00"
+                "10:40:00"
             ]
         ]
     }
