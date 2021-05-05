@@ -3,13 +3,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
-        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Medycyny Rodzinnej  \"ZDROWIE\"",
         "address": "Wyszogrodzka 7, M\u0142odzieszyn"
     },
@@ -45,15 +38,15 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 5,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom"
+        "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
+        "address": "Nowe \u0141ubki 5A"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 4,
-        "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
-        "address": "Nowe \u0141ubki 5A"
+        "count": 5,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -78,8 +71,15 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 4,
+        "count": 3,
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
         "address": "Poniatowskiego 26, Siedlce"
     },
@@ -94,13 +94,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
-        "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W CEG\u0141OWIE - Punkt szczepie\u0144",
-        "address": "Plac Anny Jagiellonki 17, Ceg\u0142\u00f3w"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
     },
@@ -110,13 +103,6 @@
         "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "GMINNE CENTRUM MEDYCZNO-REHABILITACYJNE W BROCHOWIE",
-        "address": "Broch\u00f3w 124, Broch\u00f3w"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -142,30 +128,37 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-14",
-        "count": 27,
+        "count": 25,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin"
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-17",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
+        "address": "Kraszewskiego 8, Ciechan\u00f3w"
+    },
+    {
         "vaccine": "Pfizer",
-        "day": "2021-05-20",
+        "day": "2021-05-19",
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
         "address": "Szczytno 11a, Szczytno"
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-28",
+        "day": "2021-05-27",
         "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "Kili\u0144skiego 4B, Sarnaki"
+        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
+        "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-01",
         "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "Steyera 2E, Ostro\u0142\u0119ka"
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki"
     },
     {
         "vaccine": "Pfizer",
@@ -176,24 +169,17 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-02",
-        "count": 1,
-        "location": "Poradnia lekarza POZ",
-        "address": "Staszica 18, Garwolin"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-03",
-        "count": 1,
-        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
-        "address": "Spacerowa  29, Bia\u0142obrzegi"
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-05",
         "count": 1,
         "location": "Punkt szczepie\u0144",
         "address": "Sitarskich 3, Nadarzyn"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-06",
+        "count": 1,
+        "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
+        "address": "Wojska Polskiego 91, Zwole\u0144"
     },
     {
         "vaccine": "Pfizer",
@@ -241,13 +227,20 @@
         "vaccine": "Pfizer",
         "day": "2021-06-09",
         "count": 1,
+        "location": "Przychodnia \"Salus\" Micha\u0142 Kundzio\u0142ka",
+        "address": "Koczorowskiej 2, Ostr\u00f3wek"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 1,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 2,
+        "count": 1,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
     },
@@ -257,6 +250,20 @@
         "count": 15,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-10",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-10",
+        "count": 1,
+        "location": "Filia Nr 1 Niepubliczny Zak\u0142ad Opieki Zdrowotnej Eskulap",
+        "address": "DZIER\u017bENIN 101, DZIER\u017bENIN"
     },
     {
         "vaccine": "Pfizer",
@@ -275,7 +282,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 3,
+        "count": 2,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
     }
