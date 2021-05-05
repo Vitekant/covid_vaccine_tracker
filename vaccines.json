@@ -43,18 +43,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
-        "times": [
-            [
-                "09:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
         "count": 2,
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc",
@@ -92,12 +80,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 2,
+        "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Centrum Medyczne\" BMC - Przychodnia Lekarska w Wyszogrodzie",
         "address": "P\u0142ocka 29, Wyszogr\u00f3d",
         "times": [
             [
-                "12:10:00",
                 "12:20:00"
             ]
         ]
@@ -111,18 +98,6 @@
         "times": [
             [
                 "13:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
-        "address": "Karczewska 48, Otwock",
-        "times": [
-            [
-                "07:40:00"
             ]
         ]
     },
@@ -238,24 +213,22 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
-        "address": "UL. TOCHTERMANA  1, RADOM",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "12:30:00"
+                "13:30:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-08",
-        "count": 19,
+        "count": 20,
         "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
         "address": "Napoleona 20, Koby\u0142ka",
         "times": [
             [
-                "16:20:00",
-                "16:30:00",
                 "16:35:00",
                 "16:40:00",
                 "16:45:00",
@@ -272,14 +245,17 @@
                 "17:40:00",
                 "17:45:00",
                 "17:50:00",
-                "17:55:00"
+                "17:55:00",
+                "18:00:00",
+                "18:05:00",
+                "18:10:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 12,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
@@ -295,7 +271,8 @@
                 "08:55:00",
                 "09:05:00",
                 "09:10:00",
-                "09:15:00"
+                "09:15:00",
+                "09:20:00"
             ]
         ]
     },
@@ -325,13 +302,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-11",
+        "day": "2021-05-12",
         "count": 1,
-        "location": "POWIATOWE CENTRUM MEDYCZNE W GR\u00d3JCU SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Piotra Skargi 10, Gr\u00f3jec",
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
             [
-                "10:15:00"
+                "10:30:00"
             ]
         ]
     },
@@ -361,13 +338,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-02",
+        "day": "2021-05-25",
         "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA",
+        "location": "Samodzielny Publiczny Zesp\u00f3\u0142 Opieki Zdrowotnej w Mi\u0144sku Mazowieckim - Szpital Powiatowy - ul. Szpitalna",
+        "address": "ul. Szpitalna 37, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "09:45:00"
+                "08:02:00"
             ]
         ]
     },
@@ -387,23 +364,10 @@
         "vaccine": "Pfizer",
         "day": "2021-06-09",
         "count": 1,
-        "location": "Poradnia lekarza rodzinnego",
-        "address": "D\u0105br\u00f3wka 52, Lelis",
-        "times": [
-            [
-                "09:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 2,
         "location": "Punkt szczepie\u0144",
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O",
         "times": [
             [
-                "09:45:00",
                 "09:55:00"
             ]
         ]
@@ -430,7 +394,7 @@
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "11:30:00"
+                "11:40:00"
             ]
         ]
     },
@@ -449,12 +413,13 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 50,
+        "count": 52,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
             [
                 "08:00:00",
+                "08:35:00",
                 "08:40:00",
                 "08:45:00",
                 "08:50:00",
@@ -486,6 +451,7 @@
                 "11:10:00",
                 "11:15:00",
                 "11:20:00",
+                "11:25:00",
                 "11:30:00",
                 "11:35:00",
                 "11:40:00",
@@ -581,12 +547,13 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 1,
+        "count": 2,
         "location": "Punkt szczepie\u0144",
         "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka",
         "times": [
             [
-                "16:15:00"
+                "16:15:00",
+                "16:20:00"
             ]
         ]
     }
