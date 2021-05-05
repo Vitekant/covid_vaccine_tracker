@@ -170,14 +170,13 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 34,
+        "count": 33,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
                 "06:25:00",
                 "07:05:00",
-                "07:10:00",
                 "07:15:00",
                 "07:20:00",
                 "07:25:00",
@@ -215,7 +214,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 36,
+        "count": 37,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -255,19 +254,19 @@
                 "08:30:00",
                 "08:35:00",
                 "08:40:00",
-                "08:45:00"
+                "08:45:00",
+                "08:50:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 6,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "13:20:00",
                 "13:25:00",
                 "13:30:00",
                 "13:35:00",
@@ -320,7 +319,6 @@
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "06:00:00",
                 "06:15:00",
                 "06:30:00",
                 "06:45:00",
@@ -335,7 +333,20 @@
                 "09:15:00",
                 "09:30:00",
                 "09:45:00",
-                "10:00:00"
+                "10:00:00",
+                "10:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-29",
+        "count": 1,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "08:25:00"
             ]
         ]
     },
@@ -396,8 +407,8 @@
         "vaccine": "Pfizer",
         "day": "2021-06-13",
         "count": 1,
-        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
-        "address": "Napoleona 20, Koby\u0142ka",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
+        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
         "times": [
             [
                 "07:30:00"
@@ -408,8 +419,8 @@
         "vaccine": "Pfizer",
         "day": "2021-06-13",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
-        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka",
         "times": [
             [
                 "07:30:00"
@@ -511,18 +522,6 @@
                 "06:30:00",
                 "06:40:00",
                 "06:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-16",
-        "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
-        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
-        "times": [
-            [
-                "07:00:00"
             ]
         ]
     }
