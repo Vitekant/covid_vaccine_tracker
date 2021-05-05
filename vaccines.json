@@ -15,6 +15,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
+        "count": 1,
+        "location": "EMC PIASECZNO",
+        "address": "Szkolna 1, Piaseczno",
+        "times": [
+            [
+                "06:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
         "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
@@ -41,11 +53,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
-        "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
+        "location": "Ambulatorium Stomatologiczne - Che\u0142mska",
+        "address": "Che\u0142mska 12, Warszawa",
         "times": [
             [
-                "06:40:00"
+                "07:30:00"
             ]
         ]
     },
@@ -96,6 +108,18 @@
         "times": [
             [
                 "11:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Centrum Medyczne\" BMC - Przychodnia Lekarska w Wyszogrodzie",
+        "address": "P\u0142ocka 29, Wyszogr\u00f3d",
+        "times": [
+            [
+                "12:10:00"
             ]
         ]
     },
@@ -313,6 +337,7 @@
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
+                "13:00:00",
                 "13:15:00",
                 "13:30:00",
                 "13:45:00",
@@ -323,8 +348,7 @@
                 "15:00:00",
                 "15:15:00",
                 "15:30:00",
-                "15:45:00",
-                "16:00:00"
+                "15:45:00"
             ]
         ]
     },
@@ -445,18 +469,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "11:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-14",
         "count": 7,
         "location": "Punkt szczepie\u0144",
         "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka",
@@ -495,7 +507,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 7,
+        "count": 8,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -506,7 +518,8 @@
                 "10:30:00",
                 "10:35:00",
                 "10:40:00",
-                "10:45:00"
+                "10:45:00",
+                "10:50:00"
             ]
         ]
     }
