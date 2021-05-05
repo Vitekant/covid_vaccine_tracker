@@ -1,5 +1,17 @@
 [
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "O\u015brodek Zdrowia w \u0141ysowie - Punkt szczepie\u0144",
+        "address": "\u0141ys\u00f3w 28, \u0141ys\u00f3w",
+        "times": [
+            [
+                "12:15:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 2,
@@ -87,18 +99,6 @@
                 "11:05:00",
                 "11:10:00",
                 "11:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
-        "address": "Widok 1, WINNICA",
-        "times": [
-            [
-                "11:20:00"
             ]
         ]
     },
@@ -279,7 +279,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 7,
+        "count": 8,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -290,19 +290,8 @@
                 "07:20:00",
                 "07:25:00",
                 "07:35:00",
-                "07:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
-        "address": "Kraszewskiego 8, Ciechan\u00f3w",
-        "times": [
-            [
-                "09:55:00"
+                "07:40:00",
+                "07:45:00"
             ]
         ]
     },
@@ -332,26 +321,15 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
-        "address": "Sienkiewicza 7, P\u0142o\u0144sk",
-        "times": [
-            [
-                "12:30:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA",
+        "day": "2021-06-04",
+        "count": 2,
+        "location": "Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej w \u0141askarzewie",
+        "address": "Du\u017cy Rynek 32, \u0141askarzew",
         "times": [
             [
-                "10:35:00"
+                "13:30:00",
+                "13:40:00"
             ]
         ]
     },
@@ -451,37 +429,19 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-11",
-        "count": 1,
-        "location": "Podstawowa Opieka Zdrowotna -Punkt szczepie\u0144,  ul. 3 Maja 57",
-        "address": "ul. 3 Maja 57, Grodzisk Mazowiecki",
-        "times": [
-            [
-                "08:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-11",
-        "count": 1,
-        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
-        "address": "Spacerowa  29, Bia\u0142obrzegi",
-        "times": [
-            [
-                "09:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-12",
-        "count": 1,
+        "count": 7,
         "location": "PUNKT SZCZEPIE\u0143 WO\u0141OSKA",
         "address": "WO\u0141OSKA 16, WARSZAWA",
         "times": [
             [
-                "08:50:00"
+                "07:50:00",
+                "09:05:00",
+                "09:10:00",
+                "09:15:00",
+                "09:20:00",
+                "09:25:00",
+                "09:30:00"
             ]
         ]
     },
@@ -521,7 +481,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 12,
+        "count": 11,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -536,22 +496,7 @@
                 "10:50:00",
                 "10:55:00",
                 "11:00:00",
-                "11:05:00",
-                "11:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 3,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "12:30:00",
-                "12:35:00",
-                "13:00:00"
+                "11:05:00"
             ]
         ]
     }
