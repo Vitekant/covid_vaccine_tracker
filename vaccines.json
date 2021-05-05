@@ -29,18 +29,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
-        "location": "Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Miejska w J\u00f3zefowie",
-        "address": "Sk\u0142odowskiej 5/7, J\u00f3zef\u00f3w",
-        "times": [
-            [
-                "06:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
         "count": 2,
         "location": "Punkt szczepie\u0144 (doro\u015bli i dzieci)",
         "address": "Mazowiecka 13B, Czerwin",
@@ -255,6 +243,100 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-11",
+        "count": 83,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "07:35:00",
+                "07:40:00",
+                "07:45:00",
+                "07:50:00",
+                "07:55:00",
+                "08:00:00",
+                "08:05:00",
+                "08:10:00",
+                "08:15:00",
+                "08:20:00",
+                "08:25:00",
+                "08:30:00",
+                "08:35:00",
+                "08:40:00",
+                "08:45:00",
+                "08:50:00",
+                "08:55:00",
+                "09:05:00",
+                "09:10:00",
+                "09:15:00",
+                "09:20:00",
+                "09:25:00",
+                "09:30:00",
+                "09:35:00",
+                "09:40:00",
+                "09:45:00",
+                "09:50:00",
+                "09:55:00",
+                "10:00:00",
+                "10:10:00",
+                "10:15:00",
+                "10:20:00",
+                "10:25:00",
+                "10:30:00",
+                "10:35:00",
+                "10:40:00",
+                "10:45:00",
+                "10:50:00",
+                "10:55:00",
+                "11:00:00",
+                "11:05:00",
+                "11:10:00",
+                "11:15:00",
+                "11:20:00",
+                "11:25:00",
+                "11:30:00",
+                "11:35:00",
+                "11:40:00",
+                "11:45:00",
+                "11:50:00",
+                "11:55:00",
+                "12:00:00",
+                "12:05:00",
+                "12:10:00",
+                "12:15:00",
+                "12:20:00",
+                "12:25:00",
+                "12:30:00",
+                "12:35:00",
+                "12:40:00",
+                "12:45:00",
+                "12:50:00",
+                "12:55:00",
+                "13:05:00",
+                "13:10:00",
+                "13:15:00",
+                "13:20:00",
+                "13:25:00",
+                "13:35:00",
+                "13:40:00",
+                "13:45:00",
+                "13:50:00",
+                "13:55:00",
+                "14:05:00",
+                "14:10:00",
+                "14:15:00",
+                "14:20:00",
+                "14:25:00",
+                "14:30:00",
+                "14:35:00",
+                "14:40:00",
+                "14:45:00",
+                "14:50:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-25",
         "count": 10,
@@ -305,18 +387,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Gabinet diagnostyczno-zabiegowy Nr 13 - MAZOWIECKI SZPITAL SPECJALISTYCZNY SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "ul. Juliana Aleksandrowicza 5, Radom",
-        "times": [
-            [
-                "17:35:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-29",
         "count": 6,
@@ -330,198 +400,6 @@
                 "06:45:00",
                 "07:00:00",
                 "07:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-31",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "13:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-07",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "12:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-10",
-        "count": 31,
-        "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
-        "address": "S\u0142oneczna 1, Szulborze Wielkie",
-        "times": [
-            [
-                "09:40:00",
-                "09:45:00",
-                "09:50:00",
-                "09:55:00",
-                "10:05:00",
-                "10:10:00",
-                "10:15:00",
-                "10:25:00",
-                "10:30:00",
-                "10:45:00",
-                "10:50:00",
-                "10:55:00",
-                "11:05:00",
-                "11:20:00",
-                "11:25:00",
-                "11:30:00",
-                "11:35:00",
-                "11:40:00",
-                "11:45:00",
-                "11:50:00",
-                "11:55:00",
-                "12:00:00",
-                "12:05:00",
-                "12:10:00",
-                "12:15:00",
-                "12:20:00",
-                "12:25:00",
-                "12:30:00",
-                "12:35:00",
-                "12:40:00",
-                "12:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-10",
-        "count": 2,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
-        "address": "Goworowska 39A, W\u0105sewo",
-        "times": [
-            [
-                "12:50:00",
-                "13:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-11",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
-        "times": [
-            [
-                "06:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-11",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
-        "times": [
-            [
-                "10:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-14",
-        "count": 2,
-        "location": "Punkt szczepie\u0144",
-        "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "16:50:00",
-                "16:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 52,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "06:00:00",
-                "06:05:00",
-                "06:10:00",
-                "06:15:00",
-                "06:20:00",
-                "06:25:00",
-                "06:30:00",
-                "06:35:00",
-                "06:40:00",
-                "06:45:00",
-                "06:50:00",
-                "06:55:00",
-                "07:00:00",
-                "07:05:00",
-                "07:10:00",
-                "07:15:00",
-                "07:20:00",
-                "07:25:00",
-                "07:30:00",
-                "07:35:00",
-                "07:40:00",
-                "07:45:00",
-                "07:50:00",
-                "07:55:00",
-                "08:00:00",
-                "08:05:00",
-                "08:10:00",
-                "08:15:00",
-                "08:20:00",
-                "08:25:00",
-                "08:30:00",
-                "08:35:00",
-                "08:40:00",
-                "08:45:00",
-                "08:50:00",
-                "08:55:00",
-                "09:00:00",
-                "09:05:00",
-                "09:10:00",
-                "09:15:00",
-                "09:20:00",
-                "09:25:00",
-                "09:30:00",
-                "09:35:00",
-                "09:40:00",
-                "09:45:00",
-                "09:50:00",
-                "09:55:00",
-                "10:00:00",
-                "10:05:00",
-                "10:10:00",
-                "10:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 2,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
-        "times": [
-            [
-                "06:10:00",
-                "06:20:00"
             ]
         ]
     }
