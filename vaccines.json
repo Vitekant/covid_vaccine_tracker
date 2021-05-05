@@ -9,13 +9,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 25,
-        "location": "Przychodnia Rejonowo Specjalistyczna",
-        "address": "\u0141OJEWSKA 6, WARSZAWA"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
         "count": 23,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
@@ -26,6 +19,13 @@
         "count": 3,
         "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 19,
+        "location": "Przychodnia Rejonowo Specjalistyczna",
+        "address": "\u0141OJEWSKA 6, WARSZAWA"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -44,14 +44,14 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 18,
+        "count": 22,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
-        "count": 26,
+        "count": 24,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w"
     },
@@ -145,6 +145,13 @@
         "count": 1,
         "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
         "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-19",
+        "count": 1,
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka"
     },
     {
         "vaccine": "Pfizer",
