@@ -93,7 +93,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-17",
-        "count": 2,
+        "count": 1,
         "location": "Poradnia lekarza POZ",
         "address": "Bohater\u00f3w Warszawy 2, W\u0119gr\u00f3w"
     },
@@ -107,7 +107,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-20",
-        "count": 2,
+        "count": 3,
         "location": "O\u015brodek Zdrowia",
         "address": "Po\u0142udniowa 11B, Miszewo Murowane"
     }
