@@ -160,7 +160,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 23,
+        "count": 24,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -187,19 +187,20 @@
                 "09:00:00",
                 "09:05:00",
                 "09:10:00",
-                "09:15:00"
+                "09:15:00",
+                "09:20:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
-        "day": "2021-05-14",
+        "day": "2021-05-15",
         "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
-                "15:00:00"
+                "06:30:00"
             ]
         ]
     },
@@ -226,11 +227,13 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 15,
+        "count": 17,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
+                "11:05:00",
+                "11:40:00",
                 "11:45:00",
                 "12:35:00",
                 "12:40:00",
@@ -251,50 +254,16 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-27",
-        "count": 15,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "09:50:00",
-                "09:55:00",
-                "10:10:00",
-                "10:20:00",
-                "10:25:00",
-                "10:35:00",
-                "10:45:00",
-                "10:55:00",
-                "11:05:00",
-                "11:10:00",
-                "11:15:00",
-                "11:25:00",
-                "11:35:00",
-                "11:40:00",
-                "11:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-05-28",
-        "count": 36,
+        "count": 27,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "08:00:00",
-                "08:05:00",
-                "08:10:00",
-                "08:15:00",
-                "08:20:00",
-                "08:25:00",
                 "08:30:00",
-                "08:35:00",
                 "08:40:00",
                 "08:45:00",
                 "08:50:00",
-                "08:55:00",
                 "09:00:00",
                 "09:05:00",
                 "09:10:00",
@@ -317,20 +286,7 @@
                 "10:35:00",
                 "10:40:00",
                 "10:45:00",
-                "10:50:00",
-                "10:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-28",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
-        "address": "Sienkiewicza 7, P\u0142o\u0144sk",
-        "times": [
-            [
-                "09:10:00"
+                "10:50:00"
             ]
         ]
     },
@@ -358,13 +314,16 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-04",
-        "count": 2,
+        "count": 5,
         "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
         "address": "Spacerowa  29, Bia\u0142obrzegi",
         "times": [
             [
-                "12:25:00",
-                "12:30:00"
+                "12:30:00",
+                "12:35:00",
+                "12:40:00",
+                "12:45:00",
+                "12:50:00"
             ]
         ]
     },
@@ -383,25 +342,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O",
-        "times": [
-            [
-                "09:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 16,
+        "count": 18,
         "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
         "address": "Spacerowa  29, Bia\u0142obrzegi",
         "times": [
             [
-                "10:55:00",
-                "11:15:00",
                 "11:25:00",
                 "11:30:00",
                 "11:35:00",
@@ -415,14 +360,18 @@
                 "12:15:00",
                 "12:20:00",
                 "12:25:00",
-                "12:30:00"
+                "12:30:00",
+                "12:35:00",
+                "12:40:00",
+                "12:45:00",
+                "12:50:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 27,
+        "count": 29,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
@@ -453,19 +402,88 @@
                 "12:20:00",
                 "12:25:00",
                 "12:30:00",
-                "12:35:00"
+                "12:35:00",
+                "12:40:00",
+                "12:50:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 1,
+        "count": 2,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo",
         "times": [
             [
-                "12:10:00"
+                "12:10:00",
+                "13:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-11",
+        "count": 2,
+        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
+        "address": "Spacerowa  29, Bia\u0142obrzegi",
+        "times": [
+            [
+                "11:20:00",
+                "11:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-13",
+        "count": 1,
+        "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
+        "address": "Wojska Polskiego 91, Zwole\u0144",
+        "times": [
+            [
+                "08:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-14",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "13:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 3,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "06:20:00",
+                "06:50:00",
+                "10:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 4,
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
+        "times": [
+            [
+                "10:20:00",
+                "10:25:00",
+                "10:30:00",
+                "10:35:00"
             ]
         ]
     }
