@@ -106,6 +106,13 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-17",
+        "count": 1,
+        "location": "PRZYCHODNIA LEKARSKA ORPEA  UL. KIJOWSKA 11 03-743 WARSZAWA",
+        "address": "KIJOWSKA 11, WARSZAWA"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-18",
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
