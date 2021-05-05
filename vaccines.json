@@ -2,6 +2,13 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
+        "count": 5,
+        "location": "Przychodnia Rejonowo Specjalistyczna",
+        "address": "\u0141OJEWSKA 6, WARSZAWA"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
         "count": 22,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
@@ -30,14 +37,14 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 34,
+        "count": 31,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
-        "count": 26,
+        "count": 25,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w"
     },
@@ -92,6 +99,13 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-18",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
+        "address": "Hubalczyk\u00f3w 11, P\u0142ock"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-20",
         "count": 3,
         "location": "O\u015brodek Zdrowia",
@@ -100,7 +114,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-20",
-        "count": 2,
+        "count": 1,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
     },
