@@ -145,7 +145,6 @@
                 "07:45:00",
                 "07:50:00",
                 "07:55:00",
-                "08:00:00",
                 "08:05:00",
                 "08:10:00",
                 "08:15:00",
@@ -174,19 +173,8 @@
                 "10:25:00",
                 "10:30:00",
                 "10:35:00",
-                "10:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-10",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc",
-        "times": [
-            [
-                "10:35:00"
+                "10:40:00",
+                "10:45:00"
             ]
         ]
     },
@@ -366,18 +354,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "13:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-10",
         "count": 27,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
@@ -429,13 +405,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-11",
+        "day": "2021-06-10",
         "count": 1,
-        "location": "Podstawowa Opieka Zdrowotna -Punkt szczepie\u0144,  ul. 3 Maja 57",
-        "address": "ul. 3 Maja 57, Grodzisk Mazowiecki",
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "09:00:00"
+                "13:25:00"
             ]
         ]
     },
@@ -540,7 +516,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 4,
+        "count": 5,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -548,7 +524,8 @@
                 "07:00:00",
                 "07:05:00",
                 "07:10:00",
-                "07:15:00"
+                "07:15:00",
+                "07:20:00"
             ]
         ]
     }
