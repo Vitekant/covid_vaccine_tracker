@@ -16,16 +16,23 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 2,
-        "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
-        "address": "Wierzejewskiego 12, Konstancin-Jeziorna"
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
+        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
-        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
+        "location": "WOJSKOWY INSTYTUT MEDYCZNY Gabinet Lekarza Podstawowej Opieki Zdrowotnej",
+        "address": "Szaser\u00f3w 128, Warszawa"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
+        "address": "Wierzejewskiego 12, Konstancin-Jeziorna"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -75,13 +82,6 @@
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Centrum Medyczne Raszyn",
-        "address": "Pruszkowska 52, RASZYN"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -142,7 +142,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 3,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom"
     },
@@ -155,8 +155,15 @@
     },
     {
         "vaccine": "Moderna",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki"
+    },
+    {
+        "vaccine": "Moderna",
         "day": "2021-05-20",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
     },
@@ -182,11 +189,18 @@
         "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA"
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-06-02",
-        "count": 12,
-        "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
-        "address": "S\u0142oneczna 1, Szulborze Wielkie"
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
+        "address": "Spacerowa  29, Bia\u0142obrzegi"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-31",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno"
     },
     {
         "vaccine": "Pfizer",
@@ -197,6 +211,13 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-02",
+        "count": 11,
+        "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
+        "address": "S\u0142oneczna 1, Szulborze Wielkie"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-04",
         "count": 3,
         "location": "Punkt szczepie\u0144",
@@ -204,17 +225,17 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-08",
-        "count": 11,
-        "location": "Przychodnia Podstawowej Opieki Zdrowotnej",
-        "address": "Plac Wolno\u015bci 35, Strzegowo"
+        "day": "2021-06-07",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-08",
-        "count": 1,
-        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
-        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa"
+        "count": 11,
+        "location": "Przychodnia Podstawowej Opieki Zdrowotnej",
+        "address": "Plac Wolno\u015bci 35, Strzegowo"
     },
     {
         "vaccine": "Pfizer",
@@ -254,7 +275,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 47,
+        "count": 48,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie"
     }
