@@ -191,7 +191,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 5,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
@@ -199,8 +199,7 @@
                 "10:05:00",
                 "11:40:00",
                 "12:25:00",
-                "13:15:00",
-                "14:00:00"
+                "13:15:00"
             ]
         ]
     },
@@ -253,18 +252,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "12:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
         "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
@@ -292,7 +279,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 5,
+        "count": 6,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -301,7 +288,8 @@
                 "07:05:00",
                 "07:15:00",
                 "07:20:00",
-                "07:25:00"
+                "07:25:00",
+                "07:35:00"
             ]
         ]
     },
@@ -343,12 +331,25 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-09",
+        "day": "2021-05-22",
         "count": 1,
+        "location": "Przychodnia Rejonowo-Specjalistyczna, ul. Szcz\u0119\u015bliwicka",
+        "address": "Szcz\u0119\u015bliwicka 36, Warszawa",
+        "times": [
+            [
+                "12:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 2,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
+                "12:00:00",
                 "13:10:00"
             ]
         ]
@@ -450,30 +451,27 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-12",
-        "count": 7,
+        "count": 5,
         "location": "PUNKT SZCZEPIE\u0143 WO\u0141OSKA",
         "address": "WO\u0141OSKA 16, WARSZAWA",
         "times": [
             [
-                "06:30:00",
-                "07:30:00",
-                "07:35:00",
+                "06:10:00",
                 "07:40:00",
-                "07:45:00",
                 "07:50:00",
-                "07:55:00"
+                "07:55:00",
+                "08:05:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 4,
+        "count": 3,
         "location": "Punkt szczepie\u0144",
         "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka",
         "times": [
             [
-                "16:40:00",
                 "16:45:00",
                 "16:50:00",
                 "16:55:00"
@@ -503,7 +501,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 10,
+        "count": 12,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -517,7 +515,22 @@
                 "10:45:00",
                 "10:50:00",
                 "10:55:00",
-                "11:00:00"
+                "11:00:00",
+                "11:05:00",
+                "11:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 2,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "11:55:00",
+                "12:30:00"
             ]
         ]
     }
