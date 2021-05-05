@@ -2,7 +2,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 19,
+        "count": 18,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
@@ -23,23 +23,23 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 37,
+        "count": 38,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
-        "count": 18,
+        "count": 16,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w"
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-09",
+        "day": "2021-06-08",
         "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
     },
     {
         "vaccine": "Pfizer",
@@ -72,16 +72,9 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 2,
+        "count": 8,
         "location": "SP ZOZ - PORADNIA LEKARZA POZ",
         "address": "PI\u0141SUDSKIEGO 47, GIELNI\u00d3W"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-17",
-        "count": 6,
-        "location": "TER-MED",
-        "address": "Szymanowska 17, Teresin"
     },
     {
         "vaccine": "Pfizer",
@@ -99,17 +92,17 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-17",
+        "count": 5,
+        "location": "TER-MED",
+        "address": "Szymanowska 17, Teresin"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-18",
         "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
         "address": "Hubalczyk\u00f3w 11, P\u0142ock"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-19",
-        "count": 1,
-        "location": "O\u015brodek Zdrowia",
-        "address": "Po\u0142udniowa 11B, Miszewo Murowane"
     },
     {
         "vaccine": "Pfizer",
@@ -121,7 +114,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-20",
-        "count": 8,
+        "count": 4,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144"
     }
