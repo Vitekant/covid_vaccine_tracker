@@ -10,8 +10,8 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -37,23 +37,16 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
+        "count": 2,
+        "location": "NZOZ Centrum Medyczne eMK-med punkt szczepie\u0144 Por. Jana Bia\u0142ka 3",
+        "address": "ul. por. Jana Bia\u0142ka 3, G\u00f3ra Kalwaria"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
         "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
         "address": "Widok 1, WINNICA"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 3,
-        "location": "Poradnia lekarza POZ",
-        "address": "Kijowska 1, Warszawa"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "NZOZ Centrum Medyczne eMK-med punkt szczepie\u0144 Por. Jana Bia\u0142ka 3",
-        "address": "ul. por. Jana Bia\u0142ka 3, G\u00f3ra Kalwaria"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -65,14 +58,14 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 2,
+        "count": 1,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-07",
-        "count": 15,
+        "count": 20,
         "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
         "address": "Napoleona 20, Koby\u0142ka"
     },
@@ -129,6 +122,13 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
         "address": "Poniatowskiego 26, Siedlce"
     },
@@ -150,35 +150,42 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
         "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-09",
-        "count": 1,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 3,
+        "count": 6,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin"
     },
     {
         "vaccine": "Moderna",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
+        "address": "Kraszewskiego 8, Ciechan\u00f3w"
+    },
+    {
+        "vaccine": "Moderna",
         "day": "2021-05-14",
-        "count": 51,
+        "count": 53,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin"
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-06-22",
+        "day": "2021-05-19",
         "count": 1,
-        "location": "Przychodnia Zajezierze",
-        "address": "28 Pu\u0142ku Artylerii Lekkiej 7A, Zajezierze"
+        "location": "Pogotowie Ratunkowe - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W ZWOLENIU",
+        "address": "Ludowa 7a, Zwole\u0144"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-06-05",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
+        "address": "Kraszewskiego 8, Ciechan\u00f3w"
     }
 ]
