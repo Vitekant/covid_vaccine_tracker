@@ -2,12 +2,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 2,
+        "count": 1,
         "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
         "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze",
         "times": [
             [
-                "06:25:00",
                 "06:30:00"
             ]
         ]
@@ -292,7 +291,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 4,
+        "count": 5,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -300,14 +299,15 @@
                 "06:25:00",
                 "07:05:00",
                 "07:15:00",
-                "07:20:00"
+                "07:20:00",
+                "07:25:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 6,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
@@ -316,7 +316,6 @@
                 "15:00:00",
                 "15:15:00",
                 "15:30:00",
-                "18:15:00",
                 "18:30:00"
             ]
         ]
@@ -342,21 +341,9 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-30",
-        "count": 1,
-        "location": "PORADNIA LEKARZA POZ",
-        "address": "Rynek 21, Stare Babice",
-        "times": [
-            [
-                "16:00:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 34,
+        "count": 35,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
@@ -366,6 +353,7 @@
                 "09:45:00",
                 "09:50:00",
                 "09:55:00",
+                "10:10:00",
                 "10:15:00",
                 "10:20:00",
                 "10:25:00",
@@ -444,12 +432,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 6,
+        "count": 5,
         "location": "Punkt szczepie\u0144",
         "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka",
         "times": [
             [
-                "16:30:00",
                 "16:35:00",
                 "16:40:00",
                 "16:45:00",
@@ -461,7 +448,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 9,
+        "count": 10,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -474,7 +461,8 @@
                 "10:10:00",
                 "10:20:00",
                 "10:30:00",
-                "10:40:00"
+                "10:40:00",
+                "10:50:00"
             ]
         ]
     },
