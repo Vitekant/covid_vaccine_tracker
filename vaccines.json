@@ -95,13 +95,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 8,
+        "count": 7,
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc",
         "times": [
             [
                 "09:15:00",
-                "09:20:00",
                 "09:30:00",
                 "09:35:00",
                 "09:40:00",
@@ -125,20 +124,8 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk",
-        "times": [
-            [
-                "09:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 33,
+        "count": 34,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -175,31 +162,8 @@
                 "10:15:00",
                 "10:20:00",
                 "10:25:00",
-                "10:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-15",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
-        "times": [
-            [
-                "07:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "15:55:00"
+                "10:30:00",
+                "10:35:00"
             ]
         ]
     },
@@ -211,7 +175,7 @@
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "05:55:00",
+                "05:45:00",
                 "06:15:00",
                 "06:20:00",
                 "06:25:00",
@@ -259,7 +223,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 29,
+        "count": 30,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -292,7 +256,8 @@
                 "07:35:00",
                 "07:40:00",
                 "07:45:00",
-                "07:50:00"
+                "07:50:00",
+                "07:55:00"
             ]
         ]
     },
@@ -338,6 +303,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Poradnia lekarza POZ",
+        "address": "Wojska Polskiego 78, Zwole\u0144",
+        "times": [
+            [
+                "14:15:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-29",
         "count": 15,
@@ -366,23 +343,18 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-29",
-        "count": 12,
+        "count": 7,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "13:55:00",
                 "14:45:00",
                 "14:50:00",
                 "14:55:00",
-                "15:15:00",
-                "15:20:00",
-                "15:25:00",
                 "15:35:00",
                 "15:40:00",
                 "15:45:00",
-                "15:50:00",
-                "15:55:00"
+                "15:50:00"
             ]
         ]
     },
@@ -395,20 +367,6 @@
         "times": [
             [
                 "08:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 3,
-        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
-        "address": "Spacerowa  29, Bia\u0142obrzegi",
-        "times": [
-            [
-                "11:40:00",
-                "11:45:00",
-                "11:50:00"
             ]
         ]
     },
@@ -468,11 +426,13 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 3,
+        "count": 5,
         "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
         "address": "Spacerowa  29, Bia\u0142obrzegi",
         "times": [
             [
+                "09:45:00",
+                "10:45:00",
                 "10:50:00",
                 "10:55:00",
                 "11:20:00"
@@ -481,10 +441,10 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-13",
+        "day": "2021-06-12",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
-        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka",
         "times": [
             [
                 "07:30:00"
@@ -495,8 +455,8 @@
         "vaccine": "Pfizer",
         "day": "2021-06-13",
         "count": 1,
-        "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
-        "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
+        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
         "times": [
             [
                 "07:30:00"
@@ -580,6 +540,20 @@
         "times": [
             [
                 "14:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-16",
+        "count": 3,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "06:00:00",
+                "06:10:00",
+                "06:20:00"
             ]
         ]
     }
