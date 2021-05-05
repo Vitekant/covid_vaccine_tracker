@@ -3,8 +3,22 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
+        "location": "Pogotowie Ratunkowe - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W ZWOLENIU",
+        "address": "Ludowa 7a, Zwole\u0144"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
         "location": "ELBIT MED",
         "address": "Stra\u017cacka 7, Ciechan\u00f3w"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
+        "address": "Widok 1, WINNICA"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -44,51 +58,9 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 6,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-16",
-        "count": 1,
-        "location": "Samodzielny Publiczny Zesp\u00f3\u0142 Opieki Zdrowotnej w Mi\u0144sku Mazowieckim - Szpital Powiatowy - ul. Szpitalna",
-        "address": "ul. Szpitalna 37, Mi\u0144sk Mazowiecki"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-22",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Nowodworski O\u015brodek Sportu i Rekreacji w Nowym Dworze Mazowieckim",
-        "address": "Sportowa 66, Nowy Dw\u00f3r Mazowiecki"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-28",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-31",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-01",
-        "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
     },
     {
         "vaccine": "Pfizer",
@@ -99,23 +71,9 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-02",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki"
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-03",
-        "count": 8,
+        "count": 11,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-06-05",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
-        "address": "Kraszewskiego 8, Ciechan\u00f3w"
     }
 ]
