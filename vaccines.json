@@ -1,17 +1,31 @@
 [
     {
-        "vaccine": "Pfizer",
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-05",
         "count": 1,
-        "location": "GABINET ZABIEGOWY PIEL\u0118GNIARSKI",
-        "address": "P\u0142ocka 59, Bulkowo-Kolonia"
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ  DAR-MED FILIA NR 2",
+        "address": "PRZEWODOWO-PARCELE 141, PRZEWODOWO-PARCELE"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 36,
+        "count": 34,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -24,15 +38,22 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
-        "address": "Widok 1, WINNICA"
+        "location": "Poradnia lekarza POZ - SPZZLO",
+        "address": "Szpitalna 6, \u0141omianki"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "BIOVIRTUS CENTRUM MEDYCZNE Przychodnia Nr 1",
-        "address": "al. Komisji Edukacji Narodowej 36/ U-133, Warszawa"
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
+        "address": "Widok 1, WINNICA"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "\"MEDYK\" Sp. z o.o - NPZOZ",
+        "address": "ul. Sportowa 17, \u0141askarzew"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -44,16 +65,16 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 19,
+        "count": 18,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk"
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-16",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
-        "address": "Sienkiewicza 7, P\u0142o\u0144sk"
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-14",
+        "count": 2,
+        "location": "ELBIT MED",
+        "address": "Stra\u017cacka 7, Ciechan\u00f3w"
     },
     {
         "vaccine": "Johnson & Johnson",
@@ -63,30 +84,9 @@
         "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-18",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
-        "address": "Sienkiewicza 7, P\u0142o\u0144sk"
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-18",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
-        "address": "Spacerowa  29, Bia\u0142obrzegi"
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-20",
-        "count": 17,
+        "count": 16,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
     },
@@ -100,7 +100,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 18,
+        "count": 19,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
     },
@@ -114,7 +114,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-03",
-        "count": 79,
+        "count": 78,
         "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
         "address": "Spacerowa  29, Bia\u0142obrzegi"
     },
