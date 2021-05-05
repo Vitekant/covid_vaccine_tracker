@@ -78,13 +78,6 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-30",
-        "count": 1,
-        "location": "PORADNIA LEKARZA POZ",
-        "address": "Rynek 21, Stare Babice"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
@@ -92,15 +85,15 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 2,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
+        "day": "2021-06-11",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-16",
-        "count": 1,
+        "day": "2021-06-15",
+        "count": 3,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
     },
@@ -114,7 +107,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-17",
-        "count": 12,
+        "count": 11,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
     },
@@ -149,7 +142,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-21",
-        "count": 4,
+        "count": 3,
         "location": "SP ZOZ - PORADNIA LEKARZA POZ",
         "address": "PI\u0141SUDSKIEGO 47, GIELNI\u00d3W"
     }
