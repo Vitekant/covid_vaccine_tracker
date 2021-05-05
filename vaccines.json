@@ -244,6 +244,18 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
+        "address": "Poniatowskiego 26, Siedlce",
+        "times": [
+            [
+                "09:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
         "count": 2,
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
@@ -268,14 +280,25 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": " ARS MEDICA NZOZ ANDRZEJCZAK I ZAPART-B\u0104K SP\u00d3\u0141KA PARTNERSKA LEKARZY",
+        "address": "REYMONTA 11, LUTOCIN",
+        "times": [
+            [
+                "10:35:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 18,
+        "count": 17,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "11:30:00",
                 "12:25:00",
                 "12:40:00",
                 "12:45:00",
@@ -293,30 +316,6 @@
                 "13:45:00",
                 "13:50:00",
                 "13:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
-        "times": [
-            [
-                "12:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "Gabinet lekarza podstawowej opieki zdrowotnej",
-        "address": "OLIMPIJSKA 8, GR\u00d3JEC",
-        "times": [
-            [
-                "15:00:00"
             ]
         ]
     },
@@ -356,14 +355,14 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-28",
+        "vaccine": "Pfizer",
+        "day": "2021-06-08",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "06:00:00"
+                "10:30:00"
             ]
         ]
     },
@@ -405,13 +404,24 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "14:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 42,
+        "count": 41,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
             [
-                "09:10:00",
                 "09:15:00",
                 "09:20:00",
                 "09:25:00",
@@ -459,13 +469,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 2,
+        "count": 1,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "11:45:00",
-                "12:55:00"
+                "11:45:00"
             ]
         ]
     },
@@ -528,35 +537,11 @@
         "vaccine": "Pfizer",
         "day": "2021-06-13",
         "count": 1,
-        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
-        "address": "Napoleona 20, Koby\u0142ka",
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
         "times": [
             [
-                "07:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-13",
-        "count": 1,
-        "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
-        "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka",
-        "times": [
-            [
-                "07:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-13",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
-        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
-        "times": [
-            [
-                "07:25:00"
+                "07:30:00"
             ]
         ]
     },
