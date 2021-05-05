@@ -170,11 +170,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 35,
+        "count": 36,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
+                "05:30:00",
                 "06:50:00",
                 "07:05:00",
                 "07:10:00",
@@ -234,7 +235,6 @@
                 "06:25:00",
                 "06:30:00",
                 "06:35:00",
-                "06:40:00",
                 "06:45:00",
                 "06:50:00",
                 "06:55:00",
@@ -253,7 +253,8 @@
                 "08:00:00",
                 "08:05:00",
                 "08:10:00",
-                "08:15:00"
+                "08:15:00",
+                "08:20:00"
             ]
         ]
     },
@@ -339,18 +340,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-29",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "13:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-09",
         "count": 1,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
@@ -417,15 +406,13 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 4,
+        "count": 2,
         "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
         "address": "Spacerowa  29, Bia\u0142obrzegi",
         "times": [
             [
-                "10:30:00",
                 "10:50:00",
-                "10:55:00",
-                "11:20:00"
+                "10:55:00"
             ]
         ]
     },
@@ -537,7 +524,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 5,
+        "count": 6,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -546,7 +533,8 @@
                 "06:10:00",
                 "06:20:00",
                 "06:30:00",
-                "06:40:00"
+                "06:40:00",
+                "06:50:00"
             ]
         ]
     }
