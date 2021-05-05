@@ -3,13 +3,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Your Med Sp. z o. o.",
-        "address": "Magazynowa 9/13, Warszawa"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
         "location": "Gabinet Diagnostyczno Zabiegowy II  SPZZOZ Sierpc",
         "address": "Juliusza S\u0142owackiego 16, Sierpc"
     },
@@ -19,20 +12,6 @@
         "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Medycyny Rodzinnej  \"ZDROWIE\"",
         "address": "Wyszogrodzka 7, M\u0142odzieszyn"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Punkt szczepie\u0144 (szczepienia zalecane)",
-        "address": "Franciszka Klimczaka 1, Warszawa"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
-        "address": "Widok 1, WINNICA"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -58,6 +37,13 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
         "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
@@ -68,13 +54,6 @@
         "count": 3,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -107,7 +86,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 3,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom"
     },
@@ -122,8 +101,8 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
         "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa"
+        "location": "Przychodnia lekarska",
+        "address": "Madali\u0144skiego 13, Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -135,23 +114,30 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 2,
+        "count": 3,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin"
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-12",
+        "day": "2021-05-13",
         "count": 1,
-        "location": "Gabinet podstawowej opieki zdrowotnej",
-        "address": "ODRODZENIA 12, JEDNORO\u017bEC"
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-14",
-        "count": 45,
+        "count": 39,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-16",
+        "count": 1,
+        "location": "Przychodnia Rejonowo-Specjalistyczna, ul. Sosnkowskiego ",
+        "address": "Sosnkowskiego 18, Warszawa"
     },
     {
         "vaccine": "Pfizer",
@@ -159,6 +145,13 @@
         "count": 1,
         "location": "Szpital Powiatowy",
         "address": "Ko\u015bciuszki 201, W\u0119gr\u00f3w"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Poradnia Lekarza POZ Gr\u00f3jec",
+        "address": "Mszczonowska 35, Gr\u00f3jec"
     },
     {
         "vaccine": "Pfizer",
@@ -194,13 +187,6 @@
         "count": 1,
         "location": "Punkt szczepie\u0144",
         "address": "Wiejska 19/21, \u017byrard\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-06",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
-        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka"
     },
     {
         "vaccine": "Pfizer",
@@ -268,7 +254,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 6,
+        "count": 7,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo"
     },
@@ -296,7 +282,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 16,
+        "count": 14,
         "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
         "address": "Spacerowa  29, Bia\u0142obrzegi"
     }
