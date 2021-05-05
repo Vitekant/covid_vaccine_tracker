@@ -123,6 +123,18 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
+        "address": "Poniatowskiego 26, Siedlce",
+        "times": [
+            [
+                "13:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
         "count": 35,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
@@ -491,12 +503,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 9,
+        "count": 8,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "10:25:00",
                 "10:30:00",
                 "10:35:00",
                 "10:40:00",
@@ -505,18 +516,6 @@
                 "10:55:00",
                 "11:05:00",
                 "11:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 1,
-        "location": "NZOZ BONUS",
-        "address": "LIPOWIEC KO\u015aCIELNY  26, LIPOWIEC KO\u015aCIELNY",
-        "times": [
-            [
-                "14:25:00"
             ]
         ]
     },
@@ -540,14 +539,15 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 3,
+        "count": 4,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
             [
                 "07:00:00",
                 "07:05:00",
-                "07:10:00"
+                "07:10:00",
+                "07:15:00"
             ]
         ]
     }
