@@ -30,6 +30,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
+        "count": 1,
+        "location": "Your Med Sp. z o. o.",
+        "address": "Magazynowa 9/13, Warszawa",
+        "times": [
+            [
+                "06:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
         "count": 2,
         "location": "Punkt szczepie\u0144 (doro\u015bli i dzieci)",
         "address": "Mazowiecka 13B, Czerwin",
@@ -148,7 +160,7 @@
         "address": "Kasprowicza 62, Warszawa",
         "times": [
             [
-                "07:45:00",
+                "07:30:00",
                 "08:00:00"
             ]
         ]
@@ -205,18 +217,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "09:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
@@ -252,6 +252,18 @@
             [
                 "14:10:00",
                 "14:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "BIOVIRTUS CENTRUM MEDYCZNE Przychodnia Nr 1",
+        "address": "al. Komisji Edukacji Narodowej 36/ U-133, Warszawa",
+        "times": [
+            [
+                "14:10:00"
             ]
         ]
     },
@@ -318,14 +330,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 3,
+        "count": 1,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
-                "06:25:00",
-                "07:05:00",
-                "07:15:00"
+                "06:25:00"
             ]
         ]
     },
@@ -355,18 +365,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-02",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "08:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-09",
         "count": 1,
         "location": "Poradnia lekarza rodzinnego",
@@ -380,7 +378,19 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 34,
+        "count": 1,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "05:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-10",
+        "count": 33,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
@@ -417,7 +427,6 @@
                 "12:30:00",
                 "12:35:00",
                 "12:40:00",
-                "12:45:00",
                 "12:50:00"
             ]
         ]
@@ -450,6 +459,20 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-12",
+        "count": 3,
+        "location": "PUNKT SZCZEPIE\u0143 WO\u0141OSKA",
+        "address": "WO\u0141OSKA 16, WARSZAWA",
+        "times": [
+            [
+                "11:15:00",
+                "11:20:00",
+                "11:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-13",
         "count": 1,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
@@ -472,18 +495,6 @@
                 "16:45:00",
                 "16:50:00",
                 "16:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-14",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
-        "times": [
-            [
-                "17:30:00"
             ]
         ]
     },
