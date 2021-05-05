@@ -219,12 +219,13 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
+        "count": 2,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
         "address": "Widok 1, WINNICA",
         "times": [
             [
-                "14:10:00"
+                "14:10:00",
+                "14:20:00"
             ]
         ]
     },
@@ -279,7 +280,19 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 7,
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "06:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-10",
+        "count": 6,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -289,20 +302,19 @@
                 "07:20:00",
                 "07:25:00",
                 "07:35:00",
-                "07:40:00",
-                "07:45:00"
+                "07:40:00"
             ]
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-19",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-20",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
-        "address": "D\u0141UGA 75, BRAMKI",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Nowodworski O\u015brodek Sportu i Rekreacji w Nowym Dworze Mazowieckim",
+        "address": "Sportowa 66, Nowy Dw\u00f3r Mazowiecki",
         "times": [
             [
-                "14:45:00"
+                "13:30:00"
             ]
         ]
     },
@@ -342,6 +354,18 @@
         "times": [
             [
                 "06:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-30",
+        "count": 1,
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
+        "times": [
+            [
+                "09:15:00"
             ]
         ]
     },
