@@ -65,12 +65,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 4,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "10:30:00",
                 "10:45:00",
                 "11:00:00",
                 "12:15:00"
@@ -191,6 +190,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
+        "count": 1,
+        "location": " Poradnia Medical Center - Poradnia lekarza podstawowej opieki zdrowotnej",
+        "address": "Belgradzka 42, Warszawa",
+        "times": [
+            [
+                "09:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
         "count": 3,
         "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
         "address": "Nowe \u0141ubki 5A",
@@ -255,7 +266,6 @@
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
-                "08:05:00",
                 "08:35:00",
                 "08:40:00",
                 "08:45:00",
@@ -266,30 +276,20 @@
                 "09:15:00",
                 "09:20:00",
                 "09:25:00",
-                "09:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": " ARS MEDICA NZOZ ANDRZEJCZAK I ZAPART-B\u0104K SP\u00d3\u0141KA PARTNERSKA LEKARZY",
-        "address": "REYMONTA 11, LUTOCIN",
-        "times": [
-            [
-                "10:35:00"
+                "09:30:00",
+                "09:35:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 14,
+        "count": 15,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
+                "12:45:00",
                 "12:50:00",
                 "12:55:00",
                 "13:00:00",
@@ -310,12 +310,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 19,
+        "count": 18,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "12:05:00",
                 "12:30:00",
                 "12:35:00",
                 "12:40:00",
@@ -453,13 +452,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-13",
+        "day": "2021-06-12",
         "count": 1,
-        "location": "O\u015brodek Zdrowia",
-        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
+        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
         "times": [
             [
-                "07:30:00"
+                "06:30:00"
             ]
         ]
     },
@@ -515,6 +514,18 @@
                 "06:30:00",
                 "06:40:00",
                 "10:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
+        "times": [
+            [
+                "10:15:00"
             ]
         ]
     }
