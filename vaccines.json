@@ -16,7 +16,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
         "address": "ul. Spacerowa 10, Bia\u0142obrzegi"
     },
@@ -26,13 +26,6 @@
         "count": 1,
         "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
-        "address": "Wierzejewskiego 12, Konstancin-Jeziorna"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -128,23 +121,30 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 5,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk"
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-20",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Przychodnia Medicus J\u00f3zefk\u00f3w",
+        "address": "J\u00f3zefk\u00f3w 19B, J\u00f3zefk\u00f3w"
     },
     {
         "vaccine": "Moderna",
@@ -152,6 +152,20 @@
         "count": 24,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+        "address": "Parkowa 14, Raci\u0105\u017c"
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Moderna",
@@ -168,20 +182,6 @@
         "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA"
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-28",
-        "count": 1,
-        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
-        "address": "Spacerowa  29, Bia\u0142obrzegi"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-28",
-        "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
-        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko"
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-28",
         "count": 1,
@@ -190,29 +190,15 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-28",
-        "count": 1,
-        "location": "GRUPA ZDROWIE Dzierz\u0105\u017cnia (filia zak\u0142adu)",
-        "address": "Dzierz\u0105\u017cnia 58, Dzierz\u0105\u017cnia"
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-29",
-        "count": 1,
-        "location": "Poradnia (gabinet) lekarza POZ",
-        "address": "Czajewicza 5/7 lok 49, Piaseczno"
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-02",
-        "count": 10,
+        "count": 12,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-03",
-        "count": 87,
+        "count": 84,
         "location": "Centrum Medyczne Warszawa",
         "address": "Aleja Niepodleg\u0142o\u015bci 107/109, Warszawa"
     }
