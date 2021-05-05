@@ -168,9 +168,21 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-18",
+        "count": 1,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "11:35:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 12,
+        "count": 11,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -185,7 +197,6 @@
                 "08:55:00",
                 "09:15:00",
                 "10:20:00",
-                "10:25:00",
                 "10:30:00"
             ]
         ]
@@ -466,7 +477,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 8,
+        "count": 7,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -477,8 +488,7 @@
                 "07:15:00",
                 "07:20:00",
                 "07:25:00",
-                "07:30:00",
-                "07:35:00"
+                "07:30:00"
             ]
         ]
     }
