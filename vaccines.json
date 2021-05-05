@@ -22,31 +22,17 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w"
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 36,
+        "count": 37,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
-        "count": 17,
+        "count": 16,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w"
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-11",
-        "count": 2,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
     },
     {
         "vaccine": "Pfizer",
@@ -65,7 +51,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-17",
-        "count": 9,
+        "count": 14,
         "location": "TER-MED",
         "address": "Szymanowska 17, Teresin"
     },
