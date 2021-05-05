@@ -219,12 +219,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
+        "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
         "address": "Widok 1, WINNICA",
         "times": [
             [
-                "14:10:00",
                 "14:20:00"
             ]
         ]
@@ -307,14 +306,14 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
+        "vaccine": "Moderna",
         "day": "2021-05-20",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Nowodworski O\u015brodek Sportu i Rekreacji w Nowym Dworze Mazowieckim",
-        "address": "Sportowa 66, Nowy Dw\u00f3r Mazowiecki",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
             [
-                "13:30:00"
+                "10:05:00"
             ]
         ]
     },
@@ -333,7 +332,6 @@
                 "15:15:00",
                 "15:30:00",
                 "15:45:00",
-                "16:00:00",
                 "16:15:00",
                 "16:30:00",
                 "16:45:00",
@@ -341,7 +339,8 @@
                 "17:15:00",
                 "17:30:00",
                 "17:45:00",
-                "18:00:00"
+                "18:00:00",
+                "18:15:00"
             ]
         ]
     },
@@ -371,13 +370,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-09",
+        "day": "2021-06-04",
         "count": 1,
-        "location": "Poradnia lekarza rodzinnego",
-        "address": "D\u0105br\u00f3wka 52, Lelis",
+        "location": "Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej w \u0141askarzewie",
+        "address": "Du\u017cy Rynek 32, \u0141askarzew",
         "times": [
             [
-                "09:00:00"
+                "13:50:00"
             ]
         ]
     },
@@ -442,18 +441,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "13:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-14",
         "count": 3,
         "location": "Punkt szczepie\u0144",
         "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka",
@@ -468,7 +455,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 7,
+        "count": 8,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -479,7 +466,8 @@
                 "10:20:00",
                 "10:30:00",
                 "10:40:00",
-                "10:50:00"
+                "10:50:00",
+                "14:00:00"
             ]
         ]
     },
