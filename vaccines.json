@@ -2,11 +2,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
+        "count": 2,
         "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
         "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze",
         "times": [
             [
+                "06:25:00",
                 "06:30:00"
             ]
         ]
@@ -206,19 +207,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "13:45:00",
-                "14:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 2,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
         "address": "Widok 1, WINNICA",
         "times": [
@@ -307,15 +295,17 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 5,
+        "count": 7,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
+                "14:00:00",
                 "14:45:00",
                 "15:00:00",
                 "15:15:00",
                 "15:30:00",
+                "15:45:00",
                 "18:30:00"
             ]
         ]
@@ -337,6 +327,30 @@
                 "15:00:00",
                 "15:15:00",
                 "15:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "Gabinet diagnostyczno-zabiegowy Nr 13 - MAZOWIECKI SZPITAL SPECJALISTYCZNY SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "ul. Juliana Aleksandrowicza 5, Radom",
+        "times": [
+            [
+                "14:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "17:30:00"
             ]
         ]
     },
@@ -389,6 +403,18 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "11:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-10",
         "count": 5,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo",
@@ -399,6 +425,30 @@
                 "13:05:00",
                 "13:20:00",
                 "13:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-11",
+        "count": 1,
+        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
+        "address": "Spacerowa  29, Bia\u0142obrzegi",
+        "times": [
+            [
+                "09:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-12",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
+        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
+        "times": [
+            [
+                "12:00:00"
             ]
         ]
     },
@@ -448,7 +498,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 10,
+        "count": 9,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -461,15 +511,14 @@
                 "10:10:00",
                 "10:20:00",
                 "10:30:00",
-                "10:40:00",
-                "10:50:00"
+                "10:40:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 8,
+        "count": 7,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -480,8 +529,7 @@
                 "10:30:00",
                 "10:35:00",
                 "10:40:00",
-                "10:45:00",
-                "10:50:00"
+                "10:45:00"
             ]
         ]
     }
