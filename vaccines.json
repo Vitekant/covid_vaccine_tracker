@@ -3,22 +3,15 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-05",
         "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Sp\u00f3\u0142ka Lekarska \"ZAM\u0141YNIE\"",
-        "address": "Klonowica 44175, Radom"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-05",
-        "count": 1,
         "location": "Poradnia Lekarza POZ, ul. Lindleya 4",
         "address": "Lindleya 4, Warszawa"
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom"
+        "count": 1,
+        "location": "Pogotowie Ratunkowe - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W ZWOLENIU",
+        "address": "Ludowa 7a, Zwole\u0144"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -50,10 +43,31 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
+        "address": "Widok 1, WINNICA"
+    },
+    {
+        "vaccine": "Johnson & Johnson",
         "day": "2021-05-08",
-        "count": 14,
+        "count": 1,
+        "location": "\"MEDYK\" Sp. z o.o - NPZOZ",
+        "address": "ul. Sportowa 17, \u0141askarzew"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 15,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk"
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-18",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc"
     },
     {
         "vaccine": "Moderna",
@@ -70,13 +84,6 @@
         "address": "Piastowska  39, Sierpc"
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-26",
-        "count": 1,
-        "location": "Poradnia lekarza podstawowej opieki zdrowotnej Szpital w Sochaczewie",
-        "address": "ul. Batalion\u00f3w Ch\u0142opskich 44015, Sochaczew"
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-27",
         "count": 17,
@@ -85,10 +92,10 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-28",
+        "day": "2021-06-01",
         "count": 1,
-        "location": "PRZYCHODNIA LEKARSKA JACEK KRUPSKI - PUNKT SZCZEPIE\u0143",
-        "address": "DR. ST. PAW\u0141OWSKIEGO 15, MYSZYNIEC"
+        "location": "PUNKT SZCZEPIE\u0143",
+        "address": "Steyera 2E, Ostro\u0142\u0119ka"
     },
     {
         "vaccine": "Pfizer",
@@ -96,5 +103,12 @@
         "count": 38,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-03",
+        "count": 1,
+        "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
+        "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka"
     }
 ]
