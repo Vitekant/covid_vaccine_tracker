@@ -1,5 +1,12 @@
 [
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno"
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
@@ -15,10 +22,24 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Centrum Medyczne\" BMC - Przychodnia Lekarska w Wyszogrodzie",
+        "address": "P\u0142ocka 29, Wyszogr\u00f3d"
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 48,
+        "count": 47,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Podstawowa Opieka Zdrowotna O\u015brodek Zdrowia w Glinojecku",
+        "address": "Targowa 6, Glinojeck"
     },
     {
         "vaccine": "Astra Zeneca",
@@ -30,13 +51,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 4,
         "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
         "address": "Nowe \u0141ubki 5A"
@@ -44,7 +58,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
         "address": "Andrzeja 23, Pruszk\u00f3w"
     },
@@ -70,18 +84,18 @@
         "address": "Kopernika 3, P\u0142o\u0144sk"
     },
     {
-        "vaccine": "Johnson & Johnson",
+        "vaccine": "Pfizer",
         "day": "2021-05-21",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno"
+        "location": "Przychodnia Podstawowej Opieki Zdrowotnej",
+        "address": "Plac Wolno\u015bci 35, Strzegowo"
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-28",
+        "day": "2021-05-31",
         "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O"
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno"
     },
     {
         "vaccine": "Pfizer",
@@ -93,7 +107,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-03",
-        "count": 1,
+        "count": 2,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
     }
