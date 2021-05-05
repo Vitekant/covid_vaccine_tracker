@@ -35,6 +35,13 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK"
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-06-01",
+        "count": 1,
+        "location": "Poradnia Lekarza POZ Gr\u00f3jec",
+        "address": "Mszczonowska 35, Gr\u00f3jec"
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-05",
         "count": 25,
