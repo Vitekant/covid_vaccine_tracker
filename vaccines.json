@@ -30,7 +30,14 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 4,
+        "count": 3,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Medycyny Rodzinnej  \"ZDROWIE\"",
+        "address": "Wyszogrodzka 7, M\u0142odzieszyn"
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom"
     },
@@ -72,14 +79,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt szczepie\u0144 -  Oddzia\u0142 Wilan\u00f3w",
-        "address": "al. Aleja Rzeczypospolitej 14, Warszawa"
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 3,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom"
     },
@@ -119,18 +119,18 @@
         "address": "Piastowska  39, Sierpc"
     },
     {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
+        "vaccine": "Pfizer",
+        "day": "2021-05-18",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk"
+        "location": "Szpital Powiatowy",
+        "address": "Ko\u015bciuszki 201, W\u0119gr\u00f3w"
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-13",
+        "day": "2021-05-19",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka"
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+        "address": "Parkowa 14, Raci\u0105\u017c"
     },
     {
         "vaccine": "Pfizer",
@@ -141,6 +141,20 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
+        "address": "Sienkiewicza 7, P\u0142o\u0144sk"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-25",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-05-25",
         "count": 1,
         "location": "Gabinet lekarza POZ - Nowy Dunin\u00f3w",
@@ -148,10 +162,10 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-25",
+        "day": "2021-05-26",
         "count": 1,
-        "location": "POWIATOWE CENTRUM MEDYCZNE W GR\u00d3JCU SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Piotra Skargi 10, Gr\u00f3jec"
+        "location": "Przychodnia Rodzinna STAR\u00d3WKA w Miedznie - Filia nr 3",
+        "address": "PL.WOLNO\u015aCI 8, MIEDZNA"
     },
     {
         "vaccine": "Pfizer",
@@ -164,6 +178,20 @@
         "vaccine": "Pfizer",
         "day": "2021-05-27",
         "count": 1,
+        "location": "Centrum Medyczne Petra Medica Filia nr 4",
+        "address": "Cisowa 7, Dr\u0119\u017cewo"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
+        "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-27",
+        "count": 1,
         "location": "Punkt szczepie\u0144",
         "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka"
     },
@@ -171,8 +199,15 @@
         "vaccine": "Pfizer",
         "day": "2021-05-28",
         "count": 1,
-        "location": "GRUPA ZDROWIE Dzierz\u0105\u017cnia (filia zak\u0142adu)",
-        "address": "Dzierz\u0105\u017cnia 58, Dzierz\u0105\u017cnia"
+        "location": "Punkt szczepie\u0144",
+        "address": "Kili\u0144skiego 4B, Sarnaki"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "Gabinet diagnostyczno-zabiegowy Nr 13 - MAZOWIECKI SZPITAL SPECJALISTYCZNY SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "ul. Juliana Aleksandrowicza 5, Radom"
     },
     {
         "vaccine": "Pfizer",
@@ -185,8 +220,15 @@
         "vaccine": "Pfizer",
         "day": "2021-06-02",
         "count": 1,
-        "location": "Przychodnia Rejonowa Nr 2 - Filia",
-        "address": "Pocztowa 6, Konstancin-Jeziorna"
+        "location": "PUNKT SZCZEPIE\u0143",
+        "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-04",
+        "count": 2,
+        "location": "Punkt szczepie\u0144",
+        "address": "S\u0142oneczna 1, \u0141osice"
     },
     {
         "vaccine": "Pfizer",
@@ -197,10 +239,10 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-04",
-        "count": 2,
-        "location": "Punkt szczepie\u0144",
-        "address": "S\u0142oneczna 1, \u0141osice"
+        "day": "2021-06-07",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna"
     },
     {
         "vaccine": "Pfizer",
@@ -215,6 +257,13 @@
         "count": 12,
         "location": "Przychodnia Podstawowej Opieki Zdrowotnej",
         "address": "Plac Wolno\u015bci 35, Strzegowo"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 1,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin"
     },
     {
         "vaccine": "Pfizer",
@@ -241,13 +290,20 @@
         "vaccine": "Pfizer",
         "day": "2021-06-09",
         "count": 1,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 1,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA"
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 4,
+        "count": 1,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE"
     },
@@ -261,7 +317,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 31,
+        "count": 26,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie"
     }
