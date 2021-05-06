@@ -343,18 +343,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-29",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "11:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-04",
         "count": 1,
         "location": "Poradnia (gabinet) lekarza rodzinnego",
