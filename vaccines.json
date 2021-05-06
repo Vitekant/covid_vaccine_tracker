@@ -12,6 +12,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Warszawa-Weso\u0142a - Przychodnia \"Pogodna\"",
+        "address": "Jana Paw\u0142a II  25, Warszawa Weso\u0142a",
+        "times": [
+            [
+                "07:50:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 2,
@@ -444,7 +456,6 @@
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
-                "09:00:00",
                 "09:05:00",
                 "09:10:00",
                 "09:15:00",
@@ -459,18 +470,20 @@
                 "10:00:00",
                 "10:05:00",
                 "10:10:00",
-                "10:15:00"
+                "10:15:00",
+                "10:20:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-15",
-        "count": 1,
+        "count": 2,
         "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W B\u0141\u0118DOWIE",
         "address": "Wilk\u00f3w Drugi 127 B, Wilk\u00f3w Drugi",
         "times": [
             [
+                "13:20:00",
                 "13:45:00"
             ]
         ]
