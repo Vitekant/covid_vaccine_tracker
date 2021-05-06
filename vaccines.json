@@ -282,22 +282,23 @@
         "vaccine": "Pfizer",
         "day": "2021-05-12",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
+        "address": "Jana Paw\u0142a II  20, Radzymin",
         "times": [
             [
-                "08:10:00"
+                "12:15:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-13",
-        "count": 10,
+        "count": 11,
         "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko",
         "times": [
             [
+                "06:30:00",
                 "06:35:00",
                 "06:40:00",
                 "06:45:00",
@@ -314,7 +315,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-13",
-        "count": 18,
+        "count": 16,
         "location": "NZOZ CENTRUM MEDYCZNE - Poradnia lekarza podstawowej opieki zdrowotnej",
         "address": "Gda\u0144ska 2, R\u00f3\u017can",
         "times": [
@@ -334,9 +335,7 @@
                 "12:40:00",
                 "12:50:00",
                 "13:10:00",
-                "13:20:00",
-                "13:30:00",
-                "13:40:00"
+                "13:20:00"
             ]
         ]
     },
@@ -364,19 +363,6 @@
                 "11:10:00",
                 "11:15:00",
                 "11:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-13",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
-        "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
-        "times": [
-            [
-                "16:10:00",
-                "16:50:00"
             ]
         ]
     },
@@ -410,6 +396,18 @@
         ]
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-14",
+        "count": 1,
+        "location": "Poradnia lekarza rodzinnego",
+        "address": "Nowy Lubiel 24B, Nowy Lubiel",
+        "times": [
+            [
+                "13:45:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-14",
         "count": 3,
@@ -426,7 +424,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 30,
+        "count": 31,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
@@ -460,7 +458,8 @@
                 "09:30:00",
                 "09:35:00",
                 "09:40:00",
-                "09:45:00"
+                "09:45:00",
+                "09:50:00"
             ]
         ]
     },
@@ -520,7 +519,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 7,
+        "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
@@ -530,8 +529,7 @@
                 "11:30:00",
                 "11:45:00",
                 "12:00:00",
-                "12:15:00",
-                "15:15:00"
+                "12:15:00"
             ]
         ]
     },
@@ -571,6 +569,18 @@
         "times": [
             [
                 "08:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
+        "times": [
+            [
+                "08:50:00"
             ]
         ]
     },
