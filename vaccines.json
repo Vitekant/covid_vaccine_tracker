@@ -27,35 +27,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "WOJSKOWY INSTYTUT MEDYCZNY Gabinet Lekarza Podstawowej Opieki Zdrowotnej",
-        "address": "Szaser\u00f3w 128, Warszawa",
-        "times": [
-            [
-                "06:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
         "location": "Pogotowie Ratunkowe - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W ZWOLENIU",
         "address": "Ludowa 7a, Zwole\u0144",
         "times": [
             [
                 "10:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "11:00:00"
             ]
         ]
     },
@@ -170,14 +146,15 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 3,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
                 "10:55:00",
                 "11:00:00",
-                "11:05:00"
+                "11:05:00",
+                "11:10:00"
             ]
         ]
     },
@@ -196,24 +173,24 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 2,
+        "count": 1,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "11:30:00",
-                "11:35:00"
+                "11:40:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 43,
+        "count": 44,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
+                "07:20:00",
                 "07:25:00",
                 "07:30:00",
                 "07:35:00",
@@ -250,32 +227,32 @@
                 "10:45:00",
                 "10:50:00",
                 "10:55:00",
-                "11:00:00",
                 "11:05:00",
                 "11:10:00",
                 "11:15:00",
                 "11:20:00",
                 "11:25:00",
-                "11:30:00"
+                "11:30:00",
+                "11:35:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 24,
+        "count": 20,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
                 "06:25:00",
+                "07:05:00",
                 "07:20:00",
                 "07:35:00",
                 "07:40:00",
                 "07:45:00",
                 "07:50:00",
                 "07:55:00",
-                "08:25:00",
                 "08:30:00",
                 "08:35:00",
                 "08:40:00",
@@ -287,11 +264,7 @@
                 "09:10:00",
                 "09:15:00",
                 "09:20:00",
-                "09:25:00",
-                "09:30:00",
-                "09:35:00",
-                "09:40:00",
-                "09:45:00"
+                "09:25:00"
             ]
         ]
     },
@@ -360,7 +333,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 22,
+        "count": 21,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
@@ -385,15 +358,14 @@
                 "12:25:00",
                 "12:30:00",
                 "12:35:00",
-                "12:40:00",
-                "12:50:00"
+                "12:40:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 10,
+        "count": 9,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -404,7 +376,6 @@
                 "14:10:00",
                 "14:20:00",
                 "14:30:00",
-                "14:40:00",
                 "17:00:00",
                 "17:10:00",
                 "17:20:00"
@@ -414,12 +385,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 7,
+        "count": 6,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "10:35:00",
                 "10:40:00",
                 "10:45:00",
                 "10:50:00",
@@ -444,7 +414,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 7,
+        "count": 8,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -455,7 +425,8 @@
                 "06:30:00",
                 "06:40:00",
                 "06:50:00",
-                "10:10:00"
+                "10:10:00",
+                "10:20:00"
             ]
         ]
     },
@@ -488,14 +459,16 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 3,
+        "count": 5,
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc",
         "times": [
             [
                 "08:35:00",
                 "09:55:00",
-                "10:10:00"
+                "10:10:00",
+                "10:15:00",
+                "10:20:00"
             ]
         ]
     }
