@@ -3,6 +3,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
+        "location": "Poradnia lekarza POZ",
+        "address": "Modzelewskiego 58, Warszawa",
+        "times": [
+            [
+                "06:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \u0141OMIANKI",
         "address": "Warszawska 31, \u0141omianki",
         "times": [
@@ -27,12 +39,14 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
+        "count": 3,
+        "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
+        "address": "Nowe \u0141ubki 5A",
         "times": [
             [
-                "09:00:00"
+                "09:00:00",
+                "09:15:00",
+                "09:30:00"
             ]
         ]
     },
@@ -53,26 +67,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 3,
-        "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
-        "address": "Nowe \u0141ubki 5A",
-        "times": [
-            [
-                "09:00:00",
-                "09:15:00",
-                "09:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 1,
-        "location": "POWIATOWE CENTRUM MEDYCZNE W GR\u00d3JCU SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Piotra Skargi 10, Gr\u00f3jec",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "09:45:00"
+                "09:00:00"
             ]
         ]
     },
@@ -109,6 +109,30 @@
         "times": [
             [
                 "13:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "BIOVENA Sp\u00f3\u0142ka z ograniczon\u0105 odpowiedzialno\u015bci\u0105",
+        "address": "Lipowa 28A, J\u00f3zef\u00f3w",
+        "times": [
+            [
+                "14:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Ambulatorium Stomatologiczne - Che\u0142mska",
+        "address": "Che\u0142mska 12, Warszawa",
+        "times": [
+            [
+                "17:00:00"
             ]
         ]
     },
@@ -162,51 +186,14 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-09",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY - WOJEW\u00d3DZKI SZPITAL ZESPOLONY W P\u0141OCKU",
-        "address": "Medyczna 19, P\u0141OCK",
-        "times": [
-            [
-                "14:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 13,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "06:30:00",
-                "10:35:00",
-                "10:40:00",
-                "10:45:00",
-                "10:50:00",
-                "10:55:00",
-                "11:15:00",
-                "11:20:00",
-                "12:35:00",
-                "12:40:00",
-                "12:45:00",
-                "12:50:00",
-                "12:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-10",
-        "count": 43,
+        "count": 42,
         "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
         "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
         "times": [
             [
+                "06:30:00",
                 "06:55:00",
-                "07:05:00",
-                "07:10:00",
                 "07:15:00",
                 "07:20:00",
                 "07:25:00",
@@ -253,6 +240,29 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
+        "count": 12,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin",
+        "times": [
+            [
+                "10:35:00",
+                "10:40:00",
+                "10:45:00",
+                "10:50:00",
+                "10:55:00",
+                "11:15:00",
+                "11:20:00",
+                "12:35:00",
+                "12:40:00",
+                "12:45:00",
+                "12:50:00",
+                "12:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-10",
         "count": 1,
         "location": "Poradnia lekarza POZ",
         "address": "ul. Konstytucji 3 Maja 17, Radzymin",
@@ -291,18 +301,6 @@
                 "12:45:00",
                 "12:50:00",
                 "12:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-18",
-        "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "rtm. Witolda Pileckiego 14, OSTRO\u0141\u0118KA",
-        "times": [
-            [
-                "11:00:00"
             ]
         ]
     },
@@ -378,14 +376,25 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
+        "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA",
+        "times": [
+            [
+                "12:00:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 13,
+        "count": 12,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "08:45:00",
                 "09:00:00",
                 "09:15:00",
                 "09:30:00",
@@ -403,37 +412,12 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-29",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "13:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-02",
-        "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA",
-        "times": [
-            [
-                "09:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-03",
-        "count": 2,
+        "count": 1,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "12:30:00",
                 "13:20:00"
             ]
         ]
@@ -453,12 +437,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-05",
-        "count": 34,
+        "count": 35,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
             [
-                "10:35:00",
                 "10:40:00",
                 "10:45:00",
                 "10:50:00",
@@ -491,7 +474,9 @@
                 "15:05:00",
                 "15:10:00",
                 "15:15:00",
-                "15:20:00"
+                "15:20:00",
+                "15:25:00",
+                "15:30:00"
             ]
         ]
     }
