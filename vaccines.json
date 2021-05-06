@@ -3,23 +3,24 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
-        "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
+        "address": "Widok 1, WINNICA",
         "times": [
             [
-                "06:25:00"
+                "10:30:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
-        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
-        "address": "ul. Henryka Sienkiewicza 9, Sierpc",
+        "count": 2,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Medycyny Rodzinnej  \"ZDROWIE\"",
+        "address": "Wyszogrodzka 7, M\u0142odzieszyn",
         "times": [
             [
-                "06:30:00"
+                "11:05:00",
+                "11:15:00"
             ]
         ]
     },
@@ -31,7 +32,7 @@
         "address": "Ludowa 7a, Zwole\u0144",
         "times": [
             [
-                "10:00:00"
+                "12:00:00"
             ]
         ]
     },
@@ -39,24 +40,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
+        "location": "Przychodnia Rejonowo-Specjalistyczna, ul. Sosnkowskiego ",
+        "address": "Sosnkowskiego 18, Warszawa",
         "times": [
             [
-                "10:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc",
-        "times": [
-            [
-                "13:00:00",
-                "13:10:00"
+                "12:00:00"
             ]
         ]
     },
@@ -64,29 +52,43 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Punkt szczepie\u0144 (doro\u015bli i dzieci)",
-        "address": "Mazowiecka 13B, Czerwin",
+        "location": "EMC PIASECZNO",
+        "address": "Szkolna 1, Piaseczno",
         "times": [
             [
-                "14:15:00"
+                "14:30:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 7,
-        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
-        "address": "ul. Henryka Sienkiewicza 9, Sierpc",
+        "count": 21,
+        "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
+        "address": "Szkolna 6, Milan\u00f3wek",
         "times": [
             [
+                "06:15:00",
+                "06:45:00",
+                "07:00:00",
+                "07:15:00",
+                "07:30:00",
+                "07:45:00",
+                "08:00:00",
+                "08:15:00",
+                "08:30:00",
+                "08:45:00",
+                "09:00:00",
                 "09:15:00",
-                "09:20:00",
-                "09:35:00",
-                "09:40:00",
+                "09:30:00",
                 "09:45:00",
-                "09:50:00",
-                "09:55:00"
+                "10:00:00",
+                "10:15:00",
+                "10:30:00",
+                "10:45:00",
+                "11:00:00",
+                "11:15:00",
+                "11:30:00"
             ]
         ]
     },
@@ -98,54 +100,147 @@
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
             [
-                "09:35:00",
-                "10:15:00"
+                "10:20:00",
+                "14:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
+        "times": [
+            [
+                "10:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 3,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "11:15:00",
+                "11:30:00",
+                "12:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "GRUPA ZDROWIE Baboszewo (filia zak\u0142adu)",
+        "address": "Odrodzenia 7, Baboszewo",
+        "times": [
+            [
+                "11:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 2,
+        "location": "Poradnia chor\u00f3b wewn\u0119trznych",
+        "address": "Aleja Owocowa 30C, Tr\u0105bki",
+        "times": [
+            [
+                "14:50:00",
+                "16:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 2,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
+        "address": "Szkolna 21, Rzeku\u0144",
+        "times": [
+            [
+                "06:10:00",
+                "09:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 5,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "10:00:00",
+                "10:45:00",
+                "11:00:00",
+                "14:15:00",
+                "15:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "times": [
+            [
+                "10:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY - WOJEW\u00d3DZKI SZPITAL ZESPOLONY W P\u0141OCKU",
+        "address": "Medyczna 19, P\u0141OCK",
+        "times": [
+            [
+                "10:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-09",
+        "count": 2,
+        "location": "Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej w Starej B\u0142otnicy",
+        "address": "Stara B\u0142otnica 9, Stara B\u0142otnica",
+        "times": [
+            [
+                "07:15:00",
+                "07:45:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 37,
+        "count": 13,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
-                "07:50:00",
-                "07:55:00",
-                "08:05:00",
-                "08:10:00",
-                "08:15:00",
-                "08:20:00",
-                "08:25:00",
-                "08:30:00",
-                "08:35:00",
-                "08:40:00",
-                "08:45:00",
-                "08:50:00",
-                "08:55:00",
-                "09:05:00",
-                "09:10:00",
-                "09:15:00",
-                "09:20:00",
-                "09:25:00",
-                "09:30:00",
-                "09:35:00",
-                "09:40:00",
-                "09:45:00",
-                "09:50:00",
+                "09:55:00",
                 "10:10:00",
                 "10:15:00",
                 "10:20:00",
                 "10:25:00",
-                "10:30:00",
                 "10:35:00",
                 "10:40:00",
                 "10:45:00",
                 "10:50:00",
                 "10:55:00",
                 "11:05:00",
-                "11:10:00",
                 "11:15:00",
                 "11:20:00"
             ]
@@ -159,197 +254,120 @@
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "10:55:00",
-                "11:00:00",
                 "11:05:00",
                 "11:10:00",
-                "11:15:00"
+                "11:15:00",
+                "11:20:00",
+                "11:25:00"
             ]
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-21",
-        "count": 49,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "vaccine": "Moderna",
+        "day": "2021-05-19",
+        "count": 6,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "07:55:00",
-                "08:20:00",
-                "08:25:00",
-                "08:40:00",
-                "08:45:00",
-                "08:50:00",
-                "08:55:00",
-                "09:20:00",
-                "09:25:00",
-                "09:35:00",
-                "09:40:00",
-                "09:45:00",
-                "09:50:00",
-                "09:55:00",
-                "10:05:00",
-                "10:15:00",
-                "10:20:00",
-                "10:25:00",
-                "10:30:00",
-                "10:35:00",
-                "10:40:00",
-                "10:45:00",
-                "10:50:00",
-                "10:55:00",
-                "11:10:00",
-                "11:15:00",
-                "11:25:00",
-                "11:30:00",
-                "11:35:00",
-                "11:40:00",
-                "11:45:00",
-                "11:50:00",
-                "11:55:00",
-                "12:00:00",
-                "12:05:00",
-                "12:10:00",
+                "11:00:00",
                 "12:15:00",
-                "12:20:00",
-                "12:25:00",
                 "12:30:00",
-                "12:35:00",
-                "12:40:00",
                 "12:45:00",
-                "12:50:00",
-                "12:55:00",
                 "13:00:00",
-                "13:05:00",
-                "13:10:00",
                 "13:15:00"
             ]
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-26",
+        "count": 5,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "08:00:00",
+                "08:15:00",
+                "08:30:00",
+                "08:45:00",
+                "09:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-06",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
+        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
+        "times": [
+            [
+                "07:45:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-22",
-        "count": 31,
+        "day": "2021-06-07",
+        "count": 1,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "07:55:00",
-                "08:40:00",
-                "08:45:00",
-                "09:10:00",
-                "09:35:00",
-                "09:40:00",
-                "09:55:00",
-                "10:30:00",
-                "10:35:00",
-                "10:40:00",
-                "10:45:00",
+                "06:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-06-08",
+        "count": 1,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "06:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-08",
+        "count": 1,
+        "location": "Przychodnia Rejonowa Nr 1 Samodzielny Zesp\u00f3\u0142 Publicznych Zak\u0142ad\u00f3w Lecznictwa Otwartego w Piasecznie",
+        "address": "Fabryczna 1, Piaseczno",
+        "times": [
+            [
+                "13:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 5,
+        "location": "PUNKT SZCZEPIE\u0143",
+        "address": "Steyera 2E, Ostro\u0142\u0119ka",
+        "times": [
+            [
                 "10:50:00",
                 "10:55:00",
                 "11:00:00",
                 "11:05:00",
-                "11:10:00",
-                "11:15:00",
-                "11:20:00",
-                "11:25:00",
-                "11:30:00",
-                "11:35:00",
-                "11:45:00",
-                "12:10:00",
-                "12:15:00",
-                "12:20:00",
-                "12:25:00",
-                "12:30:00",
-                "12:35:00",
-                "12:40:00",
-                "12:45:00",
-                "12:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-25",
-        "count": 3,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc",
-        "times": [
-            [
-                "13:30:00",
-                "13:35:00",
-                "13:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-27",
-        "count": 10,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc",
-        "times": [
-            [
-                "13:15:00",
-                "13:20:00",
-                "13:25:00",
-                "13:30:00",
-                "13:35:00",
-                "13:40:00",
-                "13:45:00",
-                "13:50:00",
-                "13:55:00",
-                "14:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-29",
-        "count": 10,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
-        "address": "D\u0141UGA 75, BRAMKI",
-        "times": [
-            [
-                "10:15:00",
-                "10:30:00",
-                "10:45:00",
-                "11:15:00",
-                "11:30:00",
-                "11:45:00",
-                "12:00:00",
-                "12:15:00",
-                "12:30:00",
-                "12:45:00"
+                "11:10:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 17,
-        "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
-        "address": "S\u0142oneczna 1, Szulborze Wielkie",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "S\u0142oneczna 1, \u0141osice",
         "times": [
             [
-                "10:15:00",
-                "11:05:00",
-                "11:20:00",
-                "11:25:00",
-                "11:30:00",
-                "11:35:00",
-                "11:40:00",
-                "11:45:00",
-                "11:50:00",
-                "11:55:00",
-                "12:00:00",
-                "12:05:00",
-                "12:10:00",
-                "12:15:00",
-                "12:20:00",
-                "12:25:00",
-                "12:35:00"
+                "07:20:00"
             ]
         ]
     },
@@ -361,91 +379,160 @@
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "13:30:00"
+                "15:30:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 8,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "day": "2021-06-11",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O",
         "times": [
             [
-                "06:50:00",
-                "10:50:00",
-                "14:00:00",
-                "14:10:00",
-                "14:20:00",
-                "17:00:00",
-                "17:10:00",
-                "17:20:00"
+                "08:10:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 6,
-        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
-        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
+        "day": "2021-06-12",
+        "count": 1,
+        "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
+        "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka",
         "times": [
             [
-                "10:35:00",
-                "10:40:00",
-                "10:45:00",
-                "10:55:00",
-                "11:05:00",
-                "11:10:00"
+                "07:45:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-16",
-        "count": 11,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "day": "2021-06-12",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
+        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
         "times": [
             [
-                "06:00:00",
-                "06:10:00",
-                "06:20:00",
+                "07:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-06-14",
+        "count": 20,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "06:25:00",
                 "06:30:00",
+                "06:35:00",
                 "06:40:00",
+                "06:45:00",
                 "06:50:00",
-                "10:10:00",
-                "10:20:00",
-                "10:30:00",
-                "10:40:00",
-                "10:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-16",
-        "count": 15,
-        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
-        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
-        "times": [
-            [
+                "06:55:00",
                 "07:00:00",
                 "07:05:00",
                 "07:10:00",
+                "08:00:00",
+                "08:05:00",
+                "08:10:00",
+                "08:15:00",
+                "08:20:00",
+                "08:25:00",
+                "08:30:00",
+                "08:35:00",
+                "08:40:00",
+                "08:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-14",
+        "count": 3,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "14:45:00",
+                "15:05:00",
+                "15:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-06-15",
+        "count": 1,
+        "location": "Przychodnia Zajezierze",
+        "address": "28 Pu\u0142ku Artylerii Lekkiej 7A, Zajezierze",
+        "times": [
+            [
+                "06:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-16",
+        "count": 7,
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
+        "times": [
+            [
                 "07:15:00",
-                "07:20:00",
                 "07:25:00",
-                "07:30:00",
-                "07:35:00",
                 "07:40:00",
                 "07:45:00",
                 "07:50:00",
                 "07:55:00",
-                "08:00:00",
-                "08:05:00",
-                "08:10:00"
+                "08:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-16",
+        "count": 2,
+        "location": "Przychodnia Rejonowa Nr 2 - Filia",
+        "address": "Pocztowa 6, Konstancin-Jeziorna",
+        "times": [
+            [
+                "08:15:00",
+                "08:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-16",
+        "count": 18,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "10:55:00",
+                "12:05:00",
+                "12:20:00",
+                "13:00:00",
+                "13:40:00",
+                "13:50:00",
+                "13:55:00",
+                "14:05:00",
+                "14:10:00",
+                "14:15:00",
+                "14:20:00",
+                "14:25:00",
+                "14:30:00",
+                "14:35:00",
+                "14:40:00",
+                "14:45:00",
+                "14:50:00",
+                "14:55:00"
             ]
         ]
     },
@@ -453,15 +540,92 @@
         "vaccine": "Pfizer",
         "day": "2021-06-16",
         "count": 5,
-        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
-        "address": "ul. Henryka Sienkiewicza 9, Sierpc",
+        "location": "NZOZ  ,,DOBRE ZDROWIE\" Punkt szczepie\u0144",
+        "address": "ul. Szkolna  2, Dobre",
         "times": [
             [
-                "10:15:00",
-                "10:20:00",
-                "10:30:00",
-                "10:35:00",
-                "10:50:00"
+                "12:05:00",
+                "12:20:00",
+                "12:25:00",
+                "12:30:00",
+                "12:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-16",
+        "count": 2,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "14:30:00",
+                "14:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-06-19",
+        "count": 21,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "06:05:00",
+                "06:20:00",
+                "06:25:00",
+                "06:35:00",
+                "06:50:00",
+                "06:55:00",
+                "07:00:00",
+                "07:05:00",
+                "07:10:00",
+                "08:00:00",
+                "08:05:00",
+                "08:10:00",
+                "08:15:00",
+                "08:20:00",
+                "08:25:00",
+                "08:30:00",
+                "08:35:00",
+                "08:40:00",
+                "08:45:00",
+                "08:50:00",
+                "08:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-06-21",
+        "count": 21,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "05:50:00",
+                "05:55:00",
+                "06:00:00",
+                "06:05:00",
+                "06:10:00",
+                "06:15:00",
+                "06:20:00",
+                "06:25:00",
+                "06:30:00",
+                "06:35:00",
+                "06:40:00",
+                "06:45:00",
+                "06:50:00",
+                "06:55:00",
+                "07:00:00",
+                "07:05:00",
+                "07:10:00",
+                "08:00:00",
+                "08:05:00",
+                "08:10:00",
+                "08:15:00"
             ]
         ]
     }
