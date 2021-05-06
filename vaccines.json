@@ -268,6 +268,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-05-11",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143",
+        "address": "rtm. Witolda Pileckiego 14, OSTRO\u0141\u0118KA",
+        "times": [
+            [
+                "09:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-05-12",
         "count": 1,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
@@ -293,7 +305,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-13",
-        "count": 14,
+        "count": 19,
         "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko",
         "times": [
@@ -311,7 +323,12 @@
                 "15:00:00",
                 "15:05:00",
                 "15:10:00",
-                "15:15:00"
+                "15:15:00",
+                "15:20:00",
+                "15:25:00",
+                "15:30:00",
+                "15:35:00",
+                "15:40:00"
             ]
         ]
     },
@@ -382,6 +399,19 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-13",
+        "count": 2,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
+        "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
+        "times": [
+            [
+                "15:30:00",
+                "15:40:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-14",
         "count": 17,
@@ -436,18 +466,6 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-14",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
-        "times": [
-            [
-                "14:20:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
         "count": 32,
@@ -456,7 +474,6 @@
         "times": [
             [
                 "06:55:00",
-                "07:05:00",
                 "07:10:00",
                 "07:15:00",
                 "07:20:00",
@@ -486,7 +503,8 @@
                 "10:10:00",
                 "10:15:00",
                 "10:20:00",
-                "10:25:00"
+                "10:25:00",
+                "10:30:00"
             ]
         ]
     },
@@ -537,6 +555,18 @@
         "times": [
             [
                 "10:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-18",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
+        "address": "Karczewska 48, Otwock",
+        "times": [
+            [
+                "08:20:00"
             ]
         ]
     },
