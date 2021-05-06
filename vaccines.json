@@ -15,13 +15,14 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 6,
+        "count": 7,
         "location": "Przychodnia lekarska",
         "address": "\u017beromskiego 41a, Sochaczew",
         "times": [
             [
                 "16:00:00",
                 "16:20:00",
+                "16:25:00",
                 "16:35:00",
                 "17:05:00",
                 "17:35:00",
@@ -80,11 +81,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
+        "count": 2,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
+                "09:50:00",
                 "10:10:00"
             ]
         ]
@@ -128,25 +130,14 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "14:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
+        "count": 2,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
         "address": "Szkolna 21, Rzeku\u0144",
         "times": [
             [
-                "06:30:00"
+                "06:30:00",
+                "09:05:00"
             ]
         ]
     },
@@ -287,15 +278,25 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-14",
-        "count": 3,
+        "day": "2021-05-13",
+        "count": 1,
         "location": "Poradnia lekarza rodzinnego",
         "address": "Nowy Lubiel 24B, Nowy Lubiel",
         "times": [
             [
-                "13:40:00",
-                "13:55:00",
-                "14:05:00"
+                "15:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-15",
+        "count": 1,
+        "location": "Pogotowie Ratunkowe - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W ZWOLENIU",
+        "address": "Ludowa 7a, Zwole\u0144",
+        "times": [
+            [
+                "11:20:00"
             ]
         ]
     },
@@ -308,20 +309,32 @@
         "times": [
             [
                 "07:45:00",
-                "08:40:00",
-                "08:45:00"
+                "08:45:00",
+                "09:15:00"
             ]
         ]
     },
     {
-        "vaccine": "Pfizer",
+        "vaccine": "Moderna",
         "day": "2021-05-18",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
-        "address": "Jana Chilickiego  2, Zakroczym",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "11:40:00"
+                "13:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew",
+        "times": [
+            [
+                "13:40:00"
             ]
         ]
     },
@@ -338,18 +351,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Gabinet diagnostyczno-zabiegowy Nr 13 - MAZOWIECKI SZPITAL SPECJALISTYCZNY SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "ul. Juliana Aleksandrowicza 5, Radom",
-        "times": [
-            [
-                "14:40:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
         "count": 1,
@@ -362,6 +363,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
+        "times": [
+            [
+                "07:55:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
         "count": 1,
@@ -370,6 +383,18 @@
         "times": [
             [
                 "06:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-22",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "times": [
+            [
+                "06:55:00"
             ]
         ]
     },
@@ -410,14 +435,14 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
+        "vaccine": "Moderna",
         "day": "2021-05-25",
         "count": 1,
-        "location": "POWIATOWE CENTRUM MEDYCZNE W GR\u00d3JCU SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Piotra Skargi 10, Gr\u00f3jec",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
+        "address": "Karczewska 48, Otwock",
         "times": [
             [
-                "12:00:00"
+                "12:10:00"
             ]
         ]
     },
@@ -452,6 +477,18 @@
                 "11:00:00",
                 "11:15:00",
                 "11:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin",
+        "times": [
+            [
+                "08:40:00"
             ]
         ]
     },
@@ -531,30 +568,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-28",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
-        "address": "Sienkiewicza 7, P\u0142o\u0144sk",
-        "times": [
-            [
-                "10:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-28",
-        "count": 1,
-        "location": "PRZYCHODNIA LEKARSKA JACEK KRUPSKI - PUNKT SZCZEPIE\u0143",
-        "address": "DR. ST. PAW\u0141OWSKIEGO 15, MYSZYNIEC",
-        "times": [
-            [
-                "13:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-01",
         "count": 3,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
@@ -564,18 +577,6 @@
                 "11:40:00",
                 "12:30:00",
                 "12:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-02",
-        "count": 1,
-        "location": "O\u015brodek Zdrowia w Wierzbicy - Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej w Wierzbicy",
-        "address": "ul. Sienkiewicza 37, Wierzbica",
-        "times": [
-            [
-                "11:55:00"
             ]
         ]
     },
@@ -646,13 +647,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-09",
+        "day": "2021-06-10",
         "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "location": "Poradnia lekarza POZ",
+        "address": "Staszica 18, Garwolin",
         "times": [
             [
-                "09:30:00"
+                "06:05:00"
             ]
         ]
     },
@@ -683,12 +684,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 2,
+        "count": 1,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "16:00:00",
                 "16:35:00"
             ]
         ]
@@ -709,20 +709,8 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-12",
-        "count": 1,
-        "location": "CENTRUM MEDYCZNE STAY HEALTHY",
-        "address": "K\u0142obucka 8A lok. U4, Warszawa",
-        "times": [
-            [
-                "13:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 22,
+        "count": 26,
         "location": "PORADNIA LEKARZA POZ",
         "address": "Rynek 21, Stare Babice",
         "times": [
@@ -748,7 +736,11 @@
                 "07:35:00",
                 "07:40:00",
                 "07:45:00",
-                "07:50:00"
+                "07:50:00",
+                "07:55:00",
+                "08:15:00",
+                "08:20:00",
+                "08:25:00"
             ]
         ]
     }
