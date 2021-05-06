@@ -2,18 +2,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-07",
-        "count": 1,
-        "location": "Gabinet lekarza POZ Gole",
-        "address": "Gole 50, Gole",
-        "times": [
-            [
-                "07:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-07",
         "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych w Zespole Szk\u00f3\u0142 Powiatowych w Przasnyszu",
         "address": "SADOWA 5, PRZASNYSZ",
@@ -268,14 +256,14 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-11",
+        "vaccine": "Moderna",
+        "day": "2021-05-08",
         "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "09:45:00"
+                "16:45:00"
             ]
         ]
     },
@@ -338,7 +326,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 47,
+        "count": 48,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
@@ -389,7 +377,8 @@
                 "14:40:00",
                 "14:45:00",
                 "14:50:00",
-                "15:30:00"
+                "15:30:00",
+                "15:35:00"
             ]
         ]
     },
@@ -408,27 +397,16 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 4,
+        "count": 5,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
             [
+                "11:10:00",
                 "11:15:00",
                 "11:45:00",
                 "12:00:00",
                 "13:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-14",
-        "count": 1,
-        "location": "ELBIT MED",
-        "address": "Stra\u017cacka 7, Ciechan\u00f3w",
-        "times": [
-            [
-                "07:30:00"
             ]
         ]
     },
@@ -523,7 +501,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 4,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
@@ -531,6 +509,7 @@
                 "10:30:00",
                 "10:45:00",
                 "11:45:00",
+                "12:15:00",
                 "15:15:00"
             ]
         ]
