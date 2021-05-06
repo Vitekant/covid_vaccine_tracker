@@ -14,11 +14,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-07",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych w Zespole Szk\u00f3\u0142 Powiatowych w Przasnyszu",
         "address": "SADOWA 5, PRZASNYSZ",
         "times": [
             [
+                "09:30:00",
                 "13:20:00"
             ]
         ]
@@ -267,18 +268,6 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Przychodnia w Granicy",
-        "address": "G\u0142\u00f3wna 104, Granica",
-        "times": [
-            [
-                "08:35:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
         "count": 2,
@@ -305,9 +294,21 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
+        "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
+        "times": [
+            [
+                "13:45:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-13",
-        "count": 12,
+        "count": 11,
         "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko",
         "times": [
@@ -322,7 +323,6 @@
                 "06:55:00",
                 "07:00:00",
                 "07:05:00",
-                "07:20:00",
                 "07:25:00"
             ]
         ]
@@ -390,13 +390,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 16,
+        "count": 14,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "13:30:00",
-                "13:50:00",
                 "15:40:00",
                 "15:45:00",
                 "15:50:00",
@@ -466,7 +464,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 11,
+        "count": 12,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
@@ -481,7 +479,8 @@
                 "06:55:00",
                 "07:05:00",
                 "07:10:00",
-                "07:15:00"
+                "07:15:00",
+                "07:20:00"
             ]
         ]
     },
