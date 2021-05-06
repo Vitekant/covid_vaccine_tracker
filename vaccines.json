@@ -62,24 +62,25 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
-        "location": "Przychodnia Rejonowo Specjalistyczna",
-        "address": "Poborza\u0144ska 6, warszawa",
+        "count": 3,
+        "location": "Poradnia lekarza POZ",
+        "address": "Modzelewskiego 58, Warszawa",
         "times": [
             [
-                "06:20:00"
+                "06:15:00",
+                "06:30:00",
+                "06:45:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 13,
+        "count": 12,
         "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
         "address": "Szkolna 6, Milan\u00f3wek",
         "times": [
             [
-                "07:45:00",
                 "08:00:00",
                 "08:15:00",
                 "08:30:00",
@@ -111,18 +112,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "\"DAGIS centrum medyczne\" Niepubliczny Zak\u0142ad Opieki Zdrowotnej-Poradnia lekarza POZ",
-        "address": "Odkryta 31 -, Warszawa",
-        "times": [
-            [
-                "09:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc",
         "times": [
@@ -146,12 +135,26 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
+        "count": 3,
         "location": "Przychodnia nr 1 (filia)",
         "address": "PADEREWSKIEGO 6, RADOM",
         "times": [
             [
-                "13:10:00"
+                "13:10:00",
+                "14:40:00",
+                "15:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
+        "address": "Poligonowa 32, Warszawa",
+        "times": [
+            [
+                "13:33:00"
             ]
         ]
     },
@@ -185,7 +188,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 27,
+        "count": 25,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -214,9 +217,7 @@
                 "13:10:00",
                 "13:15:00",
                 "13:20:00",
-                "13:25:00",
-                "13:30:00",
-                "13:40:00"
+                "13:25:00"
             ]
         ]
     },
@@ -243,17 +244,36 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 21,
+        "day": "2021-05-11",
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "08:00:00",
-                "08:15:00",
-                "08:30:00",
-                "08:45:00",
-                "09:00:00",
+                "13:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+        "address": "Parkowa 14, Raci\u0105\u017c",
+        "times": [
+            [
+                "06:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 20,
+        "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
+        "times": [
+            [
                 "09:15:00",
                 "09:30:00",
                 "09:45:00",
@@ -269,7 +289,47 @@
                 "12:15:00",
                 "12:30:00",
                 "12:45:00",
-                "13:00:00"
+                "13:00:00",
+                "13:15:00",
+                "13:30:00",
+                "13:45:00",
+                "14:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "10:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-18",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O",
+        "times": [
+            [
+                "09:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "13:45:00"
             ]
         ]
     },
@@ -300,30 +360,6 @@
                 "09:00:00",
                 "09:15:00",
                 "09:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-28",
-        "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
-        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko",
-        "times": [
-            [
-                "07:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-06-01",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
-        "address": "Parkowa 14, Raci\u0105\u017c",
-        "times": [
-            [
-                "07:20:00"
             ]
         ]
     },
@@ -446,14 +482,15 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-26",
-        "count": 3,
+        "count": 4,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
                 "06:00:00",
                 "06:05:00",
-                "06:10:00"
+                "06:10:00",
+                "06:15:00"
             ]
         ]
     }
