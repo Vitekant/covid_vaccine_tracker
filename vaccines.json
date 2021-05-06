@@ -2,12 +2,14 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
+        "count": 3,
         "location": "SPZOZ w Nasielsku, Filia w Cieksynie-Punkt szczepie\u0144",
         "address": "Sportowa 5, Cieksyn",
         "times": [
             [
-                "14:30:00"
+                "14:15:00",
+                "14:30:00",
+                "15:00:00"
             ]
         ]
     },
@@ -38,49 +40,6 @@
         "times": [
             [
                 "17:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
-        "address": "Jana Chilickiego  2, Zakroczym",
-        "times": [
-            [
-                "06:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-07",
-        "count": 8,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szkolno-Przedszkolny nr 4 w Nowym Dworze Mazowieckim",
-        "address": "Gen. J. Bema 312, Nowy Dw\u00f3r Mazowiecki",
-        "times": [
-            [
-                "09:10:00",
-                "09:20:00",
-                "09:25:00",
-                "09:30:00",
-                "09:35:00",
-                "09:40:00",
-                "09:45:00",
-                "09:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
-        "times": [
-            [
-                "11:50:00"
             ]
         ]
     },
@@ -162,6 +121,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
+        "location": "Przychodnia nr 1 (filia)",
+        "address": "PADEREWSKIEGO 6, RADOM",
+        "times": [
+            [
+                "13:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
         "address": "Widok 1, WINNICA",
         "times": [
@@ -211,14 +182,14 @@
         ]
     },
     {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-09",
+        "vaccine": "Pfizer",
+        "day": "2021-05-10",
         "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "location": "Gabinet diagnostyczno-zabiegowy Nr 13 - MAZOWIECKI SZPITAL SPECJALISTYCZNY SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "ul. Juliana Aleksandrowicza 5, Radom",
         "times": [
             [
-                "16:30:00"
+                "06:00:00"
             ]
         ]
     },
@@ -270,12 +241,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 4,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "11:20:00",
                 "11:25:00",
                 "11:35:00",
                 "11:40:00"
@@ -307,18 +277,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "09:00:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-17",
         "count": 7,
@@ -333,30 +291,6 @@
                 "08:40:00",
                 "08:45:00",
                 "09:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-17",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk",
-        "times": [
-            [
-                "09:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-18",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc",
-        "times": [
-            [
-                "13:40:00"
             ]
         ]
     },
@@ -397,26 +331,40 @@
         ]
     },
     {
-        "vaccine": "Moderna",
+        "vaccine": "Pfizer",
         "day": "2021-05-20",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc",
+        "count": 2,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Lodowa Arena \u2013 lodowisko miejskie Legionowo",
+        "address": "Parkowa  27, Legionowo",
         "times": [
             [
-                "13:20:00"
+                "07:00:00",
+                "09:05:00"
             ]
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-20",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-21",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
+        "address": "Sienkiewicza 7, P\u0142o\u0144sk",
         "times": [
             [
-                "07:55:00"
+                "10:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-21",
+        "count": 2,
+        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
+        "address": "Spacerowa  29, Bia\u0142obrzegi",
+        "times": [
+            [
+                "10:05:00",
+                "10:10:00"
             ]
         ]
     },
@@ -429,6 +377,18 @@
         "times": [
             [
                 "10:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI",
+        "times": [
+            [
+                "14:30:00"
             ]
         ]
     },
@@ -469,18 +429,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-23",
-        "count": 1,
-        "location": "Gabinet diagnostyczno-zabiegowy Nr 13 - MAZOWIECKI SZPITAL SPECJALISTYCZNY SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "ul. Juliana Aleksandrowicza 5, Radom",
-        "times": [
-            [
-                "14:25:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-24",
         "count": 1,
@@ -501,30 +449,6 @@
         "times": [
             [
                 "09:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "POWIATOWE CENTRUM MEDYCZNE W GR\u00d3JCU SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Piotra Skargi 10, Gr\u00f3jec",
-        "times": [
-            [
-                "12:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szkolno-Przedszkolny nr 4 w Nowym Dworze Mazowieckim",
-        "address": "Gen. J. Bema 312, Nowy Dw\u00f3r Mazowiecki",
-        "times": [
-            [
-                "13:10:00"
             ]
         ]
     },
@@ -590,6 +514,18 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
         "count": 1,
+        "location": "Poradnia lekarza POZ - Kleczewska",
+        "address": "ul. Kleczewska 56, Warszawa",
+        "times": [
+            [
+                "09:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-27",
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
@@ -623,14 +559,25 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "POWIATOWE CENTRUM MEDYCZNE W GR\u00d3JCU SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "Piotra Skargi 10, Gr\u00f3jec",
+        "times": [
+            [
+                "14:30:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 13,
+        "count": 12,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "07:15:00",
                 "07:30:00",
                 "07:45:00",
                 "08:00:00",
@@ -685,18 +632,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-30",
-        "count": 1,
-        "location": "Centrum Medyczne Raszyn",
-        "address": "Pruszkowska 52, RASZYN",
-        "times": [
-            [
-                "10:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-01",
         "count": 3,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
@@ -718,6 +653,18 @@
         "times": [
             [
                 "10:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-02",
+        "count": 1,
+        "location": "O\u015brodek Zdrowia w Wierzbicy - Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej w Wierzbicy",
+        "address": "ul. Sienkiewicza 37, Wierzbica",
+        "times": [
+            [
+                "11:55:00"
             ]
         ]
     },
@@ -752,18 +699,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-04",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
-        "times": [
-            [
-                "17:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-09",
         "count": 1,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
@@ -778,11 +713,11 @@
         "vaccine": "Pfizer",
         "day": "2021-06-09",
         "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "09:30:00"
+                "16:35:00"
             ]
         ]
     },
@@ -839,8 +774,20 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-12",
+        "count": 1,
+        "location": "CENTRUM MEDYCZNE STAY HEALTHY",
+        "address": "K\u0142obucka 8A lok. U4, Warszawa",
+        "times": [
+            [
+                "13:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 22,
+        "count": 23,
         "location": "PORADNIA LEKARZA POZ",
         "address": "Rynek 21, Stare Babice",
         "times": [
@@ -866,7 +813,8 @@
                 "07:30:00",
                 "07:35:00",
                 "07:40:00",
-                "07:45:00"
+                "07:45:00",
+                "07:50:00"
             ]
         ]
     }
