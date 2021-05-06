@@ -2,18 +2,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
-        "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
-        "address": "Szkolna 6, Milan\u00f3wek",
-        "times": [
-            [
-                "06:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 58,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
@@ -135,19 +123,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "10:25:00",
-                "14:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 1,
         "location": "BIOVENA Sp\u00f3\u0142ka z ograniczon\u0105 odpowiedzialno\u015bci\u0105",
         "address": "Lipowa 28A, J\u00f3zef\u00f3w",
@@ -183,6 +158,18 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin",
+        "times": [
+            [
+                "14:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
@@ -190,6 +177,18 @@
         "times": [
             [
                 "07:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "08:15:00"
             ]
         ]
     },
@@ -208,7 +207,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 4,
+        "count": 5,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -216,19 +215,19 @@
                 "06:25:00",
                 "06:30:00",
                 "09:10:00",
-                "10:45:00"
+                "10:45:00",
+                "10:50:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 21,
+        "count": 20,
         "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
         "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
         "times": [
             [
-                "07:25:00",
                 "07:35:00",
                 "07:45:00",
                 "07:55:00",
@@ -253,14 +252,14 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-25",
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-10",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc",
+        "location": "Wojew\u00f3dzki Szpital Zaka\u017any",
+        "address": "ul. Wolska 37, Warszawa",
         "times": [
             [
-                "11:00:00"
+                "08:50:00"
             ]
         ]
     },
@@ -284,7 +283,7 @@
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "11:30:00",
+                "12:15:00",
                 "12:30:00",
                 "12:45:00",
                 "13:00:00",
@@ -300,6 +299,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
+        "address": "Jana Chilickiego  2, Zakroczym",
+        "times": [
+            [
+                "13:20:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
         "count": 3,
@@ -310,6 +321,18 @@
                 "13:45:00",
                 "14:30:00",
                 "14:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
+        "times": [
+            [
+                "11:10:00"
             ]
         ]
     },
@@ -344,8 +367,20 @@
         "address": "Rynek 21, Stare Babice",
         "times": [
             [
-                "12:30:00",
-                "12:35:00"
+                "12:35:00",
+                "12:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-06",
+        "count": 1,
+        "location": "Centrum Medyczne Raszyn",
+        "address": "Pruszkowska 52, RASZYN",
+        "times": [
+            [
+                "10:00:00"
             ]
         ]
     },
@@ -353,23 +388,11 @@
         "vaccine": "Pfizer",
         "day": "2021-06-07",
         "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "location": "Punkt szczepie\u0144",
+        "address": "pp\u0142k. \u0141ukasza Ciepli\u0144skiego P\u0142uga 4/4, Ostro\u0142\u0119ka",
         "times": [
             [
-                "11:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 1,
-        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
-        "address": "Spacerowa  29, Bia\u0142obrzegi",
-        "times": [
-            [
-                "07:20:00"
+                "16:55:00"
             ]
         ]
     },
