@@ -15,11 +15,11 @@
         "vaccine": "Pfizer",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
-        "address": "Napoleona 20, Koby\u0142ka",
+        "location": "Punkt Szczepie\u0144 Powszechnych w Zespole Szk\u00f3\u0142 Powiatowych w Przasnyszu",
+        "address": "SADOWA 5, PRZASNYSZ",
         "times": [
             [
-                "15:40:00"
+                "11:30:00"
             ]
         ]
     },
@@ -244,29 +244,13 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-10",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk",
-        "times": [
-            [
-                "06:05:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
-        "count": 26,
+        "count": 25,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "09:45:00",
-                "09:55:00",
-                "10:05:00",
-                "10:10:00",
                 "10:15:00",
                 "10:20:00",
                 "10:25:00",
@@ -288,7 +272,10 @@
                 "12:15:00",
                 "12:20:00",
                 "12:25:00",
-                "12:30:00"
+                "12:30:00",
+                "12:35:00",
+                "12:40:00",
+                "12:45:00"
             ]
         ]
     },
@@ -341,18 +328,6 @@
                 "13:30:00",
                 "13:40:00",
                 "13:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-13",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "14:00:00"
             ]
         ]
     },
@@ -422,15 +397,28 @@
     },
     {
         "vaccine": "Moderna",
+        "day": "2021-05-22",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "times": [
+            [
+                "10:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
         "day": "2021-05-24",
-        "count": 3,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
                 "07:00:00",
                 "08:00:00",
-                "09:50:00"
+                "09:50:00",
+                "10:20:00"
             ]
         ]
     },
