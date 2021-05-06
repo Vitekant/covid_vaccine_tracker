@@ -3,8 +3,8 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Centrum Medyczne Raszyn",
-        "address": "Pruszkowska 52, RASZYN",
+        "location": "SPZOZ w Nasielsku, Filia w Cieksynie-Punkt szczepie\u0144",
+        "address": "Sportowa 5, Cieksyn",
         "times": [
             [
                 "15:00:00"
@@ -156,23 +156,22 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
-        "location": "Gabinet Diagnostyczno Zabiegowy II  SPZZOZ Sierpc",
-        "address": "Juliusza S\u0142owackiego 16, Sierpc",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "07:15:00"
+                "10:15:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 2,
+        "count": 1,
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
         "address": "Poniatowskiego 26, Siedlce",
         "times": [
             [
-                "16:00:00",
                 "17:30:00"
             ]
         ]
@@ -253,13 +252,24 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "11:35:00",
                 "11:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
+        "address": "Andrzeja 23, Pruszk\u00f3w",
+        "times": [
+            [
+                "12:05:00"
             ]
         ]
     },
@@ -272,6 +282,18 @@
         "times": [
             [
                 "14:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-18",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O",
+        "times": [
+            [
+                "09:35:00"
             ]
         ]
     },
@@ -292,11 +314,11 @@
         "vaccine": "Pfizer",
         "day": "2021-05-19",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "location": "Centrum Medyczne Warszawskiego Uniwersytetu Medycznego",
+        "address": "Jana Nielubowicza 5, Warszawa",
         "times": [
             [
-                "14:20:00"
+                "11:45:00"
             ]
         ]
     },
@@ -313,14 +335,14 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
+        "vaccine": "Pfizer",
         "day": "2021-05-21",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
-        "address": "T\u0119czowa 16, Z\u0105bki",
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "11:00:00"
+                "13:55:00"
             ]
         ]
     },
@@ -337,26 +359,26 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-22",
+        "vaccine": "Moderna",
+        "day": "2021-05-24",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych -  SPZOZ Przychodnia Miejska w J\u00f3zefowie",
-        "address": "Sk\u0142odowskiej 5/7, J\u00f3zef\u00f3w",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
-                "10:15:00"
+                "08:00:00"
             ]
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-22",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-26",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
+        "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "13:50:00"
+                "11:00:00"
             ]
         ]
     },
@@ -377,18 +399,6 @@
                 "11:00:00",
                 "11:15:00",
                 "11:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-26",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "08:40:00"
             ]
         ]
     },
@@ -479,61 +489,14 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-28",
-        "count": 1,
-        "location": "Poradnia (gabinet) lekarza POZ (doro\u015bli i dzieci)",
-        "address": "Kleczewska 41/1, Warszawa",
-        "times": [
-            [
-                "11:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-29",
-        "count": 1,
-        "location": "Centrum Medyczne Raszyn",
-        "address": "Pruszkowska 52, RASZYN",
-        "times": [
-            [
-                "10:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-29",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "12:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-01",
-        "count": 1,
+        "count": 2,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo",
         "times": [
             [
-                "11:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-01",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "13:20:00"
+                "11:25:00",
+                "12:35:00"
             ]
         ]
     },
@@ -564,18 +527,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-03",
-        "count": 1,
-        "location": "Centrum Leczniczo-Us\u0142ugowe imienia \u015awi\u0119tej Anny Sp\u00f3\u0142ka z ograniczon\u0105 odpowiedzialno\u015bci\u0105",
-        "address": "Jana Kochanowskiego 22A, P\u0142ock",
-        "times": [
-            [
-                "07:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-03",
         "count": 6,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
@@ -593,13 +544,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-04",
-        "count": 3,
+        "count": 2,
         "location": "PORADNIA POZ",
         "address": "SZKOLNA 2, KAMPINOS",
         "times": [
             [
                 "11:45:00",
-                "12:25:00",
                 "12:35:00"
             ]
         ]
@@ -622,6 +572,18 @@
         "vaccine": "Pfizer",
         "day": "2021-06-05",
         "count": 1,
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
+        "times": [
+            [
+                "07:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-05",
+        "count": 1,
         "location": "Punkt szczepie\u0144",
         "address": "Wiejska 19/21, \u017byrard\u00f3w",
         "times": [
@@ -632,13 +594,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-06",
+        "day": "2021-06-07",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
-        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
+        "address": "Jana Paw\u0142a II  20, Radzymin",
         "times": [
             [
-                "07:05:00"
+                "10:40:00"
             ]
         ]
     },
@@ -651,18 +613,6 @@
         "times": [
             [
                 "07:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-08",
-        "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "Steyera 2E, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "10:25:00"
             ]
         ]
     },
@@ -682,7 +632,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 14,
+        "count": 15,
         "location": "PORADNIA POZ",
         "address": "SZKOLNA 2, KAMPINOS",
         "times": [
@@ -696,6 +646,7 @@
                 "12:10:00",
                 "12:20:00",
                 "12:30:00",
+                "12:40:00",
                 "12:50:00",
                 "13:00:00",
                 "13:10:00",
@@ -714,20 +665,19 @@
             [
                 "11:50:00",
                 "14:20:00",
-                "16:20:00",
-                "16:35:00"
+                "14:30:00",
+                "16:20:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 2,
+        "count": 1,
         "location": "Poradnia lekarza POZ",
         "address": "Staszica 18, Garwolin",
         "times": [
             [
-                "06:05:00",
                 "06:20:00"
             ]
         ]
@@ -815,24 +765,25 @@
         "vaccine": "Pfizer",
         "day": "2021-06-11",
         "count": 2,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA",
+        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
+        "address": "Spacerowa  29, Bia\u0142obrzegi",
         "times": [
             [
-                "08:15:00",
-                "10:45:00"
+                "07:55:00",
+                "11:10:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 1,
-        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
-        "address": "Spacerowa  29, Bia\u0142obrzegi",
+        "count": 2,
+        "location": "PUNKT SZCZEPIE\u0143",
+        "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "11:10:00"
+                "08:15:00",
+                "10:45:00"
             ]
         ]
     },
@@ -870,13 +821,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-12",
-        "count": 2,
-        "location": "Punkt szczepie\u0144",
-        "address": "Mazowiecka 5A, M\u0142och\u00f3w",
+        "count": 1,
+        "location": "Centrum Medyczne LUX MED Warszawa  Al. Jana Paw\u0142a II",
+        "address": "Al. Jana Paw\u0142a II 78, Warszawa",
         "times": [
             [
-                "09:55:00",
-                "10:10:00"
+                "08:45:00"
             ]
         ]
     },
@@ -894,8 +844,21 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-12",
+        "count": 2,
+        "location": "Punkt szczepie\u0144",
+        "address": "Mazowiecka 5A, M\u0142och\u00f3w",
+        "times": [
+            [
+                "09:55:00",
+                "10:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 5,
+        "count": 6,
         "location": "PORADNIA LEKARZA POZ",
         "address": "Rynek 21, Stare Babice",
         "times": [
@@ -904,7 +867,8 @@
                 "06:15:00",
                 "06:20:00",
                 "06:25:00",
-                "06:30:00"
+                "06:30:00",
+                "06:35:00"
             ]
         ]
     }
