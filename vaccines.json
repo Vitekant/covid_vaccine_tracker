@@ -252,6 +252,18 @@
         ]
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-16",
+        "count": 1,
+        "location": "Punkt szczepie\u0144 Pop\u0142aci\u0144ska",
+        "address": "Pop\u0142aci\u0144ska 42, P\u0142ock",
+        "times": [
+            [
+                "07:30:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-25",
         "count": 2,
@@ -279,11 +291,12 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-26",
-        "count": 11,
+        "count": 12,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
+                "11:30:00",
                 "12:30:00",
                 "12:45:00",
                 "13:00:00",
@@ -301,12 +314,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
-        "count": 3,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "13:45:00",
                 "14:30:00",
                 "14:45:00"
             ]
@@ -350,37 +362,25 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-02",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 \"\u015aR\u00d3DMIE\u015aCIE 3\"",
-        "address": "ul. Andrzeja Struga 57 A, Radom",
-        "times": [
-            [
-                "11:00:00",
-                "11:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-03",
+        "day": "2021-06-05",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "location": "PORADNIA LEKARZA POZ",
+        "address": "Rynek 21, Stare Babice",
         "times": [
             [
-                "14:30:00"
+                "12:50:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-06",
-        "count": 1,
+        "count": 2,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
             [
+                "09:00:00",
                 "10:00:00"
             ]
         ]
@@ -418,18 +418,6 @@
         "times": [
             [
                 "09:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "16:55:00"
             ]
         ]
     },
@@ -527,20 +515,19 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 9,
+        "count": 8,
         "location": "PORADNIA LEKARZA POZ",
         "address": "Rynek 21, Stare Babice",
         "times": [
             [
-                "08:50:00",
                 "08:55:00",
                 "09:05:00",
-                "09:10:00",
                 "09:15:00",
                 "09:20:00",
                 "09:25:00",
                 "09:35:00",
-                "09:40:00"
+                "09:40:00",
+                "09:45:00"
             ]
         ]
     }
