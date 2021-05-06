@@ -197,12 +197,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 49,
+        "count": 48,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "06:05:00",
                 "06:10:00",
                 "06:15:00",
                 "06:20:00",
@@ -257,7 +256,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 17,
+        "count": 18,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -278,7 +277,8 @@
                 "08:05:00",
                 "08:10:00",
                 "08:15:00",
-                "08:20:00"
+                "08:20:00",
+                "08:25:00"
             ]
         ]
     },
@@ -345,6 +345,18 @@
                 "11:00:00",
                 "11:15:00",
                 "11:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "11:55:00"
             ]
         ]
     },
