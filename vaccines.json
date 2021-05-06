@@ -97,6 +97,19 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 2,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+        "times": [
+            [
+                "08:35:00",
+                "09:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 2,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -129,18 +142,6 @@
         "times": [
             [
                 "09:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
-        "times": [
-            [
-                "09:55:00"
             ]
         ]
     },
@@ -222,11 +223,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "08:50:00"
+                "08:15:00"
             ]
         ]
     },
@@ -239,18 +240,6 @@
         "times": [
             [
                 "09:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-09",
-        "count": 1,
-        "location": "Przychodnia lekarska",
-        "address": "Madali\u0144skiego 13, Warszawa",
-        "times": [
-            [
-                "09:40:00"
             ]
         ]
     },
@@ -300,12 +289,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-26",
-        "count": 11,
+        "count": 10,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "12:15:00",
                 "12:30:00",
                 "12:45:00",
                 "13:00:00",
@@ -334,39 +322,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
         "address": "Parkowa 14, Raci\u0105\u017c",
         "times": [
             [
-                "09:25:00",
                 "09:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-28",
-        "count": 15,
-        "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
-        "address": "T\u0119czowa 16, Z\u0105bki",
-        "times": [
-            [
-                "10:45:00",
-                "11:00:00",
-                "11:15:00",
-                "11:30:00",
-                "11:45:00",
-                "12:00:00",
-                "12:15:00",
-                "12:30:00",
-                "12:45:00",
-                "13:00:00",
-                "13:15:00",
-                "13:30:00",
-                "13:45:00",
-                "14:00:00",
-                "14:15:00"
             ]
         ]
     },
@@ -384,6 +345,30 @@
         ]
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-28",
+        "count": 13,
+        "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
+        "times": [
+            [
+                "11:15:00",
+                "11:30:00",
+                "11:45:00",
+                "12:00:00",
+                "12:15:00",
+                "12:30:00",
+                "12:45:00",
+                "13:00:00",
+                "13:15:00",
+                "13:30:00",
+                "13:45:00",
+                "14:00:00",
+                "14:15:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-06-02",
         "count": 2,
@@ -393,30 +378,6 @@
             [
                 "11:00:00",
                 "11:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-05",
-        "count": 1,
-        "location": "PORADNIA LEKARZA POZ",
-        "address": "Rynek 21, Stare Babice",
-        "times": [
-            [
-                "12:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-06",
-        "count": 1,
-        "location": "PORADNIA LEKARZA POZ",
-        "address": "Rynek 21, Stare Babice",
-        "times": [
-            [
-                "12:15:00"
             ]
         ]
     },
@@ -462,15 +423,15 @@
         "address": "Pruszkowska 52, RASZYN",
         "times": [
             [
-                "09:45:00",
-                "09:50:00"
+                "09:50:00",
+                "09:55:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 18,
+        "count": 19,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
@@ -492,7 +453,8 @@
                 "09:05:00",
                 "09:10:00",
                 "09:15:00",
-                "09:20:00"
+                "09:20:00",
+                "09:25:00"
             ]
         ]
     },
