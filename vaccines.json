@@ -80,6 +80,7 @@
                 "08:10:00",
                 "08:12:00",
                 "08:17:00",
+                "08:22:00",
                 "08:27:00",
                 "08:32:00",
                 "08:37:00",
@@ -148,8 +149,7 @@
                 "14:02:00",
                 "14:05:00",
                 "14:07:00",
-                "14:10:00",
-                "14:12:00"
+                "14:10:00"
             ]
         ]
     },
@@ -438,19 +438,16 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 14,
+        "count": 11,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "09:25:00",
-                "09:30:00",
                 "09:35:00",
                 "09:40:00",
                 "09:45:00",
                 "09:50:00",
                 "09:55:00",
-                "10:05:00",
                 "10:10:00",
                 "10:15:00",
                 "10:20:00",
@@ -499,6 +496,18 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-15",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
+        "address": "Sienkiewicza 7, P\u0142o\u0144sk",
+        "times": [
+            [
+                "11:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-15",
         "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
         "address": "Ossowskiego 25, Warszawa",
@@ -514,26 +523,15 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-15",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
-        "address": "Sienkiewicza 7, P\u0142o\u0144sk",
-        "times": [
-            [
-                "11:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-15",
-        "count": 3,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
         "address": "Strumykowa  21, Warszawa",
         "times": [
             [
                 "11:20:00",
                 "11:25:00",
-                "11:30:00"
+                "11:30:00",
+                "11:35:00"
             ]
         ]
     },
