@@ -264,11 +264,12 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 5,
+        "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
+                "13:20:00",
                 "13:25:00",
                 "13:30:00",
                 "13:35:00",
@@ -324,6 +325,18 @@
                 "10:15:00",
                 "10:30:00",
                 "10:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-29",
+        "count": 1,
+        "location": "Przychodnia przy KOT CENTER- punkt szczepie\u0144 ",
+        "address": "Powsta\u0144c\u00f3w Warszawy  3, Otwock",
+        "times": [
+            [
+                "09:05:00"
             ]
         ]
     },
