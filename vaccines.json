@@ -12,18 +12,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
-        "times": [
-            [
-                "13:20:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 2,
@@ -64,24 +52,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
-        "times": [
-            [
-                "07:25:00",
-                "11:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 83,
+        "count": 82,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
+                "07:17:00",
                 "07:27:00",
                 "07:32:00",
                 "07:42:00",
@@ -162,9 +138,20 @@
                 "13:55:00",
                 "14:02:00",
                 "14:05:00",
-                "14:07:00",
-                "14:10:00",
-                "14:12:00"
+                "14:07:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 2,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+        "times": [
+            [
+                "07:25:00",
+                "11:05:00"
             ]
         ]
     },
@@ -235,6 +222,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
+        "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
+        "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
+        "times": [
+            [
+                "10:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
         "location": "MEDIQ - PUNKT SZCZEPIE\u0143",
         "address": "Pi\u0142sudskiego 20, Legionowo",
         "times": [
@@ -282,11 +281,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
-        "count": 1,
+        "count": 2,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "rtm. Witolda Pileckiego 14, OSTRO\u0141\u0118KA",
         "times": [
             [
+                "09:45:00",
                 "11:00:00"
             ]
         ]
@@ -313,6 +313,29 @@
         "times": [
             [
                 "12:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-13",
+        "count": 12,
+        "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
+        "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko",
+        "times": [
+            [
+                "06:20:00",
+                "06:25:00",
+                "06:30:00",
+                "06:35:00",
+                "06:40:00",
+                "06:45:00",
+                "06:50:00",
+                "06:55:00",
+                "07:00:00",
+                "07:05:00",
+                "07:10:00",
+                "07:15:00"
             ]
         ]
     },
@@ -363,13 +386,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 38,
+        "count": 37,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "07:00:00",
-                "10:20:00",
                 "10:35:00",
                 "10:40:00",
                 "11:10:00",
@@ -405,7 +426,8 @@
                 "15:55:00",
                 "16:05:00",
                 "16:10:00",
-                "16:15:00"
+                "16:15:00",
+                "16:20:00"
             ]
         ]
     },
@@ -506,18 +528,6 @@
         "times": [
             [
                 "07:48:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-17",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk",
-        "times": [
-            [
-                "10:05:00"
             ]
         ]
     },
