@@ -2,12 +2,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 3,
+        "count": 2,
         "location": "Przychodnia lekarska",
         "address": "\u017beromskiego 41a, Sochaczew",
         "times": [
             [
-                "16:25:00",
                 "16:35:00",
                 "17:05:00"
             ]
@@ -67,11 +66,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
+        "count": 2,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
+                "10:20:00",
                 "10:25:00"
             ]
         ]
@@ -82,18 +82,6 @@
         "count": 1,
         "location": "Wojskowa Specjalistyczna Przychodnia Lekarska SPZOZ w Legionowie",
         "address": "Zegrzy\u0144ska 8, Legionowo",
-        "times": [
-            [
-                "10:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
                 "10:30:00"
@@ -121,6 +109,18 @@
         "times": [
             [
                 "13:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
+        "times": [
+            [
+                "06:15:00"
             ]
         ]
     },
@@ -176,12 +176,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 48,
+        "count": 47,
         "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
         "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
         "times": [
             [
-                "06:30:00",
                 "06:35:00",
                 "06:40:00",
                 "06:55:00",
@@ -235,7 +234,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 12,
+        "count": 11,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -250,8 +249,7 @@
                 "11:20:00",
                 "12:35:00",
                 "12:40:00",
-                "12:45:00",
-                "12:50:00"
+                "12:45:00"
             ]
         ]
     },
@@ -261,6 +259,18 @@
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
+        "times": [
+            [
+                "11:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "Poradnia lekarza POZ",
+        "address": "ul. Konstytucji 3 Maja 17, Radzymin",
         "times": [
             [
                 "11:40:00"
@@ -282,30 +292,6 @@
                 "12:35:00",
                 "12:40:00",
                 "12:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-16",
-        "count": 1,
-        "location": "O\u015brodek Zdrowia",
-        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
-        "times": [
-            [
-                "14:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-21",
-        "count": 1,
-        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
-        "address": "Spacerowa  29, Bia\u0142obrzegi",
-        "times": [
-            [
-                "10:05:00"
             ]
         ]
     },
@@ -358,30 +344,6 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-24",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
-        "times": [
-            [
-                "12:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc",
-        "times": [
-            [
-                "11:40:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-26",
         "count": 1,
@@ -417,26 +379,13 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
-        "count": 3,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "09:45:00",
                 "11:15:00",
                 "11:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
-        "address": "Jana Chilickiego  2, Zakroczym",
-        "times": [
-            [
-                "08:00:00"
             ]
         ]
     },
@@ -465,30 +414,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-28",
-        "count": 1,
-        "location": "PRZYCHODNIA LEKARSKA JACEK KRUPSKI - PUNKT SZCZEPIE\u0143",
-        "address": "DR. ST. PAW\u0141OWSKIEGO 15, MYSZYNIEC",
-        "times": [
-            [
-                "13:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-02",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "06:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-03",
         "count": 1,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
@@ -502,15 +427,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-05",
-        "count": 42,
+        "count": 41,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
             [
-                "07:20:00",
                 "07:55:00",
-                "08:15:00",
-                "08:20:00",
                 "08:25:00",
                 "08:35:00",
                 "08:40:00",
@@ -548,7 +470,9 @@
                 "11:30:00",
                 "11:35:00",
                 "11:40:00",
-                "11:45:00"
+                "11:45:00",
+                "11:50:00",
+                "11:55:00"
             ]
         ]
     }
