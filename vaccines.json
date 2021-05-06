@@ -160,26 +160,13 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "11:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 46,
+        "count": 45,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
                 "07:05:00",
-                "07:15:00",
                 "07:20:00",
                 "07:25:00",
                 "07:30:00",
@@ -230,7 +217,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 20,
+        "count": 21,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -242,7 +229,6 @@
                 "07:45:00",
                 "07:50:00",
                 "07:55:00",
-                "08:05:00",
                 "08:10:00",
                 "08:25:00",
                 "08:30:00",
@@ -254,7 +240,9 @@
                 "09:00:00",
                 "09:05:00",
                 "09:10:00",
-                "09:15:00"
+                "09:15:00",
+                "09:20:00",
+                "09:25:00"
             ]
         ]
     },
@@ -276,12 +264,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 11,
+        "count": 10,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "12:55:00",
                 "13:15:00",
                 "13:20:00",
                 "13:25:00",
@@ -298,7 +285,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 15,
+        "count": 16,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
@@ -317,7 +304,8 @@
                 "11:15:00",
                 "11:30:00",
                 "11:45:00",
-                "12:00:00"
+                "12:00:00",
+                "12:15:00"
             ]
         ]
     },
@@ -379,12 +367,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 7,
+        "count": 6,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "10:35:00",
                 "10:40:00",
                 "10:45:00",
                 "10:50:00",
