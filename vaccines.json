@@ -12,14 +12,14 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
+        "vaccine": "Moderna",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych w Zespole Szk\u00f3\u0142 Powiatowych w Przasnyszu",
-        "address": "SADOWA 5, PRZASNYSZ",
+        "location": "Warszawa-Weso\u0142a - Przychodnia \"Pogodna\"",
+        "address": "Jana Paw\u0142a II  25, Warszawa Weso\u0142a",
         "times": [
             [
-                "09:30:00"
+                "14:20:00"
             ]
         ]
     },
@@ -300,8 +300,6 @@
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko",
         "times": [
             [
-                "06:20:00",
-                "06:25:00",
                 "06:30:00",
                 "06:35:00",
                 "06:40:00",
@@ -310,7 +308,9 @@
                 "06:55:00",
                 "07:00:00",
                 "07:05:00",
-                "07:25:00"
+                "07:25:00",
+                "08:50:00",
+                "08:55:00"
             ]
         ]
     },
@@ -377,7 +377,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 14,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
@@ -390,7 +390,6 @@
                 "16:15:00",
                 "16:20:00",
                 "16:25:00",
-                "16:30:00",
                 "16:35:00",
                 "16:40:00",
                 "16:45:00",
@@ -450,7 +449,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 13,
+        "count": 14,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
@@ -467,7 +466,8 @@
                 "07:10:00",
                 "07:15:00",
                 "07:20:00",
-                "07:25:00"
+                "07:25:00",
+                "07:30:00"
             ]
         ]
     },
@@ -494,6 +494,18 @@
         "times": [
             [
                 "10:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-17",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
+        "times": [
+            [
+                "17:55:00"
             ]
         ]
     },
