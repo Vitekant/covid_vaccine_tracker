@@ -16,6 +16,19 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 2,
+        "location": "CENTRUM MEDYCZNE COMPLEX - MED SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "pl.Kili\u0144skiego 4, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "06:40:00",
+                "07:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 2,
         "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
         "address": "Szkolna 6, Milan\u00f3wek",
         "times": [
@@ -28,12 +41,24 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 84,
+        "count": 2,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+        "times": [
+            [
+                "07:25:00",
+                "11:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 83,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
-                "07:22:00",
                 "07:27:00",
                 "07:32:00",
                 "07:37:00",
@@ -123,19 +148,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
-        "times": [
-            [
-                "07:25:00",
-                "11:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 1,
         "location": "Gabinet diagnostyczno - zabiegowy dla lekarza POZ",
         "address": "3 Maja 5, Pu\u0142tusk",
@@ -151,18 +163,6 @@
         "count": 1,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
-        "times": [
-            [
-                "08:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
             [
                 "08:45:00"
@@ -222,13 +222,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-10",
+        "day": "2021-05-09",
         "count": 1,
-        "location": "DETOKS FENIX SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Umiastowska 50A, Kaputy",
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
             [
-                "12:55:00"
+                "12:40:00"
             ]
         ]
     },
@@ -241,18 +241,6 @@
         "times": [
             [
                 "11:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-11",
-        "count": 1,
-        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
-        "address": "Poniatowskiego 26, Siedlce",
-        "times": [
-            [
-                "15:40:00"
             ]
         ]
     },
@@ -315,13 +303,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 41,
+        "count": 44,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "09:25:00",
-                "09:35:00",
                 "09:40:00",
                 "09:45:00",
                 "09:50:00",
@@ -350,7 +336,6 @@
                 "12:15:00",
                 "12:20:00",
                 "12:35:00",
-                "12:40:00",
                 "12:45:00",
                 "12:50:00",
                 "12:55:00",
@@ -360,7 +345,13 @@
                 "13:20:00",
                 "13:25:00",
                 "13:30:00",
-                "13:35:00"
+                "13:35:00",
+                "13:40:00",
+                "13:45:00",
+                "13:50:00",
+                "13:55:00",
+                "14:00:00",
+                "14:05:00"
             ]
         ]
     },
@@ -418,7 +409,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-14",
-        "count": 12,
+        "count": 16,
         "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
         "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
         "times": [
@@ -434,7 +425,11 @@
                 "10:30:00",
                 "10:35:00",
                 "10:40:00",
-                "11:20:00"
+                "10:50:00",
+                "10:55:00",
+                "11:00:00",
+                "11:20:00",
+                "11:50:00"
             ]
         ]
     },
@@ -533,12 +528,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-20",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno",
         "times": [
             [
-                "13:57:00",
                 "15:25:00"
             ]
         ]
@@ -546,12 +540,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-21",
-        "count": 4,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "16:30:00",
                 "17:15:00",
                 "17:30:00",
                 "18:00:00"
