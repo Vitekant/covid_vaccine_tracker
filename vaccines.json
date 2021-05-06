@@ -24,18 +24,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
-        "address": "Jana Chilickiego  2, Zakroczym",
-        "times": [
-            [
-                "09:00:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
@@ -75,7 +63,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 82,
+        "count": 83,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -161,7 +149,8 @@
                 "14:02:00",
                 "14:05:00",
                 "14:07:00",
-                "14:10:00"
+                "14:10:00",
+                "14:12:00"
             ]
         ]
     },
@@ -220,13 +209,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
+        "count": 1,
         "location": "SPZOZ W IZABELINIE - PUNKT SZCZEPIE\u0143",
         "address": "TETMAJERA  3A, Izabelin",
         "times": [
             [
-                "09:20:00",
-                "09:35:00"
+                "09:20:00"
             ]
         ]
     },
@@ -450,7 +438,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 10,
+        "count": 11,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
@@ -464,7 +452,8 @@
                 "10:15:00",
                 "10:20:00",
                 "10:25:00",
-                "10:30:00"
+                "10:30:00",
+                "10:35:00"
             ]
         ]
     },
@@ -519,12 +508,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-15",
-        "count": 5,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
         "address": "Ossowskiego 25, Warszawa",
         "times": [
             [
-                "11:20:00",
                 "11:25:00",
                 "11:30:00",
                 "11:35:00",
@@ -535,14 +523,15 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-15",
-        "count": 3,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
         "address": "Strumykowa  21, Warszawa",
         "times": [
             [
                 "11:30:00",
                 "11:35:00",
-                "11:40:00"
+                "11:40:00",
+                "11:45:00"
             ]
         ]
     },
@@ -628,7 +617,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 6,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
@@ -637,8 +626,7 @@
                 "13:25:00",
                 "14:20:00",
                 "14:55:00",
-                "15:30:00",
-                "15:35:00"
+                "15:30:00"
             ]
         ]
     },
