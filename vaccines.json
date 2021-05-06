@@ -39,7 +39,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 86,
+        "count": 85,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -128,8 +128,7 @@
                 "14:07:00",
                 "14:10:00",
                 "14:12:00",
-                "14:15:00",
-                "14:17:00"
+                "14:15:00"
             ]
         ]
     },
@@ -187,11 +186,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
+        "count": 2,
         "location": "SPZOZ W IZABELINIE - PUNKT SZCZEPIE\u0143",
         "address": "TETMAJERA  3A, Izabelin",
         "times": [
             [
+                "09:20:00",
                 "09:35:00"
             ]
         ]
@@ -284,38 +284,13 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
-        "address": "Jana Paw\u0142a II  20, Radzymin",
-        "times": [
-            [
-                "11:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
-        "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
-        "times": [
-            [
-                "16:40:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-13",
-        "count": 20,
+        "count": 19,
         "location": "NZOZ CENTRUM MEDYCZNE - Poradnia lekarza podstawowej opieki zdrowotnej",
         "address": "Gda\u0144ska 2, R\u00f3\u017can",
         "times": [
             [
-                "10:10:00",
                 "10:20:00",
                 "10:30:00",
                 "10:40:00",
@@ -357,14 +332,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 31,
+        "count": 33,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "07:35:00",
                 "07:40:00",
-                "07:50:00",
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
@@ -392,7 +365,11 @@
                 "11:00:00",
                 "11:05:00",
                 "11:10:00",
-                "11:15:00"
+                "11:15:00",
+                "11:20:00",
+                "11:25:00",
+                "11:30:00",
+                "11:35:00"
             ]
         ]
     },
