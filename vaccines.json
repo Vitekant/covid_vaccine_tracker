@@ -2,12 +2,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-07",
-        "count": 3,
+        "count": 2,
         "location": "Gabinet lekarza POZ Gole",
         "address": "Gole 50, Gole",
         "times": [
             [
-                "06:10:00",
                 "06:40:00",
                 "07:20:00"
             ]
@@ -42,7 +41,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 84,
+        "count": 82,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -64,6 +63,7 @@
                 "08:37:00",
                 "08:42:00",
                 "08:47:00",
+                "08:50:00",
                 "08:52:00",
                 "09:45:00",
                 "09:50:00",
@@ -127,10 +127,7 @@
                 "13:52:00",
                 "13:55:00",
                 "13:57:00",
-                "14:02:00",
-                "14:05:00",
-                "14:07:00",
-                "14:10:00"
+                "14:02:00"
             ]
         ]
     },
@@ -174,6 +171,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "08:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
         "count": 3,
         "location": "Poradnia lekarza POZ  - \"MEDICINES\" Nowe \u0141ubki",
         "address": "Nowe \u0141ubki 5A",
@@ -207,6 +216,18 @@
         "times": [
             [
                 "09:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Centrum Medyczne Medycyna Rodzinna",
+        "address": "Gr\u00f3jecka 186, Warszawa",
+        "times": [
+            [
+                "10:05:00"
             ]
         ]
     },
@@ -259,18 +280,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "11:30:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
         "count": 2,
@@ -286,12 +295,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-13",
-        "count": 19,
+        "count": 18,
         "location": "NZOZ CENTRUM MEDYCZNE - Poradnia lekarza podstawowej opieki zdrowotnej",
         "address": "Gda\u0144ska 2, R\u00f3\u017can",
         "times": [
             [
-                "10:20:00",
                 "10:30:00",
                 "10:40:00",
                 "10:50:00",
@@ -332,12 +340,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 37,
+        "count": 40,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "09:05:00",
+                "06:55:00",
                 "09:15:00",
                 "09:20:00",
                 "09:25:00",
@@ -373,7 +381,10 @@
                 "12:20:00",
                 "12:25:00",
                 "12:30:00",
-                "12:35:00"
+                "12:35:00",
+                "12:40:00",
+                "12:45:00",
+                "12:50:00"
             ]
         ]
     },
@@ -419,11 +430,27 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-14",
         "count": 1,
+        "location": "PORADNIA POZ",
+        "address": "SZKOLNA 2, KAMPINOS",
+        "times": [
+            [
+                "08:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-14",
+        "count": 5,
         "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
         "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
         "times": [
             [
-                "09:30:00"
+                "09:30:00",
+                "09:40:00",
+                "09:50:00",
+                "09:55:00",
+                "10:00:00"
             ]
         ]
     },
@@ -482,7 +509,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 5,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
@@ -490,7 +517,6 @@
                 "10:30:00",
                 "10:45:00",
                 "11:45:00",
-                "15:00:00",
                 "15:15:00"
             ]
         ]
