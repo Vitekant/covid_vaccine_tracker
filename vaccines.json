@@ -438,12 +438,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 14,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "09:25:00",
                 "09:30:00",
                 "09:35:00",
                 "09:40:00",
@@ -481,18 +480,6 @@
         "times": [
             [
                 "13:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-15",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
-        "times": [
-            [
-                "12:50:00"
             ]
         ]
     },
