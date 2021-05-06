@@ -264,12 +264,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 6,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "13:20:00",
                 "13:25:00",
                 "13:30:00",
                 "13:35:00",
