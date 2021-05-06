@@ -26,6 +26,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
+        "count": 1,
+        "location": "CENTRUM MEDYCZNE COMPLEX - MED SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "pl.Kili\u0144skiego 4, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "06:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
         "count": 2,
         "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
         "address": "Szkolna 6, Milan\u00f3wek",
@@ -159,18 +171,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "CENTRUM MEDYCZNE COMPLEX - MED SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "pl.Kili\u0144skiego 4, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "07:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
         "location": "Gabinet diagnostyczno - zabiegowy dla lekarza POZ",
         "address": "3 Maja 5, Pu\u0142tusk",
         "times": [
@@ -281,7 +281,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-13",
-        "count": 24,
+        "count": 23,
         "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko",
         "times": [
@@ -294,7 +294,6 @@
                 "07:05:00",
                 "07:25:00",
                 "08:50:00",
-                "08:55:00",
                 "14:45:00",
                 "14:50:00",
                 "14:55:00",
@@ -537,13 +536,14 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-15",
-        "count": 2,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
         "address": "Strumykowa  21, Warszawa",
         "times": [
             [
                 "11:10:00",
-                "11:15:00"
+                "11:15:00",
+                "11:20:00"
             ]
         ]
     },
@@ -553,18 +553,6 @@
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
         "address": "Sienkiewicza 7, P\u0142o\u0144sk",
-        "times": [
-            [
-                "11:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-15",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Stadion Legii",
-        "address": "\u0141azienkowska 3, Warszawa",
         "times": [
             [
                 "11:15:00"
@@ -707,11 +695,12 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-21",
-        "count": 5,
+        "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
+                "16:00:00",
                 "16:30:00",
                 "17:15:00",
                 "17:30:00",
