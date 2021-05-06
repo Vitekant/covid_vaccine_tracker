@@ -1,5 +1,17 @@
 [
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Warszawa-Weso\u0142a - Przychodnia \"Pogodna\"",
+        "address": "Jana Paw\u0142a II  25, Warszawa Weso\u0142a",
+        "times": [
+            [
+                "12:40:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-07",
         "count": 1,
@@ -14,13 +26,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
+        "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \u0141OMIANKI",
         "address": "Warszawska 31, \u0141omianki",
         "times": [
             [
-                "06:25:00",
-                "07:35:00"
+                "06:25:00"
             ]
         ]
     },
@@ -40,7 +51,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 83,
+        "count": 85,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -127,7 +138,9 @@
                 "13:57:00",
                 "14:02:00",
                 "14:05:00",
-                "14:07:00"
+                "14:07:00",
+                "14:10:00",
+                "14:12:00"
             ]
         ]
     },
@@ -162,18 +175,6 @@
         "count": 1,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
-        "times": [
-            [
-                "08:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
             [
                 "08:45:00"
@@ -245,18 +246,6 @@
     },
     {
         "vaccine": "Moderna",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk",
-        "times": [
-            [
-                "09:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
         "day": "2021-05-10",
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
@@ -264,6 +253,18 @@
         "times": [
             [
                 "15:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-11",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "12:15:00"
             ]
         ]
     },
@@ -349,10 +350,8 @@
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "06:45:00",
                 "06:50:00",
                 "06:55:00",
-                "07:00:00",
                 "07:15:00",
                 "07:20:00",
                 "07:25:00",
@@ -380,7 +379,9 @@
                 "10:00:00",
                 "10:05:00",
                 "10:10:00",
-                "10:15:00"
+                "10:15:00",
+                "10:20:00",
+                "10:25:00"
             ]
         ]
     },
