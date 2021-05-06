@@ -342,6 +342,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-04",
+        "count": 1,
+        "location": "Przychodnia Rejonowa w Karczewie",
+        "address": "OTWOCKA 28, KARCZEW",
+        "times": [
+            [
+                "07:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-10",
         "count": 26,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
