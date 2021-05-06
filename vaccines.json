@@ -2,18 +2,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
-        "times": [
-            [
-                "16:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
         "count": 4,
         "location": "Przychodnia lekarska",
         "address": "\u017beromskiego 41a, Sochaczew",
@@ -152,6 +140,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "15:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
         "address": "Poniatowskiego 26, Siedlce",
         "times": [
@@ -163,12 +163,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 3,
+        "count": 2,
         "location": "CORTEN MEDIC TOMASZ SIKORA",
         "address": "Kobyli\u0144skiego 21a, P\u0142ock",
         "times": [
             [
-                "08:15:00",
                 "08:30:00",
                 "08:45:00"
             ]
@@ -189,11 +188,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 54,
+        "count": 55,
         "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
         "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
         "times": [
             [
+                "06:15:00",
                 "06:20:00",
                 "06:25:00",
                 "06:30:00",
@@ -298,50 +298,27 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 3,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
             [
                 "12:00:00",
                 "12:05:00",
-                "12:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-17",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk",
-        "times": [
-            [
-                "06:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-18",
-        "count": 1,
-        "location": "DETOKS FENIX SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Umiastowska 50A, Kaputy",
-        "times": [
-            [
-                "11:00:00"
+                "12:10:00",
+                "12:15:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-19",
+        "day": "2021-05-20",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
-        "address": "T\u0119czowa 16, Z\u0105bki",
+        "location": "Punkt szczepie\u0144",
+        "address": "Kunin 20, Kunin",
         "times": [
             [
-                "09:30:00"
+                "08:35:00"
             ]
         ]
     },
@@ -349,11 +326,11 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
+        "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "07:25:00"
+                "11:15:00"
             ]
         ]
     },
@@ -363,42 +340,6 @@
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
         "address": "Parkowa 14, Raci\u0105\u017c",
-        "times": [
-            [
-                "11:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-22",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
-        "times": [
-            [
-                "09:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-22",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych -  SPZOZ Przychodnia Miejska w J\u00f3zefowie",
-        "address": "Sk\u0142odowskiej 5/7, J\u00f3zef\u00f3w",
-        "times": [
-            [
-                "10:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-24",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
         "times": [
             [
                 "11:25:00"
@@ -465,24 +406,38 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "11:00:00"
+                "11:00:00",
+                "11:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szkolno-Przedszkolny nr 4 w Nowym Dworze Mazowieckim",
+        "address": "Gen. J. Bema 312, Nowy Dw\u00f3r Mazowiecki",
+        "times": [
+            [
+                "13:10:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 1,
+        "count": 2,
         "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko",
         "times": [
             [
-                "08:00:00"
+                "08:00:00",
+                "08:05:00"
             ]
         ]
     },
@@ -521,26 +476,37 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-29",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-28",
         "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+        "address": "Parkowa 14, Raci\u0105\u017c",
         "times": [
             [
-                "12:15:00"
+                "08:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-31",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
+        "address": "Jana Paw\u0142a II  20, Radzymin",
+        "times": [
+            [
+                "11:50:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-03",
-        "count": 4,
+        "count": 3,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "11:05:00",
                 "11:15:00",
                 "11:20:00",
                 "11:25:00"
@@ -550,12 +516,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-04",
-        "count": 2,
+        "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo",
         "times": [
             [
-                "12:20:00",
                 "12:35:00"
             ]
         ]
@@ -563,12 +528,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-05",
-        "count": 34,
+        "count": 36,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
             [
-                "06:00:00",
                 "06:05:00",
                 "06:10:00",
                 "06:15:00",
@@ -601,7 +565,10 @@
                 "08:30:00",
                 "08:35:00",
                 "08:40:00",
-                "08:45:00"
+                "08:45:00",
+                "08:50:00",
+                "08:55:00",
+                "09:00:00"
             ]
         ]
     }
