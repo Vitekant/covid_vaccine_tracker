@@ -344,6 +344,18 @@
         "vaccine": "Pfizer",
         "day": "2021-06-04",
         "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
+        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
+        "times": [
+            [
+                "06:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-04",
+        "count": 1,
         "location": "Poradnia (gabinet) lekarza rodzinnego",
         "address": "Okrzei 51C, \u017byrard\u00f3w",
         "times": [
