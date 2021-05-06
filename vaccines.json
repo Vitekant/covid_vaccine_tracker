@@ -110,8 +110,20 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Punkt pobra\u0144 materia\u0142\u00f3w do bada\u0144",
+        "address": "Spokojna 5, Warszawa",
+        "times": [
+            [
+                "08:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 36,
+        "count": 35,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -150,8 +162,7 @@
                 "10:40:00",
                 "10:45:00",
                 "10:50:00",
-                "10:55:00",
-                "11:05:00"
+                "10:55:00"
             ]
         ]
     },
@@ -186,7 +197,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 48,
+        "count": 49,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -238,14 +249,27 @@
                 "10:40:00",
                 "10:45:00",
                 "10:50:00",
-                "10:55:00"
+                "10:55:00",
+                "11:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
+        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
+        "times": [
+            [
+                "16:15:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 18,
+        "count": 16,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -265,9 +289,7 @@
                 "08:00:00",
                 "08:05:00",
                 "08:10:00",
-                "08:15:00",
-                "08:20:00",
-                "08:25:00"
+                "08:15:00"
             ]
         ]
     },
