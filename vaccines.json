@@ -43,18 +43,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
-        "location": "Przychodnia Rejonowo Specjalistyczna",
-        "address": "Poborza\u0144ska 6, warszawa",
-        "times": [
-            [
-                "09:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 8,
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc",
@@ -149,14 +137,15 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 3,
+        "count": 4,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
                 "06:55:00",
-                "11:35:00",
-                "11:40:00"
+                "11:40:00",
+                "11:50:00",
+                "12:20:00"
             ]
         ]
     },
@@ -226,7 +215,6 @@
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "07:45:00",
                 "07:50:00",
                 "07:55:00",
                 "08:40:00",
@@ -247,7 +235,8 @@
                 "10:45:00",
                 "10:50:00",
                 "10:55:00",
-                "11:00:00"
+                "11:00:00",
+                "11:05:00"
             ]
         ]
     },
@@ -269,12 +258,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 12,
+        "count": 11,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "11:05:00",
                 "13:10:00",
                 "13:15:00",
                 "13:20:00",
@@ -292,7 +280,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 11,
+        "count": 12,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
@@ -307,7 +295,20 @@
                 "11:45:00",
                 "12:00:00",
                 "12:15:00",
-                "12:30:00"
+                "12:30:00",
+                "12:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-10",
+        "count": 1,
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc",
+        "times": [
+            [
+                "10:50:00"
             ]
         ]
     },
@@ -373,7 +374,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 5,
+        "count": 6,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -382,19 +383,8 @@
                 "10:40:00",
                 "10:45:00",
                 "10:55:00",
+                "11:05:00",
                 "11:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
-        "times": [
-            [
-                "18:00:00"
             ]
         ]
     },
