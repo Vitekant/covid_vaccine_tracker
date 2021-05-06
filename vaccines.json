@@ -38,30 +38,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "Przychodnia Rejonowo-Specjalistyczna, ul. Sosnkowskiego ",
-        "address": "Sosnkowskiego 18, Warszawa",
-        "times": [
-            [
-                "12:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
-        "location": "EMC PIASECZNO",
-        "address": "Szkolna 1, Piaseczno",
-        "times": [
-            [
-                "14:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 21,
         "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
@@ -96,12 +72,12 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+        "location": "Przychodnia Kochanowskiego ",
+        "address": "ul. Jana Kochanowskiego 19, Warszawa",
         "times": [
             [
-                "10:20:00",
-                "14:00:00"
+                "09:40:00",
+                "09:50:00"
             ]
         ]
     },
@@ -146,6 +122,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+        "times": [
+            [
+                "14:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
         "count": 2,
         "location": "Poradnia chor\u00f3b wewn\u0119trznych",
         "address": "Aleja Owocowa 30C, Tr\u0105bki",
@@ -153,6 +141,18 @@
             [
                 "14:50:00",
                 "16:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin",
+        "times": [
+            [
+                "15:10:00"
             ]
         ]
     },
@@ -249,6 +249,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
+        "count": 1,
+        "location": "Poradnia Lekarza POZ",
+        "address": "Sadowa 9, Przasnysz",
+        "times": [
+            [
+                "10:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-10",
         "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
@@ -265,17 +277,26 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 6,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "11:00:00",
-                "12:15:00",
-                "12:30:00",
                 "12:45:00",
                 "13:00:00",
                 "13:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "NZOZ  ,,DOBRE ZDROWIE\" Punkt szczepie\u0144",
+        "address": "ul. Szkolna  2, Dobre",
+        "times": [
+            [
+                "12:00:00"
             ]
         ]
     },
@@ -296,50 +317,40 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-06-06",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-06-01",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
-        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
+        "location": "Your Med Sp. z o. o.",
+        "address": "Magazynowa 9/13, Warszawa",
         "times": [
             [
-                "07:45:00"
+                "08:15:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-07",
-        "count": 1,
+        "count": 2,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "06:50:00"
+                "06:50:00",
+                "08:35:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-08",
-        "count": 1,
+        "count": 2,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
+                "06:35:00",
                 "06:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-08",
-        "count": 1,
-        "location": "Przychodnia Rejonowa Nr 1 Samodzielny Zesp\u00f3\u0142 Publicznych Zak\u0142ad\u00f3w Lecznictwa Otwartego w Piasecznie",
-        "address": "Fabryczna 1, Piaseczno",
-        "times": [
-            [
-                "13:20:00"
             ]
         ]
     },
@@ -379,7 +390,7 @@
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "15:30:00"
+                "15:35:00"
             ]
         ]
     },
@@ -392,18 +403,6 @@
         "times": [
             [
                 "08:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-12",
-        "count": 1,
-        "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
-        "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka",
-        "times": [
-            [
-                "07:45:00"
             ]
         ]
     },
@@ -453,26 +452,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 3,
+        "count": 1,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "14:45:00",
-                "15:05:00",
                 "15:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-06-15",
-        "count": 1,
-        "location": "Przychodnia Zajezierze",
-        "address": "28 Pu\u0142ku Artylerii Lekkiej 7A, Zajezierze",
-        "times": [
-            [
-                "06:00:00"
             ]
         ]
     },
@@ -510,7 +495,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 18,
+        "count": 19,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
@@ -532,19 +517,19 @@
                 "14:40:00",
                 "14:45:00",
                 "14:50:00",
-                "14:55:00"
+                "14:55:00",
+                "15:00:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 5,
+        "count": 4,
         "location": "NZOZ  ,,DOBRE ZDROWIE\" Punkt szczepie\u0144",
         "address": "ul. Szkolna  2, Dobre",
         "times": [
             [
-                "12:05:00",
                 "12:20:00",
                 "12:25:00",
                 "12:30:00",
@@ -600,7 +585,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-21",
-        "count": 21,
+        "count": 20,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -624,8 +609,7 @@
                 "07:10:00",
                 "08:00:00",
                 "08:05:00",
-                "08:10:00",
-                "08:15:00"
+                "08:10:00"
             ]
         ]
     }
