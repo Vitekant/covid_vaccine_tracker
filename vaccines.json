@@ -3,11 +3,11 @@
         "vaccine": "Moderna",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Przychodnia w Granicy",
-        "address": "G\u0142\u00f3wna 104, Granica",
+        "location": "Punkt szczepie\u0144",
+        "address": "Kili\u0144skiego 4B, Sarnaki",
         "times": [
             [
-                "10:15:00"
+                "10:10:00"
             ]
         ]
     },
@@ -147,6 +147,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
+        "location": "Przychodnia Rejonowo Specjalistyczna",
+        "address": "Poborza\u0144ska 6, warszawa",
+        "times": [
+            [
+                "07:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
         "location": "Gabinet diagnostyczno - zabiegowy dla lekarza POZ",
         "address": "3 Maja 5, Pu\u0142tusk",
         "times": [
@@ -193,18 +205,6 @@
                 "09:35:00",
                 "11:35:00",
                 "11:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "11:15:00"
             ]
         ]
     },
@@ -273,27 +273,24 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
-        "address": "T\u0119czowa 16, Z\u0105bki",
+        "count": 2,
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
             [
-                "10:45:00"
+                "08:00:00",
+                "08:10:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 19,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "13:35:00",
-                "13:40:00",
-                "13:45:00",
-                "13:50:00",
                 "13:55:00",
                 "15:30:00",
                 "15:35:00",
@@ -303,9 +300,7 @@
                 "15:55:00",
                 "16:10:00",
                 "16:15:00",
-                "16:20:00",
                 "16:25:00",
-                "16:40:00",
                 "16:45:00",
                 "16:50:00",
                 "16:55:00"
@@ -349,7 +344,19 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-13",
-        "count": 5,
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
+        "times": [
+            [
+                "12:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-13",
+        "count": 6,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -358,6 +365,7 @@
                 "14:20:00",
                 "14:35:00",
                 "15:00:00",
+                "16:30:00",
                 "17:10:00"
             ]
         ]
@@ -365,7 +373,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 13,
+        "count": 16,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
@@ -382,7 +390,10 @@
                 "07:05:00",
                 "07:10:00",
                 "07:15:00",
-                "07:20:00"
+                "07:20:00",
+                "07:25:00",
+                "07:30:00",
+                "07:35:00"
             ]
         ]
     },
