@@ -15,6 +15,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
+        "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
+        "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze",
+        "times": [
+            [
+                "06:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc",
         "times": [
@@ -123,7 +135,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 36,
+        "count": 35,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -162,8 +174,7 @@
                 "10:40:00",
                 "10:45:00",
                 "10:50:00",
-                "10:55:00",
-                "11:00:00"
+                "10:55:00"
             ]
         ]
     },
@@ -182,12 +193,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 7,
+        "count": 6,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "08:30:00",
                 "08:35:00",
                 "08:40:00",
                 "08:50:00",
@@ -200,7 +210,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 49,
+        "count": 50,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -253,7 +263,8 @@
                 "10:30:00",
                 "10:35:00",
                 "10:40:00",
-                "10:45:00"
+                "10:45:00",
+                "10:50:00"
             ]
         ]
     },
