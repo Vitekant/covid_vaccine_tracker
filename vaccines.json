@@ -343,6 +343,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-04",
+        "count": 1,
+        "location": "Poradnia (gabinet) lekarza rodzinnego",
+        "address": "Okrzei 51C, \u017byrard\u00f3w",
+        "times": [
+            [
+                "09:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-10",
         "count": 26,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
@@ -387,18 +399,6 @@
         "times": [
             [
                 "13:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-11",
-        "count": 1,
-        "location": "Ma\u0142y Gabinet Lekarski",
-        "address": "Komorska 37, Warszawa",
-        "times": [
-            [
-                "07:10:00"
             ]
         ]
     },
