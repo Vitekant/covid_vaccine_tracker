@@ -3,18 +3,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
-        "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze",
-        "times": [
-            [
-                "06:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
-        "count": 1,
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc",
         "times": [
@@ -160,26 +148,24 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 2,
+        "count": 1,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "11:55:00",
-                "12:10:00"
+                "11:35:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 49,
+        "count": 48,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
                 "06:55:00",
-                "07:20:00",
                 "07:25:00",
                 "07:30:00",
                 "07:35:00",
@@ -233,7 +219,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 19,
+        "count": 22,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -256,7 +242,10 @@
                 "09:40:00",
                 "09:55:00",
                 "10:25:00",
-                "10:30:00"
+                "10:30:00",
+                "10:35:00",
+                "10:40:00",
+                "10:45:00"
             ]
         ]
     },
@@ -301,11 +290,12 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 14,
+        "count": 15,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
+                "06:45:00",
                 "07:15:00",
                 "07:30:00",
                 "08:45:00",
@@ -326,16 +316,14 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 19,
+        "count": 17,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
             [
-                "10:25:00",
                 "10:50:00",
                 "10:55:00",
                 "11:05:00",
-                "11:20:00",
                 "11:25:00",
                 "11:30:00",
                 "11:35:00",
@@ -388,23 +376,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
-        "address": "Jana Paw\u0142a II  20, Radzymin",
-        "times": [
-            [
-                "09:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 6,
+        "count": 7,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
             [
+                "10:35:00",
                 "10:40:00",
                 "10:45:00",
                 "10:50:00",
@@ -474,7 +451,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 5,
+        "count": 6,
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc",
         "times": [
@@ -483,7 +460,8 @@
                 "09:55:00",
                 "10:10:00",
                 "10:15:00",
-                "10:20:00"
+                "10:20:00",
+                "10:30:00"
             ]
         ]
     }
