@@ -179,18 +179,6 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
-        "address": "D\u0141UGA 75, BRAMKI",
-        "times": [
-            [
-                "16:45:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-19",
         "count": 1,
@@ -288,7 +276,6 @@
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "06:20:00",
                 "06:25:00",
                 "06:35:00",
                 "06:40:00",
@@ -302,7 +289,8 @@
                 "07:45:00",
                 "07:50:00",
                 "07:55:00",
-                "08:00:00"
+                "08:00:00",
+                "08:05:00"
             ]
         ]
     },
@@ -347,7 +335,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 16,
+        "count": 17,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
@@ -367,7 +355,8 @@
                 "10:30:00",
                 "10:45:00",
                 "11:00:00",
-                "11:15:00"
+                "11:15:00",
+                "11:30:00"
             ]
         ]
     },
