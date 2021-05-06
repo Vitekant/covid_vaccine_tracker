@@ -2,18 +2,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 1,
-        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
-        "address": "ul. Henryka Sienkiewicza 9, Sierpc",
-        "times": [
-            [
-                "06:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-06",
         "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
@@ -21,6 +9,18 @@
             [
                 "13:00:00",
                 "13:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "Punkt szczepie\u0144 (doro\u015bli i dzieci)",
+        "address": "Mazowiecka 13B, Czerwin",
+        "times": [
+            [
+                "14:15:00"
             ]
         ]
     },
@@ -37,6 +37,18 @@
                 "09:35:00",
                 "09:50:00",
                 "10:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Przychodnia Rejonowo Specjalistyczna",
+        "address": "Poborza\u0144ska 6, warszawa",
+        "times": [
+            [
+                "09:05:00"
             ]
         ]
     },
@@ -123,6 +135,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "06:50:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
         "count": 3,
@@ -132,20 +156,18 @@
             [
                 "06:55:00",
                 "11:35:00",
-                "12:20:00"
+                "11:40:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 49,
+        "count": 47,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "06:55:00",
-                "07:25:00",
                 "07:30:00",
                 "07:35:00",
                 "07:45:00",
@@ -199,7 +221,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 20,
+        "count": 22,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -223,7 +245,9 @@
                 "10:35:00",
                 "10:40:00",
                 "10:45:00",
-                "10:50:00"
+                "10:50:00",
+                "10:55:00",
+                "11:00:00"
             ]
         ]
     },
@@ -245,11 +269,12 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 11,
+        "count": 12,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
+                "11:05:00",
                 "13:10:00",
                 "13:15:00",
                 "13:20:00",
@@ -267,13 +292,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 13,
+        "count": 11,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "07:30:00",
-                "08:45:00",
                 "09:15:00",
                 "09:45:00",
                 "10:15:00",
@@ -331,7 +354,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 9,
+        "count": 8,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -341,7 +364,6 @@
                 "14:00:00",
                 "14:10:00",
                 "14:20:00",
-                "14:30:00",
                 "17:00:00",
                 "17:10:00",
                 "17:20:00"
@@ -351,7 +373,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 6,
+        "count": 5,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -359,7 +381,6 @@
                 "10:35:00",
                 "10:40:00",
                 "10:45:00",
-                "10:50:00",
                 "10:55:00",
                 "11:10:00"
             ]
