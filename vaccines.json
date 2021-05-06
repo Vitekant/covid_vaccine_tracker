@@ -42,30 +42,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"CENTRUM\" Filia Hipolit\u00f3w",
-        "address": "Warszawska 63, Hipolit\u00f3w",
-        "times": [
-            [
-                "09:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt szczepie\u0144 (szczepienia zalecane)",
-        "address": "Franciszka Klimczaka 1, Warszawa",
-        "times": [
-            [
-                "11:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
         "location": "Gabinet lekarza POZ - \"MEDICUS\" \u017bELECH\u00d3W",
         "address": "REYMONTA 36A, \u017bELECH\u00d3W",
         "times": [
@@ -78,11 +54,35 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
+        "location": "punkt szczepie\u0144 Poniatowskiego",
+        "address": "Poniatowskiego 21, Raszyn",
+        "times": [
+            [
+                "11:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
         "location": "Przychodnia nr 1 (filia)",
         "address": "PADEREWSKIEGO 6, RADOM",
         "times": [
             [
                 "12:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 dla doros\u0142ych",
+        "address": "Aleje Jerozolimskie 96, Warszawa",
+        "times": [
+            [
+                "14:15:00"
             ]
         ]
     },
@@ -125,12 +125,25 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
+                "08:30:00",
                 "14:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI",
+        "times": [
+            [
+                "09:45:00"
             ]
         ]
     },
@@ -155,6 +168,7 @@
         "times": [
             [
                 "08:55:00",
+                "09:05:00",
                 "10:20:00",
                 "10:25:00",
                 "10:35:00",
@@ -191,8 +205,7 @@
                 "14:45:00",
                 "14:50:00",
                 "14:55:00",
-                "15:00:00",
-                "15:05:00"
+                "15:00:00"
             ]
         ]
     },
@@ -233,7 +246,7 @@
         "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
-                "14:20:00"
+                "15:15:00"
             ]
         ]
     },
@@ -286,25 +299,14 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "CENTRUM MEDYCZNE W JAKTOROWIE",
-        "address": "Warszawska 24, Chylice Kolonia",
-        "times": [
-            [
-                "16:35:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-26",
-        "count": 8,
+        "count": 9,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
+                "08:00:00",
                 "08:30:00",
                 "08:45:00",
                 "09:00:00",
@@ -320,11 +322,11 @@
         "vaccine": "Pfizer",
         "day": "2021-05-26",
         "count": 1,
-        "location": "\"DAGIS centrum medyczne\" Niepubliczny Zak\u0142ad Opieki Zdrowotnej-Poradnia lekarza POZ",
-        "address": "Odkryta 31 -, Warszawa",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szkolno-Przedszkolny nr 4 w Nowym Dworze Mazowieckim",
+        "address": "Gen. J. Bema 312, Nowy Dw\u00f3r Mazowiecki",
         "times": [
             [
-                "10:25:00"
+                "11:20:00"
             ]
         ]
     },
@@ -346,23 +348,22 @@
         "vaccine": "Pfizer",
         "day": "2021-05-27",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
+        "address": "Sienkiewicza 7, P\u0142o\u0144sk",
         "times": [
             [
-                "11:10:00"
+                "07:40:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 10,
+        "count": 9,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "06:00:00",
                 "06:15:00",
                 "06:30:00",
                 "06:45:00",
@@ -390,13 +391,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-03",
+        "day": "2021-06-04",
         "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
-        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
+        "address": "Goworowska 39A, W\u0105sewo",
         "times": [
             [
-                "12:30:00"
+                "13:10:00"
             ]
         ]
     },
@@ -414,25 +415,50 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-07",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "16:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 1,
+        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
+        "address": "Spacerowa  29, Bia\u0142obrzegi",
+        "times": [
+            [
+                "12:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-09",
         "count": 1,
         "location": "Punkt Szczepie\u0144",
         "address": "Grochowska nr 306/308, Warszawa",
         "times": [
             [
-                "14:35:00"
+                "14:50:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 2,
+        "count": 3,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
                 "13:35:00",
+                "14:40:00",
                 "16:05:00"
             ]
         ]
@@ -505,38 +531,15 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 1,
-        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
-        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa",
-        "times": [
-            [
-                "15:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-15",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
-        "times": [
-            [
-                "16:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 3,
+        "count": 4,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
             [
                 "06:50:00",
                 "07:10:00",
+                "10:10:00",
                 "10:20:00"
             ]
         ]
@@ -568,12 +571,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 19,
+        "count": 18,
         "location": "NOVIS Sp. z o.o.",
         "address": "Andrzeja Struga 60/ACM, Radom",
         "times": [
             [
-                "12:45:00",
                 "12:50:00",
                 "12:55:00",
                 "13:00:00",
