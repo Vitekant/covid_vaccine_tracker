@@ -123,7 +123,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 36,
+        "count": 35,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -131,7 +131,6 @@
                 "07:45:00",
                 "07:50:00",
                 "07:55:00",
-                "08:00:00",
                 "08:05:00",
                 "08:10:00",
                 "08:15:00",
@@ -163,6 +162,18 @@
                 "10:40:00",
                 "10:45:00",
                 "10:50:00",
+                "10:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
+        "times": [
+            [
                 "10:55:00"
             ]
         ]
