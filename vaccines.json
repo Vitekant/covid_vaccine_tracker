@@ -1,6 +1,30 @@
 [
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "RYNEK 10, STARE BABICE",
+        "times": [
+            [
+                "15:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "EMC PIASECZNO",
+        "address": "Szkolna 1, Piaseczno",
+        "times": [
+            [
+                "16:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 4,
         "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
@@ -18,11 +42,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+        "location": "Przychodnia DEKAMED - Punkt szczepie\u0144",
+        "address": "Lipi\u0144ska  99, Wo\u0142omin",
         "times": [
             [
-                "10:05:00"
+                "10:45:00"
             ]
         ]
     },
@@ -57,6 +81,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
+        "location": "Punkt Szczepie\u0144 dla doros\u0142ych",
+        "address": "Aleje Jerozolimskie 96, Warszawa",
+        "times": [
+            [
+                "14:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
         "location": "Poradnia chor\u00f3b wewn\u0119trznych",
         "address": "Aleja Owocowa 30C, Tr\u0105bki",
         "times": [
@@ -74,18 +110,6 @@
         "times": [
             [
                 "16:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
-        "address": "Szkolna 21, Rzeku\u0144",
-        "times": [
-            [
-                "08:00:00"
             ]
         ]
     },
@@ -116,6 +140,18 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "10:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
         "count": 1,
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
@@ -141,7 +177,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 37,
+        "count": 36,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -181,8 +217,7 @@
                 "14:25:00",
                 "14:30:00",
                 "14:35:00",
-                "14:40:00",
-                "14:45:00"
+                "14:40:00"
             ]
         ]
     },
@@ -228,18 +263,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-18",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "Paw\u0142owskiego 15, Myszyniec",
-        "times": [
-            [
-                "10:45:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-20",
         "count": 1,
@@ -264,14 +287,14 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-25",
+        "vaccine": "Moderna",
+        "day": "2021-05-21",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
             [
-                "09:00:00"
+                "08:15:00"
             ]
         ]
     },
@@ -314,7 +337,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 5,
+        "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
@@ -323,44 +346,20 @@
                 "06:15:00",
                 "06:30:00",
                 "06:45:00",
-                "07:00:00"
+                "07:00:00",
+                "07:15:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-09",
+        "day": "2021-06-04",
         "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
-        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
+        "address": "Goworowska 39A, W\u0105sewo",
         "times": [
             [
-                "09:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 1,
-        "location": "Przychodnia Rejonowa Nr 1 Samodzielny Zesp\u00f3\u0142 Publicznych Zak\u0142ad\u00f3w Lecznictwa Otwartego w Piasecznie",
-        "address": "Fabryczna 1, Piaseczno",
-        "times": [
-            [
-                "14:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-10",
-        "count": 2,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
-        "times": [
-            [
-                "15:00:00",
-                "17:20:00"
+                "11:40:00"
             ]
         ]
     },
@@ -373,6 +372,19 @@
         "times": [
             [
                 "09:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-11",
+        "count": 2,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "15:00:00",
+                "17:50:00"
             ]
         ]
     },
@@ -403,12 +415,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-14",
-        "count": 2,
+        "count": 1,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "12:25:00",
                 "15:55:00"
             ]
         ]
@@ -496,12 +507,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 3,
+        "count": 2,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "07:50:00",
                 "07:55:00",
                 "08:05:00"
             ]
@@ -530,6 +540,18 @@
             [
                 "10:20:00",
                 "10:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-16",
+        "count": 1,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "13:35:00"
             ]
         ]
     },
