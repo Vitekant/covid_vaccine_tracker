@@ -1,5 +1,17 @@
 [
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI",
+        "times": [
+            [
+                "16:30:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 2,
@@ -286,18 +298,6 @@
         "vaccine": "Pfizer",
         "day": "2021-05-12",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
-        "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
-        "times": [
-            [
-                "13:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 1,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -356,7 +356,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 31,
+        "count": 32,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
@@ -384,14 +384,15 @@
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
-                "09:00:00",
                 "09:05:00",
                 "09:10:00",
                 "09:15:00",
                 "09:20:00",
                 "09:25:00",
                 "09:30:00",
-                "09:35:00"
+                "09:35:00",
+                "09:40:00",
+                "09:45:00"
             ]
         ]
     },
