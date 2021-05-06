@@ -189,7 +189,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 51,
+        "count": 50,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -226,7 +226,6 @@
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
-                "09:00:00",
                 "09:05:00",
                 "09:20:00",
                 "09:25:00",
@@ -287,6 +286,18 @@
                 "13:35:00",
                 "13:40:00",
                 "13:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
+        "address": "Sienkiewicza 7, P\u0142o\u0144sk",
+        "times": [
+            [
+                "12:30:00"
             ]
         ]
     },
