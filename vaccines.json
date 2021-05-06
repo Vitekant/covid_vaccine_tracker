@@ -14,12 +14,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 58,
+        "count": 59,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
-                "07:35:00",
                 "07:40:00",
                 "07:50:00",
                 "07:55:00",
@@ -29,6 +28,7 @@
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
+                "09:25:00",
                 "09:30:00",
                 "09:35:00",
                 "09:40:00",
@@ -76,7 +76,8 @@
                 "14:20:00",
                 "14:25:00",
                 "14:35:00",
-                "14:37:00"
+                "14:37:00",
+                "14:50:00"
             ]
         ]
     },
@@ -235,7 +236,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 21,
+        "count": 20,
         "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
         "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
         "times": [
@@ -259,8 +260,19 @@
                 "09:55:00",
                 "10:00:00",
                 "10:10:00",
-                "10:15:00",
-                "10:35:00"
+                "10:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-25",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
+        "times": [
+            [
+                "14:05:00"
             ]
         ]
     },
@@ -282,6 +294,18 @@
                 "14:15:00",
                 "14:30:00",
                 "14:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+        "address": "Parkowa 14, Raci\u0105\u017c",
+        "times": [
+            [
+                "07:50:00"
             ]
         ]
     },
@@ -312,12 +336,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
         "address": "Szczytno 11a, Szczytno",
         "times": [
             [
-                "11:05:00",
                 "11:10:00"
             ]
         ]
@@ -349,49 +372,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-02",
-        "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "Kadm. W\u0142odzimierza Steyera 2E, OSTRO\u0141\u0118KA",
-        "times": [
-            [
-                "09:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-02",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 \"\u015aR\u00d3DMIE\u015aCIE 3\"",
-        "address": "ul. Andrzeja Struga 57 A, Radom",
-        "times": [
-            [
-                "11:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-05",
+        "day": "2021-06-06",
         "count": 1,
         "location": "PORADNIA LEKARZA POZ",
         "address": "Rynek 21, Stare Babice",
         "times": [
             [
                 "12:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "16:05:00"
             ]
         ]
     },
@@ -432,11 +419,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-12",
-        "count": 2,
+        "count": 3,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
             [
+                "09:15:00",
                 "09:50:00",
                 "09:55:00"
             ]
@@ -445,7 +433,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 19,
+        "count": 20,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
@@ -468,18 +456,20 @@
                 "09:10:00",
                 "09:15:00",
                 "09:20:00",
-                "09:25:00"
+                "09:25:00",
+                "09:30:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 10,
+        "count": 11,
         "location": "PORADNIA LEKARZA POZ",
         "address": "Rynek 21, Stare Babice",
         "times": [
             [
+                "08:20:00",
                 "08:35:00",
                 "08:40:00",
                 "08:45:00",
