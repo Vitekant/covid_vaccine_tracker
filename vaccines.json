@@ -2,13 +2,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
-        "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
-        "address": "Szkolna 6, Milan\u00f3wek",
+        "count": 1,
+        "location": "CENTRUM MEDYCZNE COMPLEX - MED SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "pl.Kili\u0144skiego 4, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "07:00:00",
-                "07:15:00"
+                "06:40:00"
             ]
         ]
     },
@@ -21,6 +20,18 @@
         "times": [
             [
                 "07:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
+        "address": "Szkolna 6, Milan\u00f3wek",
+        "times": [
+            [
+                "07:15:00"
             ]
         ]
     },
@@ -46,7 +57,6 @@
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
-                "07:32:00",
                 "07:42:00",
                 "07:47:00",
                 "07:52:00",
@@ -131,7 +141,8 @@
                 "14:20:00",
                 "14:22:00",
                 "14:27:00",
-                "14:35:00"
+                "14:35:00",
+                "14:37:00"
             ]
         ]
     },
@@ -212,14 +223,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-13",
-        "count": 21,
+        "count": 19,
         "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko",
         "times": [
             [
                 "06:40:00",
-                "06:50:00",
-                "06:55:00",
                 "07:00:00",
                 "07:05:00",
                 "07:25:00",
@@ -244,13 +253,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-13",
-        "count": 14,
+        "count": 13,
         "location": "NZOZ CENTRUM MEDYCZNE - Poradnia lekarza podstawowej opieki zdrowotnej",
         "address": "Gda\u0144ska 2, R\u00f3\u017can",
         "times": [
             [
                 "10:50:00",
-                "11:00:00",
                 "11:10:00",
                 "11:20:00",
                 "11:30:00",
@@ -281,20 +289,17 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-14",
-        "count": 9,
+        "count": 6,
         "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
         "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
         "times": [
             [
-                "11:10:00",
                 "11:20:00",
                 "11:25:00",
                 "11:30:00",
                 "11:50:00",
                 "11:55:00",
-                "12:00:00",
-                "12:05:00",
-                "12:55:00"
+                "12:00:00"
             ]
         ]
     },
@@ -311,18 +316,6 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-14",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "14:30:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-15",
         "count": 5,
@@ -330,11 +323,11 @@
         "address": "Ossowskiego 25, Warszawa",
         "times": [
             [
-                "11:50:00",
                 "12:00:00",
-                "12:05:00",
-                "12:10:00",
-                "12:15:00"
+                "12:30:00",
+                "12:35:00",
+                "12:40:00",
+                "12:45:00"
             ]
         ]
     },
@@ -346,8 +339,8 @@
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "12:00:00",
-                "12:15:00"
+                "12:30:00",
+                "12:45:00"
             ]
         ]
     },
@@ -359,9 +352,9 @@
         "address": "Strumykowa  21, Warszawa",
         "times": [
             [
-                "12:05:00",
-                "12:10:00",
-                "12:15:00"
+                "12:35:00",
+                "12:40:00",
+                "12:45:00"
             ]
         ]
     },
@@ -373,7 +366,7 @@
         "address": "\u0141azienkowska 3, Warszawa",
         "times": [
             [
-                "12:15:00"
+                "12:45:00"
             ]
         ]
     },
@@ -407,22 +400,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-18",
-        "count": 5,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
-        "address": "Strumykowa  21, Warszawa",
-        "times": [
-            [
-                "05:30:00",
-                "05:35:00",
-                "09:15:00",
-                "09:20:00",
-                "11:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-18",
         "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
         "address": "Ossowskiego 25, Warszawa",
@@ -432,6 +409,21 @@
                 "05:35:00",
                 "10:50:00",
                 "10:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-18",
+        "count": 4,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
+        "address": "Strumykowa  21, Warszawa",
+        "times": [
+            [
+                "05:35:00",
+                "09:15:00",
+                "09:20:00",
+                "11:20:00"
             ]
         ]
     },
@@ -518,12 +510,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 4,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
-                "13:15:00",
                 "14:20:00",
                 "14:55:00",
                 "15:30:00"
@@ -557,6 +548,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Stadion Legii",
+        "address": "\u0141azienkowska 3, Warszawa",
+        "times": [
+            [
+                "06:00:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-20",
         "count": 1,
@@ -583,12 +586,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-21",
-        "count": 5,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "16:00:00",
                 "16:30:00",
                 "17:15:00",
                 "17:30:00",
@@ -648,18 +650,6 @@
     },
     {
         "vaccine": "Moderna",
-        "day": "2021-05-24",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
-        "times": [
-            [
-                "07:08:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
         "day": "2021-05-25",
         "count": 8,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
@@ -702,7 +692,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-26",
-        "count": 10,
+        "count": 11,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
@@ -716,7 +706,8 @@
                 "13:00:00",
                 "13:15:00",
                 "13:30:00",
-                "13:45:00"
+                "13:45:00",
+                "14:00:00"
             ]
         ]
     }
