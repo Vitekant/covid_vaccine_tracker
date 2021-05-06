@@ -15,6 +15,19 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 2,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \u0141OMIANKI",
+        "address": "Warszawska 31, \u0141omianki",
+        "times": [
+            [
+                "06:25:00",
+                "07:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 2,
         "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
         "address": "Szkolna 6, Milan\u00f3wek",
         "times": [
@@ -27,7 +40,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 82,
+        "count": 81,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -112,8 +125,7 @@
                 "13:52:00",
                 "13:55:00",
                 "13:57:00",
-                "14:02:00",
-                "14:05:00"
+                "14:02:00"
             ]
         ]
     },
@@ -127,18 +139,6 @@
             [
                 "07:25:00",
                 "11:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \u0141OMIANKI",
-        "address": "Warszawska 31, \u0141omianki",
-        "times": [
-            [
-                "07:35:00"
             ]
         ]
     },
@@ -233,18 +233,6 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ MAL MED - Punkt szczepie\u0144",
-        "address": "Powsta\u0144c\u00f3w 7/U1, Pruszk\u00f3w",
-        "times": [
-            [
-                "06:10:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
         "count": 2,
@@ -285,17 +273,24 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 40,
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
+        "times": [
+            [
+                "07:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 36,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "07:05:00",
-                "12:10:00",
-                "12:15:00",
-                "12:20:00",
-                "12:25:00",
-                "12:30:00",
+                "11:40:00",
                 "12:35:00",
                 "12:40:00",
                 "12:45:00",
@@ -329,7 +324,8 @@
                 "16:35:00",
                 "16:40:00",
                 "16:45:00",
-                "16:50:00"
+                "16:50:00",
+                "16:55:00"
             ]
         ]
     },
@@ -337,23 +333,22 @@
         "vaccine": "Pfizer",
         "day": "2021-05-12",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "07:40:00"
+                "15:35:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-13",
-        "count": 24,
+        "count": 23,
         "location": "NZOZ CENTRUM MEDYCZNE - Poradnia lekarza podstawowej opieki zdrowotnej",
         "address": "Gda\u0144ska 2, R\u00f3\u017can",
         "times": [
             [
-                "09:50:00",
                 "10:00:00",
                 "10:10:00",
                 "10:20:00",
@@ -391,6 +386,20 @@
                 "14:20:00",
                 "15:00:00",
                 "17:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-13",
+        "count": 3,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
+        "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
+        "times": [
+            [
+                "06:15:00",
+                "06:20:00",
+                "06:25:00"
             ]
         ]
     },
