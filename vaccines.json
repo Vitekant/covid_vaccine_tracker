@@ -1,17 +1,5 @@
 [
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "09:00:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 2,
@@ -40,7 +28,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 82,
+        "count": 84,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -126,7 +114,9 @@
                 "13:55:00",
                 "13:57:00",
                 "14:02:00",
-                "14:05:00"
+                "14:05:00",
+                "14:07:00",
+                "14:10:00"
             ]
         ]
     },
@@ -152,18 +142,6 @@
         "times": [
             [
                 "08:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
-        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
-        "times": [
-            [
-                "08:45:00"
             ]
         ]
     },
@@ -200,18 +178,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "11:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
         "location": "Poradnia chor\u00f3b wewn\u0119trznych",
         "address": "Aleja Owocowa 30C, Tr\u0105bki",
         "times": [
@@ -236,11 +202,23 @@
         "vaccine": "Moderna",
         "day": "2021-05-08",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ MAL MED - Punkt szczepie\u0144",
+        "address": "Powsta\u0144c\u00f3w 7/U1, Pruszk\u00f3w",
         "times": [
             [
-                "09:25:00"
+                "06:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
+        "address": "Kraszewskiego 8, Ciechan\u00f3w",
+        "times": [
+            [
+                "09:35:00"
             ]
         ]
     },
@@ -260,36 +238,11 @@
         "vaccine": "Pfizer",
         "day": "2021-05-11",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
-        "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
-        "times": [
-            [
-                "11:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-11",
-        "count": 2,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
             [
-                "12:15:00",
                 "14:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-11",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "12:55:00"
             ]
         ]
     },
@@ -334,14 +287,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 31,
+        "count": 26,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "12:50:00",
-                "13:00:00",
-                "13:05:00",
                 "13:10:00",
                 "13:15:00",
                 "13:20:00",
@@ -352,9 +302,7 @@
                 "13:45:00",
                 "13:50:00",
                 "13:55:00",
-                "14:05:00",
                 "14:10:00",
-                "14:20:00",
                 "15:30:00",
                 "15:35:00",
                 "15:40:00",
@@ -370,18 +318,6 @@
                 "16:45:00",
                 "16:50:00",
                 "16:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "15:35:00"
             ]
         ]
     },
@@ -438,7 +374,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 6,
+        "count": 9,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
@@ -448,7 +384,10 @@
                 "06:25:00",
                 "06:30:00",
                 "06:35:00",
-                "06:40:00"
+                "06:40:00",
+                "06:45:00",
+                "06:50:00",
+                "06:55:00"
             ]
         ]
     },
