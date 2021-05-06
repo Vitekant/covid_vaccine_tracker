@@ -40,7 +40,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 82,
+        "count": 83,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -126,7 +126,8 @@
                 "13:55:00",
                 "13:57:00",
                 "14:02:00",
-                "14:05:00"
+                "14:05:00",
+                "14:07:00"
             ]
         ]
     },
@@ -140,18 +141,6 @@
             [
                 "07:25:00",
                 "11:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Przychodnia Rejonowo Specjalistyczna",
-        "address": "Poborza\u0144ska 6, warszawa",
-        "times": [
-            [
-                "07:25:00"
             ]
         ]
     },
@@ -286,12 +275,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 13,
+        "count": 11,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "13:55:00",
                 "15:30:00",
                 "15:35:00",
                 "15:40:00",
@@ -302,7 +290,6 @@
                 "16:15:00",
                 "16:25:00",
                 "16:45:00",
-                "16:50:00",
                 "16:55:00"
             ]
         ]
@@ -373,7 +360,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 16,
+        "count": 19,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
@@ -393,7 +380,10 @@
                 "07:20:00",
                 "07:25:00",
                 "07:30:00",
-                "07:35:00"
+                "07:35:00",
+                "07:40:00",
+                "07:45:00",
+                "07:50:00"
             ]
         ]
     },
