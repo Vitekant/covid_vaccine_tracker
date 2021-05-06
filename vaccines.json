@@ -2,18 +2,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-07",
-        "count": 1,
-        "location": "Gabinet lekarza POZ Gole",
-        "address": "Gole 50, Gole",
-        "times": [
-            [
-                "07:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-07",
         "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych w Zespole Szk\u00f3\u0142 Powiatowych w Przasnyszu",
         "address": "SADOWA 5, PRZASNYSZ",
@@ -40,13 +28,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 3,
+        "count": 2,
         "location": "CENTRUM MEDYCZNE COMPLEX - MED SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "pl.Kili\u0144skiego 4, Mi\u0144sk Mazowiecki",
         "times": [
             [
                 "06:40:00",
-                "07:40:00",
                 "07:45:00"
             ]
         ]
@@ -80,7 +67,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 81,
+        "count": 83,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -165,7 +152,9 @@
                 "13:55:00",
                 "13:57:00",
                 "14:02:00",
-                "14:05:00"
+                "14:05:00",
+                "14:07:00",
+                "14:10:00"
             ]
         ]
     },
@@ -210,18 +199,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "09:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 2,
         "location": "SPZOZ W IZABELINIE - PUNKT SZCZEPIE\u0143",
         "address": "TETMAJERA  3A, Izabelin",
@@ -257,14 +234,27 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI",
+        "times": [
+            [
+                "16:45:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 1,
+        "count": 2,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
             [
-                "08:00:00"
+                "08:00:00",
+                "08:10:00"
             ]
         ]
     },
@@ -315,12 +305,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 44,
+        "count": 41,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "09:50:00",
                 "10:10:00",
                 "10:15:00",
                 "10:20:00",
@@ -358,12 +347,10 @@
                 "14:10:00",
                 "14:20:00",
                 "14:25:00",
-                "14:30:00",
-                "14:40:00",
-                "14:45:00",
                 "15:30:00",
                 "15:35:00",
-                "15:40:00"
+                "15:40:00",
+                "15:45:00"
             ]
         ]
     },
@@ -569,12 +556,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-22",
-        "count": 4,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
-                "08:55:00",
                 "10:20:00",
                 "10:35:00",
                 "10:50:00"
