@@ -53,6 +53,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
+        "count": 1,
+        "location": "Centrum Medyczne LUX MED",
+        "address": "Post\u0119pu 21C, Warszawa",
+        "times": [
+            [
+                "08:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
         "count": 2,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
@@ -60,6 +72,19 @@
             [
                 "08:20:00",
                 "08:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 2,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin",
+        "times": [
+            [
+                "09:00:00",
+                "10:25:00"
             ]
         ]
     },
@@ -104,19 +129,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "10:20:00",
-                "10:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 1,
         "location": "Punkt szczepie\u0144",
         "address": "Sitarskich 3, Nadarzyn",
@@ -135,18 +147,6 @@
         "times": [
             [
                 "10:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Gabinet lekarza POZ - \"MEDICUS\" \u017bELECH\u00d3W",
-        "address": "REYMONTA 36A, \u017bELECH\u00d3W",
-        "times": [
-            [
-                "12:50:00"
             ]
         ]
     },
@@ -261,18 +261,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-09",
-        "count": 1,
-        "location": "Przychodnia lekarska",
-        "address": "Madali\u0144skiego 13, Warszawa",
-        "times": [
-            [
-                "12:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
         "count": 49,
         "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
@@ -334,7 +322,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 9,
+        "count": 8,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -345,7 +333,6 @@
                 "10:45:00",
                 "10:50:00",
                 "10:55:00",
-                "11:00:00",
                 "11:15:00",
                 "11:20:00"
             ]
@@ -366,14 +353,15 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 3,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
             [
                 "12:15:00",
                 "12:20:00",
-                "12:25:00"
+                "12:25:00",
+                "12:30:00"
             ]
         ]
     },
@@ -402,9 +390,33 @@
         ]
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Nowodworski O\u015brodek Sportu i Rekreacji w Nowym Dworze Mazowieckim",
+        "address": "Sportowa 66, Nowy Dw\u00f3r Mazowiecki",
+        "times": [
+            [
+                "13:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-22",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "times": [
+            [
+                "06:45:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-26",
-        "count": 10,
+        "count": 11,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
@@ -412,6 +424,7 @@
                 "09:15:00",
                 "09:30:00",
                 "09:45:00",
+                "10:15:00",
                 "10:30:00",
                 "10:45:00",
                 "11:00:00",
@@ -419,18 +432,6 @@
                 "11:30:00",
                 "11:45:00",
                 "12:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
-        "address": "Jana Chilickiego  2, Zakroczym",
-        "times": [
-            [
-                "10:15:00"
             ]
         ]
     },
@@ -486,7 +487,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 11,
+        "count": 12,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
@@ -501,7 +502,8 @@
                 "10:30:00",
                 "10:45:00",
                 "11:00:00",
-                "11:15:00"
+                "11:15:00",
+                "11:30:00"
             ]
         ]
     },
@@ -521,25 +523,36 @@
         "vaccine": "Pfizer",
         "day": "2021-06-01",
         "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
-        "address": "Goworowska 39A, W\u0105sewo",
+        "location": "CENTRUM ZDROWIA MAZOWSZA ZACHODNIEGO SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "Boles\u0142awa Limanowskiego 30, \u017byrard\u00f3w",
         "times": [
             [
-                "11:25:00"
+                "10:15:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-01",
-        "count": 3,
+        "count": 2,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
                 "13:25:00",
-                "13:55:00",
-                "15:10:00"
+                "13:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-02",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
+        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
+        "times": [
+            [
+                "18:00:00"
             ]
         ]
     },
@@ -558,12 +571,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-05",
-        "count": 40,
+        "count": 41,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
             [
-                "06:35:00",
                 "06:55:00",
                 "07:10:00",
                 "07:15:00",
@@ -585,6 +597,7 @@
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
+                "09:00:00",
                 "09:05:00",
                 "09:10:00",
                 "09:15:00",
@@ -596,13 +609,14 @@
                 "09:45:00",
                 "09:50:00",
                 "09:55:00",
-                "10:00:00",
                 "10:05:00",
                 "10:10:00",
                 "10:15:00",
                 "10:20:00",
                 "10:25:00",
-                "10:30:00"
+                "10:30:00",
+                "10:35:00",
+                "10:40:00"
             ]
         ]
     }
