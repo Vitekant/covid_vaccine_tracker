@@ -255,7 +255,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 19,
+        "count": 20,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -268,6 +268,7 @@
                 "07:20:00",
                 "07:25:00",
                 "07:35:00",
+                "07:40:00",
                 "07:45:00",
                 "07:50:00",
                 "07:55:00",
@@ -317,18 +318,6 @@
                 "13:45:00",
                 "13:50:00",
                 "13:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
-        "address": "Parkowa 14, Raci\u0105\u017c",
-        "times": [
-            [
-                "09:15:00"
             ]
         ]
     },
@@ -454,7 +443,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 14,
+        "count": 15,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -472,7 +461,8 @@
                 "07:50:00",
                 "07:55:00",
                 "08:00:00",
-                "08:05:00"
+                "08:05:00",
+                "08:10:00"
             ]
         ]
     }
