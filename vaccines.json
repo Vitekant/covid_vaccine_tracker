@@ -2,12 +2,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
-        "count": 3,
+        "count": 2,
         "location": "Przychodnia lekarska",
         "address": "\u017beromskiego 41a, Sochaczew",
         "times": [
             [
-                "16:25:00",
                 "16:35:00",
                 "17:05:00"
             ]
@@ -282,6 +281,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
         "count": 1,
+        "location": "Poradnia lekarza POZ",
+        "address": "ul. Konstytucji 3 Maja 17, Radzymin",
+        "times": [
+            [
+                "11:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-10",
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
@@ -293,7 +304,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 7,
+        "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -303,26 +314,13 @@
                 "12:25:00",
                 "12:30:00",
                 "12:35:00",
-                "12:40:00",
-                "12:45:00"
+                "12:40:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
-        "address": "T\u0119czowa 16, Z\u0105bki",
-        "times": [
-            [
-                "11:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-21",
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
@@ -365,18 +363,6 @@
         "times": [
             [
                 "06:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc",
-        "times": [
-            [
-                "11:40:00"
             ]
         ]
     },
@@ -431,18 +417,6 @@
         "vaccine": "Pfizer",
         "day": "2021-05-27",
         "count": 1,
-        "location": "Centrum Medyczne Petra Medica Filia nr 4",
-        "address": "Cisowa 7, Dr\u0119\u017cewo",
-        "times": [
-            [
-                "10:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-27",
-        "count": 1,
         "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
         "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA",
         "times": [
@@ -471,6 +445,30 @@
                 "11:00:00",
                 "11:15:00",
                 "11:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "PRZYCHODNIA LEKARSKA JACEK KRUPSKI - PUNKT SZCZEPIE\u0143",
+        "address": "DR. ST. PAW\u0141OWSKIEGO 15, MYSZYNIEC",
+        "times": [
+            [
+                "13:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-01",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "10:25:00"
             ]
         ]
     },
@@ -518,9 +516,8 @@
         "address": "Pruszkowska 52, RASZYN",
         "times": [
             [
-                "06:55:00",
                 "07:50:00",
-                "09:10:00",
+                "08:25:00",
                 "09:15:00",
                 "09:20:00",
                 "09:25:00",
@@ -556,7 +553,8 @@
                 "12:00:00",
                 "12:05:00",
                 "12:10:00",
-                "12:15:00"
+                "12:15:00",
+                "12:20:00"
             ]
         ]
     },
