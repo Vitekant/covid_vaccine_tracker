@@ -351,6 +351,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-04",
+        "count": 1,
+        "location": "Poradnia (gabinet) lekarza rodzinnego",
+        "address": "Okrzei 51C, \u017byrard\u00f3w",
+        "times": [
+            [
+                "09:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-10",
         "count": 26,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
@@ -472,7 +484,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 10,
+        "count": 9,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -485,8 +497,7 @@
                 "07:25:00",
                 "07:30:00",
                 "07:35:00",
-                "07:40:00",
-                "07:45:00"
+                "07:40:00"
             ]
         ]
     }
