@@ -399,7 +399,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 32,
+        "count": 33,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
@@ -416,10 +416,8 @@
                 "07:30:00",
                 "07:35:00",
                 "07:40:00",
-                "07:45:00",
                 "07:50:00",
                 "07:55:00",
-                "08:35:00",
                 "08:40:00",
                 "08:45:00",
                 "08:50:00",
@@ -435,22 +433,22 @@
                 "09:40:00",
                 "09:45:00",
                 "09:50:00",
-                "09:55:00"
+                "09:55:00",
+                "10:00:00",
+                "10:05:00",
+                "10:10:00"
             ]
         ]
     },
     {
-        "vaccine": "Moderna",
+        "vaccine": "Johnson & Johnson",
         "day": "2021-05-15",
-        "count": 4,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
+        "count": 1,
+        "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W B\u0141\u0118DOWIE",
+        "address": "Wilk\u00f3w Drugi 127 B, Wilk\u00f3w Drugi",
         "times": [
             [
-                "07:45:00",
-                "10:40:00",
-                "12:50:00",
-                "13:50:00"
+                "13:45:00"
             ]
         ]
     },
@@ -463,6 +461,20 @@
         "times": [
             [
                 "10:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-15",
+        "count": 3,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew",
+        "times": [
+            [
+                "10:40:00",
+                "12:50:00",
+                "13:50:00"
             ]
         ]
     },
@@ -710,18 +722,6 @@
                 "13:15:00",
                 "13:30:00",
                 "13:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-26",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
-        "address": "Karczewska 48, Otwock",
-        "times": [
-            [
-                "12:30:00"
             ]
         ]
     }
