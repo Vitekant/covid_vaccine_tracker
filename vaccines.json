@@ -1,17 +1,5 @@
 [
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "Kili\u0144skiego 4B, Sarnaki",
-        "times": [
-            [
-                "10:10:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
@@ -26,12 +14,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 62,
+        "count": 59,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
-                "07:30:00",
                 "07:35:00",
                 "07:40:00",
                 "07:50:00",
@@ -90,21 +77,7 @@
                 "14:25:00",
                 "14:30:00",
                 "14:35:00",
-                "14:37:00",
-                "14:42:00",
-                "14:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \u0141OMIANKI",
-        "address": "Warszawska 31, \u0141omianki",
-        "times": [
-            [
-                "07:35:00"
+                "14:37:00"
             ]
         ]
     },
@@ -261,6 +234,18 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Warszawa-Weso\u0142a - Przychodnia \"Pogodna\"",
+        "address": "Jana Paw\u0142a II  25, Warszawa Weso\u0142a",
+        "times": [
+            [
+                "13:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
         "count": 1,
         "location": "EMC PIASECZNO",
@@ -287,7 +272,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 13,
+        "count": 16,
         "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
         "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
         "times": [
@@ -304,31 +289,10 @@
                 "08:50:00",
                 "08:55:00",
                 "09:05:00",
-                "09:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-15",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
-        "address": "D\u0141UGA 75, BRAMKI",
-        "times": [
-            [
-                "12:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "09:15:00"
+                "09:10:00",
+                "09:35:00",
+                "09:40:00",
+                "09:45:00"
             ]
         ]
     },
@@ -336,22 +300,35 @@
         "vaccine": "Moderna",
         "day": "2021-05-25",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
-                "11:00:00"
+                "12:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
+        "times": [
+            [
+                "14:30:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-26",
-        "count": 11,
+        "count": 12,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
+                "11:30:00",
                 "12:15:00",
                 "12:30:00",
                 "12:45:00",
@@ -394,13 +371,25 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-02",
+        "day": "2021-05-29",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 \"\u015aR\u00d3DMIE\u015aCIE 3\"",
-        "address": "ul. Andrzeja Struga 57 A, Radom",
+        "location": "Przychodnia Rejonowo-Specjalistyczna, ul. Szcz\u0119\u015bliwicka",
+        "address": "Szcz\u0119\u015bliwicka 36, Warszawa",
         "times": [
             [
-                "10:30:00"
+                "10:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-05",
+        "count": 1,
+        "location": "PORADNIA LEKARZA POZ",
+        "address": "Rynek 21, Stare Babice",
+        "times": [
+            [
+                "12:10:00"
             ]
         ]
     },
@@ -413,18 +402,6 @@
         "times": [
             [
                 "09:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 \"\u015aR\u00d3DMIE\u015aCIE 3\"",
-        "address": "ul. Andrzeja Struga 57 A, Radom",
-        "times": [
-            [
-                "10:00:00"
             ]
         ]
     },
@@ -447,18 +424,6 @@
                 "13:40:00",
                 "13:45:00",
                 "13:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-10",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "16:50:00"
             ]
         ]
     },
@@ -501,14 +466,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-12",
-        "count": 6,
+        "count": 4,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
             [
-                "09:20:00",
                 "09:25:00",
-                "09:35:00",
                 "09:40:00",
                 "09:45:00",
                 "09:50:00"
@@ -551,14 +514,14 @@
         "times": [
             [
                 "07:55:00",
-                "08:20:00",
                 "08:25:00",
                 "08:35:00",
                 "08:40:00",
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
-                "09:05:00"
+                "09:05:00",
+                "09:10:00"
             ]
         ]
     }
