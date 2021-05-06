@@ -179,18 +179,6 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
-        "times": [
-            [
-                "14:50:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
         "count": 9,
@@ -339,7 +327,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 16,
+        "count": 17,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
@@ -359,7 +347,8 @@
                 "10:15:00",
                 "10:30:00",
                 "10:45:00",
-                "11:00:00"
+                "11:00:00",
+                "11:15:00"
             ]
         ]
     },
