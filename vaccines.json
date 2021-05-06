@@ -323,12 +323,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 17,
+        "count": 16,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "06:15:00",
                 "06:30:00",
                 "06:45:00",
                 "07:00:00",
