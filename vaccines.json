@@ -40,7 +40,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 80,
+        "count": 81,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -86,7 +86,6 @@
                 "10:47:00",
                 "10:50:00",
                 "10:52:00",
-                "11:02:00",
                 "11:05:00",
                 "11:07:00",
                 "11:12:00",
@@ -124,7 +123,9 @@
                 "13:47:00",
                 "13:50:00",
                 "13:52:00",
-                "13:55:00"
+                "13:55:00",
+                "13:57:00",
+                "14:02:00"
             ]
         ]
     },
@@ -147,18 +148,6 @@
         "count": 1,
         "location": "Gabinet diagnostyczno - zabiegowy dla lekarza POZ",
         "address": "3 Maja 5, Pu\u0142tusk",
-        "times": [
-            [
-                "08:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Centrum Medyczne LUX MED",
-        "address": "Post\u0119pu 21C, Warszawa",
         "times": [
             [
                 "08:30:00"
@@ -286,12 +275,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 44,
+        "count": 46,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "10:35:00",
+                "07:45:00",
                 "10:40:00",
                 "11:05:00",
                 "11:15:00",
@@ -334,7 +323,21 @@
                 "15:40:00",
                 "15:45:00",
                 "15:50:00",
-                "15:55:00"
+                "15:55:00",
+                "16:05:00",
+                "16:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
+        "address": "Kraszewskiego 8, Ciechan\u00f3w",
+        "times": [
+            [
+                "10:05:00"
             ]
         ]
     },
@@ -388,12 +391,13 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-13",
-        "count": 2,
+        "count": 3,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
                 "14:20:00",
+                "15:00:00",
                 "17:10:00"
             ]
         ]
