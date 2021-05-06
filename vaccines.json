@@ -1,8 +1,32 @@
 [
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "Kili\u0144skiego 4B, Sarnaki",
+        "times": [
+            [
+                "10:10:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 86,
+        "count": 1,
+        "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
+        "address": "Szkolna 6, Milan\u00f3wek",
+        "times": [
+            [
+                "05:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 84,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -86,13 +110,11 @@
                 "14:15:00",
                 "14:20:00",
                 "14:25:00",
+                "14:30:00",
                 "14:35:00",
                 "14:37:00",
                 "14:40:00",
-                "14:42:00",
-                "14:45:00",
-                "14:47:00",
-                "14:50:00"
+                "14:42:00"
             ]
         ]
     },
@@ -136,6 +158,18 @@
                 "10:20:00",
                 "10:25:00",
                 "14:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Poradnia lekarza POZ",
+        "address": "Modzelewskiego 58, Warszawa",
+        "times": [
+            [
+                "11:15:00"
             ]
         ]
     },
@@ -188,14 +222,38 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-19",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-09",
         "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
+        "location": "Punkt szczepie\u0144 Pop\u0142aci\u0144ska",
+        "address": "Pop\u0142aci\u0144ska 42, P\u0142ock",
         "times": [
             [
-                "07:00:00"
+                "16:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-11",
+        "count": 1,
+        "location": "Your Med Sp. z o. o.",
+        "address": "Magazynowa 9/13, Warszawa",
+        "times": [
+            [
+                "07:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
+        "times": [
+            [
+                "10:10:00"
             ]
         ]
     },
@@ -203,23 +261,22 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
+        "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "11:00:00"
+                "13:45:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-26",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "13:30:00",
                 "13:45:00"
             ]
         ]
@@ -248,11 +305,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
+                "11:45:00",
                 "13:30:00"
             ]
         ]
@@ -307,18 +365,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-03",
-        "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
-        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
-        "times": [
-            [
-                "12:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-05",
         "count": 1,
         "location": "PORADNIA LEKARZA POZ",
@@ -368,6 +414,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-11",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "11:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-12",
         "count": 14,
         "location": "Centrum Medyczne Raszyn",
@@ -405,18 +463,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-12",
-        "count": 1,
-        "location": "Poradnia Lekarza POZ Warszawa",
-        "address": "Wojciecha Chrzanowskiego 8a, Warszawa",
-        "times": [
-            [
-                "08:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-13",
         "count": 10,
         "location": "Centrum Medyczne Raszyn",
@@ -439,7 +485,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 5,
+        "count": 7,
         "location": "PORADNIA LEKARZA POZ",
         "address": "Rynek 21, Stare Babice",
         "times": [
@@ -448,7 +494,9 @@
                 "07:10:00",
                 "07:20:00",
                 "07:25:00",
-                "07:35:00"
+                "07:35:00",
+                "07:40:00",
+                "07:45:00"
             ]
         ]
     }
