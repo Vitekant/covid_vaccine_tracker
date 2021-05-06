@@ -165,15 +165,15 @@
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "11:40:00",
-                "11:45:00"
+                "11:45:00",
+                "11:50:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 46,
+        "count": 47,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -223,7 +223,8 @@
                 "11:30:00",
                 "11:35:00",
                 "11:40:00",
-                "11:45:00"
+                "11:45:00",
+                "11:50:00"
             ]
         ]
     },
@@ -291,6 +292,18 @@
                 "13:50:00",
                 "13:55:00",
                 "14:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-29",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew",
+        "times": [
+            [
+                "06:50:00"
             ]
         ]
     },
@@ -366,6 +379,18 @@
                 "17:00:00",
                 "17:10:00",
                 "17:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
+        "address": "Jana Paw\u0142a II  20, Radzymin",
+        "times": [
+            [
+                "09:25:00"
             ]
         ]
     },
