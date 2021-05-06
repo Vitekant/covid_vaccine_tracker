@@ -63,23 +63,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 6,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
-        "times": [
-            [
-                "08:50:00",
-                "08:55:00",
-                "09:20:00",
-                "09:35:00",
-                "09:50:00",
-                "10:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 8,
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc",
@@ -98,8 +81,23 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 4,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+        "times": [
+            [
+                "09:20:00",
+                "09:35:00",
+                "09:50:00",
+                "10:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 36,
+        "count": 37,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -139,7 +137,8 @@
                 "10:50:00",
                 "10:55:00",
                 "11:05:00",
-                "11:10:00"
+                "11:10:00",
+                "11:15:00"
             ]
         ]
     },
@@ -166,7 +165,6 @@
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "07:05:00",
                 "07:10:00",
                 "07:15:00",
                 "07:20:00",
@@ -210,14 +208,15 @@
                 "11:05:00",
                 "11:10:00",
                 "11:15:00",
-                "11:20:00"
+                "11:20:00",
+                "11:25:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 20,
+        "count": 21,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -241,7 +240,8 @@
                 "08:50:00",
                 "08:55:00",
                 "09:00:00",
-                "09:05:00"
+                "09:05:00",
+                "09:10:00"
             ]
         ]
     },
@@ -316,7 +316,7 @@
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
             [
-                "10:30:00",
+                "10:25:00",
                 "10:50:00",
                 "10:55:00",
                 "11:05:00",
@@ -384,7 +384,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 7,
+        "count": 6,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -394,8 +394,7 @@
                 "06:20:00",
                 "06:30:00",
                 "06:40:00",
-                "06:50:00",
-                "10:10:00"
+                "06:50:00"
             ]
         ]
     },
