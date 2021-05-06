@@ -170,12 +170,13 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "10:55:00"
+                "10:55:00",
+                "11:00:00"
             ]
         ]
     },
