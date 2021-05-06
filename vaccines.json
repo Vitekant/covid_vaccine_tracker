@@ -308,13 +308,24 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "16:15:00",
-                "16:35:00"
+                "13:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "15:35:00"
             ]
         ]
     },
@@ -353,13 +364,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-13",
-        "count": 7,
+        "count": 5,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
-                "14:15:00",
-                "14:20:00",
                 "14:35:00",
                 "15:00:00",
                 "15:35:00",
@@ -384,7 +393,6 @@
                 "06:45:00",
                 "06:50:00",
                 "06:55:00",
-                "07:00:00",
                 "07:05:00",
                 "07:10:00",
                 "07:15:00",
@@ -404,7 +412,8 @@
                 "09:00:00",
                 "09:05:00",
                 "09:10:00",
-                "09:15:00"
+                "09:15:00",
+                "09:20:00"
             ]
         ]
     },
