@@ -210,12 +210,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 50,
+        "count": 49,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "05:55:00",
                 "06:10:00",
                 "06:15:00",
                 "06:20:00",
@@ -271,7 +270,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 16,
+        "count": 17,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -291,7 +290,8 @@
                 "08:00:00",
                 "08:05:00",
                 "08:10:00",
-                "08:25:00"
+                "08:25:00",
+                "08:30:00"
             ]
         ]
     },
@@ -421,18 +421,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-15",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "10:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-15",
         "count": 7,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
@@ -468,7 +456,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 14,
+        "count": 15,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -486,7 +474,8 @@
                 "07:50:00",
                 "07:55:00",
                 "08:00:00",
-                "08:05:00"
+                "08:05:00",
+                "08:10:00"
             ]
         ]
     }
