@@ -14,7 +14,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 84,
+        "count": 82,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -38,7 +38,6 @@
                 "08:15:00",
                 "08:20:00",
                 "08:25:00",
-                "08:30:00",
                 "08:35:00",
                 "08:40:00",
                 "08:45:00",
@@ -100,7 +99,6 @@
                 "14:30:00",
                 "14:35:00",
                 "14:37:00",
-                "14:40:00",
                 "14:42:00",
                 "14:45:00"
             ]
@@ -210,26 +208,14 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-10",
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
         "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "Obrazkowa 18, Warszawa",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
             [
-                "08:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-11",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "12:20:00"
+                "14:45:00"
             ]
         ]
     },
@@ -294,13 +280,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-27",
-        "count": 23,
+        "count": 21,
         "location": "Punkt Szczepie\u0144 Powszechnych - Lodowa Arena \u2013 lodowisko miejskie Legionowo",
         "address": "Parkowa  27, Legionowo",
         "times": [
             [
-                "06:05:00",
-                "06:10:00",
                 "06:15:00",
                 "06:20:00",
                 "06:25:00",
@@ -328,11 +312,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 1,
+        "count": 2,
         "location": "GABINET ZABIEGOWY PIEL\u0118GNIARSKI",
         "address": "P\u0142ocka 59, Bulkowo-Kolonia",
         "times": [
             [
+                "08:00:00",
                 "08:10:00"
             ]
         ]
@@ -423,6 +408,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-10",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "13:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-11",
         "count": 2,
         "location": "PUNKT SZCZEPIE\u0143",
@@ -449,7 +446,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-12",
-        "count": 9,
+        "count": 10,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
@@ -462,7 +459,8 @@
                 "06:50:00",
                 "09:05:00",
                 "09:10:00",
-                "09:15:00"
+                "09:15:00",
+                "09:20:00"
             ]
         ]
     }
