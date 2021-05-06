@@ -256,18 +256,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
-        "times": [
-            [
-                "06:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-05-12",
         "count": 1,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
@@ -343,13 +331,12 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-13",
-        "count": 2,
+        "count": 1,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
-                "15:00:00",
-                "17:10:00"
+                "15:00:00"
             ]
         ]
     },
@@ -433,13 +420,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 28,
+        "count": 27,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "07:25:00",
-                "07:30:00",
+                "07:20:00",
                 "07:35:00",
                 "07:40:00",
                 "07:50:00",
@@ -482,25 +468,14 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-14",
-        "count": 1,
-        "location": "Przychodnia Rejonowo-Specjalistyczna, ul. Sosnkowskiego ",
-        "address": "Sosnkowskiego 18, Warszawa",
-        "times": [
-            [
-                "13:20:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-15",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
+                "10:15:00",
                 "10:35:00"
             ]
         ]
@@ -535,8 +510,8 @@
         "vaccine": "Pfizer",
         "day": "2021-05-15",
         "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
-        "address": "Strumykowa  21, Warszawa",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
+        "address": "Ossowskiego 25, Warszawa",
         "times": [
             [
                 "10:50:00",
@@ -548,12 +523,12 @@
         "vaccine": "Pfizer",
         "day": "2021-05-15",
         "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
-        "address": "Ossowskiego 25, Warszawa",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
+        "address": "Strumykowa  21, Warszawa",
         "times": [
             [
-                "10:50:00",
-                "10:55:00"
+                "10:55:00",
+                "11:00:00"
             ]
         ]
     },
