@@ -179,6 +179,18 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI",
+        "times": [
+            [
+                "16:45:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
         "count": 4,
@@ -323,7 +335,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 17,
+        "count": 16,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
@@ -343,8 +355,7 @@
                 "10:30:00",
                 "10:45:00",
                 "11:00:00",
-                "11:15:00",
-                "11:30:00"
+                "11:15:00"
             ]
         ]
     },
