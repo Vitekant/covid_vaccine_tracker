@@ -27,11 +27,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
+                "12:30:00",
                 "12:40:00"
             ]
         ]
@@ -142,12 +143,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 39,
+        "count": 38,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
-                "10:05:00",
                 "10:20:00",
                 "10:25:00",
                 "10:35:00",
@@ -256,6 +256,30 @@
     },
     {
         "vaccine": "Johnson & Johnson",
+        "day": "2021-05-22",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych -  SPZOZ Przychodnia Miejska w J\u00f3zefowie",
+        "address": "Sk\u0142odowskiej 5/7, J\u00f3zef\u00f3w",
+        "times": [
+            [
+                "06:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-25",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
+        "address": "Jana Chilickiego  2, Zakroczym",
+        "times": [
+            [
+                "08:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
         "day": "2021-05-26",
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
@@ -269,7 +293,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-26",
-        "count": 11,
+        "count": 10,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
@@ -279,7 +303,6 @@
                 "09:15:00",
                 "09:30:00",
                 "09:45:00",
-                "10:00:00",
                 "10:15:00",
                 "10:30:00",
                 "10:45:00",
@@ -289,27 +312,26 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-26",
-        "count": 1,
-        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
-        "address": "kruk 5, Gorzewo",
-        "times": [
-            [
-                "08:45:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "09:30:00",
                 "10:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O",
+        "times": [
+            [
+                "10:20:00"
             ]
         ]
     },
@@ -472,25 +494,24 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-12",
-        "count": 2,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
+        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
         "times": [
             [
-                "07:15:00",
-                "07:30:00"
+                "07:25:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-13",
+        "day": "2021-06-12",
         "count": 1,
-        "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
-        "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
+        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
         "times": [
             [
-                "07:15:00"
+                "07:30:00"
             ]
         ]
     },
@@ -603,18 +624,6 @@
         "times": [
             [
                 "12:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-16",
-        "count": 1,
-        "location": "NOVIS Sp. z o.o.",
-        "address": "Andrzeja Struga 60/ACM, Radom",
-        "times": [
-            [
-                "13:45:00"
             ]
         ]
     },
