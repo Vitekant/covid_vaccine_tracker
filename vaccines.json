@@ -294,6 +294,18 @@
         "vaccine": "Pfizer",
         "day": "2021-05-12",
         "count": 1,
+        "location": "Gabinet podstawowej opieki zdrowotnej",
+        "address": "ODRODZENIA 12, JEDNORO\u017bEC",
+        "times": [
+            [
+                "09:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
         "address": "Hubalczyk\u00f3w 11, P\u0142ock",
         "times": [
@@ -377,12 +389,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 2,
+        "count": 1,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
             [
-                "11:10:00",
                 "11:15:00"
             ]
         ]
@@ -517,18 +528,6 @@
         "vaccine": "Moderna",
         "day": "2021-05-15",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
-        "address": "D\u0141UGA 75, BRAMKI",
-        "times": [
-            [
-                "06:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-15",
-        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
@@ -547,6 +546,18 @@
             [
                 "12:50:00",
                 "13:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-15",
+        "count": 1,
+        "location": "Centrum Medyczne na Reymonta",
+        "address": "W\u0142adys\u0142awa Reymonta 12/125, RADZYMIN",
+        "times": [
+            [
+                "10:45:00"
             ]
         ]
     },
@@ -579,13 +590,14 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-15",
-        "count": 2,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
         "address": "Ossowskiego 25, Warszawa",
         "times": [
             [
                 "11:15:00",
-                "11:20:00"
+                "11:20:00",
+                "11:25:00"
             ]
         ]
     },
@@ -610,18 +622,6 @@
         "times": [
             [
                 "12:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-18",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
-        "address": "Karczewska 48, Otwock",
-        "times": [
-            [
-                "08:20:00"
             ]
         ]
     },
