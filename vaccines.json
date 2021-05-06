@@ -2,12 +2,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-07",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych w Zespole Szk\u00f3\u0142 Powiatowych w Przasnyszu",
         "address": "SADOWA 5, PRZASNYSZ",
         "times": [
             [
-                "09:30:00",
                 "13:20:00"
             ]
         ]
@@ -305,12 +304,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 41,
+        "count": 37,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "10:10:00",
                 "10:15:00",
                 "10:20:00",
                 "10:25:00",
@@ -332,7 +330,6 @@
                 "12:15:00",
                 "12:20:00",
                 "12:45:00",
-                "13:10:00",
                 "13:15:00",
                 "13:20:00",
                 "13:25:00",
@@ -342,15 +339,13 @@
                 "13:45:00",
                 "13:50:00",
                 "13:55:00",
-                "14:00:00",
                 "14:05:00",
                 "14:10:00",
-                "14:20:00",
-                "14:25:00",
                 "15:30:00",
                 "15:35:00",
                 "15:40:00",
-                "15:45:00"
+                "15:45:00",
+                "15:50:00"
             ]
         ]
     },
@@ -474,7 +469,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 5,
+        "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
@@ -483,19 +478,21 @@
                 "10:45:00",
                 "11:45:00",
                 "12:15:00",
-                "15:15:00"
+                "15:15:00",
+                "15:45:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
-                "13:15:00"
+                "13:15:00",
+                "15:30:00"
             ]
         ]
     },
