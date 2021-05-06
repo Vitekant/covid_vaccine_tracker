@@ -12,18 +12,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Warszawa-Weso\u0142a - Przychodnia \"Pogodna\"",
-        "address": "Jana Paw\u0142a II  25, Warszawa Weso\u0142a",
-        "times": [
-            [
-                "07:50:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 2,
@@ -81,7 +69,6 @@
                 "08:10:00",
                 "08:12:00",
                 "08:17:00",
-                "08:22:00",
                 "08:27:00",
                 "08:32:00",
                 "08:37:00",
@@ -149,7 +136,8 @@
                 "13:50:00",
                 "13:52:00",
                 "13:55:00",
-                "14:02:00"
+                "14:02:00",
+                "14:05:00"
             ]
         ]
     },
@@ -303,6 +291,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+        "address": "Parkowa 14, Raci\u0105\u017c",
+        "times": [
+            [
+                "09:45:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-13",
         "count": 10,
@@ -380,13 +380,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-14",
-        "count": 18,
+        "count": 16,
         "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
         "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
         "times": [
             [
-                "10:15:00",
-                "10:25:00",
                 "10:35:00",
                 "10:50:00",
                 "10:55:00",
@@ -433,6 +431,18 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-14",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
+        "times": [
+            [
+                "14:20:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
         "count": 32,
@@ -440,7 +450,6 @@
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "06:50:00",
                 "06:55:00",
                 "07:05:00",
                 "07:10:00",
@@ -471,7 +480,8 @@
                 "10:05:00",
                 "10:10:00",
                 "10:15:00",
-                "10:20:00"
+                "10:20:00",
+                "10:25:00"
             ]
         ]
     },
