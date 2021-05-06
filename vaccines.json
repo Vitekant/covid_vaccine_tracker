@@ -14,6 +14,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
+        "address": "UL. TOCHTERMANA  1, RADOM",
+        "times": [
+            [
+                "07:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
         "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
@@ -28,11 +40,23 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
-        "address": "Szkolna 6, Milan\u00f3wek",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"CENTRUM\" Filia Hipolit\u00f3w",
+        "address": "Warszawska 63, Hipolit\u00f3w",
         "times": [
             [
-                "10:30:00"
+                "09:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Punkt szczepie\u0144 (szczepienia zalecane)",
+        "address": "Franciszka Klimczaka 1, Warszawa",
+        "times": [
+            [
+                "11:15:00"
             ]
         ]
     },
@@ -98,6 +122,18 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Przychodnia w Granicy",
+        "address": "G\u0142\u00f3wna 104, Granica",
+        "times": [
+            [
+                "08:40:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
@@ -124,7 +160,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 41,
+        "count": 40,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -168,8 +204,7 @@
                 "14:50:00",
                 "14:55:00",
                 "15:00:00",
-                "15:05:00",
-                "15:10:00"
+                "15:05:00"
             ]
         ]
     },
@@ -192,63 +227,26 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-18",
+        "vaccine": "Moderna",
+        "day": "2021-05-20",
         "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "Paw\u0142owskiego 15, Myszyniec",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "10:45:00"
+                "11:45:00"
             ]
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-21",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
-        "address": "T\u0119czowa 16, Z\u0105bki",
-        "times": [
-            [
-                "08:00:00",
-                "08:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-25",
+        "vaccine": "Moderna",
+        "day": "2021-05-24",
         "count": 1,
-        "location": "Gabinet Diagnostyczno Zabiegowy II  SPZZOZ Sierpc",
-        "address": "Juliusza S\u0142owackiego 16, Sierpc",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
-                "08:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
-        "times": [
-            [
-                "09:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
-        "address": "Spacerowa  29, Bia\u0142obrzegi",
-        "times": [
-            [
-                "13:50:00"
+                "06:05:00"
             ]
         ]
     },
@@ -290,14 +288,14 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
+        "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
         "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O",
+        "location": "Poradnia lekarza POZ - Kleczewska",
+        "address": "ul. Kleczewska 56, Warszawa",
         "times": [
             [
-                "10:20:00"
+                "10:05:00"
             ]
         ]
     },
@@ -322,30 +320,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-28",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
-        "times": [
-            [
-                "06:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-02",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "08:00:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-06-02",
         "count": 1,
@@ -354,6 +328,18 @@
         "times": [
             [
                 "17:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-03",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
+        "times": [
+            [
+                "12:30:00"
             ]
         ]
     },
@@ -383,13 +369,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-06",
+        "day": "2021-06-08",
         "count": 1,
-        "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
-        "address": "Wojska Polskiego 91, Zwole\u0144",
+        "location": "PUNKT SZCZEPIE\u0143",
+        "address": "Steyera 2E, Ostro\u0142\u0119ka",
         "times": [
             [
-                "09:30:00"
+                "10:40:00"
             ]
         ]
     },
@@ -397,29 +383,25 @@
         "vaccine": "Pfizer",
         "day": "2021-06-09",
         "count": 1,
-        "location": "Podstawowa Opieka Zdrowotna -Punkt szczepie\u0144,  ul. 3 Maja 57",
-        "address": "ul. 3 Maja 57, Grodzisk Mazowiecki",
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
+        "address": "Andrzeja 23, Pruszk\u00f3w",
         "times": [
             [
-                "08:50:00"
+                "10:30:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 7,
+        "count": 3,
         "location": "Punkt Szczepie\u0144",
         "address": "Grochowska nr 306/308, Warszawa",
         "times": [
             [
-                "12:00:00",
-                "15:30:00",
-                "15:35:00",
-                "15:40:00",
-                "15:45:00",
-                "15:50:00",
-                "15:55:00"
+                "12:10:00",
+                "12:35:00",
+                "12:40:00"
             ]
         ]
     },
@@ -438,12 +420,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 3,
+        "count": 2,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "11:15:00",
                 "13:10:00",
                 "13:35:00"
             ]
@@ -470,18 +451,6 @@
         "times": [
             [
                 "09:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-12",
-        "count": 1,
-        "location": "Poradnia Lekarza POZ Warszawa",
-        "address": "Wojciecha Chrzanowskiego 8a, Warszawa",
-        "times": [
-            [
-                "09:30:00"
             ]
         ]
     },
@@ -550,6 +519,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
+        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
+        "times": [
+            [
+                "16:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-16",
         "count": 2,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
@@ -600,7 +581,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 18,
+        "count": 19,
         "location": "NOVIS Sp. z o.o.",
         "address": "Andrzeja Struga 60/ACM, Radom",
         "times": [
@@ -622,14 +603,15 @@
                 "13:55:00",
                 "14:00:00",
                 "14:05:00",
-                "14:10:00"
+                "14:10:00",
+                "14:15:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 8,
+        "count": 9,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
@@ -641,7 +623,8 @@
                 "14:25:00",
                 "14:30:00",
                 "14:35:00",
-                "14:40:00"
+                "14:40:00",
+                "14:45:00"
             ]
         ]
     }
