@@ -27,11 +27,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 20,
+        "count": 21,
         "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
         "address": "Szkolna 6, Milan\u00f3wek",
         "times": [
             [
+                "05:15:00",
                 "06:45:00",
                 "07:00:00",
                 "07:15:00",
@@ -163,7 +164,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 15,
+        "count": 17,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -182,7 +183,9 @@
                 "11:15:00",
                 "11:20:00",
                 "12:35:00",
-                "12:40:00"
+                "12:40:00",
+                "12:45:00",
+                "12:50:00"
             ]
         ]
     },
@@ -223,14 +226,14 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-20",
+        "vaccine": "Moderna",
+        "day": "2021-05-24",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
-        "address": "Parkowa 14, Raci\u0105\u017c",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
-                "07:40:00"
+                "06:25:00"
             ]
         ]
     },
@@ -252,6 +255,18 @@
         ]
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-30",
+        "count": 1,
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
+        "times": [
+            [
+                "06:00:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-06-06",
         "count": 1,
@@ -264,26 +279,39 @@
         ]
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-06-07",
+        "count": 1,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "09:00:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-06-08",
-        "count": 1,
+        "count": 3,
         "location": "Przychodnia Rejonowa Nr 1 Samodzielny Zesp\u00f3\u0142 Publicznych Zak\u0142ad\u00f3w Lecznictwa Otwartego w Piasecznie",
         "address": "Fabryczna 1, Piaseczno",
         "times": [
             [
-                "13:25:00"
+                "13:40:00",
+                "13:45:00",
+                "13:50:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-09",
-        "count": 4,
+        "count": 3,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Steyera 2E, Ostro\u0142\u0119ka",
         "times": [
             [
-                "10:55:00",
                 "11:00:00",
                 "11:05:00",
                 "11:10:00"
@@ -306,11 +334,11 @@
         "vaccine": "Pfizer",
         "day": "2021-06-10",
         "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "S\u0142oneczna 1, \u0141osice",
+        "location": "Podstawowa Opieka Zdrowotna -Punkt szczepie\u0144,  ul. 3 Maja 57",
+        "address": "ul. 3 Maja 57, Grodzisk Mazowiecki",
         "times": [
             [
-                "07:20:00"
+                "09:50:00"
             ]
         ]
     },
@@ -339,9 +367,21 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-06-12",
+        "count": 1,
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka",
+        "times": [
+            [
+                "07:45:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-14",
-        "count": 20,
+        "count": 19,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -364,8 +404,7 @@
                 "08:30:00",
                 "08:35:00",
                 "08:40:00",
-                "08:45:00",
-                "09:00:00"
+                "08:45:00"
             ]
         ]
     },
@@ -407,6 +446,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-06-15",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "15:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-16",
         "count": 7,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
@@ -438,7 +489,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 18,
+        "count": 19,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
@@ -460,7 +511,8 @@
                 "14:40:00",
                 "14:45:00",
                 "14:50:00",
-                "14:55:00"
+                "14:55:00",
+                "15:00:00"
             ]
         ]
     },
@@ -479,13 +531,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 4,
+        "count": 2,
         "location": "NZOZ  ,,DOBRE ZDROWIE\" Punkt szczepie\u0144",
         "address": "ul. Szkolna  2, Dobre",
         "times": [
             [
-                "12:20:00",
-                "12:25:00",
                 "12:30:00",
                 "12:35:00"
             ]
@@ -507,7 +557,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-19",
-        "count": 20,
+        "count": 21,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -521,6 +571,7 @@
                 "07:00:00",
                 "07:05:00",
                 "07:10:00",
+                "07:15:00",
                 "08:00:00",
                 "08:05:00",
                 "08:10:00",
