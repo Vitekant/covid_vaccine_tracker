@@ -3,11 +3,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
-        "address": "ul. Henryka Sienkiewicza 9, Sierpc",
+        "location": "Centrum Medyczne \"GAJDA-MED\" filia w M\u0142ynarzach",
+        "address": "Ostro\u0142\u0119cka 7A, M\u0142ynarze",
         "times": [
             [
-                "06:30:00"
+                "06:25:00"
             ]
         ]
     },
@@ -15,11 +15,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
-        "location": "Pogotowie Ratunkowe - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W ZWOLENIU",
-        "address": "Ludowa 7a, Zwole\u0144",
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc",
         "times": [
             [
-                "10:00:00"
+                "06:30:00"
             ]
         ]
     },
@@ -148,19 +148,20 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 1,
+        "count": 2,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "11:35:00"
+                "11:35:00",
+                "12:15:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 48,
+        "count": 49,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -212,14 +213,27 @@
                 "11:55:00",
                 "12:00:00",
                 "12:05:00",
-                "12:10:00"
+                "12:10:00",
+                "12:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
+        "times": [
+            [
+                "10:25:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 22,
+        "count": 19,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -227,7 +241,6 @@
                 "07:45:00",
                 "07:50:00",
                 "07:55:00",
-                "08:30:00",
                 "08:35:00",
                 "08:40:00",
                 "08:45:00",
@@ -241,11 +254,9 @@
                 "09:35:00",
                 "09:40:00",
                 "09:55:00",
-                "10:25:00",
                 "10:30:00",
                 "10:35:00",
-                "10:40:00",
-                "10:45:00"
+                "10:40:00"
             ]
         ]
     },
@@ -316,7 +327,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 17,
+        "count": 18,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
@@ -324,6 +335,7 @@
                 "10:50:00",
                 "10:55:00",
                 "11:05:00",
+                "11:20:00",
                 "11:25:00",
                 "11:30:00",
                 "11:35:00",
@@ -451,7 +463,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 6,
+        "count": 5,
         "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
         "address": "ul. Henryka Sienkiewicza 9, Sierpc",
         "times": [
@@ -460,8 +472,7 @@
                 "09:55:00",
                 "10:10:00",
                 "10:15:00",
-                "10:20:00",
-                "10:30:00"
+                "10:20:00"
             ]
         ]
     }
