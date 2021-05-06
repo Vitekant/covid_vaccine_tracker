@@ -1,5 +1,17 @@
 [
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "Jastrz\u0119bia 119, Jastrz\u0119bia",
+        "times": [
+            [
+                "07:50:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
@@ -19,7 +31,7 @@
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
-                "07:10:00",
+                "07:00:00",
                 "07:15:00",
                 "07:20:00",
                 "07:25:00",
@@ -124,13 +136,26 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
+        "count": 3,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
+                "10:00:00",
                 "10:25:00",
                 "14:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "BIOVENA Sp\u00f3\u0142ka z ograniczon\u0105 odpowiedzialno\u015bci\u0105",
+        "address": "Lipowa 28A, J\u00f3zef\u00f3w",
+        "times": [
+            [
+                "11:40:00"
             ]
         ]
     },
@@ -149,7 +174,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 6,
+        "count": 5,
         "location": "MEDIQ - PUNKT SZCZEPIE\u0143",
         "address": "Pi\u0142sudskiego 20, Legionowo",
         "times": [
@@ -158,8 +183,7 @@
                 "12:50:00",
                 "12:55:00",
                 "13:00:00",
-                "13:05:00",
-                "13:25:00"
+                "13:05:00"
             ]
         ]
     },
@@ -189,6 +213,18 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "Inflancka 5, Warszawa",
+        "times": [
+            [
+                "15:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 2,
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
@@ -197,6 +233,19 @@
             [
                 "06:50:00",
                 "09:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 2,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
+        "address": "Szkolna 21, Rzeku\u0144",
+        "times": [
+            [
+                "08:05:00",
+                "09:35:00"
             ]
         ]
     },
@@ -226,18 +275,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
-        "address": "Szkolna 21, Rzeku\u0144",
-        "times": [
-            [
-                "09:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
         "count": 1,
         "location": "EMC PIASECZNO",
@@ -261,41 +298,26 @@
         ]
     },
     {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-10",
-        "count": 3,
-        "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
-        "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-26",
+        "count": 2,
+        "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "07:25:00",
-                "07:35:00",
-                "07:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-14",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
-        "times": [
-            [
-                "13:25:00"
+                "10:30:00",
+                "14:15:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-26",
-        "count": 13,
+        "count": 11,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "11:30:00",
-                "11:45:00",
                 "12:00:00",
                 "12:15:00",
                 "12:30:00",
@@ -312,26 +334,13 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
-        "address": "T\u0119czowa 16, Z\u0105bki",
-        "times": [
-            [
-                "14:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 14,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
                 "10:45:00",
-                "11:00:00",
                 "11:15:00",
                 "11:30:00",
                 "11:45:00",
@@ -399,14 +408,23 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 2,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "day": "2021-06-10",
+        "count": 11,
+        "location": "NZOZ BONUS",
+        "address": "LIPOWIEC KO\u015aCIELNY  26, LIPOWIEC KO\u015aCIELNY",
         "times": [
             [
-                "13:55:00",
-                "16:50:00"
+                "13:00:00",
+                "13:05:00",
+                "13:10:00",
+                "13:15:00",
+                "13:20:00",
+                "13:25:00",
+                "13:30:00",
+                "13:35:00",
+                "13:40:00",
+                "13:45:00",
+                "13:50:00"
             ]
         ]
     },
@@ -414,11 +432,11 @@
         "vaccine": "Pfizer",
         "day": "2021-06-10",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
         "times": [
             [
-                "09:30:00"
+                "16:50:00"
             ]
         ]
     },
@@ -461,12 +479,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-12",
-        "count": 11,
+        "count": 10,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
             [
-                "06:35:00",
                 "06:50:00",
                 "06:55:00",
                 "07:00:00",
@@ -512,29 +529,6 @@
                 "06:45:00",
                 "06:50:00",
                 "06:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-13",
-        "count": 12,
-        "location": "PORADNIA LEKARZA POZ",
-        "address": "Rynek 21, Stare Babice",
-        "times": [
-            [
-                "07:25:00",
-                "07:40:00",
-                "07:45:00",
-                "07:50:00",
-                "07:55:00",
-                "08:15:00",
-                "08:20:00",
-                "08:25:00",
-                "08:35:00",
-                "08:40:00",
-                "08:45:00",
-                "08:50:00"
             ]
         ]
     }
