@@ -19,6 +19,7 @@
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
+                "06:05:00",
                 "06:50:00",
                 "06:55:00",
                 "07:00:00",
@@ -98,8 +99,19 @@
                 "14:35:00",
                 "14:37:00",
                 "14:42:00",
-                "14:45:00",
-                "14:50:00"
+                "14:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Przychodnia Rodzinna Dr Zdzieblowskiej - Anin",
+        "address": "Alpejska  4A, Warszawa",
+        "times": [
+            [
+                "07:20:00"
             ]
         ]
     },
@@ -196,11 +208,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Impladent Aleksandra Niesiob\u0119dzka",
-        "address": "Banderii 4 U3, Warszawa",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Centrum Medyczne\" BMC - Przychodnia Lekarska w Wyszogrodzie",
+        "address": "P\u0142ocka 29, Wyszogr\u00f3d",
         "times": [
             [
-                "13:30:00"
+                "13:40:00"
             ]
         ]
     },
@@ -208,11 +220,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Centrum Medyczne\" BMC - Przychodnia Lekarska w Wyszogrodzie",
-        "address": "P\u0142ocka 29, Wyszogr\u00f3d",
+        "location": "Przychodnia Rejonowa",
+        "address": "Szybowcowa 4, Warszawa",
         "times": [
             [
-                "13:40:00"
+                "14:20:00"
             ]
         ]
     },
@@ -230,38 +242,14 @@
         ]
     },
     {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
-        "address": "Szkolna 21, Rzeku\u0144",
-        "times": [
-            [
-                "09:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
-        "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
-        "times": [
-            [
-                "11:00:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
+        "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "11:00:00"
+                "13:45:00"
             ]
         ]
     },
@@ -280,11 +268,13 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-26",
-        "count": 9,
+        "count": 11,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
+                "11:30:00",
+                "11:45:00",
                 "12:15:00",
                 "12:30:00",
                 "12:45:00",
@@ -312,34 +302,28 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-27",
-        "count": 11,
+        "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - Lodowa Arena \u2013 lodowisko miejskie Legionowo",
         "address": "Parkowa  27, Legionowo",
         "times": [
             [
-                "06:55:00",
-                "07:05:00",
-                "07:10:00",
-                "07:15:00",
                 "07:20:00",
                 "07:25:00",
                 "07:30:00",
                 "07:35:00",
                 "07:40:00",
-                "07:45:00",
-                "07:50:00"
+                "07:45:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 14,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "10:30:00",
                 "10:45:00",
                 "11:00:00",
                 "11:15:00",
@@ -353,6 +337,18 @@
                 "13:15:00",
                 "13:30:00",
                 "13:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "SZPITAL MATKI BO\u017bEJ NIEUSTAJ\u0104CEJ POMOCY W WO\u0141OMINIE",
+        "address": "GDY\u0143SKA 1/3, WO\u0141OMIN",
+        "times": [
+            [
+                "12:25:00"
             ]
         ]
     },
@@ -384,11 +380,11 @@
         "vaccine": "Pfizer",
         "day": "2021-06-09",
         "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
+        "address": "Jana Paw\u0142a II  20, Radzymin",
         "times": [
             [
-                "09:50:00"
+                "11:20:00"
             ]
         ]
     },
@@ -463,14 +459,19 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 3,
+        "count": 8,
         "location": "PORADNIA LEKARZA POZ",
         "address": "Rynek 21, Stare Babice",
         "times": [
             [
-                "07:10:00",
                 "07:20:00",
-                "07:25:00"
+                "07:25:00",
+                "07:40:00",
+                "07:45:00",
+                "07:50:00",
+                "07:55:00",
+                "08:15:00",
+                "08:20:00"
             ]
         ]
     }
