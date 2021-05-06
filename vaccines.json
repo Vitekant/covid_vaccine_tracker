@@ -2,7 +2,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 56,
+        "count": 55,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -61,8 +61,7 @@
                 "14:20:00",
                 "14:25:00",
                 "14:35:00",
-                "14:37:00",
-                "14:50:00"
+                "14:37:00"
             ]
         ]
     },
@@ -96,6 +95,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ \"MED-LUX\" - Punkt szczepie\u0144",
+        "address": "ul. Henryka Sienkiewicza 9, Sierpc",
+        "times": [
+            [
+                "09:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -119,12 +130,38 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
+        "count": 3,
+        "location": "MEDIQ - PUNKT SZCZEPIE\u0143",
+        "address": "Pi\u0142sudskiego 20, Legionowo",
+        "times": [
+            [
+                "11:45:00",
+                "11:50:00",
+                "12:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
         "count": 1,
         "location": "Gabinet lekarza POZ - \"MEDICUS\" \u017bELECH\u00d3W",
         "address": "REYMONTA 36A, \u017bELECH\u00d3W",
         "times": [
             [
                 "12:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
+        "address": "Andrzeja 23, Pruszk\u00f3w",
+        "times": [
+            [
+                "12:35:00"
             ]
         ]
     },
@@ -203,7 +240,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 9,
+        "count": 5,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -212,11 +249,7 @@
                 "06:30:00",
                 "09:10:00",
                 "10:45:00",
-                "10:50:00",
-                "10:55:00",
-                "11:15:00",
-                "11:20:00",
-                "12:35:00"
+                "10:50:00"
             ]
         ]
     },
@@ -253,6 +286,18 @@
     },
     {
         "vaccine": "Johnson & Johnson",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Poradnia stomatologiczna - Al. Solidarno\u015bci ",
+        "address": "al. Aleja \"Solidarno\u015bci\" 12, Warszawa",
+        "times": [
+            [
+                "16:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
         "day": "2021-05-16",
         "count": 1,
         "location": "Punkt szczepie\u0144 Pop\u0142aci\u0144ska",
@@ -266,12 +311,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "11:00:00",
                 "14:05:00"
             ]
         ]
@@ -291,12 +335,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-26",
-        "count": 12,
+        "count": 11,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "11:30:00",
                 "12:30:00",
                 "12:45:00",
                 "13:00:00",
@@ -339,7 +382,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 13,
+        "count": 14,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
@@ -356,7 +399,20 @@
                 "13:45:00",
                 "14:00:00",
                 "14:15:00",
-                "14:30:00"
+                "14:30:00",
+                "14:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-02",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "11:00:00"
             ]
         ]
     },
@@ -368,19 +424,18 @@
         "address": "Rynek 21, Stare Babice",
         "times": [
             [
-                "12:50:00"
+                "12:55:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-06",
-        "count": 2,
+        "count": 1,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
             [
-                "09:00:00",
                 "10:00:00"
             ]
         ]
@@ -393,7 +448,7 @@
         "address": "Rynek 21, Stare Babice",
         "times": [
             [
-                "12:45:00"
+                "12:55:00"
             ]
         ]
     },
@@ -481,7 +536,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 23,
+        "count": 25,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
@@ -508,14 +563,16 @@
                 "09:30:00",
                 "09:35:00",
                 "09:40:00",
-                "09:45:00"
+                "09:45:00",
+                "09:50:00",
+                "09:55:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 8,
+        "count": 9,
         "location": "PORADNIA LEKARZA POZ",
         "address": "Rynek 21, Stare Babice",
         "times": [
@@ -527,7 +584,8 @@
                 "09:25:00",
                 "09:35:00",
                 "09:40:00",
-                "09:45:00"
+                "09:45:00",
+                "09:50:00"
             ]
         ]
     }
