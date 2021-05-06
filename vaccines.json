@@ -95,11 +95,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Centrum Medyczne LUX MED",
-        "address": "Al. Stan\u00f3w Zjednoczonych 72, Warszawa",
+        "location": "Przychodnia Rodzinna Dr Zdzieblowskiej - Bemowo",
+        "address": "Roz\u0142ogi 18/4, Warszawa",
         "times": [
             [
-                "11:30:00"
+                "10:40:00"
             ]
         ]
     },
@@ -156,23 +156,23 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "14:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
             [
                 "14:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
-        "address": "Sienkiewicza 7, P\u0142o\u0144sk",
-        "times": [
-            [
-                "16:00:00"
             ]
         ]
     },
@@ -316,7 +316,7 @@
         "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
             [
-                "12:00:00"
+                "12:30:00"
             ]
         ]
     },
@@ -328,7 +328,7 @@
         "address": "Mikkego 4, Warszawa",
         "times": [
             [
-                "13:00:00"
+                "12:50:00"
             ]
         ]
     },
@@ -345,43 +345,19 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-13",
-        "count": 1,
-        "location": "Poradnia lekarza rodzinnego",
-        "address": "Nowy Lubiel 24B, Nowy Lubiel",
-        "times": [
-            [
-                "15:35:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 55,
+        "count": 37,
         "location": "Punkt Szczepie\u0144 Powszechnych - Marecki Punkt Szczepie\u0144 w Centrum Handlowym M1",
         "address": "Pi\u0142sudskiego 1, Marki",
         "times": [
             [
-                "11:35:00",
-                "11:40:00",
-                "11:50:00",
-                "11:55:00",
-                "12:05:00",
                 "12:10:00",
-                "12:15:00",
-                "12:20:00",
-                "12:25:00",
                 "12:30:00",
-                "12:35:00",
-                "12:40:00",
                 "12:45:00",
-                "12:50:00",
                 "12:55:00",
                 "13:05:00",
                 "13:10:00",
-                "13:15:00",
                 "13:20:00",
                 "13:25:00",
                 "13:30:00",
@@ -389,11 +365,10 @@
                 "13:40:00",
                 "13:45:00",
                 "13:50:00",
+                "14:05:00",
                 "14:10:00",
                 "14:15:00",
                 "14:20:00",
-                "14:30:00",
-                "14:35:00",
                 "14:40:00",
                 "14:45:00",
                 "14:50:00",
@@ -407,35 +382,47 @@
                 "15:35:00",
                 "15:40:00",
                 "15:45:00",
-                "15:50:00",
-                "16:00:00",
                 "16:05:00",
                 "16:10:00",
                 "16:15:00",
                 "16:20:00",
-                "16:25:00",
-                "16:30:00",
                 "16:35:00",
                 "16:40:00",
-                "16:45:00",
-                "16:50:00"
+                "16:45:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 6,
+        "count": 23,
         "location": "Punkt Szczepie\u0144 Powszechnych - Marecki Punkt Szczepie\u0144 w Centrum Handlowym M1",
         "address": "Pi\u0142sudskiego 1, Marki",
         "times": [
             [
-                "09:00:00",
                 "09:05:00",
                 "09:10:00",
                 "09:15:00",
                 "09:20:00",
-                "09:25:00"
+                "09:25:00",
+                "09:30:00",
+                "09:35:00",
+                "09:40:00",
+                "09:45:00",
+                "09:50:00",
+                "09:55:00",
+                "10:00:00",
+                "10:05:00",
+                "10:10:00",
+                "10:15:00",
+                "10:20:00",
+                "10:25:00",
+                "10:30:00",
+                "10:35:00",
+                "10:40:00",
+                "10:45:00",
+                "10:50:00",
+                "10:55:00"
             ]
         ]
     },
@@ -467,59 +454,11 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
-        "address": "Jana Chilickiego  2, Zakroczym",
-        "times": [
-            [
-                "06:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-21",
-        "count": 1,
-        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
-        "address": "Spacerowa  29, Bia\u0142obrzegi",
-        "times": [
-            [
-                "10:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-21",
-        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
                 "10:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-21",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
-        "times": [
-            [
-                "16:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-22",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
-        "address": "Parkowa 14, Raci\u0105\u017c",
-        "times": [
-            [
-                "06:45:00"
             ]
         ]
     },
@@ -608,12 +547,13 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
-        "count": 3,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
                 "06:00:00",
+                "09:45:00",
                 "10:30:00",
                 "10:45:00"
             ]
