@@ -165,8 +165,8 @@
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "11:45:00",
-                "11:50:00"
+                "11:50:00",
+                "11:55:00"
             ]
         ]
     },
@@ -231,7 +231,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 19,
+        "count": 20,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -254,7 +254,8 @@
                 "09:20:00",
                 "09:25:00",
                 "09:35:00",
-                "09:40:00"
+                "09:40:00",
+                "09:45:00"
             ]
         ]
     },
@@ -292,18 +293,6 @@
                 "13:50:00",
                 "13:55:00",
                 "14:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-29",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
-        "times": [
-            [
-                "06:50:00"
             ]
         ]
     },
