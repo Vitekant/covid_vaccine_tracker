@@ -177,7 +177,7 @@
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "09:15:00"
+                "11:20:00"
             ]
         ]
     },
@@ -336,12 +336,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 25,
+        "count": 24,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
             [
-                "10:10:00",
                 "10:15:00",
                 "10:25:00",
                 "10:30:00",
