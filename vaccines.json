@@ -2,12 +2,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
+        "count": 1,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "08:20:00",
                 "08:40:00"
             ]
         ]
@@ -37,18 +36,6 @@
                 "09:00:00",
                 "09:15:00",
                 "09:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "POWIATOWE CENTRUM MEDYCZNE W GR\u00d3JCU SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Piotra Skargi 10, Gr\u00f3jec",
-        "times": [
-            [
-                "09:45:00"
             ]
         ]
     },
@@ -126,18 +113,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "15:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
         "count": 1,
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
@@ -163,12 +138,13 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 41,
+        "count": 42,
         "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
         "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
         "times": [
             [
-                "06:30:00",
+                "06:55:00",
+                "07:05:00",
                 "07:15:00",
                 "07:20:00",
                 "07:25:00",
@@ -209,18 +185,6 @@
                 "10:45:00",
                 "10:50:00",
                 "10:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-10",
-        "count": 1,
-        "location": "ZAK\u0141AD OPIEKU\u0143CZO-LECZNICZY",
-        "address": "Mehoffera 72/74, Warszawa",
-        "times": [
-            [
-                "10:15:00"
             ]
         ]
     },
@@ -275,7 +239,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 10,
+        "count": 11,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -289,7 +253,8 @@
                 "12:45:00",
                 "12:50:00",
                 "12:55:00",
-                "13:00:00"
+                "13:00:00",
+                "13:05:00"
             ]
         ]
     },
@@ -307,13 +272,13 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-25",
+        "day": "2021-05-24",
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
         "address": "Szczytno 11a, Szczytno",
         "times": [
             [
-                "06:15:00"
+                "08:05:00"
             ]
         ]
     },
@@ -343,18 +308,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-26",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szkolno-Przedszkolny nr 4 w Nowym Dworze Mazowieckim",
-        "address": "Gen. J. Bema 312, Nowy Dw\u00f3r Mazowiecki",
-        "times": [
-            [
-                "11:50:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-26",
         "count": 11,
@@ -362,7 +315,7 @@
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "09:30:00",
+                "09:15:00",
                 "09:45:00",
                 "10:15:00",
                 "10:30:00",
@@ -405,11 +358,11 @@
         "vaccine": "Pfizer",
         "day": "2021-05-27",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Nowodworski O\u015brodek Sportu i Rekreacji w Nowym Dworze Mazowieckim",
-        "address": "Sportowa 66, Nowy Dw\u00f3r Mazowiecki",
+        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
+        "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA",
         "times": [
             [
-                "12:40:00"
+                "12:00:00"
             ]
         ]
     },
@@ -438,6 +391,42 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-05-29",
+        "count": 1,
+        "location": "Centrum Medyczne Raszyn",
+        "address": "Pruszkowska 52, RASZYN",
+        "times": [
+            [
+                "12:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-01",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
+        "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
+        "times": [
+            [
+                "14:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-02",
+        "count": 1,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin",
+        "times": [
+            [
+                "06:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-06-03",
         "count": 2,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
@@ -446,6 +435,18 @@
             [
                 "12:30:00",
                 "13:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-04",
+        "count": 1,
+        "location": "ZAK\u0141AD LECZNICZO - REHABILITACYJNY LASKI ZAK\u0141AD NIEWIDOMYCH",
+        "address": "Brzozowa 75, Laski",
+        "times": [
+            [
+                "09:20:00"
             ]
         ]
     },
@@ -464,12 +465,13 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-05",
-        "count": 35,
+        "count": 34,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
             [
-                "10:40:00",
+                "09:35:00",
+                "10:35:00",
                 "10:45:00",
                 "10:50:00",
                 "10:55:00",
@@ -501,9 +503,7 @@
                 "15:05:00",
                 "15:10:00",
                 "15:15:00",
-                "15:20:00",
-                "15:25:00",
-                "15:30:00"
+                "15:20:00"
             ]
         ]
     }
