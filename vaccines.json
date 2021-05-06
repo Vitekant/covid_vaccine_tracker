@@ -12,18 +12,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych w Zespole Szk\u00f3\u0142 Powiatowych w Przasnyszu",
-        "address": "SADOWA 5, PRZASNYSZ",
-        "times": [
-            [
-                "09:30:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 2,
@@ -196,11 +184,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 4,
+        "count": 5,
         "location": "SPZOZ W IZABELINIE - PUNKT SZCZEPIE\u0143",
         "address": "TETMAJERA  3A, Izabelin",
         "times": [
             [
+                "09:20:00",
                 "09:30:00",
                 "09:35:00",
                 "11:35:00",
@@ -211,13 +200,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
+        "count": 1,
         "location": "MEDIQ - PUNKT SZCZEPIE\u0143",
         "address": "Pi\u0142sudskiego 20, Legionowo",
         "times": [
             [
-                "10:50:00",
-                "11:05:00"
+                "10:50:00"
             ]
         ]
     },
@@ -230,18 +218,6 @@
         "times": [
             [
                 "12:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-09",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
-        "times": [
-            [
-                "09:30:00"
             ]
         ]
     },
@@ -261,15 +237,14 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-12",
-        "count": 4,
+        "count": 3,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
-                "14:10:00",
+                "13:15:00",
                 "14:40:00",
-                "15:10:00",
-                "16:30:00"
+                "15:10:00"
             ]
         ]
     },
@@ -300,17 +275,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 46,
+        "count": 42,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "10:40:00",
-                "11:05:00",
-                "11:15:00",
-                "11:20:00",
-                "11:25:00",
-                "11:35:00",
+                "10:25:00",
                 "11:40:00",
                 "11:45:00",
                 "11:50:00",
@@ -340,8 +310,6 @@
                 "14:05:00",
                 "14:10:00",
                 "14:20:00",
-                "14:25:00",
-                "14:40:00",
                 "15:30:00",
                 "15:35:00",
                 "15:40:00",
@@ -350,7 +318,10 @@
                 "15:55:00",
                 "16:05:00",
                 "16:10:00",
-                "16:15:00"
+                "16:15:00",
+                "16:20:00",
+                "16:25:00",
+                "16:35:00"
             ]
         ]
     },
@@ -425,19 +396,6 @@
             [
                 "13:20:00",
                 "17:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-15",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk",
-        "times": [
-            [
-                "08:15:00",
-                "08:30:00"
             ]
         ]
     },
