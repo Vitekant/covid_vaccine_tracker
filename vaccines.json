@@ -419,12 +419,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 24,
+        "count": 23,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "07:50:00",
                 "07:55:00",
                 "08:40:00",
                 "08:45:00",
@@ -464,18 +463,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-15",
-        "count": 1,
-        "location": "Centrum Medyczne Warszawskiego Uniwersytetu Medycznego",
-        "address": "Jana Nielubowicza 5, Warszawa",
-        "times": [
-            [
-                "12:45:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-15",
         "count": 2,
@@ -505,24 +492,26 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-15",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
-        "address": "Ossowskiego 25, Warszawa",
+        "count": 3,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
+        "address": "Strumykowa  21, Warszawa",
         "times": [
             [
-                "10:55:00",
-                "11:00:00"
+                "10:15:00",
+                "11:00:00",
+                "11:05:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-15",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
-        "address": "Strumykowa  21, Warszawa",
+        "count": 2,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
+        "address": "Ossowskiego 25, Warszawa",
         "times": [
             [
+                "10:55:00",
                 "11:00:00"
             ]
         ]
