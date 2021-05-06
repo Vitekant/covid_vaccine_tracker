@@ -62,25 +62,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 8,
-        "location": "Poradnia lekarza POZ",
-        "address": "Modzelewskiego 58, Warszawa",
-        "times": [
-            [
-                "07:15:00",
-                "07:45:00",
-                "08:00:00",
-                "08:15:00",
-                "08:30:00",
-                "08:45:00",
-                "09:00:00",
-                "09:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 12,
         "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
         "address": "Szkolna 6, Milan\u00f3wek",
@@ -98,6 +79,30 @@
                 "10:15:00",
                 "10:30:00",
                 "10:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 13,
+        "location": "Poradnia lekarza POZ",
+        "address": "Modzelewskiego 58, Warszawa",
+        "times": [
+            [
+                "08:00:00",
+                "08:15:00",
+                "08:30:00",
+                "08:45:00",
+                "09:00:00",
+                "09:15:00",
+                "09:30:00",
+                "09:45:00",
+                "10:00:00",
+                "10:15:00",
+                "10:30:00",
+                "10:45:00",
+                "11:00:00"
             ]
         ]
     },
@@ -168,71 +173,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
-        "address": "Poligonowa 32, Warszawa",
-        "times": [
-            [
-                "13:33:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "14:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
         "location": "Poradnia chor\u00f3b wewn\u0119trznych",
         "address": "Aleja Owocowa 30C, Tr\u0105bki",
         "times": [
             [
                 "14:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Przychodnia lekarska",
-        "address": "Madali\u0144skiego 13, Warszawa",
-        "times": [
-            [
-                "10:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "10:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Gabinet lekarza POZ",
-        "address": "B\u0105dkowska 1, Goszczyn",
-        "times": [
-            [
-                "10:55:00"
             ]
         ]
     },
@@ -252,20 +197,8 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-09",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "09:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 19,
+        "count": 20,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -288,7 +221,8 @@
                 "12:35:00",
                 "12:40:00",
                 "12:45:00",
-                "12:50:00"
+                "12:50:00",
+                "12:55:00"
             ]
         ]
     },
@@ -316,16 +250,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 23,
+        "count": 17,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "08:30:00",
-                "10:15:00",
-                "10:30:00",
-                "10:45:00",
-                "11:00:00",
                 "11:15:00",
                 "11:30:00",
                 "11:45:00",
@@ -342,22 +271,27 @@
                 "14:30:00",
                 "14:45:00",
                 "15:00:00",
-                "15:15:00",
-                "15:30:00"
+                "15:15:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 3,
+        "count": 9,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
                 "06:00:00",
                 "06:15:00",
-                "06:30:00"
+                "06:30:00",
+                "06:45:00",
+                "07:00:00",
+                "07:15:00",
+                "07:30:00",
+                "07:45:00",
+                "08:00:00"
             ]
         ]
     },
@@ -388,13 +322,13 @@
     },
     {
         "vaccine": "Moderna",
-        "day": "2021-05-21",
+        "day": "2021-05-20",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "11:15:00"
+                "13:20:00"
             ]
         ]
     },
@@ -430,29 +364,25 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-06-14",
-        "count": 3,
+        "day": "2021-06-07",
+        "count": 1,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "07:20:00",
-                "08:15:00",
-                "09:20:00"
+                "07:30:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-19",
-        "count": 20,
+        "count": 18,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "06:25:00",
                 "06:35:00",
-                "06:55:00",
                 "07:00:00",
                 "07:05:00",
                 "07:10:00",
@@ -469,14 +399,14 @@
                 "08:35:00",
                 "08:40:00",
                 "08:45:00",
-                "09:15:00"
+                "09:20:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-21",
-        "count": 34,
+        "count": 35,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -514,14 +444,15 @@
                 "08:50:00",
                 "08:55:00",
                 "09:10:00",
-                "09:15:00"
+                "09:15:00",
+                "09:20:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-06-26",
-        "count": 8,
+        "count": 11,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -533,7 +464,10 @@
                 "06:20:00",
                 "06:25:00",
                 "06:30:00",
-                "06:35:00"
+                "06:35:00",
+                "06:40:00",
+                "06:45:00",
+                "06:50:00"
             ]
         ]
     }
