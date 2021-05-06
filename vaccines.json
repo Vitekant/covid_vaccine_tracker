@@ -14,15 +14,15 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 64,
+        "count": 63,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
+                "07:15:00",
                 "07:30:00",
                 "07:35:00",
                 "07:40:00",
-                "07:45:00",
                 "07:50:00",
                 "07:55:00",
                 "08:20:00",
@@ -55,7 +55,6 @@
                 "11:25:00",
                 "11:40:00",
                 "11:45:00",
-                "12:00:00",
                 "12:05:00",
                 "12:10:00",
                 "12:20:00",
@@ -114,6 +113,19 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 2,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+        "times": [
+            [
+                "08:35:00",
+                "09:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 2,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -134,18 +146,6 @@
                 "09:00:00",
                 "09:15:00",
                 "09:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
-        "times": [
-            [
-                "09:55:00"
             ]
         ]
     },
@@ -201,19 +201,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
-        "location": "MEDIQ - PUNKT SZCZEPIE\u0143",
-        "address": "Pi\u0142sudskiego 20, Legionowo",
-        "times": [
-            [
-                "12:50:00",
-                "12:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Centrum Medyczne\" BMC - Przychodnia Lekarska w Wyszogrodzie",
         "address": "P\u0142ocka 29, Wyszogr\u00f3d",
@@ -227,11 +214,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Ambulatorium Stomatologiczne - Che\u0142mska",
-        "address": "Che\u0142mska 12, Warszawa",
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
             [
-                "13:40:00"
+                "14:00:00"
             ]
         ]
     },
@@ -275,30 +262,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "17:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-09",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
-        "times": [
-            [
-                "15:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
         "count": 1,
         "location": "EMC PIASECZNO",
@@ -324,7 +287,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 9,
+        "count": 13,
         "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
         "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
         "times": [
@@ -337,31 +300,23 @@
                 "08:25:00",
                 "08:35:00",
                 "08:40:00",
-                "08:45:00"
+                "08:45:00",
+                "08:50:00",
+                "08:55:00",
+                "09:05:00",
+                "09:10:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-15",
+        "day": "2021-05-24",
         "count": 1,
-        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ MAK-MED",
-        "address": "Al. Armii Krajowej 64/13, Wo\u0142omin",
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
         "times": [
             [
-                "11:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-15",
-        "count": 1,
-        "location": "Centrum Medyczne Warszawskiego Uniwersytetu Medycznego",
-        "address": "Jana Nielubowicza 5, Warszawa",
-        "times": [
-            [
-                "13:55:00"
+                "10:25:00"
             ]
         ]
     },
@@ -445,19 +400,7 @@
         "address": "Rynek 21, Stare Babice",
         "times": [
             [
-                "11:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O",
-        "times": [
-            [
-                "09:55:00"
+                "12:05:00"
             ]
         ]
     },
@@ -534,11 +477,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-11",
-        "count": 1,
+        "count": 2,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
         "address": "Hubalczyk\u00f3w 11, P\u0142ock",
         "times": [
             [
+                "17:00:00",
                 "17:15:00"
             ]
         ]
@@ -576,7 +520,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 14,
+        "count": 15,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
@@ -594,7 +538,8 @@
                 "06:50:00",
                 "06:55:00",
                 "07:00:00",
-                "09:00:00"
+                "09:00:00",
+                "09:05:00"
             ]
         ]
     },
