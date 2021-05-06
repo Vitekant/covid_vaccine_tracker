@@ -41,30 +41,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
-        "address": "UL. TOCHTERMANA  1, RADOM",
-        "times": [
-            [
-                "07:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Centrum Medyczne LUX MED",
-        "address": "Post\u0119pu 21C, Warszawa",
-        "times": [
-            [
-                "08:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 2,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
@@ -78,12 +54,25 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
+        "count": 1,
+        "location": "Centrum Medyczne LUX MED",
+        "address": "Post\u0119pu 21C, Warszawa",
+        "times": [
+            [
+                "08:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 3,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
                 "09:00:00",
+                "10:20:00",
                 "10:25:00"
             ]
         ]
@@ -154,6 +143,30 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
+        "location": "NZOZ O\u015brodek Pomocy Zdrowiu  ul.  Bellottiego",
+        "address": "ul. J\u00f3zefa Bellottiego 1, Warszawa",
+        "times": [
+            [
+                "11:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Punkt szczepie\u0144 - Oddzia\u0142 Home Park Targ\u00f3wek",
+        "address": "ul. Malborska 47, Warszawa",
+        "times": [
+            [
+                "12:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Centrum Medyczne\" BMC - Przychodnia Lekarska w Wyszogrodzie",
         "address": "P\u0142ocka 29, Wyszogr\u00f3d",
         "times": [
@@ -178,11 +191,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Poradnia Lekarza POZ_Filia dla Dzieci",
-        "address": "Obro\u0144c\u00f3w Modlina 83, Nowy Dw\u00f3r Mazowiecki",
+        "location": "Centrum Medyczne Medycyna Rodzinna",
+        "address": "Gr\u00f3jecka 186, Warszawa",
         "times": [
             [
-                "14:45:00"
+                "15:15:00"
             ]
         ]
     },
@@ -256,6 +269,18 @@
         "times": [
             [
                 "09:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-09",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "17:30:00"
             ]
         ]
     },
@@ -353,15 +378,14 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 4,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
             [
                 "12:15:00",
                 "12:20:00",
-                "12:25:00",
-                "12:30:00"
+                "12:25:00"
             ]
         ]
     },
@@ -378,38 +402,26 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-14",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-20",
         "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "14:45:00"
+                "09:20:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-20",
+        "day": "2021-05-24",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Nowodworski O\u015brodek Sportu i Rekreacji w Nowym Dworze Mazowieckim",
-        "address": "Sportowa 66, Nowy Dw\u00f3r Mazowiecki",
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
         "times": [
             [
-                "13:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-22",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk",
-        "times": [
-            [
-                "06:45:00"
+                "08:05:00"
             ]
         ]
     },
@@ -421,7 +433,6 @@
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "09:15:00",
                 "09:30:00",
                 "09:45:00",
                 "10:15:00",
@@ -431,7 +442,8 @@
                 "11:15:00",
                 "11:30:00",
                 "11:45:00",
-                "12:00:00"
+                "12:00:00",
+                "12:15:00"
             ]
         ]
     },
@@ -445,6 +457,18 @@
             [
                 "11:15:00",
                 "11:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Poradnia lekarza rodzinnego",
+        "address": "D\u0105br\u00f3wka 52, Lelis",
+        "times": [
+            [
+                "08:30:00"
             ]
         ]
     },
@@ -463,12 +487,13 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
         "address": "Parkowa 14, Raci\u0105\u017c",
         "times": [
             [
-                "06:15:00"
+                "06:15:00",
+                "08:55:00"
             ]
         ]
     },
@@ -487,7 +512,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 12,
+        "count": 11,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
@@ -502,8 +527,7 @@
                 "10:30:00",
                 "10:45:00",
                 "11:00:00",
-                "11:15:00",
-                "11:30:00"
+                "11:15:00"
             ]
         ]
     },
@@ -516,43 +540,6 @@
         "times": [
             [
                 "13:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-01",
-        "count": 1,
-        "location": "CENTRUM ZDROWIA MAZOWSZA ZACHODNIEGO SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Boles\u0142awa Limanowskiego 30, \u017byrard\u00f3w",
-        "times": [
-            [
-                "10:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-01",
-        "count": 2,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "13:25:00",
-                "13:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-02",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
-        "times": [
-            [
-                "18:00:00"
             ]
         ]
     },
@@ -576,9 +563,6 @@
         "address": "Pruszkowska 52, RASZYN",
         "times": [
             [
-                "06:55:00",
-                "07:10:00",
-                "07:15:00",
                 "07:20:00",
                 "07:25:00",
                 "07:30:00",
@@ -616,7 +600,10 @@
                 "10:25:00",
                 "10:30:00",
                 "10:35:00",
-                "10:40:00"
+                "10:40:00",
+                "10:45:00",
+                "10:50:00",
+                "10:55:00"
             ]
         ]
     }
