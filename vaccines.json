@@ -52,7 +52,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 81,
+        "count": 79,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -135,9 +135,7 @@
                 "13:47:00",
                 "13:50:00",
                 "13:52:00",
-                "13:55:00",
-                "14:02:00",
-                "14:05:00"
+                "13:55:00"
             ]
         ]
     },
@@ -222,6 +220,30 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
+        "location": "Centrum Medyczne Medycyna Rodzinna",
+        "address": "Gr\u00f3jecka 186, Warszawa",
+        "times": [
+            [
+                "10:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "10:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
         "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
         "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
         "times": [
@@ -270,12 +292,13 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 1,
+        "count": 2,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
             [
-                "08:00:00"
+                "08:00:00",
+                "08:10:00"
             ]
         ]
     },
@@ -348,40 +371,34 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 5,
+        "count": 3,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
             [
                 "11:10:00",
                 "11:15:00",
-                "11:30:00",
-                "11:45:00",
-                "12:00:00"
+                "11:45:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 13,
+        "count": 9,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "15:40:00",
                 "15:45:00",
                 "15:50:00",
-                "15:55:00",
                 "16:10:00",
                 "16:15:00",
                 "16:20:00",
                 "16:25:00",
                 "16:35:00",
                 "16:40:00",
-                "16:45:00",
-                "16:50:00",
-                "16:55:00"
+                "16:45:00"
             ]
         ]
     },
@@ -436,7 +453,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 16,
+        "count": 21,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
@@ -456,7 +473,12 @@
                 "07:25:00",
                 "07:30:00",
                 "07:35:00",
-                "07:40:00"
+                "07:40:00",
+                "07:45:00",
+                "07:50:00",
+                "07:55:00",
+                "08:30:00",
+                "08:35:00"
             ]
         ]
     },
