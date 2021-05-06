@@ -27,19 +27,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 2,
-        "location": "CENTRUM MEDYCZNE COMPLEX - MED SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "pl.Kili\u0144skiego 4, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "06:40:00",
-                "07:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 2,
         "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
         "address": "Szkolna 6, Milan\u00f3wek",
         "times": [
@@ -64,7 +51,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 81,
+        "count": 82,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -149,7 +136,8 @@
                 "14:02:00",
                 "14:05:00",
                 "14:07:00",
-                "14:10:00"
+                "14:10:00",
+                "14:12:00"
             ]
         ]
     },
@@ -164,6 +152,18 @@
                 "07:25:00",
                 "08:50:00",
                 "11:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "CENTRUM MEDYCZNE COMPLEX - MED SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "pl.Kili\u0144skiego 4, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "07:45:00"
             ]
         ]
     },
@@ -430,12 +430,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 20,
+        "count": 19,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "08:40:00",
                 "08:45:00",
                 "09:05:00",
                 "09:10:00",
@@ -566,6 +565,18 @@
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Stadion Legii",
         "address": "\u0141azienkowska 3, Warszawa",
+        "times": [
+            [
+                "11:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-15",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
+        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
                 "11:15:00"
