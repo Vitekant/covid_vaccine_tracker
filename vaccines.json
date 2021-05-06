@@ -353,7 +353,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 26,
+        "count": 25,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
@@ -362,7 +362,6 @@
                 "10:15:00",
                 "10:25:00",
                 "10:30:00",
-                "10:45:00",
                 "10:50:00",
                 "10:55:00",
                 "11:05:00",
@@ -449,7 +448,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 11,
+        "count": 12,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
         "times": [
@@ -464,7 +463,8 @@
                 "07:35:00",
                 "07:40:00",
                 "07:45:00",
-                "07:50:00"
+                "07:50:00",
+                "07:55:00"
             ]
         ]
     }
