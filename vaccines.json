@@ -19,9 +19,9 @@
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
+                "06:05:00",
                 "06:50:00",
                 "06:55:00",
-                "07:00:00",
                 "07:05:00",
                 "07:10:00",
                 "07:15:00",
@@ -145,6 +145,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "11:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
         "location": "BIOVENA Sp\u00f3\u0142ka z ograniczon\u0105 odpowiedzialno\u015bci\u0105",
         "address": "Lipowa 28A, J\u00f3zef\u00f3w",
         "times": [
@@ -208,42 +220,6 @@
         ]
     },
     {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
-        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
-        "times": [
-            [
-                "16:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc",
-        "times": [
-            [
-                "10:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-21",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
-        "times": [
-            [
-                "11:00:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-25",
         "count": 1,
@@ -258,12 +234,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-26",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "13:45:00",
                 "14:00:00"
             ]
         ]
@@ -303,18 +278,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Lodowa Arena \u2013 lodowisko miejskie Legionowo",
-        "address": "Parkowa  27, Legionowo",
-        "times": [
-            [
-                "07:45:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
         "count": 14,
@@ -347,11 +310,11 @@
         "address": "Fabryczna 1, Piaseczno",
         "times": [
             [
-                "14:10:00",
+                "13:10:00",
+                "14:05:00",
                 "14:15:00",
                 "14:20:00",
-                "14:25:00",
-                "14:30:00"
+                "14:25:00"
             ]
         ]
     },
@@ -359,11 +322,25 @@
         "vaccine": "Pfizer",
         "day": "2021-06-05",
         "count": 1,
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
+        "times": [
+            [
+                "06:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-05",
+        "count": 3,
         "location": "PORADNIA LEKARZA POZ",
         "address": "Rynek 21, Stare Babice",
         "times": [
             [
-                "11:35:00"
+                "10:50:00",
+                "11:35:00",
+                "11:40:00"
             ]
         ]
     },
@@ -381,13 +358,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-06",
+        "day": "2021-06-08",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
-        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
+        "location": "Podstawowa Opieka Zdrowotna -Punkt szczepie\u0144,  ul. 3 Maja 57",
+        "address": "ul. 3 Maja 57, Grodzisk Mazowiecki",
         "times": [
             [
-                "12:05:00"
+                "08:25:00"
             ]
         ]
     },
@@ -400,18 +377,6 @@
         "times": [
             [
                 "09:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-06-09",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
-        "address": "Jana Paw\u0142a II  20, Radzymin",
-        "times": [
-            [
-                "11:20:00"
             ]
         ]
     },
@@ -443,7 +408,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-12",
-        "count": 11,
+        "count": 10,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
@@ -452,13 +417,24 @@
                 "06:45:00",
                 "06:50:00",
                 "06:55:00",
-                "09:05:00",
                 "09:10:00",
                 "09:15:00",
                 "09:20:00",
                 "09:25:00",
                 "09:35:00",
                 "09:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-12",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "Mazowiecka 5A, M\u0142och\u00f3w",
+        "times": [
+            [
+                "09:55:00"
             ]
         ]
     },
@@ -492,7 +468,6 @@
         "address": "Rynek 21, Stare Babice",
         "times": [
             [
-                "07:20:00",
                 "07:25:00",
                 "07:40:00",
                 "07:45:00",
@@ -501,7 +476,8 @@
                 "08:15:00",
                 "08:20:00",
                 "08:25:00",
-                "08:35:00"
+                "08:35:00",
+                "08:40:00"
             ]
         ]
     }
