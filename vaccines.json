@@ -14,13 +14,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-07",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych w Zespole Szk\u00f3\u0142 Powiatowych w Przasnyszu",
         "address": "SADOWA 5, PRZASNYSZ",
         "times": [
             [
-                "09:30:00",
-                "13:20:00"
+                "09:30:00"
             ]
         ]
     },
@@ -71,6 +70,7 @@
         "times": [
             [
                 "07:17:00",
+                "07:22:00",
                 "07:27:00",
                 "07:32:00",
                 "07:42:00",
@@ -149,8 +149,7 @@
                 "13:52:00",
                 "13:55:00",
                 "14:02:00",
-                "14:05:00",
-                "14:07:00"
+                "14:05:00"
             ]
         ]
     },
@@ -294,18 +293,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
-        "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
-        "times": [
-            [
-                "13:45:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-13",
         "count": 11,
@@ -415,14 +402,13 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-14",
-        "count": 24,
+        "count": 23,
         "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
         "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
         "times": [
             [
                 "09:50:00",
                 "09:55:00",
-                "10:00:00",
                 "10:10:00",
                 "10:15:00",
                 "10:25:00",
@@ -464,7 +450,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 12,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
@@ -480,7 +466,8 @@
                 "07:05:00",
                 "07:10:00",
                 "07:15:00",
-                "07:20:00"
+                "07:20:00",
+                "07:25:00"
             ]
         ]
     },
@@ -539,18 +526,6 @@
                 "12:00:00",
                 "12:15:00",
                 "15:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
-        "address": "D\u0141UGA 75, BRAMKI",
-        "times": [
-            [
-                "13:00:00"
             ]
         ]
     },
