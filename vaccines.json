@@ -14,11 +14,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 59,
+        "count": 60,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
+                "07:00:00",
                 "07:35:00",
                 "07:40:00",
                 "07:50:00",
@@ -234,30 +235,6 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Warszawa-Weso\u0142a - Przychodnia \"Pogodna\"",
-        "address": "Jana Paw\u0142a II  25, Warszawa Weso\u0142a",
-        "times": [
-            [
-                "13:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-09",
-        "count": 1,
-        "location": "EMC PIASECZNO",
-        "address": "Szkolna 1, Piaseczno",
-        "times": [
-            [
-                "12:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
         "count": 2,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
@@ -272,7 +249,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 16,
+        "count": 17,
         "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
         "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
         "times": [
@@ -292,19 +269,8 @@
                 "09:10:00",
                 "09:35:00",
                 "09:40:00",
-                "09:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
-        "times": [
-            [
-                "12:45:00"
+                "09:45:00",
+                "09:55:00"
             ]
         ]
     },
@@ -328,7 +294,7 @@
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "11:30:00",
+                "11:45:00",
                 "12:15:00",
                 "12:30:00",
                 "12:45:00",
@@ -345,13 +311,37 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-28",
-        "count": 15,
+        "day": "2021-05-27",
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "10:45:00",
+                "14:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-28",
+        "count": 2,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+        "address": "Parkowa 14, Raci\u0105\u017c",
+        "times": [
+            [
+                "09:25:00",
+                "09:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-28",
+        "count": 14,
+        "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
+        "times": [
+            [
                 "11:00:00",
                 "11:15:00",
                 "11:30:00",
@@ -371,18 +361,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-29",
-        "count": 1,
-        "location": "Przychodnia Rejonowo-Specjalistyczna, ul. Szcz\u0119\u015bliwicka",
-        "address": "Szcz\u0119\u015bliwicka 36, Warszawa",
-        "times": [
-            [
-                "10:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-05",
         "count": 1,
         "location": "PORADNIA LEKARZA POZ",
@@ -395,13 +373,25 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-09",
+        "day": "2021-06-06",
         "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O",
+        "location": "Centrum Medyczne Raszyn",
+        "address": "Pruszkowska 52, RASZYN",
         "times": [
             [
-                "09:55:00"
+                "09:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-06",
+        "count": 1,
+        "location": "PORADNIA LEKARZA POZ",
+        "address": "Rynek 21, Stare Babice",
+        "times": [
+            [
+                "12:10:00"
             ]
         ]
     },
@@ -441,13 +431,17 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-11",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
+        "day": "2021-06-12",
+        "count": 5,
+        "location": "Centrum Medyczne Raszyn",
+        "address": "Pruszkowska 52, RASZYN",
         "times": [
             [
-                "17:15:00"
+                "06:50:00",
+                "09:25:00",
+                "09:40:00",
+                "09:45:00",
+                "09:50:00"
             ]
         ]
     },
@@ -465,23 +459,8 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-12",
-        "count": 4,
-        "location": "Centrum Medyczne Raszyn",
-        "address": "Pruszkowska 52, RASZYN",
-        "times": [
-            [
-                "09:25:00",
-                "09:40:00",
-                "09:45:00",
-                "09:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 16,
+        "count": 17,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
@@ -501,7 +480,8 @@
                 "07:00:00",
                 "09:00:00",
                 "09:05:00",
-                "09:10:00"
+                "09:10:00",
+                "09:15:00"
             ]
         ]
     },
@@ -513,7 +493,6 @@
         "address": "Rynek 21, Stare Babice",
         "times": [
             [
-                "07:55:00",
                 "08:25:00",
                 "08:35:00",
                 "08:40:00",
@@ -521,7 +500,8 @@
                 "08:50:00",
                 "08:55:00",
                 "09:05:00",
-                "09:10:00"
+                "09:10:00",
+                "09:15:00"
             ]
         ]
     }
