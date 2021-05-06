@@ -244,19 +244,25 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "times": [
+            [
+                "06:05:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
-        "count": 27,
+        "count": 24,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "09:55:00",
-                "10:20:00",
-                "10:25:00",
-                "10:30:00",
-                "10:35:00",
-                "10:40:00",
                 "10:45:00",
                 "10:50:00",
                 "10:55:00",
@@ -277,7 +283,10 @@
                 "12:40:00",
                 "12:45:00",
                 "12:50:00",
-                "12:55:00"
+                "12:55:00",
+                "13:00:00",
+                "13:05:00",
+                "13:10:00"
             ]
         ]
     },
@@ -290,6 +299,18 @@
         "times": [
             [
                 "11:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin",
+        "times": [
+            [
+                "14:35:00"
             ]
         ]
     },
@@ -386,12 +407,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 3,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "14:15:00",
                 "14:30:00",
                 "17:45:00"
             ]
