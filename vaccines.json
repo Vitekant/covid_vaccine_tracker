@@ -52,7 +52,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 82,
+        "count": 80,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -136,21 +136,20 @@
                 "13:50:00",
                 "13:52:00",
                 "13:55:00",
-                "14:02:00",
-                "14:05:00",
-                "14:07:00"
+                "14:02:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
             [
                 "07:25:00",
+                "08:50:00",
                 "11:05:00"
             ]
         ]
@@ -215,6 +214,18 @@
         "times": [
             [
                 "09:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "10:00:00"
             ]
         ]
     },
@@ -386,6 +397,18 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
+        "count": 1,
+        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
+        "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA",
+        "times": [
+            [
+                "11:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-13",
         "count": 6,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
@@ -403,15 +426,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 34,
+        "count": 32,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "11:15:00",
-                "11:20:00",
                 "11:25:00",
-                "11:30:00",
                 "11:40:00",
                 "11:45:00",
                 "11:50:00",
@@ -441,7 +461,8 @@
                 "16:20:00",
                 "16:25:00",
                 "16:30:00",
-                "16:35:00"
+                "16:35:00",
+                "16:40:00"
             ]
         ]
     },
