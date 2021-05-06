@@ -146,18 +146,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Przychodnia Rejonowo Specjalistyczna",
-        "address": "Poborza\u0144ska 6, warszawa",
-        "times": [
-            [
-                "07:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
         "location": "Gabinet diagnostyczno - zabiegowy dla lekarza POZ",
         "address": "3 Maja 5, Pu\u0142tusk",
         "times": [
@@ -172,6 +160,18 @@
         "count": 1,
         "location": "PUNKT SZCZEPIE\u0143 PR\u0104DZY\u0143SKIEGO",
         "address": "IGNACEGO PR\u0104DZY\u0143SKIEGO 4, OSTRO\u0141\u0118KA",
+        "times": [
+            [
+                "08:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
             [
                 "08:45:00"
@@ -245,6 +245,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych w Zespole Szk\u00f3\u0142 Powiatowych w Przasnyszu",
+        "address": "SADOWA 5, PRZASNYSZ",
+        "times": [
+            [
+                "08:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-05-10",
         "count": 1,
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
@@ -252,6 +264,18 @@
         "times": [
             [
                 "15:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-11",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
+        "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
+        "times": [
+            [
+                "13:40:00"
             ]
         ]
     },
@@ -279,18 +303,6 @@
             [
                 "08:00:00",
                 "08:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "08:35:00"
             ]
         ]
     },
@@ -356,7 +368,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 32,
+        "count": 31,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
@@ -368,7 +380,6 @@
                 "06:45:00",
                 "06:50:00",
                 "06:55:00",
-                "07:05:00",
                 "07:10:00",
                 "07:15:00",
                 "07:20:00",
@@ -380,10 +391,10 @@
                 "07:50:00",
                 "07:55:00",
                 "08:35:00",
-                "08:40:00",
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
+                "09:00:00",
                 "09:05:00",
                 "09:10:00",
                 "09:15:00",
