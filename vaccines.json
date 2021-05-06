@@ -161,12 +161,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 48,
+        "count": 47,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "06:50:00",
                 "06:55:00",
                 "07:00:00",
                 "07:05:00",
@@ -228,7 +227,6 @@
                 "06:25:00",
                 "07:05:00",
                 "07:20:00",
-                "07:25:00",
                 "07:35:00",
                 "07:40:00",
                 "07:45:00",
@@ -243,7 +241,8 @@
                 "08:40:00",
                 "08:45:00",
                 "08:50:00",
-                "08:55:00"
+                "08:55:00",
+                "09:00:00"
             ]
         ]
     },
@@ -265,7 +264,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 12,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
@@ -281,14 +280,15 @@
                 "13:40:00",
                 "13:45:00",
                 "13:50:00",
-                "13:55:00"
+                "13:55:00",
+                "14:05:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 16,
+        "count": 15,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
@@ -304,7 +304,6 @@
                 "10:15:00",
                 "10:30:00",
                 "10:45:00",
-                "11:00:00",
                 "11:15:00",
                 "11:30:00",
                 "11:45:00",
@@ -315,12 +314,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-10",
-        "count": 23,
+        "count": 22,
         "location": "Centrum Medyczne \"GAJDA-MED\" - Filia w Szulborzu Wielkim",
         "address": "S\u0142oneczna 1, Szulborze Wielkie",
         "times": [
             [
-                "10:25:00",
                 "10:30:00",
                 "10:50:00",
                 "10:55:00",
@@ -389,7 +387,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-16",
-        "count": 6,
+        "count": 7,
         "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
         "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
@@ -399,7 +397,8 @@
                 "06:20:00",
                 "06:30:00",
                 "06:40:00",
-                "06:50:00"
+                "06:50:00",
+                "10:10:00"
             ]
         ]
     },
