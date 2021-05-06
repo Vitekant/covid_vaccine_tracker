@@ -83,7 +83,6 @@
                 "10:02:00",
                 "10:07:00",
                 "10:10:00",
-                "10:12:00",
                 "10:17:00",
                 "10:20:00",
                 "10:22:00",
@@ -137,7 +136,8 @@
                 "13:55:00",
                 "14:02:00",
                 "14:05:00",
-                "14:07:00"
+                "14:07:00",
+                "14:10:00"
             ]
         ]
     },
@@ -281,12 +281,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-13",
-        "count": 25,
+        "count": 24,
         "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko",
         "times": [
             [
-                "06:35:00",
                 "06:40:00",
                 "06:45:00",
                 "06:50:00",
@@ -351,6 +350,18 @@
             [
                 "15:00:00",
                 "17:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-13",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
+        "times": [
+            [
+                "08:30:00"
             ]
         ]
     },
@@ -471,6 +482,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-14",
+        "count": 1,
+        "location": "Przychodnia Rejonowo-Specjalistyczna, ul. Sosnkowskiego ",
+        "address": "Sosnkowskiego 18, Warszawa",
+        "times": [
+            [
+                "13:20:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-15",
         "count": 1,
@@ -511,36 +534,39 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-15",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
         "address": "Strumykowa  21, Warszawa",
         "times": [
             [
-                "10:50:00"
+                "10:50:00",
+                "10:55:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-15",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
         "address": "Ossowskiego 25, Warszawa",
         "times": [
             [
-                "10:50:00"
+                "10:50:00",
+                "10:55:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-17",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
-                "10:35:00"
+                "10:35:00",
+                "12:20:00"
             ]
         ]
     },
