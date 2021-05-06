@@ -62,18 +62,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "07:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-10",
         "count": 36,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
@@ -137,21 +125,20 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 3,
+        "count": 2,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "11:40:00",
                 "11:50:00",
-                "12:20:00"
+                "12:30:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 48,
+        "count": 49,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -203,7 +190,8 @@
                 "12:05:00",
                 "12:10:00",
                 "12:15:00",
-                "12:20:00"
+                "12:20:00",
+                "12:25:00"
             ]
         ]
     },
@@ -224,7 +212,6 @@
                 "09:05:00",
                 "09:10:00",
                 "09:15:00",
-                "09:20:00",
                 "09:35:00",
                 "09:40:00",
                 "09:55:00",
@@ -237,7 +224,8 @@
                 "11:00:00",
                 "11:05:00",
                 "11:10:00",
-                "11:15:00"
+                "11:15:00",
+                "11:20:00"
             ]
         ]
     },
@@ -259,12 +247,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 12,
+        "count": 11,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "11:05:00",
                 "13:10:00",
                 "13:15:00",
                 "13:20:00",
@@ -282,7 +269,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 11,
+        "count": 12,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
@@ -297,7 +284,8 @@
                 "11:45:00",
                 "12:00:00",
                 "12:15:00",
-                "12:30:00"
+                "12:30:00",
+                "12:45:00"
             ]
         ]
     },
