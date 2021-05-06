@@ -1,5 +1,17 @@
 [
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-06",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "KO\u015aCIUSZKI 15, KADZID\u0141O",
+        "times": [
+            [
+                "09:05:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-06",
         "count": 1,
@@ -189,7 +201,7 @@
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "11:20:00"
+                "09:15:00"
             ]
         ]
     },
@@ -255,7 +267,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 20,
+        "count": 19,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -263,7 +275,6 @@
                 "06:25:00",
                 "06:40:00",
                 "06:45:00",
-                "06:50:00",
                 "07:05:00",
                 "07:20:00",
                 "07:25:00",
