@@ -12,18 +12,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Gabinet lekarza POZ",
-        "address": "\u017bydowska 17/2, Grodzisk Mazowiecki",
-        "times": [
-            [
-                "18:55:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 2,
@@ -268,13 +256,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-11",
+        "day": "2021-05-08",
         "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "rtm. Witolda Pileckiego 14, OSTRO\u0141\u0118KA",
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
             [
-                "09:45:00"
+                "06:20:00"
             ]
         ]
     },
@@ -305,7 +293,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-13",
-        "count": 19,
+        "count": 22,
         "location": "PUNKT SZCZEPIE\u0143 - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ ",
         "address": "J\u0119drzeja \u015aniadeckiego 2, Lipsko",
         "times": [
@@ -320,6 +308,9 @@
                 "07:25:00",
                 "08:50:00",
                 "08:55:00",
+                "14:45:00",
+                "14:50:00",
+                "14:55:00",
                 "15:00:00",
                 "15:05:00",
                 "15:10:00",
@@ -401,12 +392,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "15:30:00",
                 "15:40:00"
             ]
         ]
@@ -414,12 +404,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-14",
-        "count": 17,
+        "count": 16,
         "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
         "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
         "times": [
             [
-                "10:25:00",
                 "10:35:00",
                 "10:50:00",
                 "10:55:00",
@@ -468,7 +457,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 32,
+        "count": 33,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
@@ -504,19 +493,8 @@
                 "10:15:00",
                 "10:20:00",
                 "10:25:00",
-                "10:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-15",
-        "count": 1,
-        "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W B\u0141\u0118DOWIE",
-        "address": "Wilk\u00f3w Drugi 127 B, Wilk\u00f3w Drugi",
-        "times": [
-            [
-                "13:20:00"
+                "10:30:00",
+                "10:35:00"
             ]
         ]
     },
