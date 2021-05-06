@@ -52,7 +52,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 79,
+        "count": 80,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -135,7 +135,8 @@
                 "13:47:00",
                 "13:50:00",
                 "13:52:00",
-                "13:55:00"
+                "13:55:00",
+                "14:02:00"
             ]
         ]
     },
@@ -208,18 +209,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "09:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
         "location": "Centrum Medyczne Medycyna Rodzinna",
         "address": "Gr\u00f3jecka 186, Warszawa",
         "times": [
@@ -279,13 +268,24 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
-        "count": 2,
+        "count": 1,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "rtm. Witolda Pileckiego 14, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "09:45:00",
-                "10:00:00"
+                "09:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
+        "address": "Kraszewskiego 8, Ciechan\u00f3w",
+        "times": [
+            [
+                "14:40:00"
             ]
         ]
     },
@@ -371,21 +371,22 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 3,
+        "count": 4,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
             [
                 "11:10:00",
                 "11:15:00",
-                "11:45:00"
+                "11:45:00",
+                "13:30:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 9,
+        "count": 8,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
@@ -397,8 +398,7 @@
                 "16:20:00",
                 "16:25:00",
                 "16:35:00",
-                "16:40:00",
-                "16:45:00"
+                "16:40:00"
             ]
         ]
     },
@@ -453,7 +453,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 21,
+        "count": 22,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
@@ -478,7 +478,8 @@
                 "07:50:00",
                 "07:55:00",
                 "08:30:00",
-                "08:35:00"
+                "08:35:00",
+                "08:40:00"
             ]
         ]
     },
@@ -712,6 +713,18 @@
                 "13:15:00",
                 "13:30:00",
                 "13:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
+        "address": "Karczewska 48, Otwock",
+        "times": [
+            [
+                "12:30:00"
             ]
         ]
     }
