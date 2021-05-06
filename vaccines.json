@@ -135,18 +135,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "09:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 2,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
@@ -243,18 +231,6 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-10",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY W SZPITALU PO\u0141UDNIOWYM",
-        "address": "rtm. Witolda Pileckiego  99, M. St. Warszawa",
-        "times": [
-            [
-                "06:30:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
         "count": 3,
@@ -271,7 +247,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 18,
+        "count": 20,
         "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
         "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
         "times": [
@@ -293,19 +269,9 @@
                 "09:55:00",
                 "10:00:00",
                 "10:10:00",
-                "10:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-10",
-        "count": 1,
-        "location": "SKINFINITY",
-        "address": "Solec 18/20 U7, Warszawa",
-        "times": [
-            [
-                "10:00:00"
+                "10:15:00",
+                "10:35:00",
+                "10:40:00"
             ]
         ]
     },
@@ -323,13 +289,13 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-21",
+        "day": "2021-05-24",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
+        "address": "Jana Chilickiego  2, Zakroczym",
         "times": [
             [
-                "11:00:00"
+                "11:10:00"
             ]
         ]
     },
@@ -337,11 +303,11 @@
         "vaccine": "Pfizer",
         "day": "2021-05-24",
         "count": 1,
-        "location": "Gabinet diagnostyczno-zabiegowy Nr 13 - MAZOWIECKI SZPITAL SPECJALISTYCZNY SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "ul. Juliana Aleksandrowicza 5, Radom",
+        "location": "POWIATOWE CENTRUM MEDYCZNE W GR\u00d3JCU SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "Piotra Skargi 10, Gr\u00f3jec",
         "times": [
             [
-                "10:25:00"
+                "15:55:00"
             ]
         ]
     },
@@ -394,24 +360,25 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
-        "count": 1,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "14:30:00"
+                "13:45:00",
+                "14:30:00",
+                "14:45:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
         "address": "Szczytno 11a, Szczytno",
         "times": [
             [
-                "11:05:00",
                 "11:10:00"
             ]
         ]
@@ -442,13 +409,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-06-06",
+        "day": "2021-06-05",
         "count": 1,
         "location": "PORADNIA LEKARZA POZ",
         "address": "Rynek 21, Stare Babice",
         "times": [
             [
-                "12:25:00"
+                "12:30:00"
             ]
         ]
     },
@@ -461,6 +428,18 @@
         "times": [
             [
                 "09:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-06-09",
+        "count": 1,
+        "location": "Gabinet zabiegowo-diagnostyczny",
+        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "times": [
+            [
+                "16:55:00"
             ]
         ]
     },
@@ -501,13 +480,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-12",
-        "count": 3,
+        "count": 1,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
             [
-                "09:15:00",
-                "09:50:00",
                 "09:55:00"
             ]
         ]
@@ -515,7 +492,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-06-13",
-        "count": 22,
+        "count": 23,
         "location": "Centrum Medyczne Raszyn",
         "address": "Pruszkowska 52, RASZYN",
         "times": [
@@ -541,7 +518,8 @@
                 "09:25:00",
                 "09:30:00",
                 "09:35:00",
-                "09:40:00"
+                "09:40:00",
+                "09:45:00"
             ]
         ]
     },
@@ -553,7 +531,6 @@
         "address": "Rynek 21, Stare Babice",
         "times": [
             [
-                "08:20:00",
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
@@ -562,7 +539,8 @@
                 "09:15:00",
                 "09:20:00",
                 "09:25:00",
-                "09:35:00"
+                "09:35:00",
+                "09:40:00"
             ]
         ]
     }
