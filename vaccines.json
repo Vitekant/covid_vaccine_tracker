@@ -1,13 +1,13 @@
 [
     {
-        "vaccine": "Johnson & Johnson",
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
             [
-                "06:10:00"
+                "06:00:00"
             ]
         ]
     },
@@ -174,6 +174,18 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-09",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "15:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
         "count": 10,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
@@ -196,7 +208,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 8,
+        "count": 7,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -207,22 +219,7 @@
                 "12:55:00",
                 "13:00:00",
                 "13:05:00",
-                "13:10:00",
-                "13:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-16",
-        "count": 3,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
-        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
-        "times": [
-            [
-                "14:45:00",
-                "15:00:00",
-                "15:15:00"
+                "13:10:00"
             ]
         ]
     },
@@ -234,7 +231,7 @@
         "address": "Strumykowa  21, Warszawa",
         "times": [
             [
-                "14:55:00",
+                "14:50:00",
                 "15:00:00",
                 "15:05:00",
                 "15:10:00",
@@ -247,13 +244,26 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-16",
-        "count": 7,
+        "count": 4,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
+        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
+        "times": [
+            [
+                "15:00:00",
+                "15:15:00",
+                "15:30:00",
+                "15:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-16",
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
         "address": "Ossowskiego 25, Warszawa",
         "times": [
             [
-                "14:55:00",
-                "15:00:00",
                 "15:05:00",
                 "15:10:00",
                 "15:15:00",
@@ -482,7 +492,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 13,
+        "count": 14,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
@@ -499,20 +509,22 @@
                 "09:45:00",
                 "10:00:00",
                 "10:05:00",
-                "10:35:00"
+                "10:35:00",
+                "11:30:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 2,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
                 "08:15:00",
-                "10:00:00"
+                "10:00:00",
+                "10:45:00"
             ]
         ]
     },
