@@ -67,6 +67,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
+        "count": 1,
+        "location": "Centrum Medyczne RAJMEDICA",
+        "address": "ul. Warszawska 11, T\u0142uszcz",
+        "times": [
+            [
+                "10:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
         "count": 60,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
@@ -150,13 +162,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 2,
+        "count": 1,
         "location": "Punkt szczepie\u0144",
         "address": "RYNEK 10, STARE BABICE",
         "times": [
             [
-                "12:35:00",
-                "12:45:00"
+                "12:35:00"
             ]
         ]
     },
@@ -210,25 +221,12 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-11",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
-        "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "13:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-05-12",
         "count": 38,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "11:00:00",
                 "11:15:00",
                 "11:30:00",
                 "11:35:00",
@@ -258,6 +256,7 @@
                 "13:45:00",
                 "13:50:00",
                 "13:55:00",
+                "14:25:00",
                 "14:30:00",
                 "14:35:00",
                 "14:40:00",
@@ -298,7 +297,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 13,
+        "count": 14,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -315,7 +314,8 @@
                 "07:55:00",
                 "08:00:00",
                 "08:05:00",
-                "08:10:00"
+                "08:10:00",
+                "08:15:00"
             ]
         ]
     },
@@ -414,6 +414,18 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-25",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew",
+        "times": [
+            [
+                "12:35:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
         "count": 1,
@@ -488,12 +500,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 2,
+        "count": 1,
         "location": "DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "13:45:00",
                 "14:45:00"
             ]
         ]
@@ -585,13 +596,14 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-31",
-        "count": 2,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
         "address": "Strumykowa  21, Warszawa",
         "times": [
             [
                 "05:40:00",
-                "05:45:00"
+                "05:45:00",
+                "05:50:00"
             ]
         ]
     },
