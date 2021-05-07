@@ -41,7 +41,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 70,
+        "count": 71,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -115,7 +115,8 @@
                 "14:35:00",
                 "14:37:00",
                 "14:42:00",
-                "14:47:00"
+                "14:47:00",
+                "14:50:00"
             ]
         ]
     },
@@ -158,12 +159,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 10,
+        "count": 9,
         "location": "Punkt szczepie\u0144",
         "address": "RYNEK 10, STARE BABICE",
         "times": [
             [
-                "12:10:00",
                 "12:15:00",
                 "12:20:00",
                 "12:25:00",
@@ -271,6 +271,18 @@
                 "13:00:00",
                 "13:05:00",
                 "13:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143",
+        "address": "Gen. Fieldorfa Nila 10, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "10:35:00"
             ]
         ]
     },
