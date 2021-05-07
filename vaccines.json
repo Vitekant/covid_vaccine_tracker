@@ -1,5 +1,17 @@
 [
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
+        "address": "Wojska Polskiego 91, Zwole\u0144",
+        "times": [
+            [
+                "12:45:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 75,
@@ -117,6 +129,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
+        "count": 1,
+        "location": "WOJSKOWY INSTYTUT MEDYCZNY Gabinet Lekarza Podstawowej Opieki Zdrowotnej",
+        "address": "Szaser\u00f3w 128, Warszawa",
+        "times": [
+            [
+                "09:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
         "count": 2,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144",
@@ -168,18 +192,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "12:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
         "count": 4,
         "location": "Punkt szczepie\u0144",
         "address": "RYNEK 10, STARE BABICE",
@@ -200,6 +212,7 @@
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
+                "07:05:00",
                 "07:25:00",
                 "07:40:00",
                 "07:45:00",
@@ -247,20 +260,7 @@
                 "11:30:00",
                 "11:35:00",
                 "11:40:00",
-                "11:45:00",
-                "11:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-13",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "16:50:00"
+                "11:45:00"
             ]
         ]
     },
@@ -301,6 +301,18 @@
         ]
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-22",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Omega\"",
+        "address": "ul. W\u0119growska 5a, Soko\u0142\u00f3w Podlaski",
+        "times": [
+            [
+                "12:50:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-22",
         "count": 1,
@@ -315,15 +327,13 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-24",
-        "count": 4,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
         "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
         "times": [
             [
-                "11:40:00",
-                "11:45:00",
-                "12:15:00",
-                "13:20:00"
+                "10:55:00",
+                "12:15:00"
             ]
         ]
     },
@@ -404,12 +414,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
-                "13:00:00",
                 "14:25:00"
             ]
         ]
@@ -422,7 +431,7 @@
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "13:30:00"
+                "13:45:00"
             ]
         ]
     },
