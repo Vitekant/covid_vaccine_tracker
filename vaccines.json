@@ -67,6 +67,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "09:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
         "count": 51,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
@@ -142,7 +154,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 36,
+        "count": 35,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -181,21 +193,30 @@
                 "08:08:00",
                 "08:13:00",
                 "08:15:00",
-                "08:18:00",
-                "08:23:00"
+                "08:18:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "S\u0142oneczna 1, \u0141osice",
+        "times": [
+            [
+                "07:00:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 26,
+        "count": 23,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "11:50:00",
-                "11:55:00",
                 "12:10:00",
                 "12:15:00",
                 "12:20:00",
@@ -218,7 +239,6 @@
                 "13:45:00",
                 "13:50:00",
                 "13:55:00",
-                "14:25:00",
                 "15:15:00"
             ]
         ]
@@ -250,7 +270,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 26,
+        "count": 28,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -280,7 +300,21 @@
                 "09:25:00",
                 "09:30:00",
                 "09:35:00",
-                "09:40:00"
+                "09:40:00",
+                "09:45:00",
+                "09:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-15",
+        "count": 1,
+        "location": "Samodzielny Publiczny Zesp\u00f3\u0142 Opieki Zdrowotnej w Mi\u0144sku Mazowieckim - Szpital Powiatowy - ul. Szpitalna",
+        "address": "ul. Szpitalna 37, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "14:36:00"
             ]
         ]
     },
@@ -305,6 +339,18 @@
         "times": [
             [
                 "14:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "12:45:00"
             ]
         ]
     },
