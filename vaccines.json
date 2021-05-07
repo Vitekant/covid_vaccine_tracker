@@ -14,12 +14,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 85,
+        "count": 84,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
-                "07:05:00",
                 "07:08:00",
                 "07:13:00",
                 "07:15:00",
@@ -175,38 +174,38 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
+        "count": 2,
         "location": "Punkt szczepie\u0144",
         "address": "RYNEK 10, STARE BABICE",
         "times": [
             [
-                "12:25:00"
+                "12:25:00",
+                "12:30:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-11",
+        "day": "2021-05-10",
         "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
+        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
+        "address": "Poniatowskiego 26, Siedlce",
         "times": [
             [
-                "13:20:00"
+                "16:30:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
-        "count": 7,
+        "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "17:45:00",
+                "16:55:00",
                 "17:55:00",
-                "18:35:00",
                 "18:40:00",
                 "18:45:00",
                 "18:50:00",
@@ -217,20 +216,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
-        "times": [
-            [
-                "06:55:00",
-                "08:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 42,
+        "count": 44,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -276,7 +262,9 @@
                 "10:10:00",
                 "10:15:00",
                 "10:20:00",
-                "10:25:00"
+                "10:25:00",
+                "10:30:00",
+                "10:35:00"
             ]
         ]
     },
@@ -296,22 +284,23 @@
         "vaccine": "Pfizer",
         "day": "2021-05-12",
         "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
         "times": [
             [
-                "09:15:00"
+                "08:40:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-17",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w",
         "times": [
             [
+                "07:55:00",
                 "08:20:00"
             ]
         ]
@@ -331,13 +320,23 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 17,
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Nowodworski O\u015brodek Sportu i Rekreacji w Nowym Dworze Mazowieckim",
+        "address": "Sportowa 66, Nowy Dw\u00f3r Mazowiecki",
+        "times": [
+            [
+                "09:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-20",
+        "count": 15,
         "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
         "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
         "times": [
             [
-                "07:25:00",
-                "07:30:00",
                 "11:35:00",
                 "11:40:00",
                 "11:45:00",
@@ -353,18 +352,6 @@
                 "14:15:00",
                 "14:20:00",
                 "14:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Nowodworski O\u015brodek Sportu i Rekreacji w Nowym Dworze Mazowieckim",
-        "address": "Sportowa 66, Nowy Dw\u00f3r Mazowiecki",
-        "times": [
-            [
-                "09:30:00"
             ]
         ]
     },
@@ -407,30 +394,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-21",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
-        "times": [
-            [
-                "10:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-21",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
-        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
-        "times": [
-            [
-                "13:30:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-22",
         "count": 1,
@@ -451,6 +414,32 @@
         "times": [
             [
                 "11:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-24",
+        "count": 15,
+        "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
+        "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
+        "times": [
+            [
+                "10:00:00",
+                "10:05:00",
+                "10:10:00",
+                "10:15:00",
+                "10:20:00",
+                "10:25:00",
+                "10:30:00",
+                "10:35:00",
+                "10:40:00",
+                "10:45:00",
+                "10:50:00",
+                "10:55:00",
+                "11:40:00",
+                "11:45:00",
+                "12:15:00"
             ]
         ]
     },
@@ -531,12 +520,25 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
+                "13:00:00",
                 "14:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
+        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
+        "times": [
+            [
+                "13:30:00"
             ]
         ]
     },
@@ -630,14 +632,13 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 3,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
                 "12:30:00",
-                "12:45:00",
-                "13:00:00"
+                "12:45:00"
             ]
         ]
     },
