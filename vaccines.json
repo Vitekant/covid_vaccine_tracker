@@ -1,5 +1,17 @@
 [
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI",
+        "times": [
+            [
+                "19:00:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-07",
         "count": 1,
@@ -12,14 +24,14 @@
         ]
     },
     {
-        "vaccine": "Astra Zeneca",
+        "vaccine": "Pfizer",
         "day": "2021-05-08",
         "count": 1,
-        "location": "Gabinet Diagnostyczno Zabiegowy II  SPZZOZ Sierpc",
-        "address": "Juliusza S\u0142owackiego 16, Sierpc",
+        "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
+        "address": "Wojska Polskiego 91, Zwole\u0144",
         "times": [
             [
-                "07:00:00"
+                "12:45:00"
             ]
         ]
     },
@@ -183,6 +195,30 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "11:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "12:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
         "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
         "address": "Szkolna 6, Milan\u00f3wek",
         "times": [
@@ -194,12 +230,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 3,
+        "count": 2,
         "location": "Punkt szczepie\u0144",
         "address": "RYNEK 10, STARE BABICE",
         "times": [
             [
-                "12:30:00",
                 "12:35:00",
                 "12:40:00"
             ]
@@ -207,26 +242,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-10",
-        "count": 1,
-        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
-        "address": "Poniatowskiego 26, Siedlce",
-        "times": [
-            [
-                "16:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-05-11",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "15:45:00",
-                "17:35:00"
+                "15:15:00"
             ]
         ]
     },
@@ -245,13 +267,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 48,
+        "count": 47,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
                 "07:05:00",
-                "07:10:00",
                 "07:15:00",
                 "07:20:00",
                 "07:25:00",
@@ -261,7 +282,6 @@
                 "07:45:00",
                 "07:50:00",
                 "07:55:00",
-                "08:00:00",
                 "08:05:00",
                 "08:10:00",
                 "08:15:00",
@@ -297,19 +317,8 @@
                 "10:45:00",
                 "10:50:00",
                 "10:55:00",
-                "11:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-13",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "16:50:00"
+                "11:00:00",
+                "11:05:00"
             ]
         ]
     },
@@ -317,11 +326,23 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-16",
         "count": 1,
-        "location": "O\u015brodek Zdrowia",
-        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
+        "location": "Poradnia Chor\u00f3b Zaka\u017anych dla Dzieci - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141UBI\u0143SKIEGO",
+        "address": "ul. Adolfa Tochtermana 1, Radom",
         "times": [
             [
-                "17:15:00"
+                "11:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-18",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
+        "times": [
+            [
+                "13:55:00"
             ]
         ]
     },
@@ -334,6 +355,18 @@
         "times": [
             [
                 "09:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "11:30:00"
             ]
         ]
     },
@@ -352,12 +385,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 4,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
         "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
         "times": [
             [
-                "13:35:00",
                 "14:05:00",
                 "14:10:00",
                 "14:15:00"
@@ -429,7 +461,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-24",
-        "count": 18,
+        "count": 17,
         "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
         "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
         "times": [
@@ -448,7 +480,6 @@
                 "11:40:00",
                 "11:45:00",
                 "12:15:00",
-                "12:45:00",
                 "13:20:00",
                 "13:30:00",
                 "13:40:00"
@@ -544,6 +575,18 @@
     },
     {
         "vaccine": "Johnson & Johnson",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
+        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
+        "times": [
+            [
+                "13:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
         "count": 23,
         "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
@@ -613,18 +656,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "\"MEDYK\" Sp. z o.o - NPZOZ",
-        "address": "ul. Sportowa 17, \u0141askarzew",
-        "times": [
-            [
-                "15:55:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-27",
         "count": 3,
@@ -671,7 +702,7 @@
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "11:45:00",
+                "09:00:00",
                 "12:30:00",
                 "12:45:00"
             ]
@@ -704,6 +735,19 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
+        "count": 2,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI",
+        "times": [
+            [
+                "08:00:00",
+                "11:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-29",
         "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
@@ -712,19 +756,6 @@
                 "08:45:00",
                 "09:45:00",
                 "12:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-29",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
-        "address": "D\u0141UGA 75, BRAMKI",
-        "times": [
-            [
-                "11:00:00",
-                "11:45:00"
             ]
         ]
     },
