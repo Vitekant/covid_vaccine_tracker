@@ -1,13 +1,25 @@
 [
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-08",
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
         "count": 1,
-        "location": "Poradnia lekarza POZ (doro\u015bli i dzieci) Miejski O\u015brodek Zdrowia w Zielonce",
-        "address": "MICKIEWICZA 18, ZIELONKA",
+        "location": "Punkt szczepie\u0144",
+        "address": "Inflancka 5, Warszawa",
         "times": [
             [
-                "09:00:00"
+                "15:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+        "times": [
+            [
+                "15:35:00"
             ]
         ]
     },
@@ -31,6 +43,7 @@
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
+                "07:43:00",
                 "07:48:00",
                 "07:53:00",
                 "07:55:00",
@@ -40,7 +53,6 @@
                 "08:18:00",
                 "08:23:00",
                 "08:25:00",
-                "08:33:00",
                 "08:38:00",
                 "08:43:00",
                 "08:48:00",
@@ -136,12 +148,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 2,
+        "count": 1,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144",
         "times": [
             [
-                "09:45:00",
                 "10:00:00"
             ]
         ]
@@ -173,18 +184,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
-        "location": "OPTIMA KOSZARSKA i RUDNICKA - LEKARSKA SP\u00d3\u0141KA PARTNERSKA",
-        "address": "SK\u0141ODOWSKIEJ-CURIE 14 LOK.72, SOKO\u0141\u00d3W PODLASKI",
-        "times": [
-            [
-                "10:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
         "count": 2,
         "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
         "address": "Szkolna 6, Milan\u00f3wek",
@@ -209,6 +208,18 @@
                 "12:45:00",
                 "12:50:00",
                 "12:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-11",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
+        "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "15:40:00"
             ]
         ]
     },
@@ -288,26 +299,49 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-13",
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
         "count": 1,
-        "location": "NZOZ CENTRUM MEDYCZNE - Poradnia lekarza podstawowej opieki zdrowotnej",
-        "address": "Gda\u0144ska 2, R\u00f3\u017can",
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "13:20:00"
+                "10:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
+        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
+        "times": [
+            [
+                "10:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
+        "times": [
+            [
+                "13:45:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-20",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "11:55:00",
                 "13:50:00"
             ]
         ]
@@ -351,11 +385,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-24",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
         "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
         "times": [
             [
+                "11:45:00",
                 "12:15:00"
             ]
         ]
@@ -451,23 +486,11 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-26",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
-        "address": "Jana Chilickiego  2, Zakroczym",
+        "location": "CENTRUM MEDYCZNE W JAKTOROWIE",
+        "address": "Warszawska 24, Chylice Kolonia",
         "times": [
             [
-                "13:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-26",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "15:45:00"
+                "18:20:00"
             ]
         ]
     },
@@ -606,14 +629,13 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 3,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
                 "09:30:00",
-                "14:45:00",
-                "17:00:00"
+                "14:45:00"
             ]
         ]
     },
