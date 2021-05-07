@@ -211,7 +211,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 29,
+        "count": 28,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -243,8 +243,7 @@
                 "14:25:00",
                 "14:30:00",
                 "14:35:00",
-                "14:40:00",
-                "14:45:00"
+                "14:40:00"
             ]
         ]
     },
@@ -263,7 +262,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 25,
+        "count": 26,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -292,7 +291,8 @@
                 "09:10:00",
                 "09:15:00",
                 "09:20:00",
-                "09:25:00"
+                "09:25:00",
+                "09:30:00"
             ]
         ]
     },
@@ -376,18 +376,6 @@
                 "09:45:00",
                 "09:50:00",
                 "09:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-22",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
-        "times": [
-            [
-                "08:50:00"
             ]
         ]
     },
