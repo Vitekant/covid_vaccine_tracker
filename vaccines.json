@@ -2,15 +2,13 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-07",
-        "count": 4,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w",
         "times": [
             [
                 "09:05:00",
-                "11:45:00",
-                "11:50:00",
-                "12:20:00"
+                "11:50:00"
             ]
         ]
     },
@@ -39,18 +37,6 @@
                 "10:50:00",
                 "15:00:00",
                 "16:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Przychodnia Rejonowo Specjalistyczna",
-        "address": "Poborza\u0144ska 6, warszawa",
-        "times": [
-            [
-                "09:10:00"
             ]
         ]
     },
@@ -97,14 +83,27 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 3,
+        "count": 1,
+        "location": "MEDIQ - PUNKT SZCZEPIE\u0143",
+        "address": "Pi\u0142sudskiego 20, Legionowo",
+        "times": [
+            [
+                "11:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
                 "11:25:00",
                 "13:45:00",
-                "13:50:00"
+                "13:50:00",
+                "14:05:00"
             ]
         ]
     },
@@ -117,18 +116,6 @@
         "times": [
             [
                 "11:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "12:30:00"
             ]
         ]
     },
@@ -169,27 +156,14 @@
         ]
     },
     {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 2,
-        "location": "Poradnia lekarza POZ",
-        "address": "Kr\u00f3lowej Jadwigi 21/4, Radom",
-        "times": [
-            [
-                "07:45:00",
-                "09:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
+        "vaccine": "Moderna",
         "day": "2021-05-08",
         "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
-                "07:45:00"
+                "07:05:00"
             ]
         ]
     },
@@ -203,6 +177,20 @@
             [
                 "08:50:00",
                 "09:08:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 3,
+        "location": "Poradnia lekarza POZ",
+        "address": "Kr\u00f3lowej Jadwigi 21/4, Radom",
+        "times": [
+            [
+                "09:15:00",
+                "09:30:00",
+                "09:45:00"
             ]
         ]
     },
@@ -225,18 +213,6 @@
                 "11:45:00",
                 "12:00:00",
                 "12:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Punkt pobra\u0144 materia\u0142\u00f3w do bada\u0144",
-        "address": "Spokojna 5, Warszawa",
-        "times": [
-            [
-                "09:50:00"
             ]
         ]
     },
@@ -268,13 +244,13 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-09",
+        "day": "2021-05-08",
         "count": 1,
-        "location": "Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej w Starej B\u0142otnicy",
-        "address": "Stara B\u0142otnica 9, Stara B\u0142otnica",
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
             [
-                "09:25:00"
+                "16:00:00"
             ]
         ]
     },
@@ -282,11 +258,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
         "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "location": "Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej w Starej B\u0142otnicy",
+        "address": "Stara B\u0142otnica 9, Stara B\u0142otnica",
         "times": [
             [
-                "16:00:00"
+                "09:25:00"
             ]
         ]
     },
@@ -336,37 +312,13 @@
     },
     {
         "vaccine": "Moderna",
-        "day": "2021-05-14",
+        "day": "2021-05-18",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "07:33:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-17",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
-        "address": "Kraszewskiego 8, Ciechan\u00f3w",
-        "times": [
-            [
-                "07:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
-        "address": "Jana Chilickiego  2, Zakroczym",
-        "times": [
-            [
-                "07:50:00"
+                "10:40:00"
             ]
         ]
     },
@@ -379,18 +331,6 @@
         "times": [
             [
                 "09:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "POWIATOWE CENTRUM MEDYCZNE W GR\u00d3JCU SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Piotra Skargi 10, Gr\u00f3jec",
-        "times": [
-            [
-                "13:25:00"
             ]
         ]
     },
@@ -450,18 +390,6 @@
         "vaccine": "Pfizer",
         "day": "2021-05-20",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
-        "address": "Jana Chilickiego  2, Zakroczym",
-        "times": [
-            [
-                "10:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-20",
-        "count": 1,
         "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
         "address": "\u017bELAZNA RZ\u0104DOWA 29, \u017bELAZNA RZ\u0104DOWA",
         "times": [
@@ -507,30 +435,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-21",
-        "count": 1,
-        "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
-        "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
-        "times": [
-            [
-                "11:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-21",
-        "count": 1,
-        "location": "LF Medical Clinic",
-        "address": "Makol\u0105gwy 20B, Warszawa",
-        "times": [
-            [
-                "18:40:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-22",
         "count": 2,
@@ -545,13 +449,24 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-05-22",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
+        "address": "Ossowskiego 25, Warszawa",
+        "times": [
+            [
+                "10:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-05-23",
-        "count": 2,
+        "count": 1,
         "location": "Przychodnia Rejonowo-Specjalistyczna ul. Sanocka ",
         "address": "Sanocka 6, Warszawa",
         "times": [
             [
-                "06:00:00",
                 "14:50:00"
             ]
         ]
@@ -585,7 +500,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-24",
-        "count": 4,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
@@ -593,7 +508,8 @@
                 "09:00:00",
                 "09:15:00",
                 "09:30:00",
-                "09:45:00"
+                "09:45:00",
+                "10:00:00"
             ]
         ]
     },
@@ -612,13 +528,27 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 2,
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
+        "times": [
+            [
+                "10:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-25",
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
                 "11:30:00",
-                "12:50:00"
+                "12:50:00",
+                "13:15:00",
+                "13:20:00"
             ]
         ]
     },
@@ -665,7 +595,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
-        "count": 41,
+        "count": 40,
         "location": "Punkt Szczepie\u0144 Powszechnych - Marecki Punkt Szczepie\u0144 w Centrum Handlowym M1",
         "address": "Pi\u0142sudskiego 1, Marki",
         "times": [
@@ -688,7 +618,6 @@
                 "12:45:00",
                 "12:50:00",
                 "12:55:00",
-                "13:15:00",
                 "13:25:00",
                 "13:30:00",
                 "13:35:00",
@@ -711,6 +640,18 @@
                 "15:25:00",
                 "15:30:00",
                 "15:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Poradnia lekarza POZ (doro\u015bli i dzieci) Miejski O\u015brodek Zdrowia w Zielonce",
+        "address": "MICKIEWICZA 18, ZIELONKA",
+        "times": [
+            [
+                "12:00:00"
             ]
         ]
     },
