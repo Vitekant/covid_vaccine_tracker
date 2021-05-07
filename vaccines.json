@@ -2,6 +2,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "07:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
         "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
@@ -55,25 +67,24 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "09:30:00",
-                "09:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 2,
         "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W CEG\u0141OWIE - Punkt szczepie\u0144",
         "address": "Plac Anny Jagiellonki 17, Ceg\u0142\u00f3w",
         "times": [
             [
                 "09:40:00",
                 "10:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "09:45:00"
             ]
         ]
     },
@@ -92,13 +103,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 56,
+        "count": 55,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
                 "11:03:00",
-                "11:20:00",
                 "11:23:00",
                 "11:25:00",
                 "11:38:00",
@@ -173,7 +183,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 27,
+        "count": 28,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -204,30 +214,20 @@
                 "07:38:00",
                 "07:43:00",
                 "07:48:00",
-                "07:53:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-10",
-        "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "rtm. Witolda Pileckiego 14, OSTRO\u0141\u0118KA",
-        "times": [
-            [
-                "11:30:00"
+                "07:53:00",
+                "07:55:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 33,
+        "count": 32,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
+                "11:10:00",
                 "11:45:00",
                 "11:50:00",
                 "11:55:00",
@@ -258,9 +258,7 @@
                 "14:35:00",
                 "14:40:00",
                 "14:45:00",
-                "14:50:00",
-                "14:55:00",
-                "15:10:00"
+                "14:50:00"
             ]
         ]
     },
@@ -291,7 +289,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 21,
+        "count": 22,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -316,7 +314,8 @@
                 "08:35:00",
                 "08:45:00",
                 "08:50:00",
-                "08:55:00"
+                "08:55:00",
+                "09:00:00"
             ]
         ]
     },
@@ -346,56 +345,8 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "GABINET DIAGNOSTYCZNO - ZABIEGOWY ",
-        "address": "SANITARIUSZEK 1, WI\u015aNIEW",
-        "times": [
-            [
-                "14:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
-        "address": "Jana Chilickiego  2, Zakroczym",
-        "times": [
-            [
-                "08:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc",
-        "times": [
-            [
-                "12:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-21",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
-        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
-        "times": [
-            [
-                "09:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 32,
+        "count": 33,
         "location": "Punkt Szczepie\u0144",
         "address": "Wa\u0142owa 1, Siedlce",
         "times": [
@@ -431,7 +382,8 @@
                 "09:20:00",
                 "09:25:00",
                 "09:30:00",
-                "09:35:00"
+                "09:35:00",
+                "09:40:00"
             ]
         ]
     },
@@ -485,6 +437,18 @@
                 "11:10:00",
                 "11:30:00",
                 "11:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
+        "times": [
+            [
+                "14:40:00"
             ]
         ]
     },
