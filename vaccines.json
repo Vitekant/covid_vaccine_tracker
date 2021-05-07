@@ -89,18 +89,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
-        "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W CEG\u0141OWIE - Punkt szczepie\u0144",
-        "address": "Plac Anny Jagiellonki 17, Ceg\u0142\u00f3w",
-        "times": [
-            [
-                "09:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
         "count": 2,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
         "address": "Szkolna 21, Rzeku\u0144",
@@ -126,24 +114,24 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
+        "count": 2,
         "location": "CENTRUM MEDYCZNE CORTEN MEDIC PRZYCHODNIA LEKARSKA NR 9",
         "address": "M\u0142ynarska 26/28, Warszawa",
         "times": [
             [
-                "17:45:00"
+                "17:45:00",
+                "18:00:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 2,
+        "count": 1,
         "location": "Gminny O\u015brodek Zdrowia - SAMODZIELNY ZESP\u00d3\u0141 PUBLICZNYCH ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W JAB\u0141ONNIE",
         "address": "Parkowa 21, Jab\u0142onna",
         "times": [
             [
-                "10:10:00",
                 "10:20:00"
             ]
         ]
@@ -163,35 +151,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
-        "address": "UL. TOCHTERMANA  1, RADOM",
-        "times": [
-            [
-                "06:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-10",
-        "count": 1,
-        "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
-        "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
-        "times": [
-            [
-                "08:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-10",
-        "count": 15,
+        "count": 16,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
+                "07:35:00",
                 "09:10:00",
                 "10:30:00",
                 "13:50:00",
@@ -213,7 +178,19 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 27,
+        "count": 1,
+        "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
+        "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
+        "times": [
+            [
+                "08:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-10",
+        "count": 28,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -244,7 +221,8 @@
                 "14:55:00",
                 "15:00:00",
                 "15:05:00",
-                "15:10:00"
+                "15:10:00",
+                "15:15:00"
             ]
         ]
     },
@@ -263,25 +241,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "09:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-11",
         "count": 43,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "14:05:00",
-                "14:20:00",
                 "14:30:00",
                 "14:35:00",
                 "14:40:00",
@@ -322,19 +286,21 @@
                 "17:50:00",
                 "17:55:00",
                 "18:00:00",
-                "18:05:00"
+                "18:05:00",
+                "18:15:00",
+                "18:20:00"
             ]
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-19",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-20",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
+        "location": "DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "14:30:00"
+                "09:15:00"
             ]
         ]
     },
@@ -353,18 +319,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-21",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
-        "times": [
-            [
-                "08:30:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-22",
         "count": 1,
@@ -373,6 +327,18 @@
         "times": [
             [
                 "09:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-25",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
+        "address": "Jana Chilickiego  2, Zakroczym",
+        "times": [
+            [
+                "08:30:00"
             ]
         ]
     },
@@ -406,12 +372,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 4,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
-                "11:10:00",
                 "11:40:00",
                 "11:55:00",
                 "13:30:00"
@@ -450,8 +415,8 @@
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "10:00:00",
-                "12:30:00"
+                "12:30:00",
+                "12:45:00"
             ]
         ]
     },
@@ -512,11 +477,11 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
-        "address": "Jana Chilickiego  2, Zakroczym",
+        "location": "SZPITAL MATKI BO\u017bEJ NIEUSTAJ\u0104CEJ POMOCY W WO\u0141OMINIE",
+        "address": "GDY\u0143SKA 1/3, WO\u0141OMIN",
         "times": [
             [
-                "09:10:00"
+                "09:50:00"
             ]
         ]
     },
