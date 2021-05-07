@@ -1,17 +1,5 @@
 [
     {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Centrum Medyczne Medycyna Rodzinna",
-        "address": "\u017bwirki i Wigury 39, Warszawa",
-        "times": [
-            [
-                "16:05:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-08",
         "count": 1,
@@ -19,7 +7,7 @@
         "address": "Hubalczyk\u00f3w 11, P\u0142ock",
         "times": [
             [
-                "08:00:00"
+                "13:00:00"
             ]
         ]
     },
@@ -205,12 +193,13 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
+        "count": 2,
         "location": "CORTEN MEDIC T\u0142uszcz",
         "address": "WARSZAWSKA  19, T\u0141USZCZ",
         "times": [
             [
-                "14:45:00"
+                "14:45:00",
+                "15:30:00"
             ]
         ]
     },
@@ -230,7 +219,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 48,
+        "count": 49,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -282,7 +271,8 @@
                 "13:50:00",
                 "13:55:00",
                 "14:10:00",
-                "14:15:00"
+                "14:15:00",
+                "14:20:00"
             ]
         ]
     },
@@ -313,18 +303,6 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
-        "address": "D\u0141UGA 75, BRAMKI",
-        "times": [
-            [
-                "13:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-19",
         "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
@@ -336,14 +314,14 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-24",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-20",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
             [
-                "07:50:00"
+                "07:40:00"
             ]
         ]
     },
@@ -367,7 +345,7 @@
         "address": "SANITARIUSZEK 1, WI\u015aNIEW",
         "times": [
             [
-                "13:10:00",
+                "13:20:00",
                 "13:30:00",
                 "13:40:00",
                 "13:50:00",
@@ -411,18 +389,6 @@
         "times": [
             [
                 "07:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
-        "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
-        "times": [
-            [
-                "08:25:00"
             ]
         ]
     },
@@ -527,12 +493,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "09:30:00",
                 "12:00:00"
             ]
         ]
