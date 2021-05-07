@@ -2,18 +2,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "07:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
         "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
@@ -73,18 +61,6 @@
             [
                 "09:40:00",
                 "10:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "09:45:00"
             ]
         ]
     },
@@ -183,7 +159,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 28,
+        "count": 30,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -215,19 +191,20 @@
                 "07:43:00",
                 "07:48:00",
                 "07:53:00",
-                "07:55:00"
+                "07:55:00",
+                "07:58:00",
+                "08:03:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 32,
+        "count": 31,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "11:10:00",
                 "11:45:00",
                 "11:50:00",
                 "11:55:00",
@@ -266,18 +243,6 @@
         "vaccine": "Pfizer",
         "day": "2021-05-13",
         "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "rtm. Witolda Pileckiego 14, OSTRO\u0141\u0118KA",
-        "times": [
-            [
-                "11:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-13",
-        "count": 1,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
@@ -289,7 +254,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 22,
+        "count": 24,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -315,7 +280,9 @@
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
-                "09:00:00"
+                "09:00:00",
+                "09:05:00",
+                "09:10:00"
             ]
         ]
     },
@@ -332,21 +299,21 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-18",
+        "vaccine": "Moderna",
+        "day": "2021-05-20",
         "count": 1,
-        "location": "Gabinet Diagnostyczno Zabiegowy II  SPZZOZ Sierpc",
-        "address": "Juliusza S\u0142owackiego 16, Sierpc",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
         "times": [
             [
-                "09:00:00"
+                "12:05:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 33,
+        "count": 34,
         "location": "Punkt Szczepie\u0144",
         "address": "Wa\u0142owa 1, Siedlce",
         "times": [
@@ -383,7 +350,8 @@
                 "09:25:00",
                 "09:30:00",
                 "09:35:00",
-                "09:40:00"
+                "09:40:00",
+                "09:45:00"
             ]
         ]
     },
