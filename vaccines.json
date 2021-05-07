@@ -58,12 +58,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 2,
+        "count": 1,
         "location": "Your Med Sp. z o. o.",
         "address": "Magazynowa 9/13, Warszawa",
         "times": [
             [
-                "08:30:00",
                 "08:45:00"
             ]
         ]
@@ -72,11 +71,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
-        "location": "Przychodnia lekarska",
-        "address": "Madali\u0144skiego 13, Warszawa",
+        "location": "Warszawa-Weso\u0142a - Przychodnia \"Pogodna\"",
+        "address": "Jana Paw\u0142a II  25, Warszawa Weso\u0142a",
         "times": [
             [
-                "08:50:00"
+                "10:00:00"
             ]
         ]
     },
@@ -217,12 +216,13 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
-        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
-        "address": "Poniatowskiego 26, Siedlce",
+        "count": 2,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
             [
-                "16:40:00"
+                "16:15:00",
+                "17:15:00"
             ]
         ]
     },
@@ -230,11 +230,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
+        "address": "Poniatowskiego 26, Siedlce",
         "times": [
             [
-                "17:15:00"
+                "16:40:00"
             ]
         ]
     },
@@ -264,17 +264,24 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "14:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-05-11",
-        "count": 16,
+        "count": 17,
         "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
         "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
             [
-                "07:30:00",
-                "11:00:00",
-                "11:15:00",
-                "11:30:00",
-                "11:45:00",
                 "12:00:00",
                 "12:15:00",
                 "12:30:00",
@@ -285,31 +292,38 @@
                 "13:45:00",
                 "14:00:00",
                 "14:15:00",
-                "14:30:00"
+                "14:30:00",
+                "14:45:00",
+                "15:00:00",
+                "15:15:00",
+                "15:30:00",
+                "15:45:00",
+                "16:00:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
-        "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
-        "times": [
-            [
-                "12:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-11",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "13:00:00"
+                "13:00:00",
+                "14:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-11",
+        "count": 1,
+        "location": "CENTRUM ZDROWIA MAZOWSZA ZACHODNIEGO SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "Boles\u0142awa Limanowskiego 30, \u017byrard\u00f3w",
+        "times": [
+            [
+                "14:45:00"
             ]
         ]
     },
@@ -355,11 +369,12 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-15",
-        "count": 3,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
+                "09:50:00",
                 "10:20:00",
                 "11:30:00",
                 "12:05:00"
@@ -418,25 +433,13 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-19",
+        "day": "2021-05-21",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
-        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
+        "location": "DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "12:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
-        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
-        "times": [
-            [
-                "13:00:00"
+                "06:30:00"
             ]
         ]
     },
@@ -496,18 +499,6 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
         "count": 1,
-        "location": "DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
-        "address": "T\u0119czowa 16, Z\u0105bki",
-        "times": [
-            [
-                "07:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-27",
-        "count": 1,
         "location": "Punkt szczepie\u0144",
         "address": "Kunin 20, Kunin",
         "times": [
@@ -519,12 +510,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
-        "count": 9,
+        "count": 8,
         "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
         "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
         "times": [
             [
-                "11:15:00",
                 "11:20:00",
                 "11:25:00",
                 "11:30:00",
@@ -575,12 +565,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 7,
+        "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "11:15:00",
                 "12:15:00",
                 "14:45:00",
                 "15:00:00",
