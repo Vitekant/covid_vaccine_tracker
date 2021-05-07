@@ -14,26 +14,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-08",
-        "count": 3,
-        "location": "MEDIQ - PUNKT SZCZEPIE\u0143",
-        "address": "Pi\u0142sudskiego 20, Legionowo",
-        "times": [
-            [
-                "12:40:00",
-                "12:50:00",
-                "12:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-08",
         "count": 1,
-        "location": "O\u015brodek Zdrowia",
-        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
         "times": [
             [
-                "17:30:00"
+                "16:50:00"
             ]
         ]
     },
@@ -70,14 +56,13 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 76,
+        "count": 75,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
                 "08:23:00",
                 "08:58:00",
-                "09:40:00",
                 "09:48:00",
                 "09:53:00",
                 "09:55:00",
@@ -244,6 +229,30 @@
         ]
     },
     {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "15:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "times": [
+            [
+                "11:40:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-10",
         "count": 5,
@@ -251,11 +260,23 @@
         "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
             [
-                "09:45:00",
                 "10:00:00",
                 "10:15:00",
                 "10:30:00",
-                "10:45:00"
+                "10:45:00",
+                "11:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
+        "address": "Kraszewskiego 8, Ciechan\u00f3w",
+        "times": [
+            [
+                "14:15:00"
             ]
         ]
     },
@@ -286,13 +307,26 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-19",
+        "day": "2021-05-18",
         "count": 1,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "17:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-19",
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
         "address": "Ossowskiego 25, Warszawa",
         "times": [
             [
-                "05:30:00"
+                "05:30:00",
+                "11:00:00"
             ]
         ]
     },
@@ -317,18 +351,6 @@
         "times": [
             [
                 "10:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
-        "times": [
-            [
-                "06:30:00"
             ]
         ]
     },
@@ -401,7 +423,7 @@
         "address": "\u0141azienkowska 3, Warszawa",
         "times": [
             [
-                "09:00:00"
+                "06:45:00"
             ]
         ]
     },
@@ -454,6 +476,18 @@
         "times": [
             [
                 "12:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-25",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
+        "address": "Sienkiewicza 7, P\u0142o\u0144sk",
+        "times": [
+            [
+                "07:00:00"
             ]
         ]
     },
@@ -522,23 +556,23 @@
         "vaccine": "Pfizer",
         "day": "2021-05-25",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
-        "address": "Strumykowa  21, Warszawa",
-        "times": [
-            [
-                "05:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-25",
-        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
         "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
         "times": [
             [
                 "09:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "11:00:00"
             ]
         ]
     },
@@ -578,18 +612,6 @@
                 "08:15:00",
                 "09:15:00",
                 "10:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-26",
-        "count": 1,
-        "location": "Gabinet podstawowej opieki zdrowotnej",
-        "address": "ODRODZENIA 12, JEDNORO\u017bEC",
-        "times": [
-            [
-                "09:00:00"
             ]
         ]
     },
@@ -651,6 +673,18 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
         "count": 1,
+        "location": "DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
+        "times": [
+            [
+                "13:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-27",
+        "count": 1,
         "location": "\"MEDYK\" Sp. z o.o - NPZOZ",
         "address": "ul. Sportowa 17, \u0141askarzew",
         "times": [
@@ -699,24 +733,23 @@
         "vaccine": "Pfizer",
         "day": "2021-05-27",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
-        "address": "Ossowskiego 25, Warszawa",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
+        "address": "Strumykowa  21, Warszawa",
         "times": [
             [
-                "06:25:00"
+                "06:20:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-27",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
-        "address": "Sienkiewicza 7, P\u0142o\u0144sk",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
+        "address": "Ossowskiego 25, Warszawa",
         "times": [
             [
-                "06:40:00",
-                "07:10:00"
+                "06:25:00"
             ]
         ]
     },
@@ -768,18 +801,6 @@
                 "11:00:00",
                 "12:00:00",
                 "13:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Przychodnia Rodzinna Dr Zdzieblowskiej - Bemowo",
-        "address": "Roz\u0142ogi 18/4, Warszawa",
-        "times": [
-            [
-                "13:05:00"
             ]
         ]
     },
@@ -889,12 +910,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "06:45:00",
                 "09:30:00"
             ]
         ]
@@ -914,12 +934,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-29",
-        "count": 5,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Stadion Legii",
         "address": "\u0141azienkowska 3, Warszawa",
         "times": [
             [
-                "08:00:00",
                 "08:15:00",
                 "08:30:00",
                 "08:45:00",
