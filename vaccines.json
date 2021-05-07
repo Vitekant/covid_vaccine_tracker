@@ -2,37 +2,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "11:45:00",
-                "12:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
         "count": 1,
         "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
         "address": "Szkolna 6, Milan\u00f3wek",
         "times": [
             [
                 "12:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "Inflancka 5, Warszawa",
-        "times": [
-            [
-                "13:00:00"
             ]
         ]
     },
@@ -52,11 +27,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej  DAR-MED Winnica",
-        "address": "Widok 1, WINNICA",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
             [
-                "14:50:00"
+                "15:35:00"
             ]
         ]
     },
@@ -87,13 +62,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 2,
-        "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
-        "address": "Wojska Polskiego 91, Zwole\u0144",
+        "count": 1,
+        "location": "Warszawa-Weso\u0142a - Przychodnia \"Pogodna\"",
+        "address": "Jana Paw\u0142a II  25, Warszawa Weso\u0142a",
         "times": [
             [
-                "08:20:00",
-                "09:45:00"
+                "08:50:00"
             ]
         ]
     },
@@ -112,6 +86,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
+        "count": 1,
+        "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
+        "address": "Wojska Polskiego 91, Zwole\u0144",
+        "times": [
+            [
+                "09:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
         "count": 6,
         "location": "Gminny O\u015brodek Zdrowia - SAMODZIELNY ZESP\u00d3\u0141 PUBLICZNYCH ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W JAB\u0141ONNIE",
         "address": "Parkowa 21, Jab\u0142onna",
@@ -123,6 +109,18 @@
                 "13:50:00",
                 "14:00:00",
                 "14:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-09",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY - WOJEW\u00d3DZKI SZPITAL ZESPOLONY W P\u0141OCKU",
+        "address": "Medyczna 19, P\u0141OCK",
+        "times": [
+            [
+                "07:25:00"
             ]
         ]
     },
@@ -155,7 +153,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 5,
+        "count": 4,
         "location": "Gminny O\u015brodek Zdrowia - SAMODZIELNY ZESP\u00d3\u0141 PUBLICZNYCH ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W JAB\u0141ONNIE",
         "address": "Parkowa 21, Jab\u0142onna",
         "times": [
@@ -163,19 +161,24 @@
                 "09:50:00",
                 "10:00:00",
                 "10:10:00",
-                "10:20:00",
-                "14:50:00"
+                "10:20:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-10",
-        "count": 12,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
-        "address": "Jana Chilickiego  2, Zakroczym",
+        "count": 18,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szkolno-Przedszkolny nr 4 w Nowym Dworze Mazowieckim",
+        "address": "Gen. J. Bema 312, Nowy Dw\u00f3r Mazowiecki",
         "times": [
             [
+                "11:00:00",
+                "11:05:00",
+                "11:10:00",
+                "11:15:00",
+                "11:20:00",
+                "11:25:00",
                 "11:30:00",
                 "11:35:00",
                 "11:40:00",
@@ -192,38 +195,22 @@
         ]
     },
     {
-        "vaccine": "Astra Zeneca",
+        "vaccine": "Pfizer",
         "day": "2021-05-10",
-        "count": 1,
-        "location": "ZAK\u0141AD OPIEKU\u0143CZO-LECZNICZY",
-        "address": "Mehoffera 72/74, Warszawa",
+        "count": 9,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
+        "address": "Jana Chilickiego  2, Zakroczym",
         "times": [
             [
-                "06:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-10",
-        "count": 13,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "10:30:00",
-                "13:45:00",
-                "13:50:00",
-                "14:10:00",
-                "14:15:00",
-                "14:20:00",
-                "14:25:00",
-                "14:30:00",
-                "14:35:00",
-                "14:40:00",
-                "14:45:00",
-                "14:50:00",
-                "14:55:00"
+                "11:45:00",
+                "11:50:00",
+                "11:55:00",
+                "12:00:00",
+                "12:05:00",
+                "12:10:00",
+                "12:15:00",
+                "12:20:00",
+                "12:25:00"
             ]
         ]
     },
@@ -254,7 +241,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 24,
+        "count": 26,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -282,39 +269,22 @@
                 "14:40:00",
                 "14:45:00",
                 "14:50:00",
-                "14:55:00"
+                "14:55:00",
+                "15:00:00",
+                "15:05:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
-        "address": "Karczewska 48, Otwock",
+        "count": 13,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
-                "13:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-11",
-        "count": 21,
-        "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
-        "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "13:15:00",
-                "13:25:00",
-                "13:35:00",
-                "13:40:00",
                 "13:45:00",
                 "13:50:00",
-                "13:55:00",
-                "14:00:00",
-                "14:05:00",
                 "14:10:00",
                 "14:15:00",
                 "14:20:00",
@@ -325,8 +295,39 @@
                 "14:45:00",
                 "14:50:00",
                 "14:55:00",
-                "15:05:00",
                 "15:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-11",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Radzymi\u0144ski O\u015brodek Kultury  i Sportu ",
+        "address": "Jana Paw\u0142a II  20, Radzymin",
+        "times": [
+            [
+                "11:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-11",
+        "count": 9,
+        "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
+        "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "13:25:00",
+                "13:30:00",
+                "13:35:00",
+                "13:40:00",
+                "13:45:00",
+                "13:50:00",
+                "13:55:00",
+                "14:00:00",
+                "14:05:00"
             ]
         ]
     },
@@ -471,6 +472,18 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-24",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
+        "times": [
+            [
+                "14:42:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-25",
         "count": 1,
@@ -511,13 +524,13 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-26",
+        "day": "2021-05-27",
         "count": 1,
-        "location": "Zesp\u00f3\u0142 Poradni",
-        "address": "Sparta\u0144ska 1, Warszawa",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
+        "address": "Jana Chilickiego  2, Zakroczym",
         "times": [
             [
-                "09:10:00"
+                "07:20:00"
             ]
         ]
     },
@@ -588,23 +601,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
-        "address": "Parkowa 14, Raci\u0105\u017c",
-        "times": [
-            [
-                "10:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-28",
-        "count": 3,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
+                "11:00:00",
                 "11:15:00",
                 "11:30:00",
                 "11:45:00"
