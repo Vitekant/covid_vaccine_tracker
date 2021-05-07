@@ -14,35 +14,15 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-08",
-        "count": 9,
+        "count": 4,
         "location": "Punkt szczepie\u0144",
         "address": "RYNEK 10, STARE BABICE",
         "times": [
             [
-                "09:15:00",
-                "09:20:00",
-                "09:25:00",
-                "09:30:00",
-                "09:35:00",
+                "09:00:00",
                 "09:40:00",
                 "09:45:00",
-                "09:50:00",
-                "09:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 4,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
-        "address": "Szkolna 21, Rzeku\u0144",
-        "times": [
-            [
-                "07:55:00",
-                "08:30:00",
-                "09:30:00",
-                "10:00:00"
+                "09:50:00"
             ]
         ]
     },
@@ -52,18 +32,6 @@
         "count": 1,
         "location": "Gabinet zabiegowo-diagnostyczny",
         "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "08:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "O\u015brodek Zdrowia",
-        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
         "times": [
             [
                 "08:00:00"
@@ -85,7 +53,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 75,
+        "count": 78,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -164,7 +132,24 @@
                 "14:37:00",
                 "14:42:00",
                 "14:47:00",
-                "14:50:00"
+                "14:50:00",
+                "14:52:00",
+                "14:57:00",
+                "15:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 3,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
+        "address": "Szkolna 21, Rzeku\u0144",
+        "times": [
+            [
+                "08:30:00",
+                "09:30:00",
+                "10:00:00"
             ]
         ]
     },
@@ -259,23 +244,23 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
-        "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W SEROCKU",
-        "address": "A.A. K\u0119dzierskich 2, Serock",
-        "times": [
-            [
-                "13:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
         "location": "CORTEN MEDIC T\u0142uszcz",
         "address": "WARSZAWSKA  19, T\u0141USZCZ",
         "times": [
             [
                 "14:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "SZPITAL MATKI BO\u017bEJ NIEUSTAJ\u0104CEJ POMOCY W WO\u0141OMINIE",
+        "address": "GDY\u0143SKA 1/3, WO\u0141OMIN",
+        "times": [
+            [
+                "11:20:00"
             ]
         ]
     },
@@ -294,12 +279,13 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 46,
+        "count": 48,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
                 "07:40:00",
+                "07:45:00",
                 "08:15:00",
                 "08:25:00",
                 "08:30:00",
@@ -344,7 +330,8 @@
                 "12:10:00",
                 "12:15:00",
                 "12:20:00",
-                "12:25:00"
+                "12:25:00",
+                "12:30:00"
             ]
         ]
     },
@@ -397,18 +384,6 @@
                 "15:30:00",
                 "15:40:00",
                 "15:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
-        "address": "Karczewska 48, Otwock",
-        "times": [
-            [
-                "07:00:00"
             ]
         ]
     },
