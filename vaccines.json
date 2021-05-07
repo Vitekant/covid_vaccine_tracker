@@ -14,12 +14,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-08",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
-                "09:05:00",
                 "09:50:00"
             ]
         ]
@@ -48,6 +47,18 @@
                 "06:40:00",
                 "08:30:00",
                 "09:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "07:45:00"
             ]
         ]
     },
@@ -90,6 +101,18 @@
                 "10:00:00",
                 "11:15:00",
                 "13:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Poradnia lekarza POZ",
+        "address": "Wojska Polskiego 78, Zwole\u0144",
+        "times": [
+            [
+                "10:15:00"
             ]
         ]
     },
@@ -180,18 +203,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
-        "location": "Poradnia lekarza POZ",
-        "address": "Wojska Polskiego 78, Zwole\u0144",
-        "times": [
-            [
-                "10:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
         "count": 2,
         "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W SEROCKU",
         "address": "A.A. K\u0119dzierskich 2, Serock",
@@ -199,18 +210,6 @@
             [
                 "11:30:00",
                 "12:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "12:00:00"
             ]
         ]
     },
@@ -254,18 +253,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-09",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
-        "times": [
-            [
-                "11:00:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
         "count": 2,
@@ -281,37 +268,38 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-10",
-        "count": 2,
+        "count": 3,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "rtm. Witolda Pileckiego 14, OSTRO\u0141\u0118KA",
         "times": [
             [
                 "11:15:00",
-                "11:30:00"
+                "11:30:00",
+                "11:45:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-10",
-        "count": 1,
+        "count": 2,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
             [
-                "14:10:00"
+                "14:10:00",
+                "15:20:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-10",
-        "count": 4,
+        "count": 3,
         "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
         "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
             [
-                "16:30:00",
                 "16:45:00",
                 "17:00:00",
                 "17:15:00"
@@ -321,12 +309,13 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-12",
-        "count": 2,
+        "count": 3,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
                 "12:45:00",
+                "14:25:00",
                 "16:50:00"
             ]
         ]
@@ -353,6 +342,18 @@
         "times": [
             [
                 "08:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-15",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew",
+        "times": [
+            [
+                "12:05:00"
             ]
         ]
     },
@@ -401,6 +402,18 @@
         "times": [
             [
                 "11:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-18",
+        "count": 1,
+        "location": "DETOKS FENIX SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "Umiastowska 50A, Kaputy",
+        "times": [
+            [
+                "12:35:00"
             ]
         ]
     },
@@ -459,18 +472,6 @@
         "vaccine": "Pfizer",
         "day": "2021-05-19",
         "count": 1,
-        "location": "Poradnia lekarza podstawowej opieki zdrowotnej Szpital w Sochaczewie",
-        "address": "ul. Batalion\u00f3w Ch\u0142opskich 44015, Sochaczew",
-        "times": [
-            [
-                "09:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-19",
-        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
         "address": "Ossowskiego 25, Warszawa",
         "times": [
@@ -492,25 +493,14 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "08:20:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-20",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
         "address": "Ossowskiego 25, Warszawa",
         "times": [
             [
+                "05:55:00",
                 "06:00:00"
             ]
         ]
@@ -526,19 +516,6 @@
                 "07:30:00",
                 "08:30:00",
                 "09:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-20",
-        "count": 2,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "09:00:00",
-                "11:30:00"
             ]
         ]
     },
@@ -582,11 +559,11 @@
         "vaccine": "Pfizer",
         "day": "2021-05-20",
         "count": 1,
-        "location": "DETOKS FENIX SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Umiastowska 50A, Kaputy",
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
             [
-                "16:15:00"
+                "11:30:00"
             ]
         ]
     },
@@ -600,18 +577,6 @@
             [
                 "14:30:00",
                 "15:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-24",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
-        "times": [
-            [
-                "09:50:00"
             ]
         ]
     },
@@ -664,12 +629,13 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
-                "12:35:00"
+                "12:35:00",
+                "14:40:00"
             ]
         ]
     },
@@ -677,23 +643,11 @@
         "vaccine": "Pfizer",
         "day": "2021-05-25",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szkolno-Przedszkolny nr 4 w Nowym Dworze Mazowieckim",
+        "address": "Gen. J. Bema 312, Nowy Dw\u00f3r Mazowiecki",
         "times": [
             [
                 "11:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-26",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
-        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
-        "times": [
-            [
-                "13:45:00"
             ]
         ]
     },
@@ -725,11 +679,11 @@
         "vaccine": "Pfizer",
         "day": "2021-05-26",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
-        "address": "Ossowskiego 25, Warszawa",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Stadion Legii",
+        "address": "\u0141azienkowska 3, Warszawa",
         "times": [
             [
-                "06:25:00"
+                "09:15:00"
             ]
         ]
     },
@@ -737,11 +691,11 @@
         "vaccine": "Pfizer",
         "day": "2021-05-26",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Stadion Legii",
-        "address": "\u0141azienkowska 3, Warszawa",
+        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
+        "address": "Poniatowskiego 26, Siedlce",
         "times": [
             [
-                "09:15:00"
+                "11:00:00"
             ]
         ]
     },
@@ -832,6 +786,18 @@
                 "11:10:00",
                 "11:30:00",
                 "11:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
+        "address": "Strumykowa  21, Warszawa",
+        "times": [
+            [
+                "06:20:00"
             ]
         ]
     },
@@ -989,11 +955,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-28",
-        "count": 2,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Stadion Legii",
         "address": "\u0141azienkowska 3, Warszawa",
         "times": [
             [
+                "08:30:00",
                 "09:00:00",
                 "10:15:00"
             ]
@@ -1047,13 +1014,15 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-29",
-        "count": 2,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Stadion Legii",
         "address": "\u0141azienkowska 3, Warszawa",
         "times": [
             [
+                "07:00:00",
                 "08:30:00",
-                "08:45:00"
+                "08:45:00",
+                "09:00:00"
             ]
         ]
     },
