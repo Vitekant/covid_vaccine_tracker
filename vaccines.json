@@ -1,25 +1,13 @@
 [
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
-        "times": [
-            [
-                "19:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143 TWARDA",
-        "address": "TWARDA 18, WARSZAWA",
+        "location": "OPTIMA KOSZARSKA i RUDNICKA - LEKARSKA SP\u00d3\u0141KA PARTNERSKA",
+        "address": "SK\u0141ODOWSKIEJ-CURIE 14 LOK.72, SOKO\u0141\u00d3W PODLASKI",
         "times": [
             [
-                "12:30:00"
+                "06:40:00"
             ]
         ]
     },
@@ -41,14 +29,24 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
+        "count": 1,
+        "location": "Filia SPZOZ w Baniosze ",
+        "address": "Pu\u0142awska  2a, Baniocha",
+        "times": [
+            [
+                "08:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
         "count": 78,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
-                "08:23:00",
                 "09:40:00",
-                "09:43:00",
                 "09:48:00",
                 "09:53:00",
                 "09:55:00",
@@ -123,19 +121,9 @@
                 "16:27:00",
                 "16:32:00",
                 "16:37:00",
-                "16:42:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Filia SPZOZ w Baniosze ",
-        "address": "Pu\u0142awska  2a, Baniocha",
-        "times": [
-            [
-                "08:35:00"
+                "16:42:00",
+                "17:20:00",
+                "17:25:00"
             ]
         ]
     },
@@ -206,14 +194,14 @@
         ]
     },
     {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
+        "vaccine": "Pfizer",
+        "day": "2021-05-10",
         "count": 1,
-        "location": "CORTEN MEDIC T\u0142uszcz",
-        "address": "WARSZAWSKA  19, T\u0141USZCZ",
+        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
+        "address": "Poniatowskiego 26, Siedlce",
         "times": [
             [
-                "15:30:00"
+                "16:50:00"
             ]
         ]
     },
@@ -232,24 +220,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 1,
-        "location": "DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
-        "address": "T\u0119czowa 16, Z\u0105bki",
-        "times": [
-            [
-                "07:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 48,
+        "count": 50,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "09:35:00",
                 "09:45:00",
                 "10:15:00",
                 "10:20:00",
@@ -296,7 +271,10 @@
                 "14:20:00",
                 "14:25:00",
                 "14:30:00",
-                "14:35:00"
+                "14:35:00",
+                "14:40:00",
+                "14:45:00",
+                "14:50:00"
             ]
         ]
     },
@@ -335,6 +313,30 @@
             [
                 "10:35:00",
                 "10:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
+        "times": [
+            [
+                "13:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-22",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew",
+        "times": [
+            [
+                "12:00:00"
             ]
         ]
     },
@@ -530,7 +532,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 9,
+        "count": 10,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
@@ -540,6 +542,7 @@
                 "07:50:00",
                 "08:35:00",
                 "09:10:00",
+                "11:25:00",
                 "12:05:00",
                 "12:50:00",
                 "13:25:00",
