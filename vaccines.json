@@ -3,18 +3,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Punkt szczepie\u0144 (szczepienia zalecane)",
-        "address": "Franciszka Klimczaka 1, Warszawa",
-        "times": [
-            [
-                "12:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
         "location": "Poradnia chor\u00f3b wewn\u0119trznych",
         "address": "Aleja Owocowa 30C, Tr\u0105bki",
         "times": [
@@ -33,6 +21,30 @@
             [
                 "16:00:00",
                 "16:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Punkt szczepie\u0144 - SPZOZ G\u00f3ra Kalwaria",
+        "address": "POR. JANA BIA\u0141KA 4, G\u00d3RA KALWARIA",
+        "times": [
+            [
+                "07:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Filia SPZOZ w Baniosze ",
+        "address": "Pu\u0142awska  2a, Baniocha",
+        "times": [
+            [
+                "07:40:00"
             ]
         ]
     },
@@ -114,15 +126,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 4,
+        "count": 1,
         "location": "CENTRUM MEDYCZNE CORTEN MEDIC PRZYCHODNIA LEKARSKA NR 9",
         "address": "M\u0142ynarska 26/28, Warszawa",
         "times": [
             [
-                "15:15:00",
-                "15:45:00",
-                "17:45:00",
-                "18:00:00"
+                "17:45:00"
             ]
         ]
     },
@@ -148,6 +157,18 @@
         "times": [
             [
                 "16:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
+        "address": "UL. TOCHTERMANA  1, RADOM",
+        "times": [
+            [
+                "06:15:00"
             ]
         ]
     },
@@ -242,12 +263,23 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
-        "count": 44,
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "09:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-11",
+        "count": 43,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "13:55:00",
                 "14:05:00",
                 "14:20:00",
                 "14:30:00",
@@ -278,7 +310,6 @@
                 "16:45:00",
                 "16:50:00",
                 "16:55:00",
-                "17:00:00",
                 "17:05:00",
                 "17:10:00",
                 "17:15:00",
@@ -290,19 +321,20 @@
                 "17:45:00",
                 "17:50:00",
                 "17:55:00",
-                "18:00:00"
+                "18:00:00",
+                "18:05:00"
             ]
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
+        "vaccine": "Moderna",
         "day": "2021-05-19",
         "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "Gen. Fieldorfa Nila 10, Ostro\u0142\u0119ka",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "09:55:00"
+                "14:30:00"
             ]
         ]
     },
@@ -348,11 +380,11 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-25",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
-        "address": "Jana Chilickiego  2, Zakroczym",
+        "location": "Gabinet Diagnostyczno Zabiegowy II  SPZZOZ Sierpc",
+        "address": "Juliusza S\u0142owackiego 16, Sierpc",
         "times": [
             [
-                "08:30:00"
+                "09:35:00"
             ]
         ]
     },
@@ -597,12 +629,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-31",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno",
         "times": [
             [
-                "14:07:00",
                 "14:12:00"
             ]
         ]
