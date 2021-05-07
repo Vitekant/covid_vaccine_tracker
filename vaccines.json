@@ -79,7 +79,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 52,
+        "count": 51,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -99,7 +99,6 @@
                 "14:07:00",
                 "14:17:00",
                 "14:22:00",
-                "14:27:00",
                 "14:32:00",
                 "14:35:00",
                 "14:37:00",
@@ -154,20 +153,8 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "13:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 33,
+        "count": 35,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -204,7 +191,9 @@
                 "08:03:00",
                 "08:05:00",
                 "08:08:00",
-                "08:13:00"
+                "08:13:00",
+                "08:15:00",
+                "08:18:00"
             ]
         ]
     },
@@ -216,7 +205,6 @@
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "11:45:00",
                 "11:50:00",
                 "11:55:00",
                 "12:10:00",
@@ -244,7 +232,8 @@
                 "14:25:00",
                 "14:30:00",
                 "14:35:00",
-                "14:40:00"
+                "14:40:00",
+                "15:15:00"
             ]
         ]
     },
@@ -263,12 +252,23 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 25,
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "07:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-14",
+        "count": 24,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "07:20:00",
                 "07:25:00",
                 "07:30:00",
                 "07:35:00",
@@ -297,14 +297,14 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-14",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-20",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
+        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "07:20:00"
+                "11:45:00"
             ]
         ]
     },
@@ -323,11 +323,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 36,
+        "count": 37,
         "location": "Punkt Szczepie\u0144",
         "address": "Wa\u0142owa 1, Siedlce",
         "times": [
             [
+                "07:05:00",
                 "07:10:00",
                 "07:15:00",
                 "07:20:00",
