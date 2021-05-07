@@ -12,26 +12,13 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "Kili\u0144skiego 4B, Sarnaki",
-        "times": [
-            [
-                "10:10:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 60,
+        "count": 59,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
-                "07:47:00",
                 "07:52:00",
                 "08:17:00",
                 "08:27:00",
@@ -137,18 +124,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Poradnia lekarza POZ",
-        "address": "Modzelewskiego 58, Warszawa",
-        "times": [
-            [
-                "09:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
         "address": "Andrzeja 23, Pruszk\u00f3w",
         "times": [
@@ -172,11 +147,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 4,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
+                "08:05:00",
                 "08:10:00",
                 "08:45:00",
                 "08:50:00",
@@ -193,18 +169,6 @@
         "times": [
             [
                 "08:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-10",
-        "count": 1,
-        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
-        "address": "Poniatowskiego 26, Siedlce",
-        "times": [
-            [
-                "15:50:00"
             ]
         ]
     },
@@ -232,7 +196,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 7,
+        "count": 8,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -243,7 +207,8 @@
                 "12:55:00",
                 "13:00:00",
                 "13:05:00",
-                "13:10:00"
+                "13:10:00",
+                "13:15:00"
             ]
         ]
     },
@@ -269,20 +234,20 @@
         "address": "Strumykowa  21, Warszawa",
         "times": [
             [
-                "14:50:00",
                 "14:55:00",
                 "15:00:00",
                 "15:05:00",
                 "15:10:00",
                 "15:15:00",
-                "15:20:00"
+                "15:20:00",
+                "15:25:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-16",
-        "count": 6,
+        "count": 7,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
         "address": "Ossowskiego 25, Warszawa",
         "times": [
@@ -292,7 +257,20 @@
                 "15:05:00",
                 "15:10:00",
                 "15:15:00",
-                "15:20:00"
+                "15:20:00",
+                "15:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
+        "address": "Sienkiewicza 7, P\u0142o\u0144sk",
+        "times": [
+            [
+                "08:10:00"
             ]
         ]
     },
@@ -373,18 +351,6 @@
                 "07:45:00",
                 "08:45:00",
                 "11:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-24",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "Bora Komorowskiego 37 210, Warszawa",
-        "times": [
-            [
-                "17:00:00"
             ]
         ]
     },
