@@ -26,7 +26,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 77,
+        "count": 74,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -104,10 +104,7 @@
                 "16:07:00",
                 "16:12:00",
                 "16:17:00",
-                "16:22:00",
-                "16:27:00",
-                "16:32:00",
-                "16:37:00"
+                "16:22:00"
             ]
         ]
     },
@@ -129,11 +126,35 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
+        "location": "Filia SPZOZ w Baniosze ",
+        "address": "Pu\u0142awska  2a, Baniocha",
+        "times": [
+            [
+                "08:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
         "location": "Poradnia lekarza POZ",
         "address": "Wojska Polskiego 78, Zwole\u0144",
         "times": [
             [
                 "10:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Centrum Leczniczo-Us\u0142ugowe imienia \u015awi\u0119tej Anny Sp\u00f3\u0142ka z ograniczon\u0105 odpowiedzialno\u015bci\u0105",
+        "address": "Jana Kochanowskiego 22A, P\u0142ock",
+        "times": [
+            [
+                "10:45:00"
             ]
         ]
     },
@@ -152,18 +173,6 @@
                 "12:45:00",
                 "12:50:00",
                 "12:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Centrum Medyczne ZANMED",
-        "address": "J\u00f3zefa Pi\u0142sudskiego 33, Halin\u00f3w",
-        "times": [
-            [
-                "12:30:00"
             ]
         ]
     },
@@ -204,14 +213,37 @@
         ]
     },
     {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "CORTEN MEDIC T\u0142uszcz",
+        "address": "WARSZAWSKA  19, T\u0141USZCZ",
+        "times": [
+            [
+                "15:30:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 51,
+        "day": "2021-05-11",
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "09:25:00",
+                "14:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 50,
+        "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
+        "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
+        "times": [
+            [
                 "09:35:00",
                 "10:20:00",
                 "10:25:00",
@@ -378,30 +410,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-26",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
-        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
-        "times": [
-            [
-                "15:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-26",
-        "count": 1,
-        "location": "Poradnia stomatologiczna - Al. Solidarno\u015bci ",
-        "address": "al. Aleja \"Solidarno\u015bci\" 12, Warszawa",
-        "times": [
-            [
-                "17:25:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-26",
         "count": 1,
@@ -409,7 +417,7 @@
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "12:15:00"
+                "12:30:00"
             ]
         ]
     },
@@ -442,12 +450,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "13:30:00",
                 "15:45:00"
             ]
         ]
