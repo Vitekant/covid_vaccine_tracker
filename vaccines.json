@@ -12,6 +12,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "15:10:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
@@ -170,18 +182,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY - WOJEW\u00d3DZKI SZPITAL ZESPOLONY W P\u0141OCKU",
-        "address": "Medyczna 19, P\u0141OCK",
-        "times": [
-            [
-                "11:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
         "count": 11,
         "location": "Punkt szczepie\u0144",
         "address": "RYNEK 10, STARE BABICE",
@@ -216,7 +216,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 50,
+        "count": 49,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -269,8 +269,7 @@
                 "12:45:00",
                 "12:50:00",
                 "12:55:00",
-                "13:00:00",
-                "13:05:00"
+                "13:00:00"
             ]
         ]
     },
@@ -299,14 +298,14 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
+        "vaccine": "Moderna",
         "day": "2021-05-22",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych -  SPZOZ Przychodnia Miejska w J\u00f3zefowie",
-        "address": "Sk\u0142odowskiej 5/7, J\u00f3zef\u00f3w",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
-                "08:45:00"
+                "10:40:00"
             ]
         ]
     },
@@ -449,13 +448,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "14:00:00",
-                "14:15:00"
+                "14:30:00"
             ]
         ]
     },
