@@ -1,6 +1,18 @@
 [
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Punkt szczepie\u0144 dla doros\u0142ych",
+        "address": "Aleja Jana Paw\u0142a II  27, Warszawa",
+        "times": [
+            [
+                "17:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 4,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
@@ -125,18 +137,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
-        "location": "HIT MEDICA POLIGONOWA SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Marsza\u0142kowska 28, Warszawa",
-        "times": [
-            [
-                "10:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
         "location": "Poradnia lekarza POZ",
         "address": "Wojska Polskiego 78, Zwole\u0144",
         "times": [
@@ -216,17 +216,15 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 50,
+        "count": 49,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "09:25:00",
                 "09:35:00",
                 "09:45:00",
                 "09:50:00",
                 "09:55:00",
-                "10:15:00",
                 "10:20:00",
                 "10:25:00",
                 "10:30:00",
@@ -268,9 +266,10 @@
                 "13:45:00",
                 "13:50:00",
                 "13:55:00",
-                "14:15:00",
                 "14:20:00",
-                "14:25:00"
+                "14:25:00",
+                "14:30:00",
+                "14:35:00"
             ]
         ]
     },
@@ -295,6 +294,18 @@
         "times": [
             [
                 "10:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-22",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "times": [
+            [
+                "09:25:00"
             ]
         ]
     },
@@ -403,13 +414,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 4,
+        "count": 3,
         "location": "DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
                 "13:45:00",
-                "14:15:00",
                 "14:30:00",
                 "14:45:00"
             ]
