@@ -3,6 +3,19 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 2,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "times": [
+            [
+                "06:40:00",
+                "09:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
@@ -23,18 +36,6 @@
                 "09:20:00",
                 "09:30:00",
                 "10:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk",
-        "times": [
-            [
-                "09:20:00"
             ]
         ]
     },
@@ -66,7 +67,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 61,
+        "count": 60,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -91,7 +92,6 @@
                 "12:15:00",
                 "13:47:00",
                 "13:55:00",
-                "13:57:00",
                 "14:07:00",
                 "14:17:00",
                 "14:22:00",
@@ -174,20 +174,8 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "CENTRUM MEDYCZNE CORTEN MEDIC PRZYCHODNIA LEKARSKA NR 9",
-        "address": "M\u0142ynarska 26/28, Warszawa",
-        "times": [
-            [
-                "17:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 24,
+        "count": 25,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -215,7 +203,20 @@
                 "07:28:00",
                 "07:33:00",
                 "07:35:00",
-                "07:38:00"
+                "07:38:00",
+                "07:43:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-11",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "S\u0142oneczna 1, \u0141osice",
+        "times": [
+            [
+                "11:25:00"
             ]
         ]
     },
@@ -232,9 +233,21 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
+        "address": "Kraszewskiego 8, Ciechan\u00f3w",
+        "times": [
+            [
+                "16:25:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 43,
+        "count": 42,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -279,7 +292,6 @@
                 "14:45:00",
                 "14:50:00",
                 "14:55:00",
-                "15:05:00",
                 "15:10:00",
                 "15:15:00"
             ]
@@ -363,6 +375,18 @@
         "times": [
             [
                 "08:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
+        "times": [
+            [
+                "12:05:00"
             ]
         ]
     },
@@ -481,6 +505,18 @@
                 "11:10:00",
                 "11:30:00",
                 "11:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
+        "address": "Spacerowa  29, Bia\u0142obrzegi",
+        "times": [
+            [
+                "06:15:00"
             ]
         ]
     },
