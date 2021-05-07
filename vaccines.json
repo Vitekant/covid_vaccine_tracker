@@ -1,18 +1,5 @@
 [
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-07",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
-        "address": "Kraszewskiego 8, Ciechan\u00f3w",
-        "times": [
-            [
-                "12:15:00",
-                "12:20:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 2,
@@ -22,6 +9,18 @@
             [
                 "10:30:00",
                 "10:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Przychodnia Rejonowa",
+        "address": "Szybowcowa 4, Warszawa",
+        "times": [
+            [
+                "10:40:00"
             ]
         ]
     },
@@ -88,28 +87,14 @@
         ]
     },
     {
-        "vaccine": "Astra Zeneca",
+        "vaccine": "Pfizer",
         "day": "2021-05-08",
         "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "location": "Punkt Szczepie\u0144 Powszechnych w Zespole Szk\u00f3\u0142 Powiatowych w Przasnyszu",
+        "address": "SADOWA 5, PRZASNYSZ",
         "times": [
             [
-                "06:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 3,
-        "location": "EMC PIASECZNO",
-        "address": "Szkolna 1, Piaseczno",
-        "times": [
-            [
-                "06:35:00",
-                "06:58:00",
-                "07:10:00"
+                "10:05:00"
             ]
         ]
     },
@@ -131,6 +116,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
+        "location": "EMC PIASECZNO",
+        "address": "Szkolna 1, Piaseczno",
+        "times": [
+            [
+                "07:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
         "location": "Gabinet Stomatologiczny Smile Institute w Zwoleniu",
         "address": "Wojska Polskiego 91, Zwole\u0144",
         "times": [
@@ -143,8 +140,8 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
-        "location": "O\u015brodek Zdrowia",
-        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
+        "address": "Szkolna 21, Rzeku\u0144",
         "times": [
             [
                 "09:30:00"
@@ -155,8 +152,8 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
-        "address": "Szkolna 21, Rzeku\u0144",
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
         "times": [
             [
                 "09:30:00"
@@ -180,6 +177,18 @@
     },
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "CORTEN MEDIC T\u0142uszcz",
+        "address": "WARSZAWSKA  19, T\u0141USZCZ",
+        "times": [
+            [
+                "13:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
         "count": 1,
         "location": "PANORAMIK CENTRUM DIAGNOSTYCZNE ZBIGNIEW KARDASZ, BART\u0141OMIEJ KARDASZ, AGNIESZKA BRZOZOWSKA-KARDASZ S.C.",
@@ -187,19 +196,6 @@
         "times": [
             [
                 "13:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-10",
-        "count": 2,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "09:00:00",
-                "13:30:00"
             ]
         ]
     },
@@ -219,11 +215,23 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
         "count": 1,
-        "location": "Wojew\u00f3dzki Szpital Zaka\u017any",
-        "address": "ul. Wolska 37, Warszawa",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Sp\u00f3\u0142ka Lekarska \"ZAM\u0141YNIE\"",
+        "address": "Klonowica 44175, Radom",
         "times": [
             [
-                "10:40:00"
+                "11:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
+        "address": "Goworowska 39A, W\u0105sewo",
+        "times": [
+            [
+                "12:05:00"
             ]
         ]
     },
@@ -288,6 +296,30 @@
         ]
     },
     {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "13:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Szpital Powiatowy",
+        "address": "Ko\u015bciuszki 201, W\u0119gr\u00f3w",
+        "times": [
+            [
+                "14:40:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-18",
         "count": 1,
@@ -302,13 +334,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-18",
-        "count": 3,
+        "count": 1,
         "location": "Gabinet Diagnostyczno Zabiegowy II  SPZZOZ Sierpc",
         "address": "Juliusza S\u0142owackiego 16, Sierpc",
         "times": [
             [
-                "08:05:00",
-                "08:20:00",
                 "08:45:00"
             ]
         ]
@@ -328,12 +358,25 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-19",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
+                "10:15:00",
                 "10:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
+        "address": "Strumykowa  21, Warszawa",
+        "times": [
+            [
+                "05:30:00"
             ]
         ]
     },
@@ -350,25 +393,14 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
-        "times": [
-            [
-                "10:50:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 1,
+        "count": 2,
         "location": "GABINET DIAGNOSTYCZNO - ZABIEGOWY ",
         "address": "SANITARIUSZEK 1, WI\u015aNIEW",
         "times": [
             [
+                "14:30:00",
                 "14:40:00"
             ]
         ]
@@ -382,18 +414,6 @@
         "times": [
             [
                 "11:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-22",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
-        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
-        "times": [
-            [
-                "11:00:00"
             ]
         ]
     },
@@ -413,35 +433,22 @@
         "vaccine": "Pfizer",
         "day": "2021-05-22",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
-        "times": [
-            [
-                "14:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-23",
-        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "12:15:00"
+                "12:30:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-24",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "12:00:00",
                 "12:15:00"
             ]
         ]
@@ -509,13 +516,13 @@
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "10:30:00",
                 "10:45:00",
                 "11:00:00",
                 "11:15:00",
                 "11:30:00",
                 "11:45:00",
-                "12:00:00"
+                "12:00:00",
+                "12:15:00"
             ]
         ]
     },
@@ -535,11 +542,11 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
-        "address": "Jana Chilickiego  2, Zakroczym",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"AKACJA\" - Poradnia piel\u0119gniarki podstawowej opieki zdrowotnej",
+        "address": "Pu\u0142tuska  27, Wyszk\u00f3w",
         "times": [
             [
-                "09:45:00"
+                "09:15:00"
             ]
         ]
     },
