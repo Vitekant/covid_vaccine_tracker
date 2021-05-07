@@ -54,6 +54,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
+        "count": 1,
+        "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W CEG\u0141OWIE - Punkt szczepie\u0144",
+        "address": "Plac Anny Jagiellonki 17, Ceg\u0142\u00f3w",
+        "times": [
+            [
+                "10:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
         "count": 70,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
@@ -149,32 +161,8 @@
     },
     {
         "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "NASZ GABINET Warszawa",
-        "address": "Klimczaka 8, Warszawa",
-        "times": [
-            [
-                "13:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
-        "address": "Poniatowskiego 26, Siedlce",
-        "times": [
-            [
-                "16:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 15,
+        "count": 16,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -193,20 +181,44 @@
                 "06:55:00",
                 "06:58:00",
                 "07:03:00",
-                "07:08:00"
+                "07:08:00",
+                "07:13:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-11",
+        "count": 1,
+        "location": "CENTRUM ZDROWIA MAZOWSZA ZACHODNIEGO SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "Boles\u0142awa Limanowskiego 30, \u017byrard\u00f3w",
+        "times": [
+            [
+                "15:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-11",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
+        "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "17:00:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 50,
+        "count": 49,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
                 "07:25:00",
-                "08:40:00",
                 "10:25:00",
                 "10:35:00",
                 "10:45:00",
@@ -273,18 +285,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 1,
-        "location": "DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
-        "address": "T\u0119czowa 16, Z\u0105bki",
-        "times": [
-            [
-                "09:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-13",
         "count": 3,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
@@ -299,14 +299,15 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 3,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
                 "07:10:00",
                 "07:15:00",
-                "07:20:00"
+                "07:20:00",
+                "07:25:00"
             ]
         ]
     },
@@ -325,13 +326,12 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-17",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
-                "07:20:00",
-                "10:00:00"
+                "07:20:00"
             ]
         ]
     },
@@ -368,18 +368,6 @@
         "times": [
             [
                 "12:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "13:15:00"
             ]
         ]
     },
@@ -458,6 +446,18 @@
     },
     {
         "vaccine": "Johnson & Johnson",
+        "day": "2021-05-24",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
+        "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
+        "times": [
+            [
+                "14:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
         "day": "2021-05-25",
         "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Stadion Legii",
@@ -514,6 +514,18 @@
                 "12:05:00",
                 "12:35:00",
                 "14:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "12:30:00"
             ]
         ]
     },
@@ -623,7 +635,7 @@
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "15:00:00",
+                "14:45:00",
                 "15:15:00",
                 "15:30:00",
                 "15:45:00"
