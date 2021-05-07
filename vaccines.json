@@ -28,13 +28,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "08:30:00",
-                "13:30:00"
+                "08:30:00"
             ]
         ]
     },
@@ -74,6 +73,18 @@
         "times": [
             [
                 "10:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Centrum Medyczne RAJMEDICA",
+        "address": "ul. Warszawska 11, T\u0142uszcz",
+        "times": [
+            [
+                "10:20:00"
             ]
         ]
     },
@@ -150,11 +161,13 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
+        "count": 3,
         "location": "Punkt szczepie\u0144",
         "address": "RYNEK 10, STARE BABICE",
         "times": [
             [
+                "12:05:00",
+                "12:10:00",
                 "12:35:00"
             ]
         ]
@@ -162,7 +175,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 27,
+        "count": 25,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -191,21 +204,18 @@
                 "07:33:00",
                 "07:35:00",
                 "07:38:00",
-                "07:43:00",
-                "07:48:00",
-                "07:53:00"
+                "07:43:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 37,
+        "count": 36,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "11:10:00",
                 "11:15:00",
                 "11:35:00",
                 "11:40:00",
@@ -273,7 +283,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 17,
+        "count": 19,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -294,7 +304,9 @@
                 "08:15:00",
                 "08:20:00",
                 "08:25:00",
-                "08:30:00"
+                "08:30:00",
+                "08:35:00",
+                "08:45:00"
             ]
         ]
     },
@@ -307,18 +319,6 @@
         "times": [
             [
                 "07:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "GABINET DIAGNOSTYCZNO - ZABIEGOWY ",
-        "address": "SANITARIUSZEK 1, WI\u015aNIEW",
-        "times": [
-            [
-                "14:30:00"
             ]
         ]
     },
@@ -381,14 +381,14 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-25",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-26",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
-        "address": "Karczewska 48, Otwock",
+        "location": "Centrum Medyczne Pu\u0142awska Sp. z o.o. Niepubliczny Zak\u0142ad Opieki Zdrowotnej Oddzia\u0142 w \u0141omiankach",
+        "address": "Warszawska 55, \u0141omianki",
         "times": [
             [
-                "15:20:00"
+                "16:40:00"
             ]
         ]
     },
@@ -489,6 +489,18 @@
         ]
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-29",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Omega\"",
+        "address": "ul. W\u0119growska 5a, Soko\u0142\u00f3w Podlaski",
+        "times": [
+            [
+                "11:50:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-29",
         "count": 9,
@@ -517,18 +529,6 @@
         "times": [
             [
                 "07:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-29",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
-        "address": "D\u0141UGA 75, BRAMKI",
-        "times": [
-            [
-                "09:30:00"
             ]
         ]
     },
@@ -578,13 +578,14 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-31",
-        "count": 14,
+        "count": 15,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
                 "06:05:00",
                 "06:15:00",
+                "06:25:00",
                 "06:35:00",
                 "07:30:00",
                 "07:45:00",
