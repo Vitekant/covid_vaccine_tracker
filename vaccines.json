@@ -7,19 +7,7 @@
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
-                "14:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "13:25:00"
+                "14:40:00"
             ]
         ]
     },
@@ -45,18 +33,6 @@
             [
                 "16:00:00",
                 "16:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Gabinet Diagnostyczno Zabiegowy II  SPZZOZ Sierpc",
-        "address": "Juliusza S\u0142owackiego 16, Sierpc",
-        "times": [
-            [
-                "07:00:00"
             ]
         ]
     },
@@ -161,36 +137,37 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "14:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 2,
         "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W SEROCKU",
         "address": "A.A. K\u0119dzierskich 2, Serock",
         "times": [
             [
-                "15:55:00"
+                "15:55:00",
+                "16:05:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 1,
+        "count": 2,
         "location": "SZPITAL TYMCZASOWY - WOJEW\u00d3DZKI SZPITAL ZESPOLONY W P\u0141OCKU",
         "address": "Medyczna 19, P\u0141OCK",
         "times": [
             [
+                "10:50:00",
                 "13:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-10",
-        "count": 2,
-        "location": "Poradnia Lekarza POZ",
-        "address": "Sadowa 9, Przasnysz",
-        "times": [
-            [
-                "06:55:00",
-                "13:55:00"
             ]
         ]
     },
@@ -277,6 +254,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
         "count": 1,
+        "location": "Poradnia Lekarza POZ",
+        "address": "Sadowa 9, Przasnysz",
+        "times": [
+            [
+                "13:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-10",
+        "count": 1,
         "location": "PORADNIA ONKOLOGICZNA",
         "address": "Uniwersytecka 6, Radom",
         "times": [
@@ -288,19 +277,17 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
-        "count": 27,
+        "count": 25,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "14:05:00",
+                "14:10:00",
                 "14:30:00",
-                "15:15:00",
                 "15:20:00",
                 "15:35:00",
                 "15:40:00",
                 "16:15:00",
-                "16:20:00",
                 "16:35:00",
                 "16:40:00",
                 "16:45:00",
@@ -326,19 +313,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
-        "times": [
-            [
-                "07:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 30,
+        "count": 31,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -372,20 +347,20 @@
                 "09:10:00",
                 "09:15:00",
                 "09:20:00",
-                "09:25:00"
+                "09:25:00",
+                "09:30:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-14",
-        "count": 2,
+        "count": 1,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
-                "14:00:00",
-                "14:30:00"
+                "14:00:00"
             ]
         ]
     },
@@ -403,13 +378,13 @@
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-18",
+        "day": "2021-05-17",
         "count": 1,
-        "location": "Gabinet Diagnostyczno Zabiegowy II  SPZZOZ Sierpc",
-        "address": "Juliusza S\u0142owackiego 16, Sierpc",
+        "location": "PUNKT SZCZEPIE\u0143",
+        "address": "Gen. Fieldorfa Nila 10, Ostro\u0142\u0119ka",
         "times": [
             [
-                "09:30:00"
+                "06:00:00"
             ]
         ]
     },
@@ -496,12 +471,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 5,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
-                "12:10:00",
                 "13:40:00",
                 "14:20:00",
                 "14:25:00",
@@ -614,7 +588,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 5,
+        "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
@@ -623,7 +597,8 @@
                 "12:15:00",
                 "12:30:00",
                 "12:45:00",
-                "13:00:00"
+                "13:00:00",
+                "13:15:00"
             ]
         ]
     },
@@ -636,6 +611,18 @@
         "times": [
             [
                 "12:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "NZOZ  ,,DOBRE ZDROWIE\" Punkt szczepie\u0144",
+        "address": "ul. Szkolna  2, Dobre",
+        "times": [
+            [
+                "13:05:00"
             ]
         ]
     },
@@ -663,13 +650,14 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 2,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
                 "08:00:00",
-                "11:00:00"
+                "11:00:00",
+                "11:45:00"
             ]
         ]
     },
