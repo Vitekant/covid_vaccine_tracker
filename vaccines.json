@@ -26,16 +26,14 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 73,
+        "count": 74,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
-                "07:48:00",
                 "07:53:00",
                 "07:55:00",
                 "07:58:00",
-                "08:13:00",
                 "08:18:00",
                 "08:23:00",
                 "08:25:00",
@@ -103,7 +101,10 @@
                 "13:47:00",
                 "13:52:00",
                 "13:55:00",
-                "13:57:00"
+                "13:57:00",
+                "14:02:00",
+                "14:05:00",
+                "14:07:00"
             ]
         ]
     },
@@ -144,19 +145,6 @@
         "times": [
             [
                 "10:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 2,
-        "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
-        "address": "Szkolna 6, Milan\u00f3wek",
-        "times": [
-            [
-                "11:30:00",
-                "12:45:00"
             ]
         ]
     },
@@ -205,11 +193,35 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
+        "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
+        "address": "Szkolna 6, Milan\u00f3wek",
+        "times": [
+            [
+                "12:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
         "location": "Gminny O\u015brodek Zdrowia - SAMODZIELNY ZESP\u00d3\u0141 PUBLICZNYCH ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W JAB\u0141ONNIE",
         "address": "Parkowa 21, Jab\u0142onna",
         "times": [
             [
                 "13:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "S\u0142oneczna 1, \u0141osice",
+        "times": [
+            [
+                "09:40:00"
             ]
         ]
     },
@@ -229,18 +241,30 @@
         "vaccine": "Pfizer",
         "day": "2021-05-11",
         "count": 1,
-        "location": "Szpital Powiatowy",
-        "address": "Ko\u015bciuszki 201, W\u0119gr\u00f3w",
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
             [
-                "16:00:00"
+                "11:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-11",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
+        "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "14:10:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 50,
+        "count": 49,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -293,8 +317,7 @@
                 "11:45:00",
                 "11:50:00",
                 "11:55:00",
-                "12:00:00",
-                "12:05:00"
+                "12:00:00"
             ]
         ]
     },
@@ -307,6 +330,42 @@
         "times": [
             [
                 "07:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-13",
+        "count": 1,
+        "location": "NZOZ CENTRUM MEDYCZNE - Poradnia lekarza podstawowej opieki zdrowotnej",
+        "address": "Gda\u0144ska 2, R\u00f3\u017can",
+        "times": [
+            [
+                "13:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-15",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Omega\"",
+        "address": "ul. W\u0119growska 5a, Soko\u0142\u00f3w Podlaski",
+        "times": [
+            [
+                "10:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "15:30:00"
             ]
         ]
     },
@@ -463,18 +522,6 @@
                 "08:45:00",
                 "08:50:00",
                 "08:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "Kunin 20, Kunin",
-        "times": [
-            [
-                "07:55:00"
             ]
         ]
     },
