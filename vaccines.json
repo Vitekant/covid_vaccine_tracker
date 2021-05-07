@@ -207,17 +207,40 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-05-09",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "07:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-05-10",
-        "count": 5,
+        "count": 4,
         "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
         "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
             [
-                "11:15:00",
                 "11:30:00",
                 "11:45:00",
                 "12:00:00",
                 "12:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "Centralny Szpital Kliniczny Ministerstwa Spraw Wewn\u0119trznych i Administracji w Warszawie",
+        "address": "Wo\u0142oska 137, Warszawa",
+        "times": [
+            [
+                "12:00:00"
             ]
         ]
     },
@@ -248,6 +271,18 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-05-18",
+        "count": 1,
+        "location": "DETOKS FENIX SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "Umiastowska 50A, Kaputy",
+        "times": [
+            [
+                "14:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-05-19",
         "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala sportowa OSiR Targ\u00f3wek",
@@ -268,18 +303,6 @@
         "times": [
             [
                 "06:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Gabinet podstawowej opieki zdrowotnej",
-        "address": "ODRODZENIA 12, JEDNORO\u017bEC",
-        "times": [
-            [
-                "10:00:00"
             ]
         ]
     },
@@ -370,18 +393,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-24",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
-        "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
-        "times": [
-            [
-                "09:55:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-24",
         "count": 1,
@@ -456,18 +467,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
-        "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
-        "times": [
-            [
-                "09:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-05-26",
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
@@ -507,13 +506,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-26",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Stadion Legii",
         "address": "\u0141azienkowska 3, Warszawa",
         "times": [
             [
-                "09:15:00",
-                "10:30:00"
+                "09:15:00"
             ]
         ]
     },
@@ -553,18 +551,6 @@
                 "11:45:00",
                 "11:50:00",
                 "11:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
-        "address": "Jana Chilickiego  2, Zakroczym",
-        "times": [
-            [
-                "11:30:00"
             ]
         ]
     },
@@ -618,13 +604,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-27",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
         "address": "Strumykowa  21, Warszawa",
         "times": [
             [
-                "06:20:00",
-                "09:25:00"
+                "06:20:00"
             ]
         ]
     },
@@ -705,12 +690,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 6,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "09:30:00",
                 "09:45:00",
                 "14:30:00",
                 "14:45:00",
@@ -738,12 +722,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-28",
-        "count": 3,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Stadion Legii",
         "address": "\u0141azienkowska 3, Warszawa",
         "times": [
             [
-                "07:30:00",
                 "09:00:00",
                 "10:15:00"
             ]
@@ -752,7 +735,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 9,
+        "count": 10,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
@@ -765,7 +748,8 @@
                 "09:10:00",
                 "11:25:00",
                 "12:00:00",
-                "12:05:00"
+                "13:50:00",
+                "13:55:00"
             ]
         ]
     },
@@ -797,12 +781,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-29",
-        "count": 5,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Stadion Legii",
         "address": "\u0141azienkowska 3, Warszawa",
         "times": [
             [
-                "06:30:00",
                 "08:15:00",
                 "08:30:00",
                 "08:45:00",
