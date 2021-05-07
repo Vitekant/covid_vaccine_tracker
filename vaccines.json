@@ -200,12 +200,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 29,
+        "count": 27,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "11:50:00",
                 "11:55:00",
                 "12:10:00",
                 "12:15:00",
@@ -232,8 +231,7 @@
                 "14:25:00",
                 "14:30:00",
                 "14:35:00",
-                "14:40:00",
-                "15:15:00"
+                "14:40:00"
             ]
         ]
     },
@@ -264,7 +262,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 24,
+        "count": 26,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -292,7 +290,21 @@
                 "09:15:00",
                 "09:20:00",
                 "09:25:00",
-                "09:30:00"
+                "09:30:00",
+                "09:35:00",
+                "09:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-18",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
+        "address": "Karczewska 48, Otwock",
+        "times": [
+            [
+                "13:40:00"
             ]
         ]
     },
