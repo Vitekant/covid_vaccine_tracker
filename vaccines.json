@@ -3,11 +3,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "E-KOSMEA PAWE\u0141 D\u0104BROWSKI",
-        "address": "Pow\u0105zkowska 44, Warszawa",
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
+        "address": "Andrzeja 23, Pruszk\u00f3w",
         "times": [
             [
-                "12:00:00"
+                "12:05:00"
             ]
         ]
     },
@@ -15,11 +15,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w",
+        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
+        "address": "kruk 5, Gorzewo",
         "times": [
             [
-                "12:05:00"
+                "12:15:00"
             ]
         ]
     },
@@ -40,11 +40,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
-        "location": "Poradnia lekarza podstawowej opieki zdrowotnej",
-        "address": "kruk 5, Gorzewo",
+        "location": "MEDIQ - PUNKT SZCZEPIE\u0143",
+        "address": "Pi\u0142sudskiego 20, Legionowo",
         "times": [
             [
-                "12:15:00"
+                "13:00:00"
             ]
         ]
     },
@@ -159,31 +159,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
-        "location": "EMC PIASECZNO",
-        "address": "Szkolna 1, Piaseczno",
-        "times": [
-            [
-                "10:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 2,
-        "location": "Centrum Medyczne ZANMED",
-        "address": "J\u00f3zefa Pi\u0142sudskiego 33, Halin\u00f3w",
-        "times": [
-            [
-                "13:00:00",
-                "14:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
         "count": 5,
         "location": "Gminny O\u015brodek Zdrowia - SAMODZIELNY ZESP\u00d3\u0141 PUBLICZNYCH ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W JAB\u0141ONNIE",
         "address": "Parkowa 21, Jab\u0142onna",
@@ -194,6 +169,18 @@
                 "13:50:00",
                 "14:00:00",
                 "14:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Centrum Medyczne ZANMED",
+        "address": "J\u00f3zefa Pi\u0142sudskiego 33, Halin\u00f3w",
+        "times": [
+            [
+                "14:15:00"
             ]
         ]
     },
@@ -212,12 +199,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 10,
+        "count": 9,
         "location": "Gminny O\u015brodek Zdrowia - SAMODZIELNY ZESP\u00d3\u0141 PUBLICZNYCH ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W JAB\u0141ONNIE",
         "address": "Parkowa 21, Jab\u0142onna",
         "times": [
             [
-                "09:00:00",
                 "09:10:00",
                 "09:20:00",
                 "09:30:00",
@@ -233,11 +219,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 2,
+        "count": 3,
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
         "address": "Poniatowskiego 26, Siedlce",
         "times": [
             [
+                "09:20:00",
                 "16:20:00",
                 "16:40:00"
             ]
@@ -247,8 +234,8 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
         "count": 1,
-        "location": "Poradnia Lekarza POZ",
-        "address": "Sadowa 9, Przasnysz",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
+        "address": "Goworowska 39A, W\u0105sewo",
         "times": [
             [
                 "12:50:00"
@@ -259,8 +246,8 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
         "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
-        "address": "Goworowska 39A, W\u0105sewo",
+        "location": "Poradnia Lekarza POZ",
+        "address": "Sadowa 9, Przasnysz",
         "times": [
             [
                 "12:50:00"
@@ -304,7 +291,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 11,
+        "count": 12,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -319,19 +306,19 @@
                 "14:35:00",
                 "14:40:00",
                 "14:45:00",
-                "14:50:00"
+                "14:50:00",
+                "14:55:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
-        "count": 33,
+        "count": 32,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "13:10:00",
                 "13:15:00",
                 "13:25:00",
                 "13:30:00",
@@ -368,6 +355,18 @@
         ]
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-18",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143",
+        "address": "Gen. Fieldorfa Nila 10, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "09:20:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-18",
         "count": 1,
@@ -388,18 +387,6 @@
         "times": [
             [
                 "12:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Poradnia lekarza POZ - Kleczewska",
-        "address": "ul. Kleczewska 56, Warszawa",
-        "times": [
-            [
-                "08:55:00"
             ]
         ]
     },
@@ -431,11 +418,36 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
-        "address": "Parkowa 14, Raci\u0105\u017c",
+        "location": "DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "11:00:00"
+                "07:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-22",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "times": [
+            [
+                "09:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-25",
+        "count": 2,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Szko\u0142y G\u0142\u00f3wnej Gospodarstwa Wiejskiego w Warszawie",
+        "address": "Nowoursynowska 161, Warszawa",
+        "times": [
+            [
+                "09:35:00",
+                "09:40:00"
             ]
         ]
     },
@@ -520,18 +532,6 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
-        "times": [
-            [
-                "06:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-28",
         "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
@@ -579,14 +579,13 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 3,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
                 "10:20:00",
-                "11:40:00",
-                "11:45:00"
+                "11:40:00"
             ]
         ]
     },
