@@ -41,7 +41,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 71,
+        "count": 70,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -115,8 +115,7 @@
                 "14:42:00",
                 "14:47:00",
                 "14:50:00",
-                "14:52:00",
-                "15:02:00"
+                "14:52:00"
             ]
         ]
     },
@@ -166,6 +165,18 @@
         "times": [
             [
                 "10:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Przychodnia Lekarska ORLIK Filia nr 2",
+        "address": "Motorowa 8, Warszawa",
+        "times": [
+            [
+                "10:45:00"
             ]
         ]
     },
@@ -232,7 +243,7 @@
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "09:10:00",
+                "08:15:00",
                 "09:15:00",
                 "09:20:00",
                 "09:25:00",
@@ -334,18 +345,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
-        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
-        "times": [
-            [
-                "14:00:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-24",
         "count": 2,
@@ -424,7 +423,7 @@
         "address": "T\u0119czowa 16, Z\u0105bki",
         "times": [
             [
-                "11:00:00"
+                "10:45:00"
             ]
         ]
     },
@@ -437,19 +436,6 @@
         "times": [
             [
                 "07:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-27",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
-        "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
-        "times": [
-            [
-                "08:40:00",
-                "08:45:00"
             ]
         ]
     },
@@ -635,18 +621,6 @@
                 "11:25:00",
                 "12:00:00",
                 "12:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-31",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
-        "times": [
-            [
-                "15:35:00"
             ]
         ]
     }
