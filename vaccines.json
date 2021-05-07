@@ -3,6 +3,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
+        "location": "Ambulatorium Stomatologiczne - Che\u0142mska",
+        "address": "Che\u0142mska 12, Warszawa",
+        "times": [
+            [
+                "13:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -90,12 +102,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 2,
+        "count": 1,
         "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W CEG\u0141OWIE - Punkt szczepie\u0144",
         "address": "Plac Anny Jagiellonki 17, Ceg\u0142\u00f3w",
         "times": [
             [
-                "09:25:00",
                 "09:40:00"
             ]
         ]
@@ -138,6 +149,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
         "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "12:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-09",
+        "count": 1,
         "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
         "address": "Poniatowskiego 26, Siedlce",
         "times": [
@@ -170,11 +193,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
-        "address": "UL. TOCHTERMANA  1, RADOM",
+        "location": "MAZOWIECKIE CENTRUM REHABILITACJI STOCER Sp\u00f3\u0142ka z o.o. Konstancin-Jeziorna",
+        "address": "Wierzejewskiego 12, Konstancin-Jeziorna",
         "times": [
             [
-                "08:45:00"
+                "08:10:00"
             ]
         ]
     },
@@ -211,24 +234,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "14:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-11",
-        "count": 37,
+        "count": 35,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "14:30:00",
                 "14:55:00",
                 "15:15:00",
                 "15:20:00",
@@ -250,7 +260,6 @@
                 "17:15:00",
                 "17:20:00",
                 "17:25:00",
-                "17:30:00",
                 "17:35:00",
                 "17:40:00",
                 "17:45:00",
@@ -269,14 +278,50 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "09:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-13",
+        "count": 1,
+        "location": "Poradnia lekarza POZ",
+        "address": "ul. Konstytucji 3 Maja 17, Radzymin",
+        "times": [
+            [
+                "10:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-15",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
+        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
+        "times": [
+            [
+                "09:30:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
         "count": 1,
-        "location": "Punkt szczepie\u0144 -  Oddzia\u0142 Ursus",
-        "address": "ul. Aleksandra Prystora 8, Warszawa",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Lodowa Arena \u2013 lodowisko miejskie Legionowo",
+        "address": "Parkowa  27, Legionowo",
         "times": [
             [
-                "14:10:00"
+                "12:45:00"
             ]
         ]
     },
@@ -289,6 +334,18 @@
         "times": [
             [
                 "11:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
+        "times": [
+            [
+                "08:30:00"
             ]
         ]
     },
@@ -336,11 +393,12 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-25",
-        "count": 2,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
+                "11:45:00",
                 "13:40:00",
                 "14:20:00"
             ]
@@ -362,11 +420,11 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
-        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szkolno-Przedszkolny nr 4 w Nowym Dworze Mazowieckim",
+        "address": "Gen. J. Bema 312, Nowy Dw\u00f3r Mazowiecki",
         "times": [
             [
-                "15:15:00"
+                "09:10:00"
             ]
         ]
     },
