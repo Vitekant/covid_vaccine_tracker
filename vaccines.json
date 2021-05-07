@@ -14,12 +14,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
-        "count": 59,
+        "count": 58,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
-                "07:52:00",
                 "08:17:00",
                 "08:27:00",
                 "08:42:00",
@@ -225,34 +224,46 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-16",
-        "count": 7,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
-        "address": "Strumykowa  21, Warszawa",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
+        "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "14:50:00",
-                "15:00:00",
-                "15:05:00",
-                "15:10:00",
-                "15:15:00",
-                "15:20:00",
-                "15:25:00"
+                "13:30:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-16",
-        "count": 4,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
+                "14:30:00",
                 "15:00:00",
                 "15:15:00",
                 "15:30:00",
                 "15:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-16",
+        "count": 6,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
+        "address": "Strumykowa  21, Warszawa",
+        "times": [
+            [
+                "15:00:00",
+                "15:05:00",
+                "15:10:00",
+                "15:15:00",
+                "15:20:00",
+                "15:25:00"
             ]
         ]
     },
@@ -264,11 +275,37 @@
         "address": "Ossowskiego 25, Warszawa",
         "times": [
             [
-                "15:05:00",
+                "15:00:00",
                 "15:10:00",
                 "15:15:00",
                 "15:20:00",
                 "15:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-17",
+        "count": 3,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
+        "address": "Strumykowa  21, Warszawa",
+        "times": [
+            [
+                "06:45:00",
+                "06:50:00",
+                "06:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI",
+        "times": [
+            [
+                "14:45:00"
             ]
         ]
     },
@@ -492,7 +529,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 14,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
@@ -509,8 +546,7 @@
                 "09:45:00",
                 "10:00:00",
                 "10:05:00",
-                "10:35:00",
-                "11:30:00"
+                "10:35:00"
             ]
         ]
     },
