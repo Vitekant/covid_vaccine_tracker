@@ -1,17 +1,5 @@
 [
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-07",
-        "count": 1,
-        "location": "Poradnia lekarza POZ dla doros\u0142ych i dzieci",
-        "address": "\u017beromskiego 41A, sochaczew",
-        "times": [
-            [
-                "15:30:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
@@ -161,14 +149,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 3,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
+        "count": 1,
+        "location": "Gabinet Pediatryczny \"Eskulapek\", El\u017cbieta Malinowska",
+        "address": "Sarmacka 1 b lok. 21, Warszawa",
         "times": [
             [
-                "10:15:00",
-                "12:00:00",
-                "12:45:00"
+                "09:55:00"
             ]
         ]
     },
@@ -181,6 +167,20 @@
         "times": [
             [
                 "10:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 3,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "10:15:00",
+                "12:00:00",
+                "12:45:00"
             ]
         ]
     },
@@ -212,7 +212,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 5,
+        "count": 4,
         "location": "Punkt szczepie\u0144",
         "address": "RYNEK 10, STARE BABICE",
         "times": [
@@ -220,15 +220,14 @@
                 "12:30:00",
                 "12:35:00",
                 "12:40:00",
-                "12:45:00",
-                "12:50:00"
+                "12:45:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 51,
+        "count": 52,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -283,7 +282,8 @@
                 "11:35:00",
                 "11:40:00",
                 "11:45:00",
-                "11:50:00"
+                "11:50:00",
+                "11:55:00"
             ]
         ]
     },
@@ -357,18 +357,6 @@
         "times": [
             [
                 "09:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-22",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk",
-        "times": [
-            [
-                "11:45:00"
             ]
         ]
     },
@@ -473,6 +461,18 @@
         ]
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
+        "address": "Jana Chilickiego  2, Zakroczym",
+        "times": [
+            [
+                "13:00:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-26",
         "count": 1,
@@ -487,11 +487,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
-        "count": 19,
+        "count": 20,
         "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
         "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
         "times": [
             [
+                "07:10:00",
                 "07:20:00",
                 "07:25:00",
                 "07:30:00",
@@ -523,18 +524,6 @@
         "times": [
             [
                 "07:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Marecki Punkt Szczepie\u0144 w Centrum Handlowym M1",
-        "address": "Pi\u0142sudskiego 1, Marki",
-        "times": [
-            [
-                "11:05:00"
             ]
         ]
     },
