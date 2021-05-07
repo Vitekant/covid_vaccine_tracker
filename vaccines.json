@@ -2,12 +2,13 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "08:00:00"
+                "08:00:00",
+                "11:15:00"
             ]
         ]
     },
@@ -66,12 +67,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 69,
+        "count": 68,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
-                "10:43:00",
                 "10:45:00",
                 "10:48:00",
                 "10:53:00",
@@ -146,22 +146,21 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 4,
+        "count": 3,
         "location": "Punkt szczepie\u0144",
         "address": "RYNEK 10, STARE BABICE",
         "times": [
             [
                 "12:05:00",
                 "12:35:00",
-                "12:45:00",
-                "12:50:00"
+                "12:45:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 17,
+        "count": 18,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -182,31 +181,19 @@
                 "07:03:00",
                 "07:08:00",
                 "07:13:00",
-                "07:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-10",
-        "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "rtm. Witolda Pileckiego 14, OSTRO\u0141\u0118KA",
-        "times": [
-            [
-                "10:30:00"
+                "07:15:00",
+                "07:18:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 51,
+        "count": 50,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "07:25:00",
                 "08:40:00",
                 "08:50:00",
                 "10:25:00",
@@ -326,6 +313,30 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-14",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "07:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-15",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Omega\"",
+        "address": "ul. W\u0119growska 5a, Soko\u0142\u00f3w Podlaski",
+        "times": [
+            [
+                "12:10:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-17",
         "count": 1,
@@ -362,18 +373,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szkolno-Przedszkolny nr 4 w Nowym Dworze Mazowieckim",
-        "address": "Gen. J. Bema 312, Nowy Dw\u00f3r Mazowiecki",
-        "times": [
-            [
-                "09:30:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-19",
         "count": 1,
@@ -398,6 +397,18 @@
         ]
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-22",
+        "count": 1,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "09:05:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-22",
         "count": 2,
@@ -407,18 +418,6 @@
             [
                 "07:10:00",
                 "09:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-22",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
-        "times": [
-            [
-                "10:45:00"
             ]
         ]
     },
@@ -496,6 +495,18 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "12:30:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
         "count": 1,
@@ -546,38 +557,11 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szkolno-Przedszkolny nr 4 w Nowym Dworze Mazowieckim",
-        "address": "Gen. J. Bema 312, Nowy Dw\u00f3r Mazowiecki",
-        "times": [
-            [
-                "06:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-28",
-        "count": 1,
         "location": "Punkt szczepie\u0144",
         "address": "Kunin 20, Kunin",
         "times": [
             [
                 "08:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-28",
-        "count": 4,
-        "location": "DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
-        "address": "T\u0119czowa 16, Z\u0105bki",
-        "times": [
-            [
-                "09:30:00",
-                "13:45:00",
-                "14:45:00",
-                "15:30:00"
             ]
         ]
     },
@@ -590,6 +574,20 @@
         "times": [
             [
                 "10:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-28",
+        "count": 3,
+        "location": "DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
+        "times": [
+            [
+                "13:45:00",
+                "14:45:00",
+                "15:30:00"
             ]
         ]
     },
@@ -670,11 +668,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-30",
-        "count": 2,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Stadion Legii",
         "address": "\u0141azienkowska 3, Warszawa",
         "times": [
             [
+                "08:30:00",
                 "10:15:00",
                 "13:00:00"
             ]
@@ -704,6 +703,18 @@
                 "11:50:00",
                 "12:00:00",
                 "12:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-31",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
+        "times": [
+            [
+                "15:02:00"
             ]
         ]
     }
