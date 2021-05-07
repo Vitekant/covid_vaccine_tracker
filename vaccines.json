@@ -26,18 +26,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
-        "location": "Poradnia lekarza POZ",
-        "address": "Modzelewskiego 58, Warszawa",
-        "times": [
-            [
-                "07:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
         "count": 4,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
         "address": "Szkolna 21, Rzeku\u0144",
@@ -78,7 +66,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 66,
+        "count": 68,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -148,7 +136,9 @@
                 "13:55:00",
                 "13:57:00",
                 "14:07:00",
-                "14:15:00"
+                "14:15:00",
+                "14:17:00",
+                "14:22:00"
             ]
         ]
     },
@@ -185,18 +175,6 @@
         "times": [
             [
                 "10:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Gabinet Pediatryczny \"Eskulapek\", El\u017cbieta Malinowska",
-        "address": "Sarmacka 1 b lok. 21, Warszawa",
-        "times": [
-            [
-                "10:30:00"
             ]
         ]
     },
@@ -252,11 +230,11 @@
         "vaccine": "Pfizer",
         "day": "2021-05-11",
         "count": 1,
-        "location": "DETOKS FENIX SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Umiastowska 50A, Kaputy",
+        "location": "PUNKT SZCZEPIE\u0143",
+        "address": "rtm. Witolda Pileckiego 14, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "14:40:00"
+                "11:00:00"
             ]
         ]
     },
@@ -324,6 +302,18 @@
     },
     {
         "vaccine": "Johnson & Johnson",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
+        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
+        "times": [
+            [
+                "11:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
@@ -331,18 +321,6 @@
         "times": [
             [
                 "10:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-22",
-        "count": 1,
-        "location": "PORADNIA LEKARZA POZ",
-        "address": "Rynek 21, Stare Babice",
-        "times": [
-            [
-                "12:20:00"
             ]
         ]
     },
@@ -453,6 +431,18 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "10:00:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
         "count": 1,
@@ -467,13 +457,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
-        "count": 8,
+        "count": 7,
         "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
         "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
         "times": [
             [
                 "08:10:00",
-                "08:15:00",
                 "08:20:00",
                 "08:25:00",
                 "08:35:00",
