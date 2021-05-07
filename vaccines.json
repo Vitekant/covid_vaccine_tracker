@@ -88,6 +88,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
+        "location": "Przychodnia nr 1 (filia)",
+        "address": "PADEREWSKIEGO 6, RADOM",
+        "times": [
+            [
+                "15:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
         "location": "Gminny O\u015brodek Zdrowia w Go\u017adzie",
         "address": "Lekarska 4, G\u00f3zd",
         "times": [
@@ -159,11 +171,24 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 5,
+        "count": 1,
+        "location": "Gabinet lekarza POZ",
+        "address": "\u017bydowska 17/2, Grodzisk Mazowiecki",
+        "times": [
+            [
+                "10:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 6,
         "location": "Gminny O\u015brodek Zdrowia - SAMODZIELNY ZESP\u00d3\u0141 PUBLICZNYCH ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W JAB\u0141ONNIE",
         "address": "Parkowa 21, Jab\u0142onna",
         "times": [
             [
+                "12:10:00",
                 "13:30:00",
                 "13:40:00",
                 "13:50:00",
@@ -234,6 +259,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
         "count": 1,
+        "location": " Poradnia Medical Center - Poradnia lekarza podstawowej opieki zdrowotnej",
+        "address": "Belgradzka 42, Warszawa",
+        "times": [
+            [
+                "11:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-10",
+        "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska \"VISH-MED\" Halina Wi\u015bniewska",
         "address": "Goworowska 39A, W\u0105sewo",
         "times": [
@@ -257,7 +294,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 23,
+        "count": 22,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -283,15 +320,14 @@
                 "14:30:00",
                 "14:35:00",
                 "14:40:00",
-                "14:45:00",
-                "14:50:00"
+                "14:45:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 12,
+        "count": 11,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
@@ -306,21 +342,18 @@
                 "14:35:00",
                 "14:40:00",
                 "14:45:00",
-                "14:50:00",
-                "14:55:00"
+                "14:50:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
-        "count": 32,
+        "count": 31,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "13:15:00",
-                "13:25:00",
                 "13:30:00",
                 "13:35:00",
                 "13:40:00",
@@ -350,30 +383,33 @@
                 "15:40:00",
                 "15:45:00",
                 "15:50:00",
-                "15:55:00"
+                "15:55:00",
+                "16:00:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-18",
-        "count": 1,
+        "count": 2,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "Gen. Fieldorfa Nila 10, Ostro\u0142\u0119ka",
         "times": [
             [
-                "09:20:00"
+                "09:10:00",
+                "09:30:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-18",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
         "times": [
             [
+                "10:45:00",
                 "11:00:00"
             ]
         ]
@@ -387,18 +423,6 @@
         "times": [
             [
                 "12:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
-        "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
-        "times": [
-            [
-                "09:55:00"
             ]
         ]
     },
@@ -439,19 +463,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-25",
-        "count": 2,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Szko\u0142y G\u0142\u00f3wnej Gospodarstwa Wiejskiego w Warszawie",
-        "address": "Nowoursynowska 161, Warszawa",
-        "times": [
-            [
-                "09:35:00",
-                "09:40:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-25",
         "count": 3,
@@ -468,25 +479,24 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-26",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "12:00:00",
                 "12:15:00"
             ]
         ]
     },
     {
         "vaccine": "Johnson & Johnson",
-        "day": "2021-05-27",
+        "day": "2021-05-26",
         "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"AKACJA\" - Poradnia piel\u0119gniarki podstawowej opieki zdrowotnej",
-        "address": "Pu\u0142tuska  27, Wyszk\u00f3w",
+        "location": "Poradnia stomatologiczna - Al. Solidarno\u015bci ",
+        "address": "al. Aleja \"Solidarno\u015bci\" 12, Warszawa",
         "times": [
             [
-                "10:30:00"
+                "17:15:00"
             ]
         ]
     },
@@ -532,12 +542,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 6,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "10:45:00",
                 "11:00:00",
                 "11:15:00",
                 "11:30:00",
@@ -561,7 +570,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 7,
+        "count": 8,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
@@ -572,7 +581,8 @@
                 "12:50:00",
                 "12:55:00",
                 "13:10:00",
-                "13:20:00"
+                "13:20:00",
+                "13:50:00"
             ]
         ]
     },
