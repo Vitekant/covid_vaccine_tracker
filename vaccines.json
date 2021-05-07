@@ -25,33 +25,44 @@
         ]
     },
     {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "17:00:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-08",
-        "count": 8,
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych w Zespole Szk\u00f3\u0142 Powiatowych w Przasnyszu",
+        "address": "SADOWA 5, PRZASNYSZ",
+        "times": [
+            [
+                "08:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-08",
+        "count": 7,
         "location": "Bellesa-Med Zdowie Sp. z o. o. ul. Za\u0142uskiego 35",
         "address": "ks. Marcina Za\u0142uskiego 35, Koby\u0142ka",
         "times": [
             [
-                "18:20:00",
-                "18:25:00",
+                "17:50:00",
                 "18:30:00",
                 "18:35:00",
                 "18:40:00",
                 "18:45:00",
                 "18:50:00",
                 "18:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Przychodnia lekarska",
-        "address": "Madali\u0144skiego 13, Warszawa",
-        "times": [
-            [
-                "06:10:00"
             ]
         ]
     },
@@ -123,18 +134,6 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
-        "location": "Poradnia lekarza POZ",
-        "address": "Wojska Polskiego 78, Zwole\u0144",
-        "times": [
-            [
-                "10:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
         "location": "OPTIMA KOSZARSKA i RUDNICKA - LEKARSKA SP\u00d3\u0141KA PARTNERSKA",
         "address": "SK\u0141ODOWSKIEJ-CURIE 14 LOK.72, SOKO\u0141\u00d3W PODLASKI",
         "times": [
@@ -173,6 +172,18 @@
             [
                 "15:55:00",
                 "16:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
+        "address": "Jana Chilickiego  2, Zakroczym",
+        "times": [
+            [
+                "11:00:00"
             ]
         ]
     },
@@ -241,7 +252,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-10",
-        "count": 20,
+        "count": 21,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -265,7 +276,8 @@
                 "14:30:00",
                 "14:35:00",
                 "14:40:00",
-                "14:45:00"
+                "14:45:00",
+                "14:50:00"
             ]
         ]
     },
@@ -284,24 +296,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
-        "count": 1,
-        "location": "Gabinet zabiegowo-diagnostyczny",
-        "address": "Mirkowska 56, Konstancin-Jeziorna",
-        "times": [
-            [
-                "09:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-11",
         "count": 30,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "13:05:00",
                 "13:50:00",
                 "14:00:00",
                 "14:10:00",
@@ -310,6 +309,7 @@
                 "15:15:00",
                 "15:20:00",
                 "15:35:00",
+                "15:40:00",
                 "16:15:00",
                 "16:20:00",
                 "16:35:00",
@@ -336,25 +336,20 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-11",
-        "count": 1,
-        "location": "Centrum Medyczne Warszawskiego Uniwersytetu Medycznego",
-        "address": "Jana Nielubowicza 5, Warszawa",
-        "times": [
-            [
-                "16:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 1,
+        "count": 8,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "07:00:00"
+                "07:00:00",
+                "07:05:00",
+                "07:10:00",
+                "07:15:00",
+                "07:20:00",
+                "07:25:00",
+                "07:30:00",
+                "07:35:00"
             ]
         ]
     },
@@ -366,8 +361,8 @@
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
-                "13:05:00",
-                "14:00:00"
+                "14:00:00",
+                "14:30:00"
             ]
         ]
     },
@@ -393,18 +388,6 @@
             [
                 "12:00:00",
                 "13:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZZOZ W PRUSZKOWIE",
-        "address": "Andrzeja 23, Pruszk\u00f3w",
-        "times": [
-            [
-                "11:20:00"
             ]
         ]
     },
@@ -479,18 +462,6 @@
         "times": [
             [
                 "10:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-24",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
-        "times": [
-            [
-                "11:43:00"
             ]
         ]
     },
@@ -598,18 +569,6 @@
         "times": [
             [
                 "07:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-28",
-        "count": 1,
-        "location": "SZPITAL MATKI BO\u017bEJ NIEUSTAJ\u0104CEJ POMOCY W WO\u0141OMINIE",
-        "address": "GDY\u0143SKA 1/3, WO\u0141OMIN",
-        "times": [
-            [
-                "11:15:00"
             ]
         ]
     },
