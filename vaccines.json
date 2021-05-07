@@ -41,7 +41,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 69,
+        "count": 70,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -114,19 +114,8 @@
                 "14:32:00",
                 "14:35:00",
                 "14:37:00",
-                "14:42:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Centrum Leczniczo-Us\u0142ugowe imienia \u015awi\u0119tej Anny Sp\u00f3\u0142ka z ograniczon\u0105 odpowiedzialno\u015bci\u0105",
-        "address": "Jana Kochanowskiego 22A, P\u0142ock",
-        "times": [
-            [
-                "09:30:00"
+                "14:42:00",
+                "14:47:00"
             ]
         ]
     },
@@ -214,12 +203,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-10",
-        "count": 2,
+        "count": 1,
         "location": "Punkt szczepie\u0144",
         "address": "S\u0142oneczna 1, \u0141osice",
         "times": [
             [
-                "07:10:00",
                 "07:20:00"
             ]
         ]
@@ -283,18 +271,6 @@
                 "13:00:00",
                 "13:05:00",
                 "13:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "Gen. Fieldorfa Nila 10, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "10:35:00"
             ]
         ]
     },
@@ -436,12 +412,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 4,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "10:15:00",
                 "13:15:00",
                 "13:30:00",
                 "13:45:00"
