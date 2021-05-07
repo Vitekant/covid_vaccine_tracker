@@ -2,6 +2,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
+        "count": 1,
+        "location": "Centrum Medyczne - Warszawa  Chmielna",
+        "address": "Chmielna 71, Warszawa",
+        "times": [
+            [
+                "07:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
         "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
         "address": "D\u0141UGA 75, BRAMKI",
@@ -150,7 +162,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 28,
+        "count": 26,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -180,9 +192,19 @@
                 "07:35:00",
                 "07:38:00",
                 "07:43:00",
-                "07:48:00",
-                "07:53:00",
-                "07:55:00"
+                "07:48:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-09",
+        "count": 1,
+        "location": "Przychodnia lekarska",
+        "address": "Madali\u0144skiego 13, Warszawa",
+        "times": [
+            [
+                "07:10:00"
             ]
         ]
     },
@@ -234,11 +256,11 @@
         "vaccine": "Pfizer",
         "day": "2021-05-13",
         "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "rtm. Witolda Pileckiego 14, OSTRO\u0141\u0118KA",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Szko\u0142y G\u0142\u00f3wnej Gospodarstwa Wiejskiego w Warszawie",
+        "address": "Nowoursynowska 161, Warszawa",
         "times": [
             [
-                "11:15:00"
+                "08:20:00"
             ]
         ]
     },
@@ -257,7 +279,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 21,
+        "count": 23,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -282,7 +304,9 @@
                 "08:35:00",
                 "08:45:00",
                 "08:50:00",
-                "08:55:00"
+                "08:55:00",
+                "09:00:00",
+                "09:05:00"
             ]
         ]
     },
@@ -300,8 +324,32 @@
     },
     {
         "vaccine": "Johnson & Johnson",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
+        "address": "Jana Chilickiego  2, Zakroczym",
+        "times": [
+            [
+                "08:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
+        "times": [
+            [
+                "12:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 34,
+        "count": 33,
         "location": "Punkt Szczepie\u0144",
         "address": "Wa\u0142owa 1, Siedlce",
         "times": [
@@ -338,8 +386,7 @@
                 "09:25:00",
                 "09:30:00",
                 "09:35:00",
-                "09:40:00",
-                "09:45:00"
+                "09:40:00"
             ]
         ]
     },
@@ -358,18 +405,6 @@
                 "12:20:00",
                 "12:25:00",
                 "12:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
-        "times": [
-            [
-                "12:35:00"
             ]
         ]
     },
@@ -413,6 +448,18 @@
                 "11:50:00",
                 "13:40:00",
                 "13:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-29",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "times": [
+            [
+                "10:05:00"
             ]
         ]
     },
