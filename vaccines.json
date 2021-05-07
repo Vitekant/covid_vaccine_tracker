@@ -66,7 +66,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 70,
+        "count": 69,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -139,8 +139,7 @@
                 "14:15:00",
                 "14:17:00",
                 "14:22:00",
-                "14:25:00",
-                "14:27:00"
+                "14:25:00"
             ]
         ]
     },
@@ -230,11 +229,11 @@
         "vaccine": "Pfizer",
         "day": "2021-05-11",
         "count": 1,
-        "location": "PUNKT SZCZEPIE\u0143",
-        "address": "rtm. Witolda Pileckiego 14, OSTRO\u0141\u0118KA",
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
             [
-                "11:00:00"
+                "12:00:00"
             ]
         ]
     },
@@ -246,7 +245,6 @@
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "08:25:00",
                 "08:30:00",
                 "08:35:00",
                 "08:40:00",
@@ -294,7 +292,8 @@
                 "12:40:00",
                 "12:45:00",
                 "12:50:00",
-                "12:55:00"
+                "12:55:00",
+                "13:00:00"
             ]
         ]
     },
@@ -311,30 +310,6 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
-        "address": "D\u0141UGA 75, BRAMKI",
-        "times": [
-            [
-                "15:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "15:30:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
         "count": 1,
@@ -343,6 +318,18 @@
         "times": [
             [
                 "10:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-22",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych -  SPZOZ Przychodnia Miejska w J\u00f3zefowie",
+        "address": "Sk\u0142odowskiej 5/7, J\u00f3zef\u00f3w",
+        "times": [
+            [
+                "08:45:00"
             ]
         ]
     },
@@ -480,18 +467,6 @@
             [
                 "14:00:00",
                 "14:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "\"MEDYK\" Sp. z o.o - NPZOZ",
-        "address": "ul. Sportowa 17, \u0141askarzew",
-        "times": [
-            [
-                "15:55:00"
             ]
         ]
     },
