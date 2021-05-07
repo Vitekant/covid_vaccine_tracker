@@ -29,6 +29,19 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
+        "count": 2,
+        "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W CEG\u0141OWIE - Punkt szczepie\u0144",
+        "address": "Plac Anny Jagiellonki 17, Ceg\u0142\u00f3w",
+        "times": [
+            [
+                "08:30:00",
+                "09:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
         "count": 1,
         "location": "GMINNE CENTRUM MEDYCZNO-REHABILITACYJNE W BROCHOWIE",
         "address": "Broch\u00f3w 124, Broch\u00f3w",
@@ -56,11 +69,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
-        "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W CEG\u0141OWIE - Punkt szczepie\u0144",
-        "address": "Plac Anny Jagiellonki 17, Ceg\u0142\u00f3w",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
         "times": [
             [
-                "09:40:00"
+                "09:45:00"
             ]
         ]
     },
@@ -79,12 +92,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 54,
+        "count": 53,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
-                "11:23:00",
                 "11:25:00",
                 "11:38:00",
                 "11:43:00",
@@ -157,7 +169,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 32,
+        "count": 31,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -192,20 +204,18 @@
                 "07:55:00",
                 "07:58:00",
                 "08:03:00",
-                "08:05:00",
-                "08:08:00"
+                "08:05:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 30,
+        "count": 29,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "11:45:00",
                 "11:50:00",
                 "11:55:00",
                 "12:10:00",
@@ -253,7 +263,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 24,
+        "count": 25,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -281,7 +291,8 @@
                 "09:05:00",
                 "09:10:00",
                 "09:15:00",
-                "09:20:00"
+                "09:20:00",
+                "09:25:00"
             ]
         ]
     },
@@ -294,6 +305,30 @@
         "times": [
             [
                 "07:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szkolno-Przedszkolny nr 4 w Nowym Dworze Mazowieckim",
+        "address": "Gen. J. Bema 312, Nowy Dw\u00f3r Mazowiecki",
+        "times": [
+            [
+                "12:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI",
+        "times": [
+            [
+                "18:00:00"
             ]
         ]
     },
@@ -341,6 +376,18 @@
                 "09:45:00",
                 "09:50:00",
                 "09:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-22",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew",
+        "times": [
+            [
+                "08:50:00"
             ]
         ]
     },
