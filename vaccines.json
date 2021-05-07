@@ -125,13 +125,12 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
-        "address": "D\u0141UGA 75, BRAMKI",
+        "count": 1,
+        "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W SEROCKU",
+        "address": "A.A. K\u0119dzierskich 2, Serock",
         "times": [
             [
-                "11:15:00",
-                "11:45:00"
+                "11:30:00"
             ]
         ]
     },
@@ -139,11 +138,11 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
-        "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W SEROCKU",
-        "address": "A.A. K\u0119dzierskich 2, Serock",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "11:30:00"
+                "11:45:00"
             ]
         ]
     },
@@ -175,7 +174,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 25,
+        "count": 26,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -204,7 +203,8 @@
                 "07:33:00",
                 "07:35:00",
                 "07:38:00",
-                "07:43:00"
+                "07:43:00",
+                "07:48:00"
             ]
         ]
     },
@@ -217,6 +217,18 @@
         "times": [
             [
                 "11:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "12:45:00"
             ]
         ]
     },
@@ -300,7 +312,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 11,
+        "count": 10,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -314,8 +326,7 @@
                 "07:40:00",
                 "07:45:00",
                 "07:50:00",
-                "07:55:00",
-                "08:00:00"
+                "07:55:00"
             ]
         ]
     },
@@ -358,11 +369,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-25",
-        "count": 4,
+        "count": 5,
         "location": "GABINET DIAGNOSTYCZNO - ZABIEGOWY ",
         "address": "SANITARIUSZEK 1, WI\u015aNIEW",
         "times": [
             [
+                "12:50:00",
                 "14:15:00",
                 "14:20:00",
                 "15:10:00",
@@ -397,18 +409,6 @@
                 "12:20:00",
                 "12:25:00",
                 "12:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
-        "times": [
-            [
-                "12:35:00"
             ]
         ]
     },
@@ -512,7 +512,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 11,
+        "count": 10,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
@@ -520,7 +520,6 @@
                 "06:05:00",
                 "06:35:00",
                 "07:15:00",
-                "09:00:00",
                 "09:10:00",
                 "10:40:00",
                 "11:25:00",
