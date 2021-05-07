@@ -33,19 +33,7 @@
         "address": "G\u0142\u00f3wna 104, Granica",
         "times": [
             [
-                "11:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
-        "times": [
-            [
-                "10:00:00"
+                "11:05:00"
             ]
         ]
     },
@@ -130,6 +118,7 @@
                 "11:48:00",
                 "11:53:00",
                 "11:55:00",
+                "12:00:00",
                 "12:15:00",
                 "13:45:00",
                 "13:47:00",
@@ -174,8 +163,20 @@
                 "17:35:00",
                 "17:40:00",
                 "17:45:00",
-                "17:50:00",
-                "17:55:00"
+                "17:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 2,
+        "location": "Warszawa-Weso\u0142a - Przychodnia \"Pogodna\"",
+        "address": "Jana Paw\u0142a II  25, Warszawa Weso\u0142a",
+        "times": [
+            [
+                "10:00:00",
+                "12:00:00"
             ]
         ]
     },
@@ -201,19 +202,6 @@
             [
                 "11:30:00",
                 "12:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 2,
-        "location": "Warszawa-Weso\u0142a - Przychodnia \"Pogodna\"",
-        "address": "Jana Paw\u0142a II  25, Warszawa Weso\u0142a",
-        "times": [
-            [
-                "12:00:00",
-                "13:50:00"
             ]
         ]
     },
@@ -258,9 +246,33 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "07:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "times": [
+            [
+                "08:45:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-10",
-        "count": 4,
+        "count": 7,
         "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
         "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
@@ -268,19 +280,23 @@
                 "13:30:00",
                 "13:45:00",
                 "14:00:00",
-                "14:15:00"
+                "14:15:00",
+                "14:30:00",
+                "14:45:00",
+                "15:00:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-12",
-        "count": 1,
+        "count": 2,
         "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
         "address": "ul. Lubelska 50, Garwolin",
         "times": [
             [
-                "12:45:00"
+                "12:45:00",
+                "15:35:00"
             ]
         ]
     },
@@ -373,18 +389,6 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
         "count": 1,
-        "location": "DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
-        "address": "T\u0119czowa 16, Z\u0105bki",
-        "times": [
-            [
-                "07:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-20",
-        "count": 1,
         "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
         "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
         "times": [
@@ -457,18 +461,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-21",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
-        "address": "Parkowa 14, Raci\u0105\u017c",
-        "times": [
-            [
-                "08:25:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-21",
         "count": 1,
@@ -484,11 +476,11 @@
         "vaccine": "Pfizer",
         "day": "2021-05-21",
         "count": 1,
-        "location": "LF Medical Clinic",
-        "address": "Makol\u0105gwy 20B, Warszawa",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Stadion Legii",
+        "address": "\u0141azienkowska 3, Warszawa",
         "times": [
             [
-                "18:10:00"
+                "13:15:00"
             ]
         ]
     },
@@ -513,30 +505,6 @@
         "times": [
             [
                 "11:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-23",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Stadion Legii",
-        "address": "\u0141azienkowska 3, Warszawa",
-        "times": [
-            [
-                "06:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-23",
-        "count": 1,
-        "location": "Przychodnia Rejonowo-Specjalistyczna, ul. Sosnkowskiego ",
-        "address": "Sosnkowskiego 18, Warszawa",
-        "times": [
-            [
-                "12:50:00"
             ]
         ]
     },
@@ -591,24 +559,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-25",
-        "count": 1,
-        "location": "Gabinet Diagnostyczno Zabiegowy II  SPZZOZ Sierpc",
-        "address": "Juliusza S\u0142owackiego 16, Sierpc",
-        "times": [
-            [
-                "08:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-25",
-        "count": 7,
+        "count": 6,
         "location": "GABINET DIAGNOSTYCZNO - ZABIEGOWY ",
         "address": "SANITARIUSZEK 1, WI\u015aNIEW",
         "times": [
             [
-                "12:50:00",
                 "14:15:00",
                 "14:20:00",
                 "15:10:00",
@@ -661,14 +616,27 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "12:30:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-26",
-        "count": 2,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Stadion Legii",
         "address": "\u0141azienkowska 3, Warszawa",
         "times": [
             [
                 "08:00:00",
+                "09:00:00",
                 "09:15:00"
             ]
         ]
