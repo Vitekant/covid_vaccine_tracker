@@ -1,5 +1,17 @@
 [
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Poradnia lekarza POZ dla doros\u0142ych i dzieci",
+        "address": "\u017beromskiego 41A, sochaczew",
+        "times": [
+            [
+                "15:30:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-07",
         "count": 1,
@@ -8,18 +20,6 @@
         "times": [
             [
                 "15:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
-        "address": "Napoleona 20, Koby\u0142ka",
-        "times": [
-            [
-                "17:10:00"
             ]
         ]
     },
@@ -38,7 +38,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 72,
+        "count": 71,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -58,7 +58,6 @@
                 "08:33:00",
                 "08:38:00",
                 "08:43:00",
-                "08:45:00",
                 "08:48:00",
                 "08:53:00",
                 "08:55:00",
@@ -162,18 +161,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
-        "location": "Poradnia lekarza POZ",
-        "address": "Wojska Polskiego 78, Zwole\u0144",
-        "times": [
-            [
-                "10:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
         "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
         "address": "Bluszczowa 4/8, Radom",
@@ -182,6 +169,18 @@
                 "10:15:00",
                 "12:00:00",
                 "12:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Poradnia lekarza POZ",
+        "address": "Wojska Polskiego 78, Zwole\u0144",
+        "times": [
+            [
+                "10:15:00"
             ]
         ]
     },
@@ -213,7 +212,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 4,
+        "count": 5,
         "location": "Punkt szczepie\u0144",
         "address": "RYNEK 10, STARE BABICE",
         "times": [
@@ -221,31 +220,19 @@
                 "12:30:00",
                 "12:35:00",
                 "12:40:00",
-                "12:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-10",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk",
-        "times": [
-            [
-                "13:00:00"
+                "12:45:00",
+                "12:50:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 52,
+        "count": 51,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "07:05:00",
                 "07:20:00",
                 "07:25:00",
                 "07:30:00",
@@ -321,18 +308,6 @@
         "times": [
             [
                 "08:05:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "15:30:00"
             ]
         ]
     },
@@ -512,12 +487,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
-        "count": 20,
+        "count": 19,
         "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
         "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
         "times": [
             [
-                "07:15:00",
                 "07:20:00",
                 "07:25:00",
                 "07:30:00",
@@ -549,6 +523,18 @@
         "times": [
             [
                 "07:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-27",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Marecki Punkt Szczepie\u0144 w Centrum Handlowym M1",
+        "address": "Pi\u0142sudskiego 1, Marki",
+        "times": [
+            [
+                "11:05:00"
             ]
         ]
     },
