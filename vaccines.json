@@ -34,7 +34,6 @@
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
-                "08:23:00",
                 "08:43:00",
                 "09:28:00",
                 "09:30:00",
@@ -111,7 +110,8 @@
                 "15:47:00",
                 "15:52:00",
                 "15:57:00",
-                "16:02:00"
+                "16:02:00",
+                "16:07:00"
             ]
         ]
     },
@@ -201,7 +201,8 @@
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "09:55:00",
+                "09:25:00",
+                "10:15:00",
                 "10:25:00",
                 "10:30:00",
                 "10:35:00",
@@ -249,8 +250,7 @@
                 "14:35:00",
                 "14:40:00",
                 "14:45:00",
-                "14:50:00",
-                "14:55:00"
+                "14:50:00"
             ]
         ]
     },
@@ -292,8 +292,20 @@
     },
     {
         "vaccine": "Johnson & Johnson",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
+        "times": [
+            [
+                "11:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
         "day": "2021-05-25",
-        "count": 14,
+        "count": 13,
         "location": "GABINET DIAGNOSTYCZNO - ZABIEGOWY ",
         "address": "SANITARIUSZEK 1, WI\u015aNIEW",
         "times": [
@@ -305,7 +317,6 @@
                 "14:10:00",
                 "14:15:00",
                 "14:20:00",
-                "14:25:00",
                 "15:00:00",
                 "15:10:00",
                 "15:20:00",
@@ -408,6 +419,18 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
         "count": 1,
+        "location": "Centrum Medyczne Pu\u0142awska Sp. z o.o. Niepubliczny Zak\u0142ad Opieki Zdrowotnej Oddzia\u0142 w \u0141omiankach",
+        "address": "Warszawska 55, \u0141omianki",
+        "times": [
+            [
+                "06:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-28",
+        "count": 1,
         "location": "Punkt szczepie\u0144",
         "address": "Kunin 20, Kunin",
         "times": [
@@ -461,7 +484,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 10,
+        "count": 9,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
@@ -471,7 +494,6 @@
                 "07:50:00",
                 "08:35:00",
                 "09:10:00",
-                "11:25:00",
                 "12:05:00",
                 "12:50:00",
                 "13:25:00",
