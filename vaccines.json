@@ -79,7 +79,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 51,
+        "count": 50,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -91,7 +91,6 @@
                 "11:48:00",
                 "11:53:00",
                 "11:55:00",
-                "12:15:00",
                 "13:47:00",
                 "13:52:00",
                 "13:55:00",
@@ -154,7 +153,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-09",
-        "count": 35,
+        "count": 36,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -193,31 +192,19 @@
                 "08:08:00",
                 "08:13:00",
                 "08:15:00",
-                "08:18:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-10",
-        "count": 1,
-        "location": "Punkt szczepie\u0144",
-        "address": "S\u0142oneczna 1, \u0141osice",
-        "times": [
-            [
-                "07:00:00"
+                "08:18:00",
+                "08:23:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 23,
+        "count": 21,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "12:10:00",
                 "12:15:00",
                 "12:20:00",
                 "12:25:00",
@@ -238,8 +225,7 @@
                 "13:40:00",
                 "13:45:00",
                 "13:50:00",
-                "13:55:00",
-                "15:15:00"
+                "13:55:00"
             ]
         ]
     },
@@ -270,7 +256,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 28,
+        "count": 29,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -302,31 +288,8 @@
                 "09:35:00",
                 "09:40:00",
                 "09:45:00",
-                "09:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-15",
-        "count": 1,
-        "location": "Samodzielny Publiczny Zesp\u00f3\u0142 Opieki Zdrowotnej w Mi\u0144sku Mazowieckim - Szpital Powiatowy - ul. Szpitalna",
-        "address": "ul. Szpitalna 37, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "14:36:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-18",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
-        "address": "Karczewska 48, Otwock",
-        "times": [
-            [
-                "13:40:00"
+                "09:50:00",
+                "09:55:00"
             ]
         ]
     },
@@ -339,18 +302,6 @@
         "times": [
             [
                 "14:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "12:45:00"
             ]
         ]
     },
@@ -483,12 +434,13 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 7,
+        "count": 8,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
                 "10:40:00",
+                "10:50:00",
                 "11:25:00",
                 "11:30:00",
                 "11:40:00",
