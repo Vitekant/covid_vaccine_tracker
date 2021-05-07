@@ -2,18 +2,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "07:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
         "count": 4,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
         "address": "Szkolna 21, Rzeku\u0144",
@@ -137,6 +125,18 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
+        "location": "HIT MEDICA POLIGONOWA SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "Marsza\u0142kowska 28, Warszawa",
+        "times": [
+            [
+                "10:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
         "location": "Poradnia lekarza POZ",
         "address": "Wojska Polskiego 78, Zwole\u0144",
         "times": [
@@ -221,7 +221,7 @@
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "09:20:00",
+                "09:25:00",
                 "09:35:00",
                 "09:45:00",
                 "09:50:00",
@@ -268,9 +268,21 @@
                 "13:45:00",
                 "13:50:00",
                 "13:55:00",
-                "14:10:00",
                 "14:15:00",
-                "14:20:00"
+                "14:20:00",
+                "14:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-18",
+        "count": 1,
+        "location": "Gabinet Diagnostyczno Zabiegowy II  SPZZOZ Sierpc",
+        "address": "Juliusza S\u0142owackiego 16, Sierpc",
+        "times": [
+            [
+                "09:30:00"
             ]
         ]
     },
@@ -294,7 +306,6 @@
         "address": "SANITARIUSZEK 1, WI\u015aNIEW",
         "times": [
             [
-                "13:10:00",
                 "13:20:00",
                 "13:30:00",
                 "13:50:00",
@@ -302,6 +313,7 @@
                 "14:15:00",
                 "14:20:00",
                 "14:25:00",
+                "14:30:00",
                 "15:00:00",
                 "15:10:00",
                 "15:20:00",
@@ -391,35 +403,6 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
-        "times": [
-            [
-                "10:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-28",
-        "count": 6,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
-        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
-        "times": [
-            [
-                "13:15:00",
-                "13:30:00",
-                "13:45:00",
-                "14:00:00",
-                "14:15:00",
-                "14:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-28",
         "count": 4,
         "location": "DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
         "address": "T\u0119czowa 16, Z\u0105bki",
@@ -429,6 +412,21 @@
                 "14:15:00",
                 "14:30:00",
                 "14:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-28",
+        "count": 4,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
+        "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
+        "times": [
+            [
+                "13:45:00",
+                "14:00:00",
+                "14:15:00",
+                "14:30:00"
             ]
         ]
     },
@@ -459,7 +457,7 @@
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "12:00:00"
+                "09:30:00"
             ]
         ]
     },
