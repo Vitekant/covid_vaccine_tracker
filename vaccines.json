@@ -12,6 +12,18 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Bellesa-Med Sp. z o. o. ul. Napoleona 20",
+        "address": "Napoleona 20, Koby\u0142ka",
+        "times": [
+            [
+                "14:45:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
@@ -41,12 +53,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 74,
+        "count": 72,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
-                "07:55:00",
                 "07:58:00",
                 "08:23:00",
                 "08:25:00",
@@ -118,8 +129,7 @@
                 "14:02:00",
                 "14:05:00",
                 "14:07:00",
-                "14:10:00",
-                "14:12:00"
+                "14:10:00"
             ]
         ]
     },
@@ -152,11 +162,36 @@
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Centrum Medyczne\" BMC - Przychodnia Lekarska w Wyszogrodzie",
+        "address": "P\u0142ocka 29, Wyszogr\u00f3d",
+        "times": [
+            [
+                "09:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
         "location": "Poradnia lekarza POZ",
         "address": "Wojska Polskiego 78, Zwole\u0144",
         "times": [
             [
                 "10:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 2,
+        "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
+        "address": "Szkolna 6, Milan\u00f3wek",
+        "times": [
+            [
+                "11:30:00",
+                "12:45:00"
             ]
         ]
     },
@@ -187,12 +222,13 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 1,
+        "count": 2,
         "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W SEROCKU",
         "address": "A.A. K\u0119dzierskich 2, Serock",
         "times": [
             [
-                "11:55:00"
+                "11:55:00",
+                "13:00:00"
             ]
         ]
     },
@@ -213,18 +249,6 @@
         ]
     },
     {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
-        "address": "Szkolna 6, Milan\u00f3wek",
-        "times": [
-            [
-                "12:45:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-10",
         "count": 1,
@@ -237,14 +261,26 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-10",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "times": [
+            [
+                "13:00:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-11",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
+        "location": "PUNKT SZCZEPIE\u0143",
+        "address": "rtm. Witolda Pileckiego 14, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "11:30:00"
+                "10:15:00"
             ]
         ]
     },
@@ -263,7 +299,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 51,
+        "count": 50,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -273,7 +309,6 @@
                 "07:40:00",
                 "07:45:00",
                 "07:50:00",
-                "07:55:00",
                 "08:05:00",
                 "08:15:00",
                 "08:20:00",
@@ -335,6 +370,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Gabinet Diagnostyczno Zabiegowy II  SPZZOZ Sierpc",
+        "address": "Juliusza S\u0142owackiego 16, Sierpc",
+        "times": [
+            [
+                "09:00:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-15",
         "count": 1,
@@ -343,6 +390,18 @@
         "times": [
             [
                 "10:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "PUNKT SZCZEPIE\u0143",
+        "address": "Gen. Fieldorfa Nila 10, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "10:10:00"
             ]
         ]
     },
@@ -360,13 +419,24 @@
     },
     {
         "vaccine": "Moderna",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI",
+        "times": [
+            [
+                "18:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
         "day": "2021-05-24",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
-                "10:45:00",
                 "12:15:00"
             ]
         ]
@@ -386,11 +456,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-25",
-        "count": 22,
+        "count": 23,
         "location": "GABINET DIAGNOSTYCZNO - ZABIEGOWY ",
         "address": "SANITARIUSZEK 1, WI\u015aNIEW",
         "times": [
             [
+                "12:00:00",
                 "12:10:00",
                 "12:20:00",
                 "12:30:00",
@@ -491,12 +562,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "13:45:00",
                 "14:00:00"
             ]
         ]
@@ -532,12 +602,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 4,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "09:30:00",
                 "12:45:00",
                 "13:00:00",
                 "13:15:00"
