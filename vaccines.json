@@ -44,7 +44,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 75,
+        "count": 76,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -123,7 +123,8 @@
                 "16:22:00",
                 "16:27:00",
                 "16:32:00",
-                "16:37:00"
+                "16:37:00",
+                "16:42:00"
             ]
         ]
     },
@@ -136,6 +137,18 @@
         "times": [
             [
                 "08:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Poradnia lekarza POZ",
+        "address": "Modzelewskiego 58, Warszawa",
+        "times": [
+            [
+                "10:00:00"
             ]
         ]
     },
@@ -164,18 +177,6 @@
                 "12:40:00",
                 "12:45:00",
                 "12:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "12:30:00"
             ]
         ]
     },
@@ -218,15 +219,16 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-10",
-        "count": 4,
+        "count": 5,
         "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
         "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
             [
-                "07:30:00",
+                "07:00:00",
                 "07:45:00",
                 "08:00:00",
-                "08:15:00"
+                "08:15:00",
+                "08:30:00"
             ]
         ]
     },
@@ -283,6 +285,18 @@
         "vaccine": "Pfizer",
         "day": "2021-05-20",
         "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "09:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-20",
+        "count": 1,
         "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej LEKARZ RODZINNY lek.med.Mariola \u017bo\u0142yniak - Jab\u0142o\u0144ska - Gabinet zabiegowy ",
         "address": "Marii Konopnickiej 50, Wy\u015bmierzyce",
         "times": [
@@ -319,12 +333,13 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-24",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
         "address": "Szczytno 11a, Szczytno",
         "times": [
             [
-                "09:50:00"
+                "09:50:00",
+                "10:40:00"
             ]
         ]
     },
@@ -350,11 +365,11 @@
         "vaccine": "Moderna",
         "day": "2021-05-24",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
         "times": [
             [
-                "11:05:00"
+                "11:28:00"
             ]
         ]
     },
@@ -366,7 +381,7 @@
         "address": "SANITARIUSZEK 1, WI\u015aNIEW",
         "times": [
             [
-                "14:10:00",
+                "12:50:00",
                 "14:15:00",
                 "14:20:00",
                 "15:10:00",
@@ -398,16 +413,38 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-25",
-        "count": 10,
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY -MAZOWIECKI SZPITAL WOJEW\u00d3DZKI IM. \u015aW. JANA PAW\u0141A II W SIEDLCACH SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "UL. PONIATOWSKIEGO  26, SIEDLCE",
+        "times": [
+            [
+                "06:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-25",
+        "count": 1,
+        "location": "Samodzielny Publiczny Zesp\u00f3\u0142 Opieki Zdrowotnej w Mi\u0144sku Mazowieckim - Szpital Powiatowy - ul. Szpitalna",
+        "address": "ul. Szpitalna 37, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "08:12:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-25",
+        "count": 8,
         "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
         "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
         "times": [
             [
-                "09:10:00",
                 "09:15:00",
                 "09:20:00",
                 "09:25:00",
-                "09:30:00",
                 "09:35:00",
                 "09:40:00",
                 "09:45:00",
@@ -438,18 +475,6 @@
             [
                 "11:00:00",
                 "11:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-26",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
-        "address": "Strumykowa  21, Warszawa",
-        "times": [
-            [
-                "06:20:00"
             ]
         ]
     },
@@ -505,18 +530,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-26",
-        "count": 1,
-        "location": "POWIATOWE CENTRUM MEDYCZNE W GR\u00d3JCU SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
-        "address": "Piotra Skargi 10, Gr\u00f3jec",
-        "times": [
-            [
-                "13:10:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
         "count": 1,
@@ -531,11 +544,15 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-27",
-        "count": 8,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
         "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
         "times": [
             [
+                "10:40:00",
+                "10:45:00",
+                "10:50:00",
+                "10:55:00",
                 "11:15:00",
                 "11:20:00",
                 "11:25:00",
@@ -543,7 +560,8 @@
                 "11:35:00",
                 "11:40:00",
                 "11:45:00",
-                "11:50:00"
+                "11:50:00",
+                "11:55:00"
             ]
         ]
     },
@@ -643,18 +661,6 @@
             [
                 "07:15:00",
                 "11:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
-        "address": "Sienkiewicza 7, P\u0142o\u0144sk",
-        "times": [
-            [
-                "07:30:00"
             ]
         ]
     },
@@ -780,6 +786,18 @@
         "vaccine": "Pfizer",
         "day": "2021-05-28",
         "count": 1,
+        "location": "Mazowiecki Szpital Wojew\u00f3dzki im. \u015bw. Jana Paw\u0142a II w Siedlcach Sp. z o. o.",
+        "address": "Poniatowskiego 26, Siedlce",
+        "times": [
+            [
+                "10:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-28",
+        "count": 1,
         "location": "Przychodnia Podstawowej Opieki Zdrowotnej",
         "address": "Kondratowicza 8, Warszawa",
         "times": [
@@ -816,7 +834,7 @@
         "address": "D\u0141UGA 75, BRAMKI",
         "times": [
             [
-                "12:30:00"
+                "09:30:00"
             ]
         ]
     },
