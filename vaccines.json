@@ -200,14 +200,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 51,
+        "count": 48,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "07:25:00",
-                "08:40:00",
-                "08:50:00",
                 "10:25:00",
                 "10:35:00",
                 "10:40:00",
@@ -288,27 +285,28 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
-        "count": 2,
+        "count": 1,
         "location": "PUNKT SZCZEPIE\u0143",
         "address": "rtm. Witolda Pileckiego 14, OSTRO\u0141\u0118KA",
         "times": [
             [
-                "11:15:00",
-                "11:30:00"
+                "11:15:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-14",
-        "count": 3,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
                 "07:10:00",
                 "07:15:00",
-                "07:20:00"
+                "07:20:00",
+                "07:25:00",
+                "07:30:00"
             ]
         ]
     },
@@ -349,18 +347,6 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
-        "times": [
-            [
-                "12:20:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
         "count": 1,
@@ -381,6 +367,30 @@
         "times": [
             [
                 "07:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
+        "address": "T\u0119czowa 16, Z\u0105bki",
+        "times": [
+            [
+                "08:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - SPZ ZOZ P\u0141O\u0143SK",
+        "address": "Sienkiewicza 7, P\u0142o\u0144sk",
+        "times": [
+            [
+                "11:40:00"
             ]
         ]
     },
