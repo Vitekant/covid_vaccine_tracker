@@ -1,6 +1,30 @@
 [
     {
         "vaccine": "Astra Zeneca",
+        "day": "2021-05-07",
+        "count": 1,
+        "location": "Centrum Medyczne Medycyna Rodzinna",
+        "address": "\u017bwirki i Wigury 39, Warszawa",
+        "times": [
+            [
+                "16:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-08",
+        "count": 1,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej ProVita",
+        "address": "Hubalczyk\u00f3w 11, P\u0142ock",
+        "times": [
+            [
+                "08:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
         "count": 1,
         "location": "Gabinet lekarza POZ - \"MEDICUS\" \u017bELECH\u00d3W",
@@ -41,7 +65,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-08",
-        "count": 75,
+        "count": 74,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
@@ -49,7 +73,6 @@
                 "08:23:00",
                 "08:25:00",
                 "08:43:00",
-                "08:53:00",
                 "08:55:00",
                 "09:28:00",
                 "09:30:00",
@@ -94,7 +117,6 @@
                 "11:48:00",
                 "11:53:00",
                 "11:55:00",
-                "12:05:00",
                 "12:15:00",
                 "13:42:00",
                 "13:45:00",
@@ -120,7 +142,8 @@
                 "15:12:00",
                 "15:17:00",
                 "15:20:00",
-                "15:22:00"
+                "15:22:00",
+                "15:27:00"
             ]
         ]
     },
@@ -194,11 +217,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-10",
-        "count": 1,
+        "count": 2,
         "location": "Punkt szczepie\u0144",
         "address": "S\u0142oneczna 1, \u0141osice",
         "times": [
             [
+                "07:15:00",
                 "07:20:00"
             ]
         ]
@@ -206,15 +230,15 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 49,
+        "count": 48,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "09:20:00",
+                "09:35:00",
+                "09:45:00",
                 "09:50:00",
                 "09:55:00",
-                "10:10:00",
                 "10:15:00",
                 "10:20:00",
                 "10:25:00",
@@ -228,7 +252,6 @@
                 "11:10:00",
                 "11:15:00",
                 "11:20:00",
-                "11:25:00",
                 "11:30:00",
                 "11:35:00",
                 "11:40:00",
@@ -260,6 +283,18 @@
                 "13:55:00",
                 "14:10:00",
                 "14:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-18",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
+        "address": "Kraszewskiego 8, Ciechan\u00f3w",
+        "times": [
+            [
+                "16:20:00"
             ]
         ]
     },
@@ -301,18 +336,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-22",
-        "count": 1,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Omega\"",
-        "address": "ul. W\u0119growska 5a, Soko\u0142\u00f3w Podlaski",
-        "times": [
-            [
-                "07:30:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-24",
         "count": 1,
@@ -339,14 +362,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-25",
-        "count": 16,
+        "count": 14,
         "location": "GABINET DIAGNOSTYCZNO - ZABIEGOWY ",
         "address": "SANITARIUSZEK 1, WI\u015aNIEW",
         "times": [
             [
-                "12:50:00",
                 "13:10:00",
-                "13:20:00",
                 "13:30:00",
                 "13:40:00",
                 "13:50:00",
@@ -408,13 +429,12 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-27",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
         "address": "plac Pi\u0142sudskiego 1, Piaseczno",
         "times": [
             [
-                "09:40:00",
-                "16:12:00"
+                "09:40:00"
             ]
         ]
     },
@@ -444,12 +464,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-28",
-        "count": 6,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Wawerskie Centrum Kultury",
         "address": "\u017bEGA\u0143SKA 1A, WARSZAWA",
         "times": [
             [
-                "13:15:00",
                 "13:30:00",
                 "13:45:00",
                 "14:00:00",
