@@ -21,6 +21,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
+        "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "14:40:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-12",
         "count": 1,
@@ -84,12 +96,11 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-12",
-        "count": 32,
+        "count": 31,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
         "times": [
             [
-                "07:17:00",
                 "07:22:00",
                 "07:25:00",
                 "07:27:00",
@@ -158,7 +169,7 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-12",
-        "count": 5,
+        "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -167,7 +178,8 @@
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
-                "09:00:00"
+                "09:00:00",
+                "09:05:00"
             ]
         ]
     },
@@ -191,19 +203,7 @@
         "address": "W. Moczyd\u0142owskiego 2, Brwin\u00f3w",
         "times": [
             [
-                "09:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-13",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
-        "address": "UL. TOCHTERMANA  1, RADOM",
-        "times": [
-            [
-                "16:30:00"
+                "09:40:00"
             ]
         ]
     },
@@ -503,18 +503,6 @@
         "times": [
             [
                 "11:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-27",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
-        "address": "Karczewska 48, Otwock",
-        "times": [
-            [
-                "11:10:00"
             ]
         ]
     },
