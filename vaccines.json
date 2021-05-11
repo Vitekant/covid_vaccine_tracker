@@ -161,6 +161,18 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-12",
+        "count": 1,
+        "location": "Poradnia Lekarza POZ, ul. Lindleya 4",
+        "address": "Lindleya 4, Warszawa",
+        "times": [
+            [
+                "08:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-12",
         "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
@@ -202,11 +214,11 @@
         "vaccine": "Pfizer",
         "day": "2021-05-13",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa w Brwinowie",
-        "address": "W. Moczyd\u0142owskiego 2, Brwin\u00f3w",
+        "location": " Punkt szczepie\u0144",
+        "address": "Odkryta 51A/3, Warszawa",
         "times": [
             [
-                "10:05:00"
+                "10:30:00"
             ]
         ]
     },
@@ -223,6 +235,18 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-14",
+        "count": 1,
+        "location": "Drive Thru - Punkt Szczepie\u0144 Woronicza PZU Zdrowie",
+        "address": "Woronicza 17, Warszawa",
+        "times": [
+            [
+                "12:05:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-15",
         "count": 1,
@@ -231,18 +255,6 @@
         "times": [
             [
                 "15:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-17",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk",
-        "times": [
-            [
-                "06:25:00"
             ]
         ]
     },
@@ -261,11 +273,13 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-19",
-        "count": 1,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
+                "06:45:00",
+                "06:50:00",
                 "06:55:00"
             ]
         ]
@@ -555,18 +569,6 @@
             [
                 "08:55:00",
                 "12:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-29",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
-        "address": "D\u0141UGA 75, BRAMKI",
-        "times": [
-            [
-                "09:45:00"
             ]
         ]
     },
