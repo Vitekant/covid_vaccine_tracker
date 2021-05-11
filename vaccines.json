@@ -548,17 +548,5 @@
                 "11:45:00"
             ]
         ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-31",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
-        "times": [
-            [
-                "10:00:00"
-            ]
-        ]
     }
 ]
