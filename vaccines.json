@@ -2,18 +2,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych -  WOSIR w Wyszkowie",
-        "address": "Geodet\u00f3w 45, Wyszk\u00f3w",
-        "times": [
-            [
-                "08:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
         "count": 8,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
         "address": "Jana Chilickiego  2, Zakroczym",
