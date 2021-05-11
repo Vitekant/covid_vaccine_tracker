@@ -3,18 +3,6 @@
         "vaccine": "Pfizer",
         "day": "2021-05-12",
         "count": 1,
-        "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
-        "address": "Szkolna 6, Milan\u00f3wek",
-        "times": [
-            [
-                "07:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
