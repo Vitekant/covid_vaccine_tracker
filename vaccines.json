@@ -2,13 +2,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 3,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
         "address": "Jana Chilickiego  2, Zakroczym",
         "times": [
             [
                 "10:45:00",
-                "10:55:00",
                 "11:30:00"
             ]
         ]
@@ -322,14 +321,15 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-20",
-        "count": 3,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych -  WOSIR w Wyszkowie",
         "address": "Geodet\u00f3w 45, Wyszk\u00f3w",
         "times": [
             [
                 "11:25:00",
                 "11:30:00",
-                "11:35:00"
+                "11:35:00",
+                "11:45:00"
             ]
         ]
     },
@@ -383,13 +383,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 2,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Omega\"",
-        "address": "ul. W\u0119growska 5a, Soko\u0142\u00f3w Podlaski",
+        "count": 1,
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
         "times": [
             [
-                "09:15:00",
-                "14:50:00"
+                "13:30:00"
             ]
         ]
     },
@@ -397,11 +396,11 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
         "count": 1,
-        "location": "O\u015brodek Zdrowia",
-        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Omega\"",
+        "address": "ul. W\u0119growska 5a, Soko\u0142\u00f3w Podlaski",
         "times": [
             [
-                "13:30:00"
+                "14:50:00"
             ]
         ]
     },
@@ -484,12 +483,13 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-26",
-        "count": 1,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
         "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
         "times": [
             [
-                "06:30:00"
+                "06:30:00",
+                "06:35:00"
             ]
         ]
     },
