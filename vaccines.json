@@ -254,14 +254,14 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-17",
+        "vaccine": "Pfizer",
+        "day": "2021-05-15",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szkolno-Przedszkolny nr 4 w Nowym Dworze Mazowieckim",
-        "address": "Gen. J. Bema 312, Nowy Dw\u00f3r Mazowiecki",
+        "location": "Centrum Medyczne LUX MED",
+        "address": "Al. Jerozolimskie 65/79, Warszawa",
         "times": [
             [
-                "13:20:00"
+                "09:00:00"
             ]
         ]
     },
