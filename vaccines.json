@@ -2,7 +2,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-12",
-        "count": 9,
+        "count": 8,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w",
         "times": [
@@ -14,8 +14,7 @@
                 "09:00:00",
                 "09:10:00",
                 "09:20:00",
-                "09:25:00",
-                "09:30:00"
+                "09:25:00"
             ]
         ]
     },
@@ -195,18 +194,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-13",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
-        "address": "UL. TOCHTERMANA  1, RADOM",
-        "times": [
-            [
-                "16:45:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Moderna",
         "day": "2021-05-17",
         "count": 1,
@@ -238,13 +225,12 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-19",
-        "count": 7,
+        "count": 6,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
             [
                 "08:00:00",
-                "08:10:00",
                 "08:20:00",
                 "08:30:00",
                 "08:40:00",
@@ -366,18 +352,6 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych -  WOSIR w Wyszkowie",
-        "address": "Geodet\u00f3w 45, Wyszk\u00f3w",
-        "times": [
-            [
-                "09:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-21",
         "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
         "address": "Piastowska  39, Sierpc",
@@ -456,12 +430,13 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-23",
-        "count": 1,
+        "count": 2,
         "location": "O\u015brodek Zdrowia",
         "address": "Po\u0142udniowa 11B, Miszewo Murowane",
         "times": [
             [
-                "07:15:00"
+                "07:15:00",
+                "09:15:00"
             ]
         ]
     },
