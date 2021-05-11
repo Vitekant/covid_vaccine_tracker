@@ -26,14 +26,13 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 12,
+        "count": 11,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
         "address": "Jana Chilickiego  2, Zakroczym",
         "times": [
             [
                 "10:20:00",
                 "10:25:00",
-                "10:30:00",
                 "10:35:00",
                 "10:40:00",
                 "10:45:00",
@@ -422,11 +421,11 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-25",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
-        "address": "Szczytno 11a, Szczytno",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Nowodworski O\u015brodek Sportu i Rekreacji w Nowym Dworze Mazowieckim",
+        "address": "Sportowa 66, Nowy Dw\u00f3r Mazowiecki",
         "times": [
             [
-                "08:35:00"
+                "08:00:00"
             ]
         ]
     },
@@ -485,14 +484,13 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 3,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
                 "08:55:00",
-                "10:30:00",
-                "12:55:00"
+                "10:30:00"
             ]
         ]
     },
