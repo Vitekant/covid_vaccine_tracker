@@ -1,17 +1,5 @@
 [
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
-        "address": "Karczewska 48, Otwock",
-        "times": [
-            [
-                "14:50:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
         "count": 1,
@@ -52,18 +40,6 @@
         "times": [
             [
                 "14:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "NZOZ Centrum Medyczne eMK-med punkt szczepie\u0144 Por. Jana Bia\u0142ka 3",
-        "address": "ul. por. Jana Bia\u0142ka 3, G\u00f3ra Kalwaria",
-        "times": [
-            [
-                "15:15:00"
             ]
         ]
     },
@@ -395,6 +371,18 @@
                 "11:25:00",
                 "11:30:00",
                 "11:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
+        "address": "Strumykowa  21, Warszawa",
+        "times": [
+            [
+                "10:25:00"
             ]
         ]
     },
