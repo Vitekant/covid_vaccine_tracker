@@ -219,13 +219,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-13",
+        "day": "2021-05-14",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Marecki Punkt Szczepie\u0144 w Centrum Handlowym M1",
-        "address": "Pi\u0142sudskiego 1, Marki",
+        "location": "Przychodnia - Kleszczowa",
+        "address": "Kleszczowa 3A, Warszawa",
         "times": [
             [
-                "13:10:00"
+                "07:20:00"
             ]
         ]
     },
@@ -340,18 +340,6 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-20",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "11:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-20",
         "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych -  WOSIR w Wyszkowie",
         "address": "Geodet\u00f3w 45, Wyszk\u00f3w",
@@ -435,6 +423,18 @@
         "times": [
             [
                 "13:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-22",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew",
+        "times": [
+            [
+                "08:45:00"
             ]
         ]
     },
