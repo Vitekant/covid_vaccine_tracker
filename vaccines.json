@@ -2,12 +2,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 6,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
         "address": "Jana Chilickiego  2, Zakroczym",
         "times": [
             [
-                "10:35:00",
                 "10:45:00",
                 "10:50:00",
                 "10:55:00",
@@ -216,14 +215,25 @@
         ]
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "DRIVE-THRU w Radomiu",
+        "address": "ul. D\u0119bowa 4, Radom",
+        "times": [
+            [
+                "10:15:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-19",
-        "count": 6,
+        "count": 5,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
         "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
         "times": [
             [
-                "08:00:00",
                 "08:20:00",
                 "08:30:00",
                 "08:40:00",
@@ -302,7 +312,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-20",
-        "count": 13,
+        "count": 14,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
@@ -319,7 +329,8 @@
                 "11:20:00",
                 "11:25:00",
                 "11:30:00",
-                "11:35:00"
+                "11:35:00",
+                "11:40:00"
             ]
         ]
     },
@@ -460,18 +471,6 @@
         "times": [
             [
                 "07:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Nowodworski O\u015brodek Sportu i Rekreacji w Nowym Dworze Mazowieckim",
-        "address": "Sportowa 66, Nowy Dw\u00f3r Mazowiecki",
-        "times": [
-            [
-                "08:00:00"
             ]
         ]
     },
