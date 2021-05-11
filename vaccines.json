@@ -237,13 +237,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-19",
-        "count": 6,
+        "count": 4,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "06:25:00",
-                "06:30:00",
                 "06:35:00",
                 "06:40:00",
                 "06:45:00",
@@ -283,7 +281,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 10,
+        "count": 11,
         "location": "DRIVE-THRU w Radomiu",
         "address": "ul. D\u0119bowa 4, Radom",
         "times": [
@@ -297,7 +295,8 @@
                 "13:45:00",
                 "14:15:00",
                 "14:30:00",
-                "14:45:00"
+                "14:45:00",
+                "15:00:00"
             ]
         ]
     },
@@ -366,6 +365,18 @@
         "times": [
             [
                 "09:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych -  WOSIR w Wyszkowie",
+        "address": "Geodet\u00f3w 45, Wyszk\u00f3w",
+        "times": [
+            [
+                "11:25:00"
             ]
         ]
     },
