@@ -242,30 +242,6 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-14",
-        "count": 1,
-        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
-        "address": "ul. Lubelska 50, Garwolin",
-        "times": [
-            [
-                "16:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-15",
-        "count": 1,
-        "location": "Centrum Medyczne LUX MED",
-        "address": "Al. Jerozolimskie 65/79, Warszawa",
-        "times": [
-            [
-                "09:00:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-19",
         "count": 6,
