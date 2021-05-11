@@ -49,6 +49,18 @@
         "vaccine": "Pfizer",
         "day": "2021-05-12",
         "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szkolno-Przedszkolny nr 4 w Nowym Dworze Mazowieckim",
+        "address": "Gen. J. Bema 312, Nowy Dw\u00f3r Mazowiecki",
+        "times": [
+            [
+                "13:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -221,6 +233,18 @@
         ]
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-13",
+        "count": 1,
+        "location": "EMC PIASECZNO",
+        "address": "Szkolna 1, Piaseczno",
+        "times": [
+            [
+                "16:52:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-13",
         "count": 1,
@@ -300,6 +324,18 @@
                 "14:45:00",
                 "15:00:00",
                 "15:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "Centrum Medyczne Warszawa",
+        "address": "Aleja Niepodleg\u0142o\u015bci 107/109, Warszawa",
+        "times": [
+            [
+                "08:35:00"
             ]
         ]
     },
@@ -414,18 +450,6 @@
         "times": [
             [
                 "07:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Nowodworski O\u015brodek Sportu i Rekreacji w Nowym Dworze Mazowieckim",
-        "address": "Sportowa 66, Nowy Dw\u00f3r Mazowiecki",
-        "times": [
-            [
-                "08:00:00"
             ]
         ]
     },
