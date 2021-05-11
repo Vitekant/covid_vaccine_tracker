@@ -14,12 +14,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 9,
+        "count": 8,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
         "address": "Jana Chilickiego  2, Zakroczym",
         "times": [
             [
-                "10:25:00",
                 "10:35:00",
                 "10:40:00",
                 "10:45:00",
@@ -371,18 +370,6 @@
                 "11:25:00",
                 "11:30:00",
                 "11:35:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
-        "address": "Strumykowa  21, Warszawa",
-        "times": [
-            [
-                "10:25:00"
             ]
         ]
     },
