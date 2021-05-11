@@ -211,18 +211,6 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-14",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
-        "address": "Kraszewskiego 8, Ciechan\u00f3w",
-        "times": [
-            [
-                "15:05:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-19",
         "count": 1,
@@ -231,6 +219,18 @@
         "times": [
             [
                 "12:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew",
+        "times": [
+            [
+                "15:05:00"
             ]
         ]
     },
@@ -297,12 +297,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-20",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
         "address": "Szczytno 11a, Szczytno",
         "times": [
             [
-                "08:05:00",
                 "08:20:00"
             ]
         ]
@@ -346,13 +345,14 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-20",
-        "count": 2,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych -  WOSIR w Wyszkowie",
         "address": "Geodet\u00f3w 45, Wyszk\u00f3w",
         "times": [
             [
                 "11:25:00",
-                "11:30:00"
+                "11:30:00",
+                "11:35:00"
             ]
         ]
     },
@@ -387,7 +387,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 29,
+        "count": 27,
         "location": "Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej w \u0141askarzewie",
         "address": "Du\u017cy Rynek 32, \u0141askarzew",
         "times": [
@@ -401,8 +401,6 @@
                 "09:50:00",
                 "10:10:00",
                 "10:20:00",
-                "10:30:00",
-                "10:40:00",
                 "10:50:00",
                 "11:10:00",
                 "11:20:00",
@@ -439,12 +437,14 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-23",
-        "count": 1,
+        "count": 3,
         "location": "O\u015brodek Zdrowia",
         "address": "Po\u0142udniowa 11B, Miszewo Murowane",
         "times": [
             [
-                "07:15:00"
+                "07:15:00",
+                "09:15:00",
+                "13:00:00"
             ]
         ]
     },
@@ -497,6 +497,18 @@
                 "08:55:00",
                 "10:30:00",
                 "12:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-29",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI",
+        "times": [
+            [
+                "09:45:00"
             ]
         ]
     },
