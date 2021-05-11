@@ -16,6 +16,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa w Brwinowie",
+        "address": "W. Moczyd\u0142owskiego 2, Brwin\u00f3w",
+        "times": [
+            [
+                "11:00:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-12",
         "count": 1,
@@ -203,6 +215,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-15",
+        "count": 1,
+        "location": "DRIVE-THRU w Radomiu",
+        "address": "ul. D\u0119bowa 4, Radom",
+        "times": [
+            [
+                "10:00:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-19",
         "count": 1,
@@ -352,21 +376,6 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 4,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Omega\"",
-        "address": "ul. W\u0119growska 5a, Soko\u0142\u00f3w Podlaski",
-        "times": [
-            [
-                "08:00:00",
-                "09:15:00",
-                "12:10:00",
-                "14:50:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-22",
         "count": 24,
         "location": "Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej w \u0141askarzewie",
         "address": "Du\u017cy Rynek 32, \u0141askarzew",
@@ -396,6 +405,19 @@
                 "14:20:00",
                 "14:30:00",
                 "14:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-22",
+        "count": 2,
+        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej \"Omega\"",
+        "address": "ul. W\u0119growska 5a, Soko\u0142\u00f3w Podlaski",
+        "times": [
+            [
+                "09:15:00",
+                "14:50:00"
             ]
         ]
     },
@@ -459,6 +481,19 @@
         "times": [
             [
                 "07:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-25",
+        "count": 2,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
+        "times": [
+            [
+                "08:35:00",
+                "08:55:00"
             ]
         ]
     },
