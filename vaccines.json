@@ -240,18 +240,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych -  WOSIR w Wyszkowie",
-        "address": "Geodet\u00f3w 45, Wyszk\u00f3w",
-        "times": [
-            [
-                "16:25:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
         "count": 12,
