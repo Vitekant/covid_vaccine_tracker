@@ -2,7 +2,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 5,
+        "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
         "address": "Jana Chilickiego  2, Zakroczym",
         "times": [
@@ -11,19 +11,8 @@
                 "10:45:00",
                 "10:55:00",
                 "11:30:00",
-                "11:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa w Brwinowie",
-        "address": "W. Moczyd\u0142owskiego 2, Brwin\u00f3w",
-        "times": [
-            [
-                "11:00:00"
+                "11:40:00",
+                "11:45:00"
             ]
         ]
     },
@@ -376,14 +365,13 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 24,
+        "count": 23,
         "location": "Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej w \u0141askarzewie",
         "address": "Du\u017cy Rynek 32, \u0141askarzew",
         "times": [
             [
                 "08:10:00",
                 "08:20:00",
-                "09:30:00",
                 "09:40:00",
                 "09:50:00",
                 "10:10:00",
@@ -494,6 +482,18 @@
             [
                 "08:35:00",
                 "08:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-25",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+        "address": "Parkowa 14, Raci\u0105\u017c",
+        "times": [
+            [
+                "09:45:00"
             ]
         ]
     },
