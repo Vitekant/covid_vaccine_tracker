@@ -1,5 +1,17 @@
 [
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
+        "address": "Kraszewskiego 8, Ciechan\u00f3w",
+        "times": [
+            [
+                "09:10:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
         "count": 1,
@@ -149,18 +161,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-12",
-        "count": 1,
-        "location": "Poradnia Lekarza POZ, ul. Lindleya 4",
-        "address": "Lindleya 4, Warszawa",
-        "times": [
-            [
-                "08:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-12",
         "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
@@ -202,35 +202,23 @@
         "vaccine": "Pfizer",
         "day": "2021-05-13",
         "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa w Brwinowie",
+        "address": "W. Moczyd\u0142owskiego 2, Brwin\u00f3w",
+        "times": [
+            [
+                "10:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-13",
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
         "address": "Parkowa 14, Raci\u0105\u017c",
         "times": [
             [
                 "11:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-14",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szkolno-Przedszkolny nr 4 w Nowym Dworze Mazowieckim",
-        "address": "Gen. J. Bema 312, Nowy Dw\u00f3r Mazowiecki",
-        "times": [
-            [
-                "06:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-14",
-        "count": 1,
-        "location": "DRIVE-THRU Miasteczko Ruchu Drogowego Z\u0105bki",
-        "address": "T\u0119czowa 16, Z\u0105bki",
-        "times": [
-            [
-                "14:15:00"
             ]
         ]
     },
@@ -273,12 +261,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-19",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "06:50:00",
                 "06:55:00"
             ]
         ]
@@ -499,13 +486,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-23",
-        "count": 2,
+        "count": 1,
         "location": "O\u015brodek Zdrowia",
         "address": "Po\u0142udniowa 11B, Miszewo Murowane",
         "times": [
             [
-                "07:15:00",
-                "09:15:00"
+                "07:15:00"
             ]
         ]
     },
