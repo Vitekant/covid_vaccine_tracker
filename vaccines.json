@@ -201,6 +201,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-15",
+        "count": 1,
+        "location": "DRIVE-THRU w Radomiu",
+        "address": "ul. D\u0119bowa 4, Radom",
+        "times": [
+            [
+                "10:00:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-19",
         "count": 1,
