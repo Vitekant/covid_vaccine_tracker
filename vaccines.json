@@ -31,6 +31,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "PUNKT POBRA\u0143 FUNDACJI PRAWO DO ZDROWIA",
+        "address": "Irysowa 16A, Warszawa",
+        "times": [
+            [
+                "16:50:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-12",
         "count": 1,
@@ -334,6 +346,18 @@
                 "11:25:00",
                 "11:30:00",
                 "11:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
+        "times": [
+            [
+                "11:00:00"
             ]
         ]
     },
