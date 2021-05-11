@@ -213,18 +213,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "DRIVE-THRU w Radomiu",
-        "address": "ul. D\u0119bowa 4, Radom",
-        "times": [
-            [
-                "10:15:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-19",
         "count": 5,
@@ -490,6 +478,18 @@
         "times": [
             [
                 "11:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-26",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 - ZOZ Bai\u0142obrzegi",
+        "address": "ul. Spacerowa 10, Bia\u0142obrzegi",
+        "times": [
+            [
+                "06:30:00"
             ]
         ]
     },
