@@ -272,6 +272,18 @@
         ]
     },
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-14",
+        "count": 1,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin",
+        "times": [
+            [
+                "16:20:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-15",
         "count": 1,
