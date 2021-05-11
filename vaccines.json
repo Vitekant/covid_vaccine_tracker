@@ -34,18 +34,6 @@
         "vaccine": "Pfizer",
         "day": "2021-05-12",
         "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "08:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -214,6 +202,30 @@
         "times": [
             [
                 "08:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-13",
+        "count": 1,
+        "location": "Vaxmed - punkt szczepie\u0144 Pawe\u0142 Stelmaszek",
+        "address": "Genera\u0142a Kazimierza Sosnkowskiego 1C, Warszawa",
+        "times": [
+            [
+                "15:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-16",
+        "count": 1,
+        "location": "Centrum Medyczne Raszyn",
+        "address": "Pruszkowska 52, RASZYN",
+        "times": [
+            [
+                "17:40:00"
             ]
         ]
     },
@@ -390,6 +402,30 @@
     },
     {
         "vaccine": "Johnson & Johnson",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
+        "times": [
+            [
+                "12:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "MyMed",
+        "address": "Wolno\u015b\u0107 2, Warszawa",
+        "times": [
+            [
+                "13:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
         "count": 30,
         "location": "Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej w \u0141askarzewie",
@@ -444,14 +480,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-23",
-        "count": 3,
+        "count": 1,
         "location": "O\u015brodek Zdrowia",
         "address": "Po\u0142udniowa 11B, Miszewo Murowane",
         "times": [
             [
-                "07:15:00",
-                "09:15:00",
-                "13:00:00"
+                "07:15:00"
             ]
         ]
     }
