@@ -7,10 +7,10 @@
         "address": "Jana Chilickiego  2, Zakroczym",
         "times": [
             [
-                "10:35:00",
                 "10:45:00",
                 "10:55:00",
                 "11:30:00",
+                "11:35:00",
                 "11:45:00"
             ]
         ]
@@ -199,18 +199,6 @@
         "times": [
             [
                 "11:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-15",
-        "count": 1,
-        "location": "DRIVE-THRU w Radomiu",
-        "address": "ul. D\u0119bowa 4, Radom",
-        "times": [
-            [
-                "10:00:00"
             ]
         ]
     },
@@ -548,6 +536,18 @@
                 "07:15:00",
                 "11:35:00",
                 "11:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-31",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
+        "times": [
+            [
+                "10:00:00"
             ]
         ]
     }
