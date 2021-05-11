@@ -2,12 +2,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-12",
-        "count": 15,
+        "count": 14,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w",
         "times": [
             [
-                "07:45:00",
                 "07:50:00",
                 "08:30:00",
                 "08:35:00",
@@ -18,10 +17,10 @@
                 "09:00:00",
                 "09:05:00",
                 "09:10:00",
-                "09:15:00",
                 "09:20:00",
                 "09:25:00",
-                "09:30:00"
+                "09:30:00",
+                "09:55:00"
             ]
         ]
     },
@@ -250,12 +249,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 11,
+        "count": 10,
         "location": "DRIVE-THRU w Radomiu",
         "address": "ul. D\u0119bowa 4, Radom",
         "times": [
             [
-                "12:00:00",
                 "12:15:00",
                 "12:30:00",
                 "12:45:00",
@@ -397,7 +395,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 29,
+        "count": 30,
         "location": "Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej w \u0141askarzewie",
         "address": "Du\u017cy Rynek 32, \u0141askarzew",
         "times": [
@@ -430,7 +428,8 @@
                 "14:00:00",
                 "14:10:00",
                 "14:20:00",
-                "14:30:00"
+                "14:30:00",
+                "14:40:00"
             ]
         ]
     },
