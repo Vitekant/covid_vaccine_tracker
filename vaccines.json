@@ -1,5 +1,17 @@
 [
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
+        "address": "Karczewska 48, Otwock",
+        "times": [
+            [
+                "14:50:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
         "count": 1,
@@ -284,18 +296,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-15",
-        "count": 1,
-        "location": "Centrum Medyczne na Reymonta",
-        "address": "W\u0142adys\u0142awa Reymonta 12/125, RADZYMIN",
-        "times": [
-            [
-                "10:45:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-19",
         "count": 1,
@@ -421,15 +421,26 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-23",
-        "count": 4,
+        "count": 3,
         "location": "O\u015brodek Zdrowia",
         "address": "Po\u0142udniowa 11B, Miszewo Murowane",
         "times": [
             [
                 "07:15:00",
                 "09:15:00",
-                "13:00:00",
-                "13:30:00"
+                "13:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-23",
+        "count": 1,
+        "location": "CENTRUM MEDYCZNE W JAKTOROWIE",
+        "address": "Warszawska 24, Chylice Kolonia",
+        "times": [
+            [
+                "13:00:00"
             ]
         ]
     },
