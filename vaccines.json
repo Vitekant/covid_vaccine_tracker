@@ -184,6 +184,30 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-13",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa w Brwinowie",
+        "address": "W. Moczyd\u0142owskiego 2, Brwin\u00f3w",
+        "times": [
+            [
+                "09:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-13",
+        "count": 1,
+        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
+        "address": "UL. TOCHTERMANA  1, RADOM",
+        "times": [
+            [
+                "16:30:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-17",
         "count": 1,
@@ -192,18 +216,6 @@
         "times": [
             [
                 "06:25:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-18",
-        "count": 1,
-        "location": "Szpital Powiatowy",
-        "address": "Ko\u015bciuszki 201, W\u0119gr\u00f3w",
-        "times": [
-            [
-                "06:10:00"
             ]
         ]
     },
@@ -288,18 +300,6 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - O\u015brodek Zdrowia w Zegrzu",
-        "address": "p\u0142k. K. Drewnowskiego 1, Zegrze",
-        "times": [
-            [
-                "13:35:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-20",
         "count": 7,
@@ -361,6 +361,18 @@
         "times": [
             [
                 "09:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych -  WOSIR w Wyszkowie",
+        "address": "Geodet\u00f3w 45, Wyszk\u00f3w",
+        "times": [
+            [
+                "11:20:00"
             ]
         ]
     },
@@ -455,6 +467,18 @@
         ]
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-23",
+        "count": 1,
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
+        "times": [
+            [
+                "07:15:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-24",
         "count": 5,
@@ -484,13 +508,13 @@
     },
     {
         "vaccine": "Moderna",
-        "day": "2021-05-25",
+        "day": "2021-05-27",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
+        "address": "Karczewska 48, Otwock",
         "times": [
             [
-                "13:05:00"
+                "11:10:00"
             ]
         ]
     },
