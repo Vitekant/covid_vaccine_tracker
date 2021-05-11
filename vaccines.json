@@ -31,18 +31,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
-        "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "14:40:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-12",
         "count": 1,
@@ -230,14 +218,14 @@
         ]
     },
     {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-14",
+        "vaccine": "Pfizer",
+        "day": "2021-05-13",
         "count": 1,
-        "location": "NZOZ IZI-MED  - gabinet zabiegowy ",
-        "address": "Spacerowa  29, Bia\u0142obrzegi",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Marecki Punkt Szczepie\u0144 w Centrum Handlowym M1",
+        "address": "Pi\u0142sudskiego 1, Marki",
         "times": [
             [
-                "11:05:00"
+                "13:10:00"
             ]
         ]
     },
