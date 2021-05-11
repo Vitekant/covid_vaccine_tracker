@@ -245,12 +245,11 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-20",
-        "count": 12,
+        "count": 11,
         "location": "DRIVE-THRU w Radomiu",
         "address": "ul. D\u0119bowa 4, Radom",
         "times": [
             [
-                "12:15:00",
                 "12:30:00",
                 "12:45:00",
                 "13:00:00",
@@ -561,18 +560,6 @@
                 "07:15:00",
                 "11:35:00",
                 "11:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-31",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
-        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
-        "times": [
-            [
-                "10:00:00"
             ]
         ]
     }
