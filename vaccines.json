@@ -2,7 +2,7 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-12",
-        "count": 17,
+        "count": 15,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w",
         "times": [
@@ -21,9 +21,7 @@
                 "09:15:00",
                 "09:20:00",
                 "09:25:00",
-                "09:30:00",
-                "09:45:00",
-                "09:50:00"
+                "09:30:00"
             ]
         ]
     },
@@ -193,13 +191,12 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-17",
-        "count": 2,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
-                "06:25:00",
-                "11:50:00"
+                "06:25:00"
             ]
         ]
     },
