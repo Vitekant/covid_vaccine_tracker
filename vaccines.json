@@ -1,17 +1,5 @@
 [
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
-        "address": "Karczewska 48, Otwock",
-        "times": [
-            [
-                "14:50:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
         "count": 1,
@@ -39,18 +27,6 @@
                 "10:55:00",
                 "11:30:00",
                 "11:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Sportu i Rekreacji Stare Babice",
-        "address": "Po\u0142udniowa  2B, Zielonki-Parcela",
-        "times": [
-            [
-                "14:15:00"
             ]
         ]
     },
