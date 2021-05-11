@@ -2,7 +2,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 6,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
         "address": "Jana Chilickiego  2, Zakroczym",
         "times": [
@@ -11,7 +11,6 @@
                 "10:45:00",
                 "10:55:00",
                 "11:30:00",
-                "11:40:00",
                 "11:45:00"
             ]
         ]
