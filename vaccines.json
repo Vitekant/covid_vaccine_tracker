@@ -2,12 +2,11 @@
     {
         "vaccine": "Moderna",
         "day": "2021-05-12",
-        "count": 3,
+        "count": 2,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowo \u2013 Widowiskowa MOSiR Ciechan\u00f3w",
         "address": "Kraszewskiego 8, Ciechan\u00f3w",
         "times": [
             [
-                "08:40:00",
                 "09:10:00",
                 "09:25:00"
             ]
@@ -213,13 +212,13 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-13",
+        "day": "2021-05-16",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY - RADOMSKI SZPITAL SPECJALISTYCZNY IM. DR TYTUSA CHA\u0141BI\u0143SKIEGO",
-        "address": "UL. TOCHTERMANA  1, RADOM",
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
             [
-                "16:30:00"
+                "07:30:00"
             ]
         ]
     },
