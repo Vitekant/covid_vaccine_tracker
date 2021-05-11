@@ -237,12 +237,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-19",
-        "count": 4,
+        "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "06:35:00",
                 "06:40:00",
                 "06:45:00",
                 "06:50:00"
@@ -438,18 +437,6 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
         "count": 1,
-        "location": "Punkt Szczepie\u0144",
-        "address": "Wa\u0142owa 1, Siedlce",
-        "times": [
-            [
-                "13:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-22",
-        "count": 1,
         "location": "O\u015brodek Zdrowia",
         "address": "Po\u0142udniowa 11B, Miszewo Murowane",
         "times": [
@@ -474,13 +461,14 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-23",
-        "count": 2,
+        "count": 3,
         "location": "O\u015brodek Zdrowia",
         "address": "Po\u0142udniowa 11B, Miszewo Murowane",
         "times": [
             [
                 "07:15:00",
-                "09:15:00"
+                "09:15:00",
+                "13:00:00"
             ]
         ]
     },
@@ -502,8 +490,8 @@
         "vaccine": "Moderna",
         "day": "2021-05-25",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
                 "11:50:00"
@@ -514,8 +502,8 @@
         "vaccine": "Moderna",
         "day": "2021-05-25",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
         "times": [
             [
                 "11:50:00"
