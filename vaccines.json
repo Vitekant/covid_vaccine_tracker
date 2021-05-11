@@ -207,6 +207,30 @@
     },
     {
         "vaccine": "Pfizer",
+        "day": "2021-05-18",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Bia\u0142o\u0142\u0119cki O\u015brodek Sportu",
+        "address": "Strumykowa  21, Warszawa",
+        "times": [
+            [
+                "07:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "DRIVE-THRU w Radomiu",
+        "address": "ul. D\u0119bowa 4, Radom",
+        "times": [
+            [
+                "10:15:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
         "day": "2021-05-19",
         "count": 6,
         "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
@@ -450,18 +474,6 @@
         "times": [
             [
                 "07:15:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-25",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Nowodworski O\u015brodek Sportu i Rekreacji w Nowym Dworze Mazowieckim",
-        "address": "Sportowa 66, Nowy Dw\u00f3r Mazowiecki",
-        "times": [
-            [
-                "08:00:00"
             ]
         ]
     },
