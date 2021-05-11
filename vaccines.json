@@ -88,24 +88,6 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-12",
-        "count": 7,
-        "location": "Poradnia lekarza POZ",
-        "address": "Beliny Pra\u017cmowskiego 17, Radom",
-        "times": [
-            [
-                "07:15:00",
-                "07:45:00",
-                "08:00:00",
-                "08:15:00",
-                "08:30:00",
-                "08:45:00",
-                "09:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-12",
         "count": 32,
         "location": "EMC PIASECZNO",
         "address": "Szkolna 1, Piaseczno",
@@ -180,7 +162,24 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-12",
-        "count": 5,
+        "count": 6,
+        "location": "Poradnia lekarza POZ",
+        "address": "Beliny Pra\u017cmowskiego 17, Radom",
+        "times": [
+            [
+                "07:45:00",
+                "08:00:00",
+                "08:15:00",
+                "08:30:00",
+                "08:45:00",
+                "09:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-12",
+        "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -189,7 +188,8 @@
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
-                "09:00:00"
+                "09:00:00",
+                "09:05:00"
             ]
         ]
     },
@@ -206,14 +206,14 @@
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-13",
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-15",
         "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
-        "address": "Karczewska 48, Otwock",
+        "location": "Pogotowie Ratunkowe - SAMODZIELNY PUBLICZNY ZESP\u00d3\u0141 ZAK\u0141AD\u00d3W OPIEKI ZDROWOTNEJ W ZWOLENIU",
+        "address": "Ludowa 7a, Zwole\u0144",
         "times": [
             [
-                "08:00:00"
+                "09:20:00"
             ]
         ]
     },
@@ -274,18 +274,6 @@
         "times": [
             [
                 "10:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
-        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
-        "times": [
-            [
-                "12:00:00"
             ]
         ]
     },
@@ -377,6 +365,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych -  WOSIR w Wyszkowie",
+        "address": "Geodet\u00f3w 45, Wyszk\u00f3w",
+        "times": [
+            [
+                "11:20:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-21",
         "count": 1,
@@ -445,6 +445,18 @@
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
         "count": 1,
+        "location": "Punkt Szczepie\u0144",
+        "address": "Wa\u0142owa 1, Siedlce",
+        "times": [
+            [
+                "13:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-22",
+        "count": 1,
         "location": "O\u015brodek Zdrowia",
         "address": "Po\u0142udniowa 11B, Miszewo Murowane",
         "times": [
@@ -456,13 +468,12 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-23",
-        "count": 2,
+        "count": 1,
         "location": "O\u015brodek Zdrowia",
         "address": "Po\u0142udniowa 11B, Miszewo Murowane",
         "times": [
             [
-                "07:15:00",
-                "09:15:00"
+                "07:15:00"
             ]
         ]
     }
