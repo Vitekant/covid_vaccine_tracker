@@ -26,7 +26,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 14,
+        "count": 12,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
         "address": "Jana Chilickiego  2, Zakroczym",
         "times": [
@@ -42,21 +42,7 @@
                 "11:30:00",
                 "11:35:00",
                 "11:40:00",
-                "11:45:00",
-                "11:50:00",
-                "11:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Nowodworski O\u015brodek Sportu i Rekreacji w Nowym Dworze Mazowieckim",
-        "address": "Sportowa 66, Nowy Dw\u00f3r Mazowiecki",
-        "times": [
-            [
-                "12:05:00"
+                "11:45:00"
             ]
         ]
     },
@@ -373,7 +359,7 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-22",
-        "count": 25,
+        "count": 24,
         "location": "Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej w \u0141askarzewie",
         "address": "Du\u017cy Rynek 32, \u0141askarzew",
         "times": [
@@ -386,7 +372,6 @@
                 "10:10:00",
                 "10:20:00",
                 "10:50:00",
-                "11:10:00",
                 "11:20:00",
                 "11:40:00",
                 "11:50:00",
@@ -421,14 +406,15 @@
     {
         "vaccine": "Johnson & Johnson",
         "day": "2021-05-23",
-        "count": 3,
+        "count": 4,
         "location": "O\u015brodek Zdrowia",
         "address": "Po\u0142udniowa 11B, Miszewo Murowane",
         "times": [
             [
                 "07:15:00",
                 "09:15:00",
-                "13:00:00"
+                "13:00:00",
+                "13:30:00"
             ]
         ]
     },
