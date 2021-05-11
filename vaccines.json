@@ -31,18 +31,6 @@
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
-        "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "14:40:00"
-            ]
-        ]
-    },
-    {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-12",
         "count": 1,
@@ -82,6 +70,24 @@
                 "08:55:00",
                 "09:00:00",
                 "09:05:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-12",
+        "count": 7,
+        "location": "Poradnia lekarza POZ",
+        "address": "Beliny Pra\u017cmowskiego 17, Radom",
+        "times": [
+            [
+                "07:15:00",
+                "07:45:00",
+                "08:00:00",
+                "08:15:00",
+                "08:30:00",
+                "08:45:00",
+                "09:00:00"
             ]
         ]
     },
@@ -162,24 +168,19 @@
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-12",
-        "count": 6,
-        "location": "Poradnia lekarza POZ",
-        "address": "Beliny Pra\u017cmowskiego 17, Radom",
+        "count": 1,
+        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
+        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
         "times": [
             [
-                "07:45:00",
-                "08:00:00",
-                "08:15:00",
-                "08:30:00",
-                "08:45:00",
-                "09:00:00"
+                "08:30:00"
             ]
         ]
     },
     {
         "vaccine": "Astra Zeneca",
         "day": "2021-05-12",
-        "count": 6,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
         "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
         "times": [
@@ -188,8 +189,7 @@
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
-                "09:00:00",
-                "09:05:00"
+                "09:00:00"
             ]
         ]
     },
@@ -214,6 +214,18 @@
         "times": [
             [
                 "09:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-15",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Stadion Legii",
+        "address": "\u0141azienkowska 3, Warszawa",
+        "times": [
+            [
+                "10:30:00"
             ]
         ]
     },
