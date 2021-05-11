@@ -3,6 +3,18 @@
         "vaccine": "Pfizer",
         "day": "2021-05-12",
         "count": 1,
+        "location": "Przychodnia lekarska",
+        "address": "\u017beromskiego 41a, Sochaczew",
+        "times": [
+            [
+                "08:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
@@ -131,18 +143,6 @@
                 "08:35:00",
                 "08:53:00",
                 "09:03:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-12",
-        "count": 1,
-        "location": "STADION NARODOWY - SZPITAL TYMCZASOWY MSWIA \u2013 Wej\u015bcie do punktu szczepie\u0144 brama nr 5, wjazd na parking brama nr 6",
-        "address": "Ksi\u0119cia J\u00f3zefa Poniatowskiego 1, M. St. Warszawa",
-        "times": [
-            [
-                "07:45:00"
             ]
         ]
     },
