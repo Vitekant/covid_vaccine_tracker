@@ -199,6 +199,18 @@
         ]
     },
     {
+        "vaccine": "Pfizer",
+        "day": "2021-05-15",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Zesp\u00f3\u0142 Szk\u00f3\u0142 Publicznych Nr 2 w Koby\u0142ce",
+        "address": "Elizy Orzeszkowej 3A, Koby\u0142ka",
+        "times": [
+            [
+                "10:45:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-17",
         "count": 1,
@@ -213,12 +225,11 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-19",
-        "count": 7,
+        "count": 6,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
         "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
-                "06:20:00",
                 "06:25:00",
                 "06:30:00",
                 "06:35:00",
@@ -313,7 +324,7 @@
     {
         "vaccine": "Pfizer",
         "day": "2021-05-20",
-        "count": 12,
+        "count": 13,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
@@ -329,7 +340,8 @@
                 "11:05:00",
                 "11:10:00",
                 "11:15:00",
-                "11:20:00"
+                "11:20:00",
+                "11:25:00"
             ]
         ]
     },
@@ -342,18 +354,6 @@
         "times": [
             [
                 "09:40:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych -  WOSIR w Wyszkowie",
-        "address": "Geodet\u00f3w 45, Wyszk\u00f3w",
-        "times": [
-            [
-                "11:20:00"
             ]
         ]
     },
