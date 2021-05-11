@@ -1,8 +1,32 @@
 [
     {
+        "vaccine": "Moderna",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Otwockie PWiK - miasteczko namiotowe na obiekcie",
+        "address": "Karczewska 48, Otwock",
+        "times": [
+            [
+                "14:50:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 9,
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych -  WOSIR w Wyszkowie",
+        "address": "Geodet\u00f3w 45, Wyszk\u00f3w",
+        "times": [
+            [
+                "08:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 8,
         "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Kultury w Zakroczymiu",
         "address": "Jana Chilickiego  2, Zakroczym",
         "times": [
@@ -14,8 +38,19 @@
                 "10:50:00",
                 "10:55:00",
                 "11:30:00",
-                "11:35:00",
                 "11:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gminny O\u015brodek Sportu i Rekreacji Stare Babice",
+        "address": "Po\u0142udniowa  2B, Zielonki-Parcela",
+        "times": [
+            [
+                "14:15:00"
             ]
         ]
     },
@@ -28,6 +63,18 @@
         "times": [
             [
                 "14:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "NZOZ Centrum Medyczne eMK-med punkt szczepie\u0144 Por. Jana Bia\u0142ka 3",
+        "address": "ul. por. Jana Bia\u0142ka 3, G\u00f3ra Kalwaria",
+        "times": [
+            [
+                "15:15:00"
             ]
         ]
     },
