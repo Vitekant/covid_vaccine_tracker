@@ -1,332 +1,48 @@
 [
     {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 3,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk",
-        "times": [
-            [
-                "06:40:00",
-                "08:30:00",
-                "09:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
-        "address": "D\u0141UGA 75, BRAMKI",
-        "times": [
-            [
-                "08:00:00",
-                "11:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
+        "vaccine": "Pfizer",
+        "day": "2021-05-12",
         "count": 1,
-        "location": "SAMODZIELNY PUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ W CEG\u0141OWIE - Punkt szczepie\u0144",
-        "address": "Plac Anny Jagiellonki 17, Ceg\u0142\u00f3w",
+        "location": "Gabinet szkolny stomatologiczny zlokalizowany w budynku Centrum Sportu i Rekreacji ",
+        "address": "Szkolna 6, Milan\u00f3wek",
         "times": [
             [
-                "08:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "GMINNE CENTRUM MEDYCZNO-REHABILITACYJNE W BROCHOWIE",
-        "address": "Broch\u00f3w 124, Broch\u00f3w",
-        "times": [
-            [
-                "08:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 3,
-        "location": "Niepubliczny Zak\u0142ad Opieki Zdrowotnej Przychodnia Lekarska w Rzekuniu",
-        "address": "Szkolna 21, Rzeku\u0144",
-        "times": [
-            [
-                "09:20:00",
-                "09:30:00",
-                "10:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
-        "address": "Bluszczowa 4/8, Radom",
-        "times": [
-            [
-                "09:45:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 50,
-        "location": "EMC PIASECZNO",
-        "address": "Szkolna 1, Piaseczno",
-        "times": [
-            [
-                "11:25:00",
-                "11:38:00",
-                "11:43:00",
-                "11:45:00",
-                "11:48:00",
-                "11:53:00",
-                "11:55:00",
-                "13:47:00",
-                "13:52:00",
-                "13:55:00",
-                "13:57:00",
-                "14:07:00",
-                "14:17:00",
-                "14:22:00",
-                "14:32:00",
-                "14:35:00",
-                "14:37:00",
-                "14:42:00",
-                "14:47:00",
-                "14:50:00",
-                "14:52:00",
-                "15:02:00",
-                "15:07:00",
-                "15:12:00",
-                "15:17:00",
-                "15:20:00",
-                "15:22:00",
-                "15:27:00",
-                "15:32:00",
-                "15:37:00",
-                "15:42:00",
-                "15:47:00",
-                "15:52:00",
-                "15:57:00",
-                "16:02:00",
-                "16:12:00",
-                "16:17:00",
-                "16:22:00",
-                "16:27:00",
-                "16:32:00",
-                "16:37:00",
-                "16:42:00",
-                "17:20:00",
-                "17:25:00",
-                "17:30:00",
-                "17:35:00",
-                "17:40:00",
-                "17:45:00",
-                "17:50:00",
-                "17:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-08",
-        "count": 2,
-        "location": "Punkt szczepie\u0144",
-        "address": "RYNEK 10, STARE BABICE",
-        "times": [
-            [
-                "12:05:00",
-                "12:10:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Astra Zeneca",
-        "day": "2021-05-09",
-        "count": 36,
-        "location": "EMC PIASECZNO",
-        "address": "Szkolna 1, Piaseczno",
-        "times": [
-            [
-                "06:05:00",
-                "06:15:00",
-                "06:23:00",
-                "06:25:00",
-                "06:28:00",
-                "06:33:00",
-                "06:38:00",
-                "06:43:00",
-                "06:45:00",
-                "06:48:00",
-                "06:53:00",
-                "06:55:00",
-                "06:58:00",
-                "07:03:00",
-                "07:08:00",
-                "07:13:00",
-                "07:15:00",
-                "07:18:00",
-                "07:23:00",
-                "07:25:00",
-                "07:28:00",
-                "07:33:00",
-                "07:35:00",
-                "07:38:00",
-                "07:43:00",
-                "07:48:00",
-                "07:53:00",
-                "07:55:00",
-                "07:58:00",
-                "08:03:00",
-                "08:05:00",
-                "08:08:00",
-                "08:13:00",
-                "08:15:00",
-                "08:18:00",
-                "08:23:00"
+                "07:15:00"
             ]
         ]
     },
     {
         "vaccine": "Pfizer",
         "day": "2021-05-12",
-        "count": 21,
+        "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
         "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
         "times": [
             [
-                "12:15:00",
-                "12:20:00",
-                "12:25:00",
-                "12:30:00",
-                "12:35:00",
-                "12:40:00",
-                "12:45:00",
-                "12:50:00",
-                "12:55:00",
-                "13:00:00",
-                "13:05:00",
-                "13:10:00",
-                "13:15:00",
-                "13:20:00",
-                "13:25:00",
-                "13:30:00",
-                "13:35:00",
-                "13:40:00",
-                "13:45:00",
-                "13:50:00",
-                "13:55:00"
+                "14:40:00"
             ]
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-13",
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-12",
         "count": 1,
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
+        "location": "Punkt szczepie\u0144",
+        "address": "Wysockiego 12, Warka",
         "times": [
             [
-                "13:20:00"
+                "06:45:00"
             ]
         ]
     },
     {
-        "vaccine": "Pfizer",
-        "day": "2021-05-14",
-        "count": 1,
-        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
-        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-12",
+        "count": 19,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
-                "07:20:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
-        "day": "2021-05-14",
-        "count": 29,
-        "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
-        "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "07:25:00",
-                "07:30:00",
-                "07:35:00",
-                "07:40:00",
-                "07:45:00",
-                "07:50:00",
-                "07:55:00",
-                "08:00:00",
-                "08:05:00",
-                "08:10:00",
-                "08:15:00",
-                "08:25:00",
-                "08:30:00",
-                "08:35:00",
-                "08:45:00",
-                "08:50:00",
-                "08:55:00",
-                "09:00:00",
-                "09:05:00",
-                "09:10:00",
-                "09:15:00",
-                "09:20:00",
-                "09:25:00",
-                "09:30:00",
-                "09:35:00",
-                "09:40:00",
-                "09:45:00",
-                "09:50:00",
-                "09:55:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-19",
-        "count": 1,
-        "location": "GABINET DIAGNOSTYCZNO - ZABIEGOWY ",
-        "address": "SANITARIUSZEK 1, WI\u015aNIEW",
-        "times": [
-            [
-                "14:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Moderna",
-        "day": "2021-05-20",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc",
-        "times": [
-            [
-                "11:00:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Johnson & Johnson",
-        "day": "2021-05-22",
-        "count": 37,
-        "location": "Punkt Szczepie\u0144",
-        "address": "Wa\u0142owa 1, Siedlce",
-        "times": [
-            [
-                "07:05:00",
-                "07:10:00",
                 "07:15:00",
                 "07:20:00",
                 "07:25:00",
@@ -336,9 +52,6 @@
                 "07:45:00",
                 "07:50:00",
                 "07:55:00",
-                "08:00:00",
-                "08:05:00",
-                "08:10:00",
                 "08:15:00",
                 "08:20:00",
                 "08:25:00",
@@ -348,73 +61,463 @@
                 "08:45:00",
                 "08:50:00",
                 "08:55:00",
-                "09:00:00",
-                "09:05:00",
-                "09:10:00",
-                "09:15:00",
-                "09:20:00",
-                "09:25:00",
-                "09:30:00",
-                "09:35:00",
-                "09:40:00",
-                "09:45:00",
-                "09:50:00",
-                "09:55:00",
-                "10:00:00",
-                "10:05:00"
+                "09:00:00"
             ]
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-25",
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-12",
         "count": 7,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc",
+        "location": "Poradnia lekarza POZ",
+        "address": "Beliny Pra\u017cmowskiego 17, Radom",
         "times": [
             [
-                "10:40:00",
-                "10:55:00",
-                "11:35:00",
-                "11:55:00",
-                "12:20:00",
-                "12:25:00",
-                "12:55:00"
+                "07:15:00",
+                "07:45:00",
+                "08:00:00",
+                "08:15:00",
+                "08:30:00",
+                "08:45:00",
+                "09:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-12",
+        "count": 33,
+        "location": "EMC PIASECZNO",
+        "address": "Szkolna 1, Piaseczno",
+        "times": [
+            [
+                "07:17:00",
+                "07:22:00",
+                "07:25:00",
+                "07:27:00",
+                "07:32:00",
+                "07:35:00",
+                "07:37:00",
+                "07:40:00",
+                "07:42:00",
+                "07:45:00",
+                "07:47:00",
+                "07:50:00",
+                "07:52:00",
+                "07:55:00",
+                "07:57:00",
+                "08:02:00",
+                "08:05:00",
+                "08:07:00",
+                "08:17:00",
+                "08:20:00",
+                "08:22:00",
+                "08:25:00",
+                "08:27:00",
+                "08:35:00",
+                "08:37:00",
+                "08:40:00",
+                "08:42:00",
+                "08:45:00",
+                "08:47:00",
+                "08:50:00",
+                "08:52:00",
+                "08:55:00",
+                "08:57:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-12",
+        "count": 8,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Gmina Piaseczno",
+        "address": "plac Pi\u0142sudskiego 1, Piaseczno",
+        "times": [
+            [
+                "07:23:00",
+                "07:28:00",
+                "07:50:00",
+                "08:08:00",
+                "08:33:00",
+                "08:35:00",
+                "08:53:00",
+                "09:03:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "POWIATOWE CENTRUM MEDYCZNE W GR\u00d3JCU SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+        "address": "Piotra Skargi 10, Gr\u00f3jec",
+        "times": [
+            [
+                "07:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-12",
+        "count": 6,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Hala Sportowa przy Publicznej Szkole Podstawowej Nr 3 z Oddzia\u0142ami Integracyjnymi im. T. Ko\u015bciuszki",
+        "address": "ALEJA TYSI\u0104CLECIA 14, PU\u0141TUSK",
+        "times": [
+            [
+                "08:35:00",
+                "08:40:00",
+                "08:45:00",
+                "08:50:00",
+                "08:55:00",
+                "09:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Astra Zeneca",
+        "day": "2021-05-12",
+        "count": 1,
+        "location": "Punkt szczepie\u0144",
+        "address": "11 listopada 28/30, Mordy",
+        "times": [
+            [
+                "08:55:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
-        "day": "2021-05-25",
+        "day": "2021-05-17",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "times": [
+            [
+                "11:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-18",
+        "count": 1,
+        "location": "Drive-Thru  Mi\u0144sk Mazowiecki",
+        "address": "D\u0105br\u00f3wki 52, Mi\u0144sk Mazowiecki",
+        "times": [
+            [
+                "13:25:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Dom Kultury \u201eIdalin\"",
+        "address": "Bluszczowa 4/8, Radom",
+        "times": [
+            [
+                "09:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-19",
         "count": 1,
         "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
         "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
-                "12:35:00"
+                "12:00:00"
             ]
         ]
     },
     {
-        "vaccine": "Moderna",
-        "day": "2021-05-27",
-        "count": 12,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
-        "address": "Piastowska  39, Sierpc",
+        "vaccine": "Pfizer",
+        "day": "2021-05-19",
+        "count": 6,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
+        "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
         "times": [
             [
+                "06:20:00",
+                "06:25:00",
+                "06:30:00",
+                "06:35:00",
+                "06:40:00",
+                "06:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-19",
+        "count": 7,
+        "location": "SZPITAL TYMCZASOWY-MAZOWIECKI SZPITAL SPECJALISTYCZNY W OSTRO\u0141\u0118CE IM. J\u00d3ZEFA PSARSKIEGO",
+        "address": "AL. JANA PAW\u0141A II  120a, Ostro\u0142\u0119ka",
+        "times": [
+            [
+                "08:00:00",
+                "08:10:00",
+                "08:20:00",
+                "08:30:00",
+                "08:40:00",
+                "08:50:00",
+                "09:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-19",
+        "count": 1,
+        "location": "Centrum Medyczne Petra Medica Filia nr 4",
+        "address": "Cisowa 7, Dr\u0119\u017cewo",
+        "times": [
+            [
+                "10:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-20",
+        "count": 10,
+        "location": "DRIVE-THRU w Radomiu",
+        "address": "ul. D\u0119bowa 4, Radom",
+        "times": [
+            [
+                "12:00:00",
+                "12:15:00",
+                "12:30:00",
+                "12:45:00",
+                "13:00:00",
+                "13:15:00",
+                "13:30:00",
+                "13:45:00",
+                "14:15:00",
+                "14:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "\"MEDYK\" Sp. z o.o - NPZOZ",
+        "address": "ul. Sportowa 17, \u0141askarzew",
+        "times": [
+            [
+                "16:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-20",
+        "count": 7,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
+        "address": "A. Walentynowicz 24, Konstancin- Jeziorna",
+        "times": [
+            [
+                "06:15:00",
+                "06:20:00",
+                "06:25:00",
+                "06:30:00",
+                "06:35:00",
+                "06:40:00",
+                "06:45:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-20",
+        "count": 2,
+        "location": "Punkt Szczepie\u0144 Powszechnych - OSP w Szczytnie",
+        "address": "Szczytno 11a, Szczytno",
+        "times": [
+            [
+                "08:05:00",
+                "08:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-20",
+        "count": 11,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "times": [
+            [
+                "09:30:00",
                 "10:25:00",
-                "10:30:00",
                 "10:35:00",
                 "10:40:00",
                 "10:45:00",
                 "10:50:00",
                 "10:55:00",
-                "11:00:00",
                 "11:05:00",
                 "11:10:00",
+                "11:15:00",
+                "11:20:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Pfizer",
+        "day": "2021-05-20",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+        "address": "Parkowa 14, Raci\u0105\u017c",
+        "times": [
+            [
+                "09:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+        "address": "Parkowa 14, Raci\u0105\u017c",
+        "times": [
+            [
+                "06:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-21",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych -  WOSIR w Wyszkowie",
+        "address": "Geodet\u00f3w 45, Wyszk\u00f3w",
+        "times": [
+            [
+                "09:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-22",
+        "count": 28,
+        "location": "Samodzielny Publiczny Zak\u0142ad Opieki Zdrowotnej w \u0141askarzewie",
+        "address": "Du\u017cy Rynek 32, \u0141askarzew",
+        "times": [
+            [
+                "08:10:00",
+                "08:20:00",
+                "08:40:00",
+                "08:50:00",
+                "09:20:00",
+                "09:30:00",
+                "09:40:00",
+                "09:50:00",
+                "10:10:00",
+                "10:20:00",
+                "10:30:00",
+                "10:40:00",
+                "10:50:00",
+                "11:10:00",
+                "11:20:00",
                 "11:30:00",
-                "11:35:00"
+                "11:40:00",
+                "11:50:00",
+                "12:20:00",
+                "12:30:00",
+                "13:00:00",
+                "13:10:00",
+                "13:20:00",
+                "13:30:00",
+                "13:40:00",
+                "13:50:00",
+                "14:00:00",
+                "14:10:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-22",
+        "count": 1,
+        "location": "NIEPUBLICZNY ZAK\u0141AD OPIEKI ZDROWOTNEJ MAK-MED",
+        "address": "Al. Armii Krajowej 64/13, Wo\u0142omin",
+        "times": [
+            [
+                "09:40:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-22",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Kultury, Sportu i Rekreacji w Raci\u0105\u017cu",
+        "address": "Parkowa 14, Raci\u0105\u017c",
+        "times": [
+            [
+                "10:00:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-22",
+        "count": 2,
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
+        "times": [
+            [
+                "12:30:00",
+                "13:30:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-24",
+        "count": 5,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "times": [
+            [
+                "07:15:00",
+                "08:10:00",
+                "08:25:00",
+                "08:30:00",
+                "08:35:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-25",
+        "count": 2,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury i Sztuki",
+        "address": "Piastowska  39, Sierpc",
+        "times": [
+            [
+                "10:35:00",
+                "11:50:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-28",
+        "count": 1,
+        "location": "Szpital - Punkt szczepie\u0144 ul. Lubelska 50",
+        "address": "ul. Lubelska 50, Garwolin",
+        "times": [
+            [
+                "06:15:00"
             ]
         ]
     },
@@ -422,55 +525,40 @@
         "vaccine": "Moderna",
         "day": "2021-05-29",
         "count": 2,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
-        "address": "Kopernika 3, P\u0142o\u0144sk",
+        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
+        "address": "Olimpijska 3, Sochaczew",
         "times": [
             [
-                "10:05:00",
-                "11:50:00"
+                "08:55:00",
+                "12:55:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-29",
-        "count": 8,
-        "location": "Punkt Szczepie\u0144 Powszechnych - Punkt szczepie\u0144 masowych MOSiR Sochaczew",
-        "address": "Olimpijska 3, Sochaczew",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
+        "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
-                "10:40:00",
-                "10:50:00",
-                "11:25:00",
-                "11:30:00",
-                "11:40:00",
-                "11:50:00",
-                "13:40:00",
-                "13:50:00"
+                "09:35:00"
             ]
         ]
     },
     {
         "vaccine": "Moderna",
         "day": "2021-05-31",
-        "count": 13,
+        "count": 5,
         "location": "Punkt Szczepie\u0144 Powszechnych - Miejskie Centrum Sportu i Rekreacji w P\u0142o\u0144sku",
         "address": "Kopernika 3, P\u0142o\u0144sk",
         "times": [
             [
-                "06:15:00",
-                "06:25:00",
-                "06:35:00",
-                "07:30:00",
-                "07:45:00",
-                "08:05:00",
-                "08:55:00",
-                "09:35:00",
-                "10:30:00",
-                "10:35:00",
-                "10:45:00",
-                "11:50:00",
-                "12:00:00"
+                "07:00:00",
+                "07:15:00",
+                "07:35:00",
+                "11:35:00",
+                "11:45:00"
             ]
         ]
     }
