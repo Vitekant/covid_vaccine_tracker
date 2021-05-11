@@ -212,18 +212,6 @@
     },
     {
         "vaccine": "Pfizer",
-        "day": "2021-05-15",
-        "count": 1,
-        "location": "Punkt Szczepie\u0144 Powszechnych -  Punkt namiotowy - parking przy SP Nr 10 w Ostro\u0142\u0119ce",
-        "address": "Ks. Blachnickiego  16, Ostro\u0142\u0119ka",
-        "times": [
-            [
-                "15:30:00"
-            ]
-        ]
-    },
-    {
-        "vaccine": "Pfizer",
         "day": "2021-05-19",
         "count": 3,
         "location": "Punkt Szczepie\u0144 Powszechnych - Medivita Konstancin",
@@ -462,6 +450,18 @@
         ]
     },
     {
+        "vaccine": "Johnson & Johnson",
+        "day": "2021-05-23",
+        "count": 1,
+        "location": "O\u015brodek Zdrowia",
+        "address": "Po\u0142udniowa 11B, Miszewo Murowane",
+        "times": [
+            [
+                "07:15:00"
+            ]
+        ]
+    },
+    {
         "vaccine": "Moderna",
         "day": "2021-05-24",
         "count": 3,
@@ -522,6 +522,18 @@
             [
                 "08:55:00",
                 "12:55:00"
+            ]
+        ]
+    },
+    {
+        "vaccine": "Moderna",
+        "day": "2021-05-29",
+        "count": 1,
+        "location": "Punkt Szczepie\u0144 Powszechnych - Centrum Kultury w Bramkach",
+        "address": "D\u0141UGA 75, BRAMKI",
+        "times": [
+            [
+                "09:45:00"
             ]
         ]
     },
